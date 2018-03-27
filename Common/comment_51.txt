@@ -1,0 +1,84 @@
+
+This letter is in response to the request from CMS for comments on episode group development included in the document Episode-Based Cost Measure Development for the Quality Payment Program as posted on the CMS web site https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/Value-Based-Programs/MACRA-MIPS-and-APMs/Episode-Based-Cost -Measure-Development -for-the-Quality-Payment-Program.pdf). CMS indicates it is developing the episode groups and requesting public input in accordance with section 101(f) of the Medicare Access and CHIP Reauthorization Act of 2015 (MACRA). That section requires CMS to establish care episode groups and patient condition groups, and related classification codes, to measure resource use for purpose of MACRAs Merit -Based Incentive Payment System (MIPS) and alternative payment models (APMs). CMS indicates that this posting builds on feedback received in response to the prior solicitations on episode groups with a specific focus on episode construct, the codes that start the episode (trigger codes) and the overall concept of cost measure development.
+
+J&J is the worlds most comprehensive and broadly-based healthcare company, delivering products and services for the consumer, pharmaceutical and medical devices and diagnostics markets. For more than 125 years, have we supplied the health system with a broad range of products and have led the way in innovation, beginning with the first antiseptic bandages and sutures. We are continuing this heritage of innovation today, bringing important new pharmaceutical products to market in a range of therapeutic areas, as well as developing important advancements in medical devices and new consumer products.
+
+J&J is supportive of the movement toward value based reimbursement and recognize the importance in linking payment to efficient performance and the delivery of high quality outcomes. For example, we have been actively involved in the HHS Health Care Payment Learning & Action Network (LAN), and were the first life science products manufacturer to become a LAN Committed Partner. As we progress toward more value-based payment models
+
+
+such as MACRA, it is important to maintain the proper balance between improved efficiency, quality care, and access to medical innovation. We believe there are several key principles that need to be included to ensure the ultimate reform goals are met:
+
+ The goal of cost savings must be balanced with ensuring that quality patient care is not compromised;
+
+ Ensuring patients have access to the care and providers most appropriate for their needs; and
+
+ Maintaining access to innovative treatments.
+
+We thank CMS for the opportunity to comment at this stage of the episode development process. In this solicitation CMS is requesting comments specifically on episode development for the MIPS cost category. Our responses below are primarily related to the specific questions listed in the solicitation document related to Cost Measure Development.
+
+Approach to Soliciting Public Comment, Data Transparency and Pilot Opportunities
+
+We appreciate the lengths to which CMS has gone to engage external stakeholders in MACRA education. J&J has participated in a number of CMS MACRA events and webinars and we appreciate the opportunity to ask questions and learn from the process. In regards to the episode development process there are a couple of areas that would benefit from improvement.
+
+For example, while the new Quality Payment Program website https://qpp.cms.gov/ is very well organized with a clear inventory of educational materials and indexed webinars, its challenging to find the key documents on which CMS is currently seeking comment in regards to this solicitation on episode development. Many stakeholders were not aware of the release of this December, 2016 solicitation until well after December. Moreover, it is hard to tell when the companion episode Excel files were last updated and when a file is superseded by another, when both versions are on the web site (e.g., the Draft List of MACRA Episode Groups and Trigger Codes, compared to the Supplemental Episode Groups, at: https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/Value-Based-Programs/MACRA-MIPS-and-APMs/MACRA-Feedback.html).
+
+Importantly, we dont want key clinical stakeholders to miss the opportunity to nominate candidates for the sub-panels on episode development. Going forward, we recommend CMS also use the QPP website, and the associated email updates to sequentially post all the important work germane to the MIPS cost measures and episode development efforts.
+
+In regards to data transparency, its clear that CMS is spending a significant amount of time thinking through the components of episode development. It is far less clear how CMS is actually going to calculate the cost component score in 2018 and beyond. While, recognizing that episodes will only be one component of a blended cost composite score that also takes into account other traditional Medicare cost measures from the value based modifier, the precise calculation is not clear.
+
+More generally, it remains unclear for many stakeholders how the final episodes will be constructed. These details were not disclosed on the recent MIPS Cost Component and Episode Development webinar. As CMS has decided to start with 10 episodes for the inaugural MIPS
+
+
+
+year, with no weighting but for the purpose of data sharing, we recommend CMS provides a deep-dive on the approach to episode development for these ten measures, including walking through a couple of test cases of the complete calculation.
+
+CMS Questions on Cost Measure Development
+
+Should concurrent or prospective risk adjustment be used, and should a full year of data or more targeted data from before the episode be used to adjust?
+
+CMS recognizes in the document the importance to not penalize physicians who treat sicker and more complicated patients than average. Sound risk adjustment methodology is needed to appropriately account for significant variation in cost of episodes that may in part be attributed to beneficiary demographics and health conditions (illness severity and complications) and other factors outside of the control of the attributed clinician being measured.
+
+We understand the point raised by CMS that the Hierarchical Condition Categories may not accurately capture specific risk factors within discrete episodes. However, so far it has not been transparent how much variability exists within episodes that relates to patient characteristics and, therefore, whether risk adjustment is needed. We recommend CMS be much more transparent about the cost variability physicians face (risk) within episodes, and how it plans to adjust for that risk, before implementing future cost measure episodes.
+
+CMS is especially interested in comments regarding methods to align quality of care with cost measures and welcomes recommendations and suggestions.
+
+We appreciate that CMS acknowledges that measures of quality need to be considered along with measures of costs in order to avoid the unintended consequences of incentivizing stinting on care (page 11 of the document). In order to provide more transparency into CMS methods to align quality and cost measures, we recommend including a list of relevant quality measures for each episode cost measure. This would facilitate an assessment of whether there is sufficient alignment to protect patients from stinting.
+
+We recognize in both the proposed and final MACRA rules, CMS has emphasized the importance of outcomes measures, as well as high priority measures in the approach to developing the overall MIPS composite score. However, within the overall MIPS composite score it remains unclear how the measures submitted to achieve success for the quality component are aligned, or measured against episodes that will be used to assess the cost component score to directly compare cost and quality outcomes for conditions and procedures.
+
+For certain types of episode groups, for example, a procedural episode group where there are clearly defined available measure sets, the linkage of the cost and quality categories may be more direct. For procedural episodes where there is not a clearly defined measure set (i.e. hip fracture), the approach to directly measuring cost to quality outcomes is less straightforward. The same could be said for the acute inpatient and chronic care episodes. We recommend CMS continue to work with the appropriate clinical experts and medical societies to identify quality measure gaps and to develop verified measures, where no appropriate measure exists.
+
+CMS wishes to avoid any unintended consequences of using cost measures in MIPS, and seeks comment on issues of concern in this regard.
+
+
+
+Well-defined clinical episodes can be useful tools to improve the management of patient care delivery and to identify areas for improvement. It must be recognized, however, that medicine is a quickly evolving field and any payment system needs to accommodate innovation. For example, breakthrough treatments that change, or even eliminate, the long-term course of treatment may be costlier within a short-term episode than existing therapies.
+
+Episodes defined on the basis of historical costs could discourage adoption of a breakthrough treatment, thus some mechanism to recognize meaningful innovation is needed. We recognize this issue is not a primary consideration of the initial definition of clinical episode groups, but it is an important consideration that will need to be addressed as CMS goes forward. Specifically, we request that CMS provide more information on how episode pricing will account for meaningful innovation in defining episodes and specifically the methodology (add-on or other approach) CMS will use to account for breakthrough treatments. For an example of such an approach, we would point to the Adjustment for Novel Therapies under the CMMI Oncology Care Model.
+
+What would be the best way to incorporate Part D costs into the episode group development?
+
+Section 1848(q)(2)(B)(ii) of the Act recommends accounting for the costs of Part D drugs as appropriate and feasible under the resource use performance category. We understand per the Final MACRA rule that CMS is still analyzing how best to include Part D drug costs in episode development. We strongly recommend CMS begin to include Part D costs within the resource use performance category starting with the second performance year (2018).
+
+Currently, all Medicare Part B costs, including Part B drug and drug administration costs, are included in the resource use measures, while Part D drugs are excluded. Such an inconsistency is problematic for two reasons. First, the exclusion of Part D drugs presents an incomplete picture of the true healthcare costs for many Medicare patients. Second, it complicates and distorts comparisons of resource use among providers treating patients with conditions for which both Part B and Part D medicines are available.
+
+This problem has been illustrated in multiple specialty areas, especially rheumatology and gastroenterology where both Part D and Part B drugs have indications for treatment of the same condition. This is of particular concern when a patient receives a Part B drug for reasons of clinical efficacy, adherence and safety. Specifically, quality of care concerns over non-medical switching of therapeutic interventions are well-documented, particularly for biologics.
+
+Considering the MACRA requirement to account for the cost of drugs under Part D as appropriate and feasible, and with the inaugural MIPS performance year looming, the time is now to get this right and implement a solution that will account for the costs of Part D drugs. We have met with CMS previously to present what we believe is a viable solution (originally described in the attached report by The Moran Company). Here is a description of the recommended approach from The Moran Company report, which could be implemented using data CMS will have available from the proposed 2017 benchmark period:
+
+We recognize that Medicare does not pay for Part D drugs at the level of an individual drug, in a manner comparable to payment for Part B drugs. The policy function performed by a national average valuation mechanism for Part D drugs is to incorporate the value of these drugs into total
+
+
+
+per capita cost constructs that are used in value based payment resource use metrics, and in historical target pricing for APMs. CMS currently includes average negotiated price in its Part D data released to the public. This amount results from negotiations between plans and pharmacies, and reflects the gross amount paid for a drug by plans and beneficiaries. As a result, it is somewhat parallel to 106% of ASP for Part B drugs administered in the physician office.
+
+Average negotiated price is limited in that it does not include retrospective rebates received by plans from manufacturers. While CMS receives some information from plans on rebates they receive from manufacturers, not all of these rebates are necessarily tied to specific drugs, and many rebates are used to reduce Part D premiumsrather than the price tied to particular drugs at the point of sale. Moreover, CMS is limited in its ability to use reports it receives on rebates from Prescription Drug Plans. Thus, even if the agency could calculate accurate average rebate amounts at the level of individual Part D drugs, it might not be able to use those amounts publicly.
+
+One potential solution to this conundrum would be to apply national averages for Part D rebate amounts, at whatever level of granularity is accurateand permissible in light of the agencys statutory mission. For instance, it might be advisable to calculate different levels based on brand versus generic drugs or in other situations where market dynamics create materially different incentives for rebates. The agency could also consider whether rebates vary based on the costs of drugs in question or based on other factors that could be measured and reported without violating proprietary concerns of plans and manufacturers.
+
+According to the Medicare Payment Advisory Commission, 23% of Medicare beneficiaries have prescription drug coverage from a source outside Medicare (e.g., retiree coverage from a former employer). CMS has indicated its concern that including Part D data would incorrectly indicate higher costs for beneficiaries with Part D coverage relative to otherwise comparable beneficiaries without such coverage and for whom prescription drug costs cannot be measured directly by CMS. To address this issue, CMS could create benchmarks for resource use for beneficiaries enrolled in Parts A, B & D separately from those enrolled in Part A & B. This approach would facilitate comparisons across practices with different proportions of patients with Part D coverage.
+
+We believe CMS can implement these approaches in the final rule subsequent to this proposed rule, and use 2017 data when the MIPS adjustments are calculated for 2019. Until CMS is able to include Part D costs it should not proceed with implementing episode-based models where patients are treated with both Part B and Part D drugs. This is particular relevant in certain specialty areas such as rheumatology and gastroenterology.
+
+Thank you for the opportunity to provide input into your process. We would welcome the opportunity to discuss MIPS cost measures in greater detail.
+

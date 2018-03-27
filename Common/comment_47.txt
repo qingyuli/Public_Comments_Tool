@@ -1,0 +1,77 @@
+
+The Society of Hospital Medicine (SHM), on behalf of the nations nearly 57,000 hospitalists, offers the following comments on the Episode-Based Cost Measure Development for the Quality Payment Program.
+
+Hospitalists are front -line providers in Americas hospitals, providing care for millions of hospitalized patients each year, many of whom are Medicare and Medicaid beneficiaries. As members of an interdisciplinary team, they lead the management of inpatient clinical care of their patients, while working to enhance the performance of hospitals and health systems. The position of hospitalists within the healthcare system affords a distinctive role in facilitating care both at the individual, provider-level as well as at the systems or hospital level.
+
+SHM broadly supports the move towards episode-based cost measures as they may provide more actionable or useful information to providers and groups. However, we caution that there are serious impediments that need to be overcome to ensure that these measures are fair, equitable and appropriate for use in accountability programs. We offer the following three principles for consideration as CMS continues to develop these episode measures and deploy them in the Merit-based Incentive Payment System:
+
+1. Transparency: It is vital that the episode cost measures, the trigger events, and the attribution methodologies be transparent and replicable so that clinicians can validate their performance.
+
+2. Connected to Quality: Cost measures should be related to the quality measures reported by a provider to make meaningful Cost/Quality assessments. This is not the current reality for quality
+
+
+
+measures. Providers select quality measures to report that are available to them, which in most cases are a different population of patients than those who would be administratively attributed to the provider under cost measures. We caution CMS against enacting cost measures without related quality measures as this would mean providers are scored on one set of patients for quality and another for costs.
+
+3. Construction Mindful of Measures Use: We urge CMS to develop cost measures mindful of the programs and policies that will use these measures. Since these episode measures are meant to be used for provider assessment in the Merit-based Incentive Payment System (MIPS), CMS must take into account the downstream impacts of a measure on provider performance and behavior. The measures must be constructed to ensure equity and fairness in performance assessments.
+
+Attribution to Individual Providers
+
+We have reservations about the ability for these measures to be meaningfully, or accurately, attributed to individual providers, particularly for the Acute Inpatient Medical Condition Episode Groups. Hospitalists function as part of a team in two distinct ways. First, their work schedules are shift-based and therefore several individual hospitalists may see a patient in each hospital stay. Second, there are numerous providers  specialists, nursing staff, case workers, support staff  who may provide care and services to a patient during their hospitalization. Because care teams within hospitals are multifaceted, it will be difficult to assign a beneficiary to an individual provider. We also encourage consideration of different practice structures, such as hospitalists employed directly in hospitals or integrated health systems and versus hospitalists with independent contracting models, that may warrant alternative attribution methodologies to accurately reflect their relationships and work.
+
+For the Acute Inpatient Medical Condition Episode Groups, CMS notes that episodes will be triggered by clinicians Evaluation and Management claims in combination with other billing information on Part A and Part B claims that is associated with the hospitalization. Knowing the complexity and number of providers who see the patient during a hospitalization, we are concerned about the ability for CMS to structure trigger events and attribution methodologies that are transparent and easily understood.
+
+Outpatient and Inpatient Episodes of Care
+
+CMS indicates that it is considering developing a single episode group type for all acute events  both inpatient and outpatient, agnostic of place of service. SHM is opposed to creating an episode group type for cost measures that compare acute episodes of care across settings. We urge Acumen and CMS to prioritize constructing episode cost measures that would compare providers functioning in similar settings against each other. This would ensure measures provide meaningful, actionable information.
+
+Costs between inpatient and outpatient settings, or facilities and offices, are structurally different. Inpatient or facility settings are inherently more expensive than outpatient settings. To create an episode group type that aggregates these costs would set up a distinct disadvantage for providers who practice predominately in the inpatient or facility setting. While it may be a worthwhile endeavor for CMS to explore and prioritize patients receiving care in the most cost-effective
+
+
+
+setting for the Medicare Trust Fund, it would not be appropriate for CMS to structure physician assessments and therefore payments through these comparisons.
+
+Hospitalists experiences with cost measures under the Physician Value-Based Payment Modifier illustrates this dynamic and underscores the need for separate episodes and benchmarks for facility-based and office-based providers. Looking at performance on the Total Per Capita Costs measure, hospitalists are typically two to three standard deviations more expensive when compared against benchmarks that are built around inpatient and outpatient providers. Conversely, outpatient providers would not receive actionable information about their actual costs relative to their peers when being assessed on a benchmark that incorporates inpatient providers.
+
+Trigger DRGs and Development of Sub-Groups
+
+In framing the Acute Inpatient Medical Condition Episode Groups, CMS identified Diagnosis
+
+Related Groups (DRGs) relevant to the groups. We are concerned that an individual DRG
+
+contains heterogeneous ICD-10 condition diagnoses that may have very different treatment
+
+courses and therefore costs. DRGs are designed to separate patients into groups that are supposed
+
+to have different costs due to their underlying medical conditions. The Major Complication or
+
+Comorbidity (MCC) and Complication or Comorbidity (CC) designations allow hospitals to
+
+identify patients who have the potential need for more medical care and thereby higher medical
+
+costs. For example, the Allergic Reactions episode and its associated DRGs (915 and 916) could
+
+range from allergic dermatitis (L23.7 or L23.9) to anaphylaxis (T78 or T80) as identified by
+
+ICD-10 coding. The COPD episode and its associated DRGs (190, 191, and 192) is another
+
+example of differential in costs (2014 averages for each DRG nationally are $7,088.08,
+
+$5,672.03, and $4,200.94, respectively) further marked by variances due to specific clinical
+
+circumstances as denoted by ICD-10 coding. This is a wide diversity of potential diagnoses with
+
+radically different expected costs. It is not clear to SHM that these differences would be
+
+accounted for in broad episode measures.
+
+Although we acknowledge that risk adjustment may allay some of our concerns, we believe it will be difficult to risk adjust out all the differences between the DRGs within an episode to make fair comparisons. SHM encourages the development of sub-groups within episodes that provide more granular and homogenous comparison groups. We also encourage consideration of specialty-specific cost measures and sets of measures that would be meaningful to those providers. This would enable greater specificity of information, clearer benchmarks, and yield more actionable cost information.
+
+We also encourage CMS to consider minimum number of DRGs per provider or, if appropriate, per group that would need to be reported to make valid comparisons. We believe there should be enough cases reported for each provider or group to make sure that no one is unfairly penalized or rewarded because of small sample size.
+
+Conclusion
+
+SHM stands ready to work with CMS as it continues exploring and developing episode-based payment measures.
+
+
+

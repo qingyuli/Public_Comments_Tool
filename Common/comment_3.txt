@@ -1,0 +1,55 @@
+
+The American Association of Nurse Anesthetists (AANA) welcomes the opportunity to comment on the Centers for Medicare & Medicaid (CMS) posting entitled Episode-Based Cost Measure Development for the Quality Payment Program. The AANA makes the following comments and requests of CMS:
+
+
+
+
+3 While this comment did not directly respond to the December 2016 posting, the feedback was related to the measure development process and previous episode groups postings, so has been included in this report for completeness.
+
+
+ Ensure equal treatment of CRNAs and anesthesiologists.
+
+  All episode group cost measures attributed to anesthesia providers should be based on the care that is influenced or directly managed by them.
+
+  If an attribution methodology cannot adequately account for the anesthesia services CRNAs and other anesthesia professionals furnish, CMS should develop anesthesia care episode groups with corresponding anesthesia group measures.
+
+Background of the AANA and CRNAs
+
+The AANA is the professional association for Certified Registered Nurse Anesthetists (CRNAs) and student nurse anesthetists, and AANA membership includes more than 50,000 CRNAs and student nurse anesthetists representing over 90 percent of the nurse anesthetists in the United States. CRNAs are advanced practice registered nurses (APRNs) who personally administer more than 43 million anesthetics to patients each year in the United States. Nurse anesthetists have provided anesthesia in the United States for 150 years, and high-quality, cost-effective CRNA services continue to be in high demand. CRNAs are Medicare Part B providers and since 1989, have billed Medicare directly for 100 percent of the physician fee schedule amount for services.
+
+CRNA provide every aspect of the delivery of anesthesia services including pre-anesthesia patient assessment, obtaining informed consent for anesthesia administration, developing a plan for anesthesia administration, administering the anesthetic, monitoring and interpreting the patient's vital signs, and managing the patient throughout the surgery. CRNAs also provide acute and chronic pain management services. CRNAs provide anesthesia for a wide variety of surgical cases and in some states are the sole anesthesia providers in nearly 100 percent of rural hospitals, affording these medical facilities obstetrical, surgical, trauma stabilization, and pain management capabilities. According to a May/June 2010 study published in the journal of Nursing Economic$, CRNAs acting as the sole anesthesia provider are the most cost-effective model for anesthesia delivery, and there is no measurable difference in the quality of care between CRNAs and other anesthesia providers or by anesthesia delivery model.1 Furthermore, an August 2010 study published in Health Affairs shows no differences in patient outcomes when anesthesia services are provided by CRNAs, physicians, or CRNAs supervised by physicians.2 Researchers studying anesthesia safety found no differences in care between nurse anesthetists and physician anesthesiologists based on an exhaustive analysis of research literature published in the United States and around the world, according to a scientific literature review prepared by the Cochrane Collaboration.3 Most recently, a study published in Medical Care June 2016 found no measurable impact in anesthesia complications from nurse anesthetist scope of practice or practice restrictions.4
+
+ CRNAs play an essential role in assuring that rural America has access to critical anesthesia services, often serving as the sole anesthesia provider in rural hospitals, affording these facilities the capability to provide many necessary procedures. The importance of CRNA services in rural areas was highlighted in a recent study which examined the relationship between socioeconomic factors related to geography and insurance type and the distribution of anesthesia provider type.5 The study correlated CRNAs with lower-income populations and correlated anesthesiologist
+
+
+
+services with higher-income populations. Of particular importance to the implementation of public benefit programs in the U.S., the study also showed that compared with anesthesiologists, CRNAs are more likely to work in areas with lower median incomes and larger populations of citizens who are unemployed, uninsured, and/or Medicaid beneficiaries.6
+
+AANA Request: Ensure Equal Treatment of CRNAs and Anesthesiologists
+
+ Anesthesia providers should be attributed episode groups based on the CPT/HCPCS codes they bill, which accurately represents the anesthesia care services they provide and not their professional title. Distinguishing between CRNAs and anesthesiologists based solely on their titles fosters professional discrimination between providers that furnish the same anesthesia care to all patients. We ask that CMS should ensure equal treatment for CRNAs, as listed as 43 under the Healthcare Provider Taxonomy Code Set, and anesthesiologists, as listed as 05 under the Healthcare Provider Taxonomy Code Set. Both CRNAs (43) and anesthesiologists (05) should be recognized equally as eligible clinicians under the specialty of anesthesiology as providers that render anesthesia services.
+
+AANA Request: All Episode Group Cost Measures Attributed to Anesthesia Providers Should be Based on the Care that is Influenced or Directly Managed By Them
+
+Merit-Based Incentive Payment System (MIPS) eligible clinicians, such as CRNAs, will be attributed procedural treatment measures and acute care measures and Medicare beneficiaries under the Cost performance category. The attribution of measures and beneficiaries is significant to CRNAs since resource use is a key factor in assessing a clinicians performance based on cost. We urge CMS to ensure that all episode group cost measures attributed to anesthesia providers must be based on care that is influenced or directly managed by a CRNA or an anesthesiologist. CRNAs may be at financial risk under the Cost category if the total cost for all services in the episode is determined to be high cost. This designation may have an unjustified negative impact on a CRNAs overall composite performance score. The episode group measures should accurately account for the true cost of providing anesthesia care services and should accurately attribute anesthesia care services to the proper clinician. Anesthesia professionals cannot afford to absorb costs that were caused by and the responsibility of other clinicians. We also recommend that CMS develop an anesthesia care services measure to ensure that anesthesia services are appropriately attributed to the provider that furnished the service.
+
+AANA Request: If an Attribution Methodology Cannot Adequately Account for the Anesthesia Services CRNAs and Other Anesthesia Providers Furnish, CMS Should Develop Anesthesia Care Episode Groups with Corresponding Anesthesia Group Measures
+
+If an attribution methodology cannot adequately account for the anesthesia services CRNAs and other anesthesia providers furnish, we propose that CMS develop an episode measure that is specific to anesthesia care services with corresponding anesthesia group measures. Anesthesia care services necessitates its own distinct episode group that is currently not reflected in the episode-based measures. The AANA recommends that CMS work collaboratively with the AANA for guidance on how specialty services like anesthesia should be grouped to ensure that anesthesia care services are properly attributed to the specific anesthesia provider who furnished the service. The AANA stands ready to work with the agency.
+
+
+
+We thank you for the opportunity to comment on the CMS Episode-Based Cost Measure Development for the Quality Payment Program.
+
+1 Paul F. Hogan et. al, Cost Effectiveness Analysis of Anesthesia Providers. Nursing Economic$. 2010; 28:159-
+169.
+2 B. Dulisse and J. Cromwell, No Harm Found When Nurse Anesthetists Work Without Physician Supervision. Health Affairs. 2010; 29: 1469-1475.
+
+3 Lewis SR, Nicholson A, Smith AF, Alderson P. Physician anaesthetists versus non-physician providers of anaesthesia for surgical patients. Cochrane Database of Systematic Reviews 2014, Issue 7. Art. No.: CD010357. DOI:10.1002/14651858.CD010357.pub2.
+
+4 Negusa B et al. Scope of practice laws and anesthesia complications: No measurable impact of certified registered nurse anesthetist expanded scope of practice on anesthesia-related complications. Medical Care June 2016, http://journals.lww.com/lwwmedicalcare/Abstract/publishahead/Scope_of_Practice_Laws_and_Anesthesia.98905.as px
+
+5 Liao CJ, Quraishi JA, Jordan, LM. Geographical Imbalance of Anesthesia Providers and its Impact on the Unisured and Vulnerable Populations. Nurs Econ. 2015;33(5):263-270. http://www.aana.com/resources2/research/Pages/NursingEconomics2015.aspx
+
+6 Liao, op cit.
+

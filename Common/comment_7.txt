@@ -1,0 +1,16 @@
+
+Hi - I was looking at the procedures that are identified as triggers for the Cataract Surgery IOL episode group and noticed that the list includes the procedure code 0308T Insertion of ocular telescope prosthesis including removal of crystalline lens or intraocular lens prosthesis and the device code C1840 Lens, intraocular (telescopic). This procedure and device code describe
+
+
+
+5 While this comment did not directly respond to the December 2016 posting, the feedback was related to the measure development process and previous episode groups postings, so have been included in this report for completeness.
+
+
+insertion of the Implantable Miniature Telescope (IMT). The IMT is not intended to treat cataracts but instead is a treatment for patients with end-stage age-related macular degeneration (AMD). Patients receiving the IMT have no other treatment options available for AMD. Those patients are wholly different from the typical cataract population and receive substantially different treatment.
+
+Therefore we do not think it is appropriate that these codes are included in the Cataract IOL episode group and that their inclusion is a technical error. I brought this to the attention of Ted Long at CMS who suggested that I contact you as the measure steward.
+
+I wanted to see if there was a process for correcting technical errors in the episode groups and/or providing further comments on the groups finalized for 2017. Wed be happy to provide written comments or discuss as needed.
+
+Please let me know what is needed to correct this situation.
+

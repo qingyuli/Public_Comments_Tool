@@ -1,0 +1,32 @@
+
+The Heart Failure Society of America (HFSA) is writing to convey our concerns regarding the August  September 2016 Clinical Committee for the MACRA Episode-Based Resource Use Measures Project. In addition, we are sharing comments on the draft list of episode groups and trigger codes due to the CMS contractor Acumen, LLC, on April 24, 2017. The HFSA represents the first organized effort of heart failure specialists across America to provide a forum for all those interested in heart function, heart failure, and chronic heart failure research and patient care.
+
+Process for Providing Input to Creation of Episode Groups and Trigger Codes
+
+HFSA was pleased our nominee was chosen to provide clinical expert input into the MACRA Episode-Based Resource Use Measures Project. We look forward to ongoing participation with Acumen, LLC, the CMS contractor responsible for guiding this important work. However, we must note the experience was a frustrating one with a flawed process to date. It seems that members appointed to this project worked almost in a vacuum to provide input for the draft list of episode groups and trigger codes. We find this process to have been be an unusual one, which required considerable effort, but which did not provide much confidence regarding the consideration of members input to the project.
+
+As you know, CMS contracted with Acumen to drive a process that would result in designation of specific episode groups. These groups could be procedural events (e.g. CABG), inpatient diagnoses (e.g., heart failure) or ambulatory diagnoses (e.g., heart failure). Once these groups were identified, there was then a selection process related to the CPT or diagnostic codes that might trigger the associated episode. Once the Episode Based Resource Use Metrics go into effect, the physician responsible for that episode of care would be accountable (in some way) for all of the related resource use that occurred over the course of that episode, until a yet-to-be-determined event (in some cases an elapse of time) terminated the episode.
+
+It was concerning that throughout this process the group never met face to face. There were two webinars where the mechanics of the tasks were explained. The committee members then each, individually, participated in two sets of tasks on-line, to identify episode groups and the codes that would trigger them.
+
+Throughout the process, members raised questions about a number of aspects of the task. For example, how does a stable outpatient diagnosis become an episode? If multiple providers are involved, how is the accountable provider identified? How easily can one distinguish the resources that are or are not related to that episode? (e.g., if a cath and PCI are done for angina in a patient who is amidst an episode or chronic heart failure as an outpatient, is the accountable MD accountable for that?). For a hospital inpatient with a complex condition like heart failure, how can risk adjustment methodology succeed in leveling the playing field related to the amount of resources that are utilized over a set period of time? All these questions were
+
+
+
+
+raised with Acumen by multiple representatives but no satisfactory answers emerged by the rapid conclusion of this project.
+
+The process of responding to queries on-line, without any opportunity for open discussion, was insufficient to even begin to address the inherent complexities of the tasks undertaken. This flawed process often meant that overly simplistic answers were provided to complex questions. These flaws, undoubtedly, had a negative impact on the results of this work. It also appeared that Acumen did not have the necessary resources or personnel to integrate the feedback and understand what was needed to thoroughly and accurately depict the clinical complexities involved.
+
+Draft List of Episode Groups and Trigger Codes
+
+In December 2016, Acumen, LLC posted a draft list of episode groups and corresponding trigger codes for acute inpatient medical conditions, chronic conditions and procedural episode groups. We offer the following comments and questions regarding the composition of the proposed episode groups and trigger codes.
+
+First, we believe the episode groups need to be homogeneous with definable and circumscribed events. We do not support the proposed grouping of heart failure and shock under the acute inpatient medical condition list. Cardiogenic shock is a form of heart failure but the vast majority of patients do not have cardiogenic shock. Also, cardiogenic shock is just one type of shock. We encourage Acumen to group like conditions together and remove shock from a heart failure episode group.
+
+We are concerned by the content of the proposed chronic conditions list. From the CMS document Episode-Based Cost Measure Development for the Quality Payment Program, we understand that chronic condition episode groups are meant to reflect patient conditions and their clinical history at the time of a medical visit along with their current health status. If this is the case, why are acute episodes listed in the chronic conditions list? Is there a way to better define chronic condition episode groups? How long are these episodes? The current 12-month administrative metric seems overly long and not reflective of a reasonable episode of care. Care for a chronic episode must have a definable end for the episode. How are costs to be attributed? What happens in the case of readmissions? Again, we urge Acumen to focus on episode groups with a sufficient degree of volume and events that are readily defined and circumscribed.
+
+We understand from Acumen that there will be further opportunities to comment on the draft list of episode groups and triggers, define episode windows, selected group services, and further define risk adjustment. We would like to remain engaged in this important work but urge Acumen and CMS to refine the process for engagement in this project. More meaningful opportunities for comment will only serve to strengthen the result.
+
+HFSA recently nominated two individuals to continue work with Acumen on this important task. We are confident their input will help inform this work. They look forward to the face-to-face interaction outlined by Acumen for the project going forward.
+

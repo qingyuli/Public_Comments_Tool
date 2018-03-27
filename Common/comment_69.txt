@@ -1,0 +1,62 @@
+
+The American Optometric Association (AOA) appreciates the opportunity to provide these comments to the Centers for Medicare and Medicaid Services (CMS) as the agency continues its work to develop episode-based cost measures for the Quality Payment Program. The AOA represents 33,000 doctors of optometry and optometry students. The AOA is the voice of the nations family eye doctors and the leading authority on eye health, vision care, and patient safety issues. Doctors of optometry serve patients in nearly 6,500 communities across the country, and in 3,500 of those communities are the only eye doctors. With this knowledge and perspective, we believe the recommendations and considerations below may improve the CMS efforts to develop and define episode groups for the purpose of cost analysis and comparisons.
+
+We understand that CMS has selected cataract surgery as an area of focus for a procedure based episode group based on the high volume of cataract surgeries performed annually. Using the procedure based approach is appropriate. The initial diagnosis of cataract is most frequently made by a doctor of optometry or ophthalmologist. The patient's decision to proceed with cataract surgery to decrease disability involves consultation with a doctor of optometry and/or ophthalmologist. As the Routine Cataract Removal with Intraocular Lens (IOL) Implantation episode group has been classified by CMS as a procedural episode group based on the reporting of a CPT code, rather than a diagnosis code, it is appropriate to use the trigger code CPT 66984 (Removal Of Cataract With Insertion Of Lens) to start the beginning of these episodes of care. To begin the episode with the initial diagnosis of cataract would likely pull into the episode procedures and costs that may be unrelated to the diagnosis of cataract, so proceeding with the CPT trigger code is more appropriate in this case.
+
+While CMS has indicated that the billing of CPT 66984 triggers the routine cataract removal episode, no date for the closing of the episode is provided. For the acute inpatient medical condition episodes, CMS notes a 90-day period would be used. For the chronic condition episodes, a 12 month period will be utilized. For this procedure based episode, the episode should be no longer than 90 days, which is the global period for the procedure.
+
+
+
+
+
+8 This commenter submitted a comment after the close of the public comment period on April 24, 2017. The comment has been included in this report for completeness.
+
+
+As CMS moves forward in assessing cataract surgery care costs, it is critical for CMS to consider the various players who work to provide care for patients having cataract removal surgery. For these patients, doctors of optometry and ophthalmologists may work together as a team to provide complete preoperative, intraoperative, and postoperative care to meet the patient's needs. For the Routine Cataract Removal with Intraocular Lens (IOL) Implantation episode group, CMS may want to explore the possibility of creating episode sub-groups for the cataract episodes for which co-management of a patient occurs. This would allow CMS to better evaluate and compare cases for which cataract patients are co-managed by two physicians and for those cases for which there is no co-management.
+
+The AOA is also very interested in the diabetes episode group and ensuring that the episode is appropriately defined. Doctors of optometry perform the majority of comprehensive, dilated eye examinations for people with diabetes in the United States and are well versed in the treatment and management of diabetic eye disease. The AOA supports the inclusion of the diabetes ICD-10 codes E083-E08.351; E08.359; E08.36 and E08.39. These codes are all related to diabetes and the eye. Diabetes is the leading cause of vision loss for Americans under the age of 74, and doctors of optometry are dedicated to early diagnosis and timely treatment to prevent diabetes related blindness. In addition, doctors of optometry are committed to educating their patients about ways of preventing and minimizing eye complications caused by diabetes, and routinely work with other health care professionals-including primary care physicians, endocrinologists, podiatrists, dental professionals, pharmacists and specialty eye surgeons to ensure patients receive the highest quality care, maintain good vision, and live healthy lives. The inclusion of these diagnosis codes on the trigger code list for the diabetes episode is critical.
+
+Thank you for the opportunity to provide these comments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

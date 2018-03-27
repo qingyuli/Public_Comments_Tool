@@ -1,0 +1,116 @@
+
+AdvaMed appreciates the opportunity to respond to the posting by the Centers for Medicare & Medicaid Services (CMS) Episode-Based Cost Measure Development for the Quality Payment Program as noted on the CMS website.1 Our comments touch on a number of topics in the posting including considerations on the following issues and components as discussed during the CMS Listening Session on Episode-Based Cost Measure Development on April 5, 2017: Opportunities for Stakeholder Engagement, Assigning Costs to the Episode Group, Aligning Costs with Quality, Risk Adjustment Episode Groups and Attributing Episode Groups to Clinicians.
+
+AdvaMed member companies produce the medical devices, diagnostic products and health
+
+
+
+information systems that are transforming health care through earlier disease detection, less invasive procedures and more effective treatments. Our members range from the largest to the smallest medical technology innovators and companies.
+
+CMS indicates that it is developing the episode groups and requesting public input in accordance with section 101(f) of the Medicare Access and CHIP Reauthorization Act of 2015 (MACRA). This section requires CMS to establish care episode groups and patient condition groups, and related classification codes, to measure resource use for purpose of MACRAs Merit-Based Incentive Payment System (MIPS) and alternative payment models (APMs). As the process of developing appropriate components of episode groups is extremely complex and ongoing, we continue to provide feedback on a number of high level issues that are essential in the development of these measures.
+
+I. Opportunities for Stakeholder Engagement
+
+A. CMS Should Ensure that there will be Multiple Opportunities for Obtaining Stakeholder Input in the Development of Episode Groups.
+
+As noted the recent CMS Listening Session on Episode-Based Cost Measure Development, prior feedback from stakeholders emphasized that broad stakeholder feedback is crucial to the development and implementation process of episode groups. CMS is required to seek stakeholder input throughout the development of care episode and patient condition groups and codes, patient relationship categories and codes, and resource use methodology through solicitation of comment and other appropriate mechanisms, such as town hall meetings, open door forums, or web-based forums. We urge CMS to seek stakeholder feedback more frequently.
+
+We have previously advocated for using all these forums in the context of developing episode groups/groupers through which stakeholders can learn more about the status and features of the Medicare-specific episode grouper, and CMSs initial views about episode-related methodological issues. These forums would also provide an opportunity for all interested parties to provide valuable  and early  feedback to CMS regarding these matters. To date, it appears that CMS has not utilized many of these wide-ranging input opportunities from stakeholders. As the clinical subcommittees working with CMSs contractor, Acumen, begin their deliberations, it is our recommendation that CMS facilitate more in-person and more wide-ranging occasions for stakeholder input into their discussions and findings.
+
+We continue to recommend that CMS schedule, as soon as possible, a variety of educational and feedback forums via multiple modalities, including town halls, webinars, open-door forums on all components of episode groups in order to receive adequate feedback for proper construction and implementation of this initiative. Additionally, in order to facilitate consideration of additional episodes from those CMS has identified, we recommend CMS work collaboratively with medical specialties, provider networks, and manufacturers to gain feedback on understanding which episode groups would be most appropriate
+
+We continue to believe from our discussions with other stakeholders during the course of developing these comments, that there is a general lack of familiarity about this initiative and the specific episodes being developed. Therefore, we urge CMS to accept requests to provide input into its process on an ongoing basis as it develops and refines various aspects of episode group construction. In this way, CMS would benefit from more robust clinical input, and stakeholders would also benefit from participating in shaping the clinical episodes that will be applicable in
+
+
+
+their area. We believe episode groups should be focused on high-volume, high-cost studies with significant variations in care delivery and quality outcome measures.
+
+II. Assigning Costs to the Episode Group
+
+A. CMS Should Provide Analysis Showing Episode Variation in Resource Use.
+
+While CMS has provided the code sets related to the list of episodes in the supplementary materials, AdvaMed urges CMS to provide more detail for external stakeholders to fully understand and assess the validity and reliability of the proposed episodes, including cost variation and longitudinal distribution of clinical events.
+
+AdvaMed continues to believe that it would be helpful for stakeholders to see analysis showing the variation in resource use within and across episodes to more fully understand and assess whether it is possible to reliably predict, within any particular episode, the average cost, median and range of the episode at a per member/patient level.
+
+AdvaMed also recommends that CMS provide analysis showing the longitudinal distribution of clinical events identified in the claims in order to provide meaningful comments about the appropriate period at which to close the episode. Claims data provided in each episode should assess both homogeneous and heterogeneous patient populations to best address the generalizability of the data and impact of significant co-morbidities. In addition, if an acute episode is strongly associated with an underlying chronic condition, CMS should provide data on both the acute episode as well as the underlying chronic condition.
+
+The analyses of resource use variability across clinical episodes and chronic conditions will likely help CMS to identify those clinical areas that require more understanding prior to implementing an episode approach. For example, careful consideration of episodes where there is above average variation may reveal the need for subgroup splits that may not be intuitively obvious.
+
+Because wide variation in resource use represents greater risk to providers treating patients within the episode, this information is essential to any meaningful assessment of the validity of any particular episode definition. AdvaMed again urges CMS to release episode variability statistics as soon as possible as part of this process. To date, it is our understanding that CMS has not made this information available. While this information may not have been shared publically, CMS should share this information with the clinical subcommittees that are forming in order to make informed decisions and accurately assign services and consider attribution for each episode. This information, in-turn, should be made publicly available and offered by CMS for input via in-person and other types of stakeholder forums.
+
+III. Aligning Costs with Quality
+
+A. Episodes Should Be Developed with Flexibility to Allow for Adoption of Medical Innovations and Breakthrough Treatments.
+
+CMS acknowledges that alignment of indicators of quality is necessary to compensate for the information that is not adequately captured by episode costs. AdvaMed agrees that quality assessments, as noted in the recent CMS Listening Session, are very important to consider including the functional status of the patient, complications, re-hospitalizations, unplanned care, underuse and other consequences. Although well-defined clinical episodes can be useful tools to
+
+
+
+improve the management of patient care delivery and to identify areas for improvement, it must also be acknowledged, however, that medicine is a rapidly evolving field and any payment system will need to accommodate innovation. For example, new breakthrough treatments that change, or even eliminate, the long-term course of treatment may be more costly within a short-term episode than existing therapies.
+
+Episodes that are defined on the basis of historical costs could discourage adoption of a breakthrough treatment. Therefore, some method to recognize meaningful innovation is needed. This is especially important as the newly formed seven clinical subcommittees begin evaluation of services that are being assigned to these episodes. Specifically, these subcommittees should consider how the process will take into account breakthrough technology and medical innovation costs and how they will be assigned, if at all, to specific providers.
+
+We again recommend that CMS develop a process for updating the items and services that are included in an episode group to reflect changes in the standard of care, including the use of new medical technologies and breakthrough treatments. We recommend that CMS include all relevant stakeholder input in this process  which should include input to the clinical subcommittees  to ensure that CMS and the subcommittees have access to the most up-to-date information with regard to best practices for treating patients.
+
+As emphasized by CMS, a key step in building a cost measure is to align it with quality to make these measures more meaningful to clinicians and encourage collaboration across all venues of care and those that provide this care. CMS has taken steps to increase use of episodes for payment and for quality in its value-based programs, including the hospital value-based program inpatient program, physician value-modifier which will be replaced by MIPS, ESRD Quality Initiative Program, Home Health Value Based Purchasing Program and a future SNF Value-Based Purchasing program in development. In addition, the use of condition-based episodes appears to be growing within and across programs. For example, the physician VBP and hospital VBP both incorporate measures related to heart failure and to chronic obstructive pulmonary disease. Also, because of the implementation of the QPP for physicians, the number of condition-specific episodes in MIPS is expected to grow substantially. Ultimately, these episode groups and cost measures may be aided by standardizing or having shared quality measures that are aligned with cost across many of the value-based programs in the future. CMS should inform stakeholders and the public to what extent that CMS is considering alignment of these various episodes across all quality-related programs, value-based programs and alternative payment models.
+
+IV. Risk Adjusting Episode Groups
+
+A. CMS Must Ensure that Episode Groups are Appropriately Risk Adjusted.
+
+Risk adjustment for patient-related factors (e.g., comorbidity and illness severity) is needed to make accurate and fair conclusions about the quality of care patients receive. Risk adjustment provides safeguards that providers are accurately being measured on outcomes or processes that they can reasonably influence, rather than underlying differences in patient severity.
+
+Risk adjustment is a key element that must be valid, reproducible, sensitive and specific. It is important to consider as many relevant variables as possible in developing episode groups. For example, absent many times from the discussion on determination of risk stratification factors concerning hip/knee implants are individual patient measures in the orthopedic context such as functional/range of motion status, presence or absence of specific orthopedic pre-operative
+
+
+
+deformities, and other indicators and/or disorders involving variability of bone quality, including diseases/disorders affecting bone growth/functions and medications affecting mineral absorption and bone quality. AdvaMed believes that patientspecific factors, like those described above, should be included in the risk stratification for episodes, as they vary from patient -to-patient and can play a very significant role in the post-surgical complication rate. Also, CMS should consider the recent report from the Assistant Secretary for Planning and Evaluation (ASPE)2 as they revise and propose risk adjustments that incorporate the range of social risk factors as applied to episode measures.
+
+In addition, AdvaMed recommends that CMS and the newly formed clinical subcommittees work closely with stakeholders to address the existing shortcomings of the CMS Hierarchical Condition Category model as they consider risk adjustment methodologies for the MIPS and other APMs. While the method of using HCCs may be appropriate for adjusting total expenditures for care for a population, specific conditions may confer higher or lower risk for certain episode groups and these will need to be explored thoroughly for each episode considered.
+
+
+V. Attributing Episode Groups to Clinicians
+
+There is general agreement among interested stakeholders that guidance is needed concerning the assignment of attribution of patients and care episodes, as lack of clarity in attribution approaches continues to be major limitation in the use of outcome and cost measures. This concept was emphasized during the recent CMS Listening Session which noted that one of the key points of stakeholder feedback was that the attribution of claims and episodes to clinicians should be clear and credible at the time of service.
+
+To this end, the National Quality Forum (NQF) recently conducted an environmental scan and white paper using a multi-stakeholder Standing Committee, to examine the strengths and weaknesses of the attribution models identified in the environmental scan. The Final Report presents a set of principles and recommendations for applying the models within a complex healthcare delivery system. AdvaMed recommends that CMS and the newly formed clinical subcommittees consider the guiding principles, recommendations and proposed Model Selection Guide of the NQF Attribution Principles and Approaches Project Final Report.3
+
+An important finding of this paper was the variability in approaches to attribution and the lack of rigorous evaluation of the methods used. The authors of the paper found that the quality measurement field has not yet determined best practices for attribution models, and importantly, there is little consistency across models, but there is evidence that changing the attribution rules can alter results. Currently there is often a lack of transparency on how care is attributed and no processes for an accountable unit to appeal the results of an attribution model that may wrongly assign responsibility. To address many of these concerns, the NQF Committee focused on developing principles, recommendations, and the Attribution Model Selection Guide to allow for greater standardization, transparency, and stakeholder buy-in with the goal of allowing evaluation of attribution models in the future and laying the groundwork to develop a more robust evidence base around this relatively unstudied measurement issue.
+
+The NQF Committee agreed on the following set of guiding principles to address attribution challenges:
+
+
+
+1. Attribution models should fairly and accurately assign accountability
+
+2. Attribution models are an essential part of measure development, implementation, and policy and program design
+
+3. Considered choices among available data are fundamental in the design of an attribution model
+
+4. Attribution models should be regularly reviewed and updated
+
+5. Attribution models should be transparent and consistently applied
+
+6. Attribution models should align with the stated goals and purpose of the program
+
+In addition, the Committees recommendations build on the guiding principles and the Attribution Model Selection Guide. They are envisioned to apply broadly to those developing, selecting, and implementing attribution models in the context of public and private-sector accountability programs. The Committees recommendations for selecting and implementing attribution models are:
+
+1. Use the Attribution Model Selection Guide to evaluate the factors to consider in the choice of an attribution model
+
+2. Attribution models should be tested
+
+3. Attribution models should be subject to multi-stakeholder review
+
+4. Attribution models should attribute results to entities who can influence care and outcomes
+
+5. Attribution models used in mandatory public reporting or payment programs should meet minimum criteria
+
+The NQF Committee recognized that an important first step to evaluating attribution models is to determine the necessary elements of an attribution model that should be specified. The Attribution Model Selection Guide is aimed to help measure developers, measure evaluation committees, and program implementers to specify the essential elements of an attribution model. It represents the minimum features that should be shared with the accountable entities and includes questions to answer in the development and selection of an attribution model. The intent of the Guide is to improve standardization across attribution models and increase the ability to evaluate attribution models in the future.
+
+1 https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/Value-Based-Programs/MACRA-MIPS-and-APMs/Episode-Based-Cost-Measure-Development-for-the-Quality-Payment-Program.pdf
+
+2 Report to Congress: Social Risk Factors and Performance Under Medicares Value-Based Purchasing Programs; U.S. Dept. of Health and Human Services, Office of the Assistance Secretary for Planning and Evaluation. December 2016.
+
+3 NQF Attribution Principles and Approaches; Final Report, National Quality Forum. December 2016
+

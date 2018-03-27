@@ -1,0 +1,43 @@
+
+The Society for Vascular Surgery (SVS), a professional medical society composed of 5,400 specialty-trained vascular surgeons and other medical professionals who are dedicated to the prevention and cure of vascular disease, is very concerned regarding the initial draft list of episodes and the associated triggers for a patient to be attributed to said episodes and their lack of specificity and clinical homogeneity. Our comments below detail these concerns.
+
+Episode Group Selection
+
+Using percentage of Medicare expenditures as the main episode group selection criteria would appear to over target some medical specialties versus others. SVS would instead urge Acumen, LLC to use a criterion of at least one clinical area by specialty or disease episode being completed and rigorously tested for each physician specialty prior to these episodes being used in the Merit-based Incentive Payment System (MIPS) for the measurement of costs.
+
+Episode Group Definitions and Procedural Episode Groups
+
+The episodes proposed in the draft excel document dated December 23, 2016 are too general and need to be further divided into episodes that have the following type of categories as triggers:
+
+ Single Procedure Code by Method (e.g. open, endovascular, etc.), No Device
+
+ Single Procedure Code, Plus any Add-on Code(s) and No Device
+
+ Single Procedure Code and then a Specific Type of Device (episodes would be type of device used, specific)
+
+ Single Procedure Code Plus an Add-on Code(s) and then a Specific Type of Device (episodes would be type of device used, specific.).
+
+Given that Medicare Part A costs are currently included in the cost measure calculations, although, SVS has disagreed with that premise since the beginning of the Value-based Payment Modifier Program, episodes for the purposes of measuring costs and comparing costs need to be this granular as SVS has proposed.
+
+
+
+
+
+Using the Abdominal Aortic Aneurysm Repair Episode Groups, the Dialysis Access Episode Groups, and the Lower Extremity Peripheral Vascular Disease Treatment Episode Groups proposed in the December 23, 2016 file as an example, that list only has episodes per the first trigger category that SVS believes is appropriate to compare clinical same patients and their episodes of care. For example, the Abdominal Aortic Aneurysm Repair Episode Group should be sub-divided into open abdominal, endovascular abdominal, and endovascular visceral episode groups. Also, the Peripheral Vascular Disease episodes are not homogeneous in their current form. This is a wide group of disorders that require different diagnostic and treatment processes. The acuity of the condition also significantly affects the resources invested during hospitalization. Dialysis Access Procedure Episode Groups need to first be divided into creation and Maintenance episodes.
+
+Therefore, SVS would propose that Acumen work directly with the SVS to further develop the other three categories of episodes and triggers for these three proposed procedural areas. SVS would be happy to convene an in-person meeting as soon as is convenient where SVS physician leaders could work with Acumen staff, directly, to complete this task and then assign additional, relevant CPT codes to each episode.
+
+Cost Measure Development
+
+Risk/Severity adjustment is essential in cost measure development. SVS would recommend that Acumen, LLC create a specific set of Clinical Subcommittees exclusively for developing the list of conditions and complications that should be taken into consideration in a risk/severity adjustment methodology that would-be episode specific.
+
+Furthermore, Acumen could work to have the available quality measures and the performance on such measures contribute to the risk/severity adjustment methodology. Many quality measures that are considered outcomes-based need to be included in the discussion regarding the lower or elimination of some type of complication or adverse event for the patient. This is the case with the measures developed by the SVS for Abdominal Aortic Aneurysms and the complication of not being discharged alive by day seven.
+
+Rigorous testing and direct medical society involvement in the creation of the cost measures is imperative. Acumen needs to agree to the SVS offer to convene our leaders and work directly with us starting with a multi-day face to face meeting and then continuing with calls and webinars to construct these costs measures and then to test the costs measures and review the testing results. Without specific testing and transparent evaluation of the results, the medical society community will not be accepting of the cost measure results in the MIPS program.
+
+SVS is also nominating several individuals for the Acumen, LLC Clinical Subcommittees for the Cardiovascular Disease Management, and Peripheral Vascular Disease Management separately and we would encourage Acumen to select all the SVS nominees. And, we would like to stress that the work regarding refining episode triggers from the draft list of episode groups posted by CMS in December 2016 needs to consider the need for these additional episodes and triggers to be developed for Peripheral Vascular Disease by that Clinical Subcommittee. Only after that has occurred should the Clinical Subcommittee move forward with recommending what services should be included in the episodes costs.
+
+
+
+The SVS appreciates the opportunity to provide comments on this December 23, 2016 list of Episodes.
+

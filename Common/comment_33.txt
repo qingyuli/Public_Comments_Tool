@@ -1,0 +1,74 @@
+
+The American Academy of Physical Medicine and Rehabilitation (AAMP&R), a membership organization representing more than 10,000 physiatrists, appreciates the opportunity to submit comments on Episode-Based Cost Measure Development. Physical medicine and rehabilitation (PM&R) physicians, also known as physiatrists, treat a wide variety of medical conditions affecting the brain, spinal cord, nerves, bones, joints, ligaments, muscles, and tendons. PM&R physicians evaluate and treat injuries, illnesses, and disability, and are experts in designing
+
+
+
+comprehensive, patient-centered treatment plans. Physiatrists utilize cutting?edge as well as time? tested treatments to maximize function and quality of life.
+
+AAPM&R appreciates that the Centers for Medicare & Medicaid Services, Acumen, and RTI are continuing to engage stakeholders in the process of developing episode-based cost measures. This letter contains our comments on both the draft list of MACRA episode groups and trigger codes as well as the document titled Episode-Based Cost Measure Development for the Quality Payment Program.
+
+I. General Comments Regarding Cost Measurement
+
+The Academy continues to assert that the use of untested episode measures is premature and must be delayed. Though CMS has previously implemented aspects of cost measurement in its Value Based Modifier program, the concepts for cost measurement outlined in the Quality Payment Program (QPP) are new and require testing prior to widespread implementation. Furthermore, the episode-based measures currently under review will still be in the early stages of development in mid-2017. AAPM&R contends that such measures would be inappropriate for use in the 2018 cost category of the QPP. We recommend a pilot program in which the cost score would be calculated only for physicians who volunteered to test new measures that are based on episodes of care, adjust costs to reflect patient condition, and use patient relationship categories to attribute costs within the episodes. A pilot program could potentially be initiated for certain episode groups in 2018 and others in subsequent years depending on the work of the Episode-Based Cost Measure Subcommittees.
+
+The Academy encourages CMS to continue to be transparent as episode groups are developed in the coming months. However, we are concerned that the timeline for finalizing episode groups for implementation in 2018 is too tight to allow for thoughtful clinician and specialty commentary. Although trigger codes and proposed principles have been released, to achieve true transparency and facilitate insightful input, additional information must be made available. Rather than a generic discussion of the risk adjustment methodology, for example, CMS must release the variables, coefficients, and equations used for the risk adjustment process, as well as the predictive accuracy of the methodology, especially when HCCs are utilized in post-acute care settings. We recognize that this information is likely not yet available; however, it is challenging to provide thoughtful commentary on the trigger codes in the absence of additional information regarding the context of the episode and the methodological adjustments that will be applied. This further highlights the need for more time prior to implementation.
+
+In the final MACRA rule, CMS set the cost category weight at zero in year one and 10 percent in year two. We recommend that CMS weight the cost category of QPP at zero for the 2018 reporting year.
+
+AAPM&R is aware that the American Medical Association has submitted comments about the QPP including cost measurement. We echo those comments and urge CMS to take the time it is allowed under the statute to effectively implement the cost category of QPP.
+
+II. Specific Comments Regarding Episode Groups and Trigger Codes
+
+The Academy submitted names of several members to serve on the Episode-Based Cost Measure Subcommittees. We look forward to participating in this process to select episode groups for implementation and further expand upon the episode definitions.
+
+
+
+AAPM&R encourages CMS to continue to adhere to a transparent process when defining episode groups. Additionally, while we recognize that episode grouping and attribution methodologies can be complex, we encourage CMS to consider making this information as simple as possible so that clinicians can understand at the time of service whether an episodes costs and outcomes will be attributed to them.
+
+A. Acute Inpatient Episode Groups
+
+Upon review of the acute inpatient medical condition episode groups, AAPM&R has concern that chest pain, as an example, may be too broad for a single episode. It would be incredibly difficult to risk adjust for a category such as chest pain in which there is such a range of possible care plans for the range of patients presenting with that problem. If chest pain is to be included, an episode for back pain might arguably be appropriate as well. However, we would suggest that, like chest pain, back pain would be too difficult for risk adjustment and should therefore be broken down into more appropriate episodes. Therefore, AAPM&R recommends episodes that are more specific and therefore more homogenous, thereby more accurately portraying costs.
+
+B. Procedural Episode Groups
+
+Upon review of the list of procedural episode groups, AAPM&R recommends the addition of an
+
+episode for carpal tunnel release.
+
+III. Specific Comments Regarding Episode-Based Cost Measure Development for the Quality Payment Program Document
+
+AAPM&R appreciates and acknowledges that Acumen has specifically highlighted the role of the physiatrist in its proposal. In the discussion of attribution, it is noted that post-acute care is often managed by a physiatrist. We appreciate that the complexity of including post-acute care in episode based cost measurement is noted.
+
+A. Episode Group Definition
+
+In the Episode-Based Cost Measure Development document, it is suggested that episodes may need to be separated into subgroups. AAPM&R agrees that many of the proposed episodes would have a substantial range of appropriate cost due to the differences in patient needs. One suggestion regarding subgrouping for surgical services would be to sub-group based on complexity of the surgery. For example, within a group for hip arthroplasty, procedures may be more complex in instances in which the patient has more potential complications, requires more time to complete the procedure, and may ultimately require more intensive services in the postoperative period.
+
+B. Cost Measure Development
+
+Successful implementation of episode-based cost measures requires decisions on several important aspects including but not limited to: which services are included in the episode; how patients are attributed to clinicians; how risk adjustment is calculated and for what; and how cost measurement is tied to quality performance. Below are our comments on these issues.
+
+i. Services Included in Each Episode: Because of the variability among patients, there is a wide range of possible services that could be included in each episode group. On pages 7 and 8 of the document, a procedural episode that is surgical in nature is described. In this description, the document suggests that treatment related to hypertension would be excluded as it is an unrelated
+
+
+
+condition or event that is not clinically relevant to the procedural episode group. This is a perfect example of the nuances of correctly attributing services to an episode. Hypertension can be exacerbated due to surgery, anesthesia and/or post-operative pain management. It is not easy to tease out whether treatment for hypertension would appropriately be included in an episode. Such an example raises concerns about how episodes will be defined. AAPM&R recommends that CMS solicit feedback from a range of clinicians in determining the services that will be included in each episode.
+
+Furthermore, we would like to highlight that the physician does not always control the procedures provided to patients. Patients can elect to receive care which is counter to the recommendation and expertise of the clinician. In such a case, the clinician may be penalized for decisions out of their control. If possible, AAPM&R recommends accounting for this type of outlier associated with beneficiary preference or noncompliance.
+
+ii. Attribution: AAPM&R recommends that CMS take a more incremental approach to attribution, allowing for feedback and time to analyze success and accuracy. For example, CMS could start by assigning attribution only for procedures and services for which costs are directly attributable to a lead physician, rather than trying to assign varying levels of accountability at this early stage. We recognize that CMS is planning to implement patient relationship modifiers, which may potentially make attribution easier. However, the patient relationship modifiers have not yet been implemented, so it is difficult to know whether clinicians will use them properly and whether they will be an accurate mechanism for determining attribution when multiple providers care for the patient throughout the episode.
+
+Furthermore, we note that the methodology for attribution of advanced imaging as well as drugs will be critical to the accuracy of episodes. Particularly in the post-acute stage, imaging and drugs, especially those without a generic version, are significant drivers of cost. AAPM&R urges
+CMS to consider attribution of advanced imaging and drugs with caution to avoid unforeseen complications such as reduced access to services.
+
+AAPM&R discourages CMS from attributing episodes to clinicians based on the amount of time they are responsible for managing a patient. Following this method of attribution would inappropriately attribute episodes to clinicians in the post-acute setting, where hospital stays are far longer than the acute inpatient setting. For example, an episode for hernia repair might include a lengthy post-acute hospital stay. If cost is assigned based on the length of time an individual clinician manages the patient, the entire episode might be assigned to the clinician responsible for post-acute care. AAPM&R disagrees with this methodology.
+
+iii. Risk Adjustment: AAPM&R encourages CMS to account for comorbidities such as cognitive and psychological impairment as well as social determinants of health in calculation of risk adjustment of all episodes. We would also note that it is difficult to comment on risk adjustment given the limited discussion of the intended methodology in the document. Without more information about what is planned, it is a challenge to submit meaningful feedback.
+
+iv. Quality Performance: AAPM&R encourages CMS to be closely attentive to the linking of quality measure performance to cost measurement. Without accurately monitoring quality performance, the cost measurement component of QPP appears to be solely driving down cost with no concern for its impact on patient care. In the proposed document, this linking of cost measurement to the quality of care assessment is described in general terms. The Academy recommends transparency about the specifics of how these aspects of the QPP are implemented.
+
+
+
+Specifically, CMS should allow clinicians and specialties to comment on proposed pairings of episode group costs with quality measures.
+
+AAPM&R encourages CMS to consider how quality will be attributed to clinicians. Specifically, if multiple clinicians are involved in an episode, it must be determined how the quality of care will be attributed. Currently, clinicians are embracing team-based care more and more; in such an environment, the concept of attributing quality to a single clinician is problematic.
+

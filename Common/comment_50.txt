@@ -1,0 +1,50 @@
+
+As a member of the MACRA Clinical Committee and a physician that treats melanoma frequently, I appreciate the opportunity to provide feedback on the melanoma treatment episode group and trigger codes, as well as your report, Episode-Based Cost Measure Development for the Quality Payment Program, to help inform the agency's ongoing efforts in developing cost measures.
+
+Episode-Based Cost Measure Development for the Quality Payment Program Episode Group Selection: Melanoma Episode
+
+ CMS' evaluation of episode groups resulted in the identification of melanoma treatment services to be considered for development. Specifically, CMS has included "Melanoma Destruction/Excision" on its draft list of MACRA Episode Groups.
+
+ I feel that CMS' terminology is not clinically accurate because destruction of melanoma is clinically contraindicated and not standard of care and there are no destruction codes in the trigger list. CMS should revise the name of this episode group to "Melanoma- Excision."
+
+Episode Group Definition, Procedural Episode Groups & Cost Measure Development
+
+ CMS identified several CPT "trigger codes" as representing services associated with the melanoma episode group. l generally agree with the list of trigger codes; however, the codes 17312 and 17314 should be replaced because these are add on codes for Mohs surgery services and don't define the primary procedure and are thus not appropriate triggers. In their place, the Mohs surgery codes 17311 and 17313 should be used. I also believe the following CPT codes should be included as trigger codes: 14000, 14001, 14001, 14020, 14021, 14040, 14041, 14060, and 14061 because excision of cutaneous lesions is bundled within them. Exclusion of these cutaneous flap codes will result in missing many primary melanoma excisional treatments.
+
+
+
+
+
+ It is important to note that the listed episode trigger codes for the melanoma episode group are also used in the treatment of other skin cancers (e.g., non-melanoma), which means the episode trigger as listed will capture many treatments unrelated to melanoma. To address this, linkage of the CPT "trigger'' codes to correct melanoma specific ICD10-CM diagnosis codes will be critical. Because CMS has yet to provide the relevant ICD-10-CM diagnosis_codes associated with the melanoma episode, it has inadequately defined the triggering rules to produce a homogenous disease model or a clinically relevant episode.
+
+ In addition, I recommend that CMS consider splitting the melanoma episode into subgroups based on staging and body site to create a more homogenous model. The most important clinical risk factor for poor patient outcome for cutaneous melanoma is histologic depth. However, thin and thick melanomas are coded with the same ICD-10-CM diagnosis code with significant variation in resource utilization and cost for the same diagnosis code. Body location of the melanoma {head and neck versus other sites} also portends significant differences in intensity of treatment and patient outcome.
+
+ Using subgroups based on body site and histological stage will allow for much more homogeneous groupers and consistent comparison of cost.
+
+Attributing Episode Group Cost to Clinicians
+
+ Physicians that treat melanoma need a clear understanding of the attribution process. Dermatologists frequently diagnose melanoma and lead the care and management for the vast majority of their skin cancer. In addition, they often refer their melanoma patients to oncologists for further evaluation after surgical care. However, the dermatologist does not have control over what tests or treatments are performed by other specialists that become involved in the care. For physicians who take care of melanoma patients that require multispecialty management, attribution of costs could be a significant challenge. Physicians should only be held accountable for costs that are directly within their control.
+
+Definition of Codes and Costs for Inclusion into the Melanoma Episode
+
+ Many patients who have melanoma also have synchronous and metachronous non-melanoma skin cancers. Nonmelanoma skin cancer treatment employs many of the same procedure codes as melanoma treatment but is unrelated.
+
+ Careful and sophisticated cost inclusion logic will be required to exclude the cost of non-melanoma skin cancer treatment in this episode.
+
+Other issues
+
+ I recommend that CMS also provide more information about critical features of the melanoma episode including:
+
+ The type of episode being considered (static or dynamic};
+
+ What the exclusion criteria will be; and
+
+ The length of the episode
+
+
+
+
+ With CY 2018 fast approaching and the weight of the cost performance category slated to increase, I urge CMS to provide answers to the aforementioned questions as soon as possible, which will afford a fair opportunity to review the planned cost measures and provide feedback to the agency prior to the implementation of episode groups in the MIPS cost performance category.
+
+ I appreciate the opportunity provide feedback and look forward to providing additional input on cost measurement for skin cancer care and treatment. I look forward to working with CMS and its contractor Acumen as part of the MACRA Clinical Committee on further developing this episode group into reasonable and appropriate cost measures of resource use by Mohs surgeons that is within their control.
+

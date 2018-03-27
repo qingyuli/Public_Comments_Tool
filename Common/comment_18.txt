@@ -1,0 +1,109 @@
+
+The American College of Rheumatology (ACR), representing over 9,500 rheumatologists and health professionals, appreciates the opportunity to respond to the proposed Patient Condition Groups and Care Episode Groups and Episode-Based Cost Measure Development for the Quality Payment Program, released by the Centers for Medicare & Medicaid Services (CMS) on December 23, 2016. We welcome the opportunity to provide our concerns on the impact these proposals will have on our ability to provide quality care to the 50 million Americans living with rheumatologic diseases.
+
+Rheumatologists provide ongoing care for Medicare beneficiaries with complex chronic and acute conditions that require specialized expertise. Rheumatologists provide face-to-face, primarily non-procedure -based care, and serve patients with serious conditions that can be difficult to diagnose and treat, including rheumatoid arthritis (RA), systemic lupus erythematosus, and other debilitating diseases. Early and appropriate treatment by rheumatologists slows disease progression, improves patient outcomes, and reduces the need for costly downstream procedures and care that is complicated and made more expensive by advanced disease states.
+
+The ACR is dedicated to ensuring that our providers have the resources they need to work with CMS and to provide patients with high-quality care. We believe that for CMS, clinicians, and patients to all achieve their objectives, payment programs must be designed to reflect the way practices treat patients.
+
+A. Care Episode and Patient Condition Groups
+
+i. Episodes Must Recognize Physicians Treating Unique Patient Conditions
+
+Episode groupers that will be used for payment or to align with quality measures should be designed to be clinically coherent so as to avoid unintended consequences or perverse incentives. In order to create coherent measurements, representative physicians and providers must be involved in all stages of grouper development.
+
+In developing care episodes, we encourage CMS to utilize quality grouping mechanisms already in place, such as ACRs Rheumatology Informatics System for Effectiveness (RISE) Registry. RISE is officially recognized as a Qualified Clinical Data Registry by CMS and is designed to
+
+
+
+provide superior quality reporting and quality improvement capabilities. RISE helps practicing rheumatologists and rheumatology health professionals who are active ACR/ARHP members benchmark performance on key rheumatology clinical-quality measures and align with best practice standards.
+
+We encourage CMS to build on existing National Quality Forum (NQF)-endorsed quality measure cohorts for guidance on defining groupers that are harmonized with quality measures. These measures employ a patient-centric approach to grouping episodes. Where and when possible, we encourage CMS to favor episode groupers that promote shared accountability for management of complex chronic diseases over those that encourage siloed care.
+
+ii. Distinct Codes Should be Provided for New and Existing RA Patients
+
+For the outpatient chronic disease code of rheumatoid arthritis, we believe distinct codes should be provided for new and existing rheumatoid arthritis patients, or at a minimum the RA code should distinguish and/or stratify by disease duration. Providing this distinction will produce a far more meaningful set of robust data--as initial treatment of patients for rheumatoid arthritis is more prototypical and consistent with rheumatologic guidelines.
+
+By contrast, measurement of established RA patients can be very challenging, whether it is a clinical outcome or cost -- established RA patients represent a broad variety of clinical disease severity and risk categories, including patients with highly treatment refractory disease. Creating and more importantly adequately risk adjusting episode groupers for such clinically distinct patient groups is as yet beyond the reach of available national data sources.
+
+In light of the above, we request that CMS provide additional information on what would exactly trigger the new patient evaluation and initial treatment for an early RA patient. In addition, what triggers the subsequent payment codes for patients after the initial 6 months of therapy? Further, how does CMS propose to account for clinically coherent explanations of cost differences within disease groups, such as RA?
+
+As an alternative to the above, the ACR recommends that there should be mechanisms for a provider to actively exclude patients from care episode groups and patient condition groups where the patient otherwise meets the classification criteria. The broad spectrum of patients rheumatologists provide care for often defy classification and systems that force patients into ill-fitting groups. Pushing patients into ill-fitting groups distorts the groups and undermines the purpose of grouping them in the first place.
+
+The ACR acknowledges variation in clinical care and its associated costs that do not reflect variation in disease severity and is eager to work with CMS to explore how robust data sources, like the RISE registry, may be able to fill this important gap and move the nation towards meaningful value-base payment.
+
+iii. Episode Sub-Groups
+
+The draft list does not currently include specifications for episode sub-groups for rheumatologic conditions or episodes. The ACR recognizes that sub-groups may be helpful for the measurement of complex conditions, but this must be done in a way that accurately assesses physicians and
+
+
+
+balanced against the need to have an adequate number of cases that can be attributed to a given clinician. RA is a systemic disease, which involves multiple joints at any one time, thus it would be difficult, or impossible, to code for RA, right ankle, etc. By way of example, the RA Advanced APM model does not define by anatomy. It is imperative that episode groups accurately recognize how physicians treat patients.
+
+Diagnosis Related Groups (DRGs) may offer an existing methodology for capturing and quantifying costs, but they do not replace the need for risk adjustment or stratification to account for clinically coherent variation in care and costs. We previously provided CMS and Acumen with recommendations on the acute inpatient DRG codes and recommended subgroups which we believe provide one path for CMS to use. CMSs recent list of codes under development do not include our recommendations and we urge CMS to provide further consideration to our proposal.
+
+Further, the proposed DRGs for the Connective Tissue Disorders (CTDs) acute episode encompass conditions managed by a variety of medical and surgical specialties that will make it challenging to attribute costs or clinical outcomes to a specific group of clinicians. We therefore request that CMS remove the acute-care episode for CTD in order to ensure proper attribution occurs. We also request that, in general, clinicians should be allowed to have control over attribution of episode groups to them.
+
+Finally, it is important to note that many rheumatologists in the United States no longer consult or follow patients who are hospitalized. We would caution CMS on attributing hospital outcomes and costs to individual providers without clear evidence that the provider influenced those costs and outcomes. In particular, we note that if a patient is sick enough to be admitted to a hospital, there is likely to be multiple issues happening with the patient and therefore it is very difficult to assign outcomes and cost to a single specialty group. It would not be appropriate for providers to be penalized for those things which they cannot control, especially given that quality outcomes are not established and diseases can often be too complex to adequately track.
+
+B. Cost Measure Development
+
+i. Cost is Not a Measure of Quality and Should be Kept Scored at Zero
+
+As physicians, our treatment of patients is driven by achieving the best treatment for their condition. While we are cognizant of cost when seeking the best treatment for our patients, it is critical to emphasize that when CMS evaluates providers and their clinical outcomes, cost is not an indicator of quality or measure of quality, and further that clinicians are in no way penalized for the high cost of specialty drug treatments. Cost may be an outcome, but it is not a quality measure. The ACR acknowledges that there is likely high value and low value rheumatologic care currently occurring in the United States. However, there are currently no scientifically acceptable tools that adequately account for disease complexity and severity to measure value for patients with rheumatologic disease. The ACR would eagerly like to engage with CMS to develop such measures.
+
+Therefore, we urge CMS keep the cost categorys weight in the composite score at zero in 2018. In the final MACRA rule, CMS set the weights at zero in year one and 10 percent in year two. There are tremendous problems with the various methodologies, such as risk adjustment and attribution. CMSs own data has shown that the current methodology discriminates against
+
+
+physicians who treat the sickest patients. The agency needs time to develop better risk adjustment and attribution. CMS has the statutory authority to reduce the second year weight to zero and we urge it to do so.
+
+ii. CMS Should Adopt a Flexible Gradual Transition Period
+
+We believe that in years three through five of MACRA CMS should create and expand a pilot program . In the pilot, the cost score would be calculated only for physicians who volunteered to test new measures that are based on episodes of care, adjust costs to reflect patient condition, and use patient relationship categories to attribute costs within the episodes.
+
+The ACR urges CMS to establish a more gradual transition period. MACRA provides flexibility to CMS in how it structures the MIPS program for 2017 and 2018. CMS has limited this flexibility to 2017 without providing guidance for what will occur in future program years. CMS should take advantage of this flexibility and adopt a similar transition year for 2018 to allow physicians to become more familiar with the program and keep program requirements stable.
+
+CMS can set the MIPS performance score threshold to promote successful participation by ensuring a greater number of physicians are held harmless from penalties. Specifically, the agency should be flexible about the data used to set performance and should maintain a substantial low-volume threshold that exempts physicians with few Medicare patients or little revenue.
+
+iii. Rates Should Reflect the Unique Characteristics of Rheumatology Practices
+
+We request that CMS provide additional information regarding its proposal to use the CMS-HCC Risk Adjustment Model used in the Medicare Advantage program to determine rates.
+
+We are concerned the CMS-HCC Risk Adjustment Model provides insufficient risk adjustment for the granular episodes CMS has proposed in MIPS. We ask CMS to evaluate the validity of the predictive model in the proposed episode groups and sub-groups using clinical adjudication to determine whether it adequately accounts for disease complexity and severity. We also have concerns that the use of the past year of data may not necessarily capture the actual complexity involved in a new diagnosis such as rheumatoid arthritis.
+
+In order to measure risk adjusting episode groups, any risk adjustment model should include all the diagnoses such as DM and CHF. Use of such a model would depend on all physicians being able to see patient coding. Additionally, in order for episode group costs to be appropriately risk adjusted, more codes are needed for variables that are outside the clinician's control. These codes should account for variables such functional limitation, patient non-adherence, comorbidity-drug interactions (e.g., abnormal LFTs preventing MTX use), and financial barriers to care and treatment. We encourage CMS to identify a way to capture the risk adjustments without increasing the burden on the provider.
+
+iv. Cost Measures Must Reflect the Cost of All Drug Costs
+
+In future years, we believe that all drug costs should be included in any performance and/or cost measure. MACRA provides that Part D should be included as appropriate and as feasible and applicable. We believe it is not only appropriate and feasible, it is fundamental that Part D costs
+
+
+
+are included. Without Part D costs included, the measure cannot capture an important, medically necessary benefit on which our patients rely. Excluding Part D costs also leaves an important source of cost variation unmeasured, further undermining the validity of any comparative cost assessments. Until Part D drug costs are included in cost measurement, and CMS can demonstrate that those Part D drug costs can be captured properly, the cost component of the MIPS scoring formula should remain at zero percent.
+
+The ACR is presently investigating issues related to Part B and Part D costs in the RISE registry for treating rheumatologic diseases and we are eager to work with CMS going forward to share our findings in order to better inform the policy making process.
+
+C. Patient Relationship Codes
+
+We agree with CMS suggestion that categories of classification which include combinations of categories would be most appropriate in properly classifying patient relationship categories. At the same time, CMS should recognize that patients and physicians relationships may change over time as health conditions and the corresponding care provided change.
+
+We encourage CMS to allow providers to select a patient relationship category as the patient relationship changes. One possibility may be to allow providers to select multiple patient relationship codes for those episodes of extended duration or complexity.
+
+In particular, we request that CMS emphasize a reduction in administrative burdens and streamlining of reporting tasks so that the delivery of patient-centered care is the principal focus in all clinical settings. We ask that CMS provide stakeholders a clear idea of how the agency proposes treating patient and physician relationships and how attribution will be handled. It will be important for physicians to understand what this will look like in practice.
+
+D. Concerns Related to Alternative Payment Models
+
+We ask that CMS recognize that many of the concerns that must be addressed in the development of episode-based cost measures are also concerns and needs in the development of Alternative Payment Models. Therefore we request that CMS seek input from those groups such as the ACR that are developing Alternative Payment Models, so that it can be determined how care episode groups and patient condition groups can best support APMs. Further, CMS should specifically seek out episode groupings and patient categories that have been developed by societies such as ACR that are working to develop Alternative Payment Models, and ensure those are consonant with that which CMS develops.
+
+The ACR further recommends policies that would make APM development and participation easier for interested groups. CMS should make a significant effort to improve accessibility of claims data, so that the data is more readily available to serve as benchmark data for those groups developing APMs. Additionally, the start-up costs of becoming involved in an APM should suffice for risk in APM participation, and further financial risk should not be required.
+
+E. Additional Considerations
+
+
+
+
+
+
+As CMS recognizes, not all patient episodes will fall into clear-cut episode categories, particularly in cases where the treatment is truncated. In cases of truncated episodes, cost should be measured distinctly from non-truncated episodes.
+
+Most importantly, episode groups should ensure patient access to therapies and to rheumatologists and rheumatology health care professionals.
+

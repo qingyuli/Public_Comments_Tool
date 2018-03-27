@@ -1,0 +1,111 @@
+
+The American College of Radiology (ACR), representing more than 36,000 diagnostic radiologists, interventional radiologists, radiation oncologists, nuclear medicine physicians and medical physicists, appreciates the opportunity to submit comments to the Centers for Medicare
+
+& Medicaid Services (CMS) on the Request for Information (RFI) regarding episode-based cost measure development. The ACR remains committed to working collaboratively with CMS and others to develop and share meaningful recommendations on the episode groups and the role of radiology as episode groups evolve under the Merit-based Incentive Payment System (MIPS) cost category.
+
+General Comments:
+
+ACR supports high value, evidence-based care that aligns with the Triple Aim of better quality, lower costs and better care for patients. Therefore, for the value of care to improve across the healthcare delivery system, CMS must ensure that the role of specialists is recognized and incentivized. The ACR has developed, and will continue to improve clinical tools used to encourage the appropriate use of imaging and expand communication between radiologists and referring clinicians. These tools support radiologists in controlling costs and improving patient care, as well as contributing to the success of alternative payment models.
+
+We have reviewed the Episode Groups in Appendix A and support the concept of expansion and diversification, as well as the subsequent process of including these into a physicians overall cost score for MIPS. The ACR has concerns that several of the suggested categories may be too broad, while others are too narrow for accurate comparison of clinician resource use. Given that the proposed episodes do not currently have associated relevant diagnoses, relevant service and sequelae codes assigned; it is difficult to comment further on whether these proposed episodes will provide an accurate and fair assessment of resource use. The ACR appreciates CMS expansion of the episode groups to 119, almost twice those initially proposed; however, we are concerned that this rapid expansion could impact the quality of cost measurement. The process being used for episode group development lead by Acumen had multi-specialty input, however, this input occurred in silos without the ability for subject matter experts to collaborate. The ACR believes that collaboration in clinical practice will be key to controlling cost and necessary in developing episode group cost measures.
+
+
+
+
+
+
+Radiologists and Episodic Cost Measures
+
+The ACR believes it will continue to be a challenge for CMS to define and attribute costs to radiologists within any of the finalized or proposed episodes. However, radiologists contribute to resource use and cost in ways worthy of recognition under the Cost performance category which may inform future alternative measures for assessment. We provide the following examples for your consideration as CMS continues to work on further episode development:
+
+Radiologist currently have two MIPS measures in the Quality category of MIPS which seek to encourage appropriate follow-up recommendations for incidentally detected lesions in the thyroid, liver, kidneys, and adrenal glands. Adherence to these guidelines can be measured, potentially providing a disincentive to more frequent and potentially inappropriate downstream advanced imaging studies. The concept of measuring a radiologist on the use of cost effective best practice guidelines is an area of potential opportunity not only in the Quality category of MIPS, but may also be of value in informing MIPS.
+
+For resource use, CMS should recognize the role that a diagnostic radiologist plays in imaging clinical decision support (CDS) and associated consultation with a referring provider regarding the most appropriate imaging to utilize. Not only does this consultative service assist in stewarding of resources, it also promotes care coordination, and focuses on what is best for each patient. CDS can play a role to measure resource use, rewarding the radiologist for informing the provider to not order an inappropriate study, thereby saving resources.
+
+ Appropriate imaging recommendations for incidentalomas (over-diagnosis) (too many, too often)
+
+ Use of prior outside images from an unaffiliated institution to avoid duplicative exams
+
+ Imaging appropriateness (actionable when done as a team with referring physicians, e.g. appropriate use of CT for headache in concert with neurologists using a similar measure, or in a facility setting)
+
+Conclusion
+
+The ACR supports the current and newly developed episode groups and appreciates being part of the process. We look forward to seeing more details about the episode groups and the episode-based cost measurements development process moving forward. The ACR offers the attached responses to the questions posed by CMS. We appreciate this opportunity to comment.
+
+QUESTIONS FOR PUBLIC COMMENT
+
+This posting seeks input on the accompanying episode groups recommended for development and their associated episode triggers. We also request comment regarding the approach to developing cost measures that are based on episode groups. Subsequent postings and stakeholder outreach will be used to solicit feedback on additional aspects of cost measure development, such as clinician attribution for care episodes. The following section presents some specific questions as examples of the topics on which we seek stakeholder input. CMS welcomes a wide
+
+
+
+
+range of public comments. These specific questions are included to highlight some of the pertinent issues and are not designed to restrict or limit commentary
+
+Episode Group Selection
+
+ In selecting the episode groups to be considered for development, CMS used criteria including an episodes share of Medicare expenditures, clinician coverage, and the opportunity for improvement in acute, chronic, and procedural care settings. We welcome comment on these episode groups and potential additional episode groups that should be considered for development.
+
+In order to suggest additional episode groups that would meet CMS requirements for development, we would greatly appreciate more insight into how exactly CMS used the criteria specified in the comment above to determine which episode groups should be developed.
+
+Episode Group Definition
+
+ The episode groups that accompany this posting are defined by the list trigger events and codes (CPT/HCPCS for procedural episode triggers, evaluation & management codes combined with ICD-10 diagnostic information for chronic episode triggers, etc.). CMS solicits comment on the inclusion or exclusion of specific service codes used to identify each episode group.
+
+Comments on inclusion or exclusion of specific codes to identify episode groups should not be requested from each specialty independently. These codes can have a large degree of variation in usage across institutions and specialties. The inclusion and exclusion criteria for these codes should be broadly specified to provide a foundation on which a multi-disciplinary panel can discuss specific codes for inclusion or exclusion in each episode group and then provide a consensus recommendation to CMS.
+
+Acute Inpatient Medical Condition Episode Groups
+
+ The acute inpatient medical condition episode groups that accompany this posting include only inpatient events. CMS seeks comment on outpatient events that could be considered candidates for development as acute condition episode groups, which could include chronic condition exacerbations that require acute care but not inpatient hospitalization.
+
+ Acute episodes of care might occur on either an inpatient or outpatient basis and may or may not include surgery. CMS is considering a single Acute Episode Group type that does not distinguish the place of service or the performance of a procedure and welcomes comment on this approach.
+
+The costs of care can vary tremendously by site of service. In addition, many costs of care on the inpatient setting may not be in the direct control of the physician (e.g. overhead costs determined by an inpatient hospital). Therefore, combining these sites of services into a single Acute Episode Group will likely make it more difficult to make valid cost comparisons between providers who have varying proportions of inpatients vs. outpatients in their acute care episode groups.
+
+
+
+Chronic Condition Episode Groups
+
+ CMS is aware of many challenges in constructing episode groups for chronic conditions. These include coding habits that may obscure some chronic conditions and overemphasize others. In addition, it may be difficult to assign a given treatment to a single condition for patients with multiple comorbidities. For example, are the resources for treatment to reduce cholesterol for a patient with diabetes, hypertension, and coronary artery disease to be assigned to only one of those diagnoses, to all of them in proportion, or should we develop a chronic condition episode specific to the management of patients with diabetes, hypertension and coronary artery disease, i.e., a patient condition group to better compare cost to treat like patients? An extension of this approach might be a single episode group for outpatient chronic care with adjustment for comorbidities and demographics of the population served by the clinician. We welcome comment on these and any other options for constructing episode groups for chronic conditions.
+
+ Certain specific conditions, such as cancer, present other challenges. The costs of caring for patients at different stages of disease are likely to vary. For instance, a single episode for a type of cancer is likely to differ in a predictable manner depending on the stage of the cancer. Information on disease staging is not easily or predictably available from claims. CMS welcomes comment on methods to incorporate disease severity or staging information to improve meaningful comparison of cost and quality of care furnished to patients, both generally and for specific clinical conditions. For example, how could a disease staging code be reported on claims to facilitate comparison of episodes for patients at like stages of cancer?
+
+We agree that obtaining meaningful comparisons for diseases like cancer are challenging. In order to include a disease staging code on claims, consensus is needed on which staging system to use for each cancer type, as well as agreement on what objective criteria is required to assign each patient to a certain stage. It is also possible that each stage includes a heterogeneous clinical cohort.
+
+For example, in hepatocellular carcinoma, the outcome and treatment options/cost for stage 4 (distant metastatic disease) varies between patients with numerous distant metastases and those with liver-dominant disease (where a few lymph nodes have metastatic deposits but the predominant disease burden is in the liver). Similarly, the outcome and treatment options of patients with stage 4 metastatic colorectal cancers are different if it is liver-dominant, liver-only, or lung-only metastatic disease.
+
+Procedural Episode Groups
+
+ We solicit comment on the procedural episode groups that accompany this posting, including the service and diagnosis codes used to identify the existence of the procedural episode groups. We also welcome comment on additional procedural episode groups to consider for future development.
+
+The American College of Radiology and other radiologic specialty societies have been involved in making recommendations for procedural episode groups. It is unclear to us how those
+
+
+
+recommendations were considered. Greater transparency in the process will help the ACR provide meaningful comments and recommendations.
+
+Cost Measure Development
+
+ Cost measures are being considered for development from episode groups after adding additional context, such as expenditure assignment, attribution, risk adjustment, and consideration of quality. We welcome comment on each of these elements and whether there are additional elements to consider in developing cost measures from episode groups.
+
+ As described above, the degree of responsibility of attributed services might be considered separately. Those services furnished by the attributed clinician for the clinical purpose of the episode group might be differentiated from the services provided by others for the same clinical purpose. The services furnished by the attributed clinician might be considered directly attributable services. These could be correlated with the services delivered by others for the same clinical purpose, which might be considered indirectly attributed services. The consideration of both directly and indirectly attributed services might be weighed in reporting both the provision and the coordination of care within the episode group relative to each clinician contributing to the care. An alternative approach would be to obtain recommendations from multi-specialty panels about percentages of the resources for an episode that could be attributed to physicians serving in different roles. We welcome comment on these concepts of differential attribution or alternative methods to align attribution with the clinical activities of clinicians.
+
+It would be invaluable to include indirect and/or downstream costs to the cost measurement model. This is the main area with the value of imaging and minimally-invasive image-guided procedures can be captured. For example, an abdominal CT scan to diagnose appendicitis will only be seen as a cost unless its effect in reducing the negative laparotomy rate or early recognition of a post-operative abscess is included in the overall episode of care and cost measurement methodology.
+
+Moreover, we agree with obtaining multi-specialty panels on percentages of resources attributable to different physicians in different roles. We request that prior to convening such panels, ground rules are disseminated on what criteria will be used to ensure a patient-centered approach to decision making and what data (e.g. published literature) may be required to help the panel decide.
+
+ The Medicare Advantage program uses the CMS-HCC Risk Adjustment Model to determine rates. We seek comment on the use of this model or an alternative for risk adjusting episode groups in the construction of cost measures. In addition, should concurrent or prospective risk adjustment be used, and should a full year of data or more targeted data from before the episode be used to adjust?
+
+In the HCC model, diagnostic radiology has not been measured inside the episode. The ACR would like to work with CMS on finding ways to measure the work of radiologists within the episode, such as incidental findings and the use of CDS.
+
+
+
+ The draft list does not currently include specifications for episode sub-groups (a subgroup is intended to achieve greater clinical comparability and is a subdivision of an episode group that further refines the specifications of episode trigger codes and grouping rules to yield more clinically homogenous cohorts of patients with similar expected cost). An example is an episode group for spine surgery with sub-grouping for number of levels and anatomic location. CMS solicits public comment on these draft episode groups and potential sub-groups.
+
+ CMS is especially interested in comments regarding methods to align quality of care with cost measures and welcomes recommendations and suggestions. Considerations for aligning episode groups with quality measurement are described in this document, but are not intended to be an exhaustive list of options. We welcome comment on these methods, as well as any other strategies that could be used to align quality of care considerations with cost measures.
+
+ACR strongly urges CMS to consider the option of counting quality measures designated in the efficiency/cost domain to serve also as measures under the Cost performance category. Examples are: 1) mammography/lung cancer screening abnormal interpretation rate or 2) appropriate use measures such as the 2016 PQRS measures on appropriate follow up imaging recommendations for incidentally found abdominal and thyroid lesions.
+
+ CMS wishes to avoid any unintended consequences of using cost measures in MIPS, and seeks comment on issues of concern in this regard, such as taking steps to avoid disadvantaging clinicians who assume the care of complex patients such as by applying episodes for comparison of complex patients (i.e., comparison of like-patients of different clinicians).
+
+CMS acknowledges that prescription drug costs are a large driver of the cost of medical care for Medicare beneficiaries. What would be the best way to incorporate Part D costs into the episode group development?
+

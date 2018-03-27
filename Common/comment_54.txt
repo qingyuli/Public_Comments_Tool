@@ -1,0 +1,80 @@
+
+The Advocacy Council of the American College of Allergy, Asthma and Immunology (ACAAI), together with its sponsoring organization, the ACAAI, appreciate this opportunity to provide suggestions for improvements on the proposed Patient Condition Groups and Care Episode Groups that were posted on the CMS website on December 23, 2016.
+
+The Advocacy Council and the ACAAI represent the interests of over 6,000 allergists-immunologists and allied health professionals. Allergists immunologists specialize in diagnosing and treating patients with allergic diseases and conditions including chronic conditions such as asthma which affects approximately 24.6 million individuals and allergic rhinitis which affects over 50 million individuals in the United States. Therefore, we are very concerned that episode groups and patient condition codes be as accurate as possible when it comes to caring for patients with chronic disease.
+
+We commend CMS for its efforts to implement the many complex requirements of the Medicare Access and CHIP Reauthorization Act within the short time frames established by the statute. However, we are concerned that CMS proposed approach will not provide the type of detailed information that is needed to assess physician performance for purposes of the Merit-Based Incentive Payment System (MIPS) or provide the type of information needed by APMs.
+
+Care Episode Groups
+
+The episode groups proposed by CMS are based largely on current claims data including ICD-10 codes for chronic conditions, HCPCS codes for procedures, and DRG codes for acute inpatient medical conditions, with adjustments for demographics and comorbidities. While we appreciate the importance of not adding new layers of complexity to the coding process, we do not think that this approach will be sufficiently accurate or reliable for purposes of holding physicians accountable under MIPS or for helping APMs gather the information they need.
+
+The CMS proposal would seem to establish a single episode group for all phases of care provided for chronic conditions. However, patients with chronic disease, such as asthma, need very different kinds of services depending on the phase of care or disease stage. Our organization is developing an alternative payment model (APM) focused on a bundled approach to patient-centered asthma care that we intend to submit to the Physician -focused Payment Technical Advisory Committee (PTAC) by June 1, 2017. (Our Letter of Intent was sent on March 10,
+
+2017.)That APM would distinguish between two distinct phases of care: diagnosis and initial treatment and continued care with each being treated as a separate care episode for purposes of payment. We believe episode groups need to account for the different phases of care and urge CMS not to lump distinct phases of treatment into a single episode group.
+
+Patient Condition Codes
+
+Patient characteristics that impact costs of care differ depending on the condition being treated. For that reason, it is important to establish patient condition codes using comorbidities and other factors that are relevant to the particular condition being treated. We do not believe the CMS HCC risk adjustment system used in the Medicare Advantage program is the best way to identify risk or severity of the patients condition. Rather, patient condition codes should be designed to
+
+
+
+capture those comorbidities that impact patient severity with respect to the specific disease being treated.
+
+In the asthma care APM being developed by our organization, we have stratified severity of disease into four categories for the Continued Care for Difficult-to-Control Asthma phase of care based, among other things, on the presence of specific comorbidities. Although not finalized, the subcategories in our working draft are the following:
+
+
+Subcategory
+Billing Code
+Patient Characteristics
+
+
+
+Level 1
+xxx21
+Well controlled asthma, but with comorbidities
+
+
+and/or medications requiring special management
+
+
+
+Level 2
+xxx22
+Not well controlled asthma (symptoms > 2
+
+
+days/week, etc.)
+
+
+
+Level 3
+xxx23
+Very poorly controlled asthma (daily symptoms, etc.)
+
+
+or
+
+
+Not well controlled asthma with significant
+
+
+comorbidities
+
+
+
+Level 4
+xxx24
+Very poorly controlled asthma with significant
+
+
+comorbidities
+
+
+
+
+
+We believe these categories, which were created by experts in asthma care, are much better predictors of resource use than the HCC risk adjustment system. We strongly urge CMS to work with specialties that are developing or have submitted APMs and include any disease specific patient condition categories they have developed as it implements both the MIPS and APM pieces of MACRA.
+
+We thank you for considering our recommendations and we look forward to working with CMS as this process continues.
+

@@ -1,0 +1,36 @@
+
+Medtronic welcomes the opportunity to respond to the solicitation for comments on the development and implementation of episode groups, which will inform the cost component of the Merit-based Incentive Payment System (MIPS) as required by section 101(f) of the Medicare Access and CHIP Reauthorization Act of 2015 (MACRA.) We appreciate CMSs efforts to gather stakeholder input on the development of the episode groups.
+
+While the comment solicitation is specific to the draft episode groups and the trigger codes associated with the episode development, we offer several broader comments on the topics of transparency, episode group details, the alignment of cost and quality measurement, and episode group selection. Addressing these areas while the Quality Payment Program (QPP) is still in the early stages of development will allow CMS to gather more substantive comments from stakeholders and further the program. Our comments are as follows:
+
+ Dedicated Resource Site is Necessary for Stakeholders. Throughout the development of the episode groups and other aspects of the QPP, CMS has engaged in efforts to gather public input at various intervals. Medtronic appreciates this spirit of transparency and engagement. Nevertheless, the information regarding the QPP has been difficult to navigate from a stakeholder perspective, with information relative to the detailed episode groups, Physician-Focused Payment Model Technical Advisory Committee (PTAC) proposals, and other broad policy proposals of MACRA being housed at multiple websites inside and outside of CMS. Therefore, Medtronic recommends CMS develop a dedicated site from which stakeholders may access various links related to MACRA, QPP, PTAC, and other resources.
+
+ Greater Details on Episode Group Constructs are Critical for Appropriate Stakeholder Input. As CMS continues to develop the episode groups, greater details surrounding the construct of these groups is necessary for stakeholders to provide substantive comments. Specifically, CMS should provide all trigger codes, procedures codes, and diagnosis codes proposed to be included in each episode group. In addition, alignment of each episode groups with specific quality measures should also be discussed. Without this level of information, it is difficult to assess the potential impacts for physicians and the patients they
+
+
+
+serve. Therefore, CMS should provide greater detail on the episode group construct when soliciting comments from stakeholders.
+ Cost and Outcome Measurement Should be Aligned. The purpose of the cost category under MIPS is to inform clinicians on the costs for which they are directly responsible, as well as the total costs of their patients care. CMS intends for the information on cost to be actionable by clinicians in targeting areas for smarter spending. Medtronic encourages CMS to align measurement of costs with specific patient outcomes. Patient outcomes should be at the center of cost measures. Care improvements cannot be appropriately measured by simply reducing healthcare spending associated with an episode of care. This approach could incentivize clinicians to choose the least costly alternative in treatment that may not offer the best clinical outcome for the patient or overall value to the healthcare system. Properly aligning quality with cost measurement is a value-based approach to assessing care improvement. Therefore, CMS should study how to best link cost and outcome measurement to better assess overall value under MIPS.
+
+ Episode Group Selection -- CMS Should Focus Episode Groups on High-Volume, High-Cost, Well-Studied Conditions. When developing the episode groups under MACRA, CMS should target high volume, high cost, well-studied medical conditions and disease states with significant variation in treatment costs and outcomes. By focusing on conditions and patients with high costs and a wide range of variation, episode groups can help identify potential opportunity for meaningful improvements in cost and outcomes. In this interest, Medtronic has identified a few additional conditions with high volume and significant variation for CMS consideration as episode groups. Specifically, we recommend developing episode groups for thoracic (lung) procedures (MS-DRGs 163, 164, and 165) and certain Medicare-prevalent obstetrics/gynecology procedures (MS-DRGs 734-735, 736-738, 739-741, and 742-743.) These conditions have high volume and vary in both cost and quality, making them potential candidates for episode groups.
+
+In the addendum to this letter, we have more specific comments on select episode groups. These comments and recommendations focus on the details surrounding the trigger codes and the specific codes included in certain episode groups.
+
+In addition, given the complexity of the cost component of MIPS, Medtronic recommends that CMS work closely with physician specialty societies to evaluate the number and types of episode groups included for expansion of the cost component for future years, and to assess clinician readiness overall. Given that the cost component will attribute a growing percentage of the overall MIPS score for physicians, input from societies is critical.
+
+ADDENDUM
+
+Specific Comments Regarding Episode Group Construction
+
+Medtronic has reviewed the workbooks relevant to our therapy and device areas. The information below outlines specific comments regarding the construction of individual episode groups. In general, it appears that relatively rare, high-cost services are excluded from the episode groups. Medtronic supports this approach since including rare, high-cost services would skew the results and make determining a reasonable "average" cost difficult.
+
+
+
+Episode Group Title: Hernia Repair (Incisional or Ventral)
+
+Under this episode group, there is a key trigger code that should be included under this episode. Specifically, CPT 49653 (Laparoscopy, surgical, repair, ventral, umbilical, spigelian or epigastric hernia (includes mesh insertion, when performed); incarcerated or strangulated) should be added as a trigger code for this episode group. The absence of this code is likely an oversight given that all other relevant laparoscopic hernia repair codes are included. Therefore, Medtronic recommends CMS include CPT 49653 as a trigger code for the Hernia Repair (Incisional or Ventral) episode group.
+
+All Acute Inpatient Episode Groups with a Procedural Component
+
+Medtronic recommends inclusion of the full list of surgical site infection (SSI) ICD-9-CM diagnosis codes for Potentially Avoidable Conditions (PAC)  Type 1, as defined in Prometheus HC13 ECR. Some of these codes are included in the proposed definition, but the list is not comprehensive. Given the importance of avoiding these complications, capturing the full list is essential, and the Prometheus definitions are widely used in a range of bundled/episode-based payment models. The PAC-Type 1 codes are defined to ensure applicability to physicians, as opposed to the facility.
+

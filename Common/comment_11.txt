@@ -1,0 +1,48 @@
+
+On behalf of our 95,000 member physical therapists, physical therapist assistants, and students of physical therapy, the American Physical Therapy Association (APTA) is pleased to submit comments on the MACRA episode-based cost measures. APTAs goal is to foster advancements in physical therapist practice, research, and education. The mission of APTA is to further the
+
+
+
+professions role in the prevention, diagnosis, and treatment of movement dysfunctions and the enhancement of the physical health and functional abilities of members of the public.
+
+Our hope is that our comments will influence implementation of the resource-use measures in the Merit-Based Incentive Payment System (MIPS), as these will impact outpatient physical therapists in private practice, as well as outpatient physical therapy services furnished by hospitals, outpatient rehabilitation facilities, public health agencies, clinics, skilled nursing facilities, home health agencies, and comprehensive outpatient rehabilitation facilities. In other words, implementation of MIPS will affect eligible professionals across the entire spectrum of the physical therapy delivery system.
+
+Comments on Episode-Based Cost Measures
+
+Episode Group Selection
+
+As mentioned above, physical therapists practice across the continuum of care in a variety of settings, and our patient population is a diverse representation of many conditions and diagnoses. APTA believes that the identified high-impact conditions are a good beginning for our professionals, as physical therapists are part of the care team for a number of conditions included. Many of these initial groups include orthopedic conditions such as knee and hip replacements, hip fractures and dislocations, knee joint repairs, and spine procedures and fusion. Additionally, physical therapy codes are included in several cardiac condition groups, the rheumatoid arthritis group, and neurologic groups such as Parkinson disease and ischemic cerebral vascular accidents.
+
+Acute Inpatient Medical Condition Episode Groups
+
+APTA has concerns about creating only 1 acute episode group type, which would not distinguish the place of service or the performance of a procedure. We believe that creation of a single acute episode group for these patients, who may represent a wide diversity of conditions, will make the measure difficult to interpret and impact. Instead, we encourage CMS to consider creating several acute measures that are directed at more defined patient populations such as patients with cardiac conditions, chest pain, shortness of breath, and other related symptoms.
+
+Chronic Condition Episode Groups
+
+A significant number of Medicare beneficiaries suffer from chronic conditions, creating a need for episode groups for these patient populations. Defining episodes for chronic conditions poses several challenges. Many patients with chronic conditions have multiple comorbidities or multiple chronic conditions that are often interrelated. APTA recommends that CMS test a chronic condition episode group that represents several conditions that typically occur concurrently (CMSs example includes diabetes, hypertension, and coronary artery disease) versus a single chronic condition episode that has been adjusted for multiple comorbidities, to compare the benefits of each type of methodology. APTA believes that CMS should select the methodology that best accounts for resource use and makes the best clinical sense for providers who will need to identify and manage these patients. Additionally, APTA encourages CMS to look at other electronic data sources such as patient registries.
+
+
+
+
+APTA believes that staging for conditions may be beneficial in comparing like episodes of care. Additionally, accounting for the severity of the condition is also important in the comparison of resource use across episodes, and APTA encourages the inclusion of such variables in the resource-use methodologies.
+
+Cost-Measure Development
+
+As discussed above, APTA believes that the cost measures should include risk adjustment that could account for comorbidities, severity of condition, and staging of condition when relevant. It will be important to account for patient characteristics within the cost measures to ensure that providers are being compared fairly and accurately on cost. Additionally, APTA believes that CPT billing codes in combination with diagnosis codes (ICD-10) should be used to determine services for a care episode. Because Medicare beneficiaries may seek physical therapy services for multiple conditions at one time, use of both billing and diagnostic codes will increase the likelihood of capturing the physical therapy charges related to the defined- episode group while excluding physical therapy services for unrelated conditions or diagnoses. We encourage CMS to continue to work with key stakeholders to ensure that all relevant CPT and ICD-10 codes are included in the episodes.
+
+APTA believes that expenditure assignment is important in the development of cost measures. We believe there is value in providers seeing expenditures that are directly attributable as well as the services delivered by others for the same clinical purpose, which might be considered indirectly attributed services. We support the consideration of both directly and indirectly attributed services and the concept of weighting the direct and indirect services in reporting. We support this concept over a panel assigning percentages of the resources for an episode to specific providers. We believe that assigning fixed percentages within episodes will not account for changes in the care delivery system as episodic and bundled models evolve over time.
+
+APTA believes that in the future CMS should align resource-use measures with clinical-quality measures. One possible approach to this would be a measure set that includes cost measures, key outcomes, patient engagement, and process of care measures for a specified condition or diagnosis. APTA believes these sets could be created within MIPS using measures from several of the categories to more precisely determine the value of services for specified patient populations. APTA also encourages CMS to incorporate measures from these sets into alternative payment models, where appropriate, to further encourage alignment of quality measures across programs and payment models.
+
+APTA supports concurrent risk adjustment for the episode-based cost measures. We believe that concurrent risk adjustment will allow for more accurate comparison of costs within the episode of care. APTA also supports episode sub-groups. We believe that the creation of episode sub-groups will allow for greater clinical comparability of more clinically homogenous cohorts of patients with similar expected costs.
+
+APTA believes these episode-based cost measures will require pilot testing with key stakeholder feedback prior to full implementation in MIPS. We encourage CMS to provide this data with any benchmarking data to all providers (MIPS and non-MIPS participants such as physical therapists) in 2018 with the continued neutral weighting in the cost category. This will allow all
+
+
+
+clinicians to provide feedback to CMS on these measures as well as give clinicians the opportunity to understand the new methodology for the measures. Up to this point, many of the cost measures have been attributed to providers using rules around the plurality of services and are primarily directed toward physicians and other primary care providers. Our providers, and other nonphysician providers, have little to no exposure with episode-cost data. For these reasons, APTA believes CMS should continue to work with nonphysician professionals such as physical therapists on these episode groups to ensure that they make sense for nonphysician professionals, who typically are not primarily responsible for the ongoing care of these patients.
+
+Conclusion
+
+Once again, we thank CMS and Acumen for the opportunity to comment on the MACRA episode-based cost measures, and we look forward to working with CMS as the methodologies continue to evolve.
+

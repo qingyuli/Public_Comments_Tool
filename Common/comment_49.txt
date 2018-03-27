@@ -1,0 +1,27 @@
+
+      Wolters Kluwer Health appreciates the opportunity to comment on the development of new episode-based cost measures for the Quality Payment Program.
+
+      As way of background, Wolters Kluwer (WK) is a leading global provider of information, business intelligence and point-of-care solutions for the healthcare industry. Key brands include ProVation Medical, UpToDate, Emmi Solutions, Medi-Span, Lexicomp, Facts & Comparisons, Pharmacy OneSource, Health Language and Medicom (China). Wolters Kluwer had annual revenues in 2016 of $4.6 billion.
+
+      We strongly support the inclusion of Septicemia or Severe Sepsis with Mechanical Ventilation > 96 Hours as one of the proposed acute inpatient medical condition episode groups, and believe it meets all three criteria (i.e. share of Medicares expenditures, clinician coverage and opportunity for improvement in acute, chronic and procedural care settings) used by CMS to select such episodes.
+
+      According to CMS own data, over 550,000 Medicare beneficiaries were afflicted with sepsis in 2013 as a primary diagnosis, totaling more than $8.1 billion in Medicare allowed amounts. A 2015 study1 published in the American Journal of Respiratory and Critical Care Medicine found that older adults are three times more likely to develop sepsis in the first three months after leaving a hospital that at any other time, and that the risk of sepsis is 30% higher for patients whose original hospital stay involved care for infections such as pneumonia. A study2 presented at the American Thoracic Societys annual conference in May 2014 concluded that sepsis contributes close to half of all hospital deaths in the United States. And a research letter3 published in February of this year concluded that sepsis is associated with more hospital readmissions than myocardial infarction and hearth failure.
+
+      Sepsis reduction and prevention is particularly relevant for outpatient and ambulatory settings. In August 2016 as part of its Vital Signs report4 , the Centers for Disease Control and Prevention (CDC) concluded that approximately 7 in 10 patients with sepsis had used health care services recently or had chronic diseases that required frequent medical care. The report concluded that these ambulatory patient encounters represented opportunities for healthcare providers to prevent, recognize and treat sepsis long before it can cause life-threatening illness or death. Increased use of outpatient infection prevention strategies such as vaccination, and improved management of patients with chronic diseases were two of the strategies cited in the CDC report that can be used in ambulatory settings to reduce the onset of sepsis.
+
+      We note the inclusion of DRG 870 as the sole trigger code for this proposed cost measure, but we recommend adding DRG 871 Septicemia or Severe Sepsis without Mechanical Ventilator > 96 Hours and With Multiple Chronic Conditions, and DRG 872 Septicemia or
+
+
+
+Severe Sepsis without Mechanical Ventilator > 96 Hours and Without Multiple Chronic Conditions as additional trigger codes. Though DRG 870 represents the most severe episodes of sepsis, these additional codes also capture very serious and costly episodes.
+
+Thank you again for the opportunity to comment.
+
+1 Am J Respir Crit Care Med. First published online 27 May 2015 as DOI: 10.1164/rccm.201503-0483OC
+2 http://www.thoracic.org/about/newsroom/press-releases/resources/Liu.pdf
+3 Proportion and Cost of Unplanned 30-Day Readmissions After Sepsis Compared with Other Medical
+
+Conditions, JAMA. 2017;317(5):530-531. doi:10.1001/jama.2016.20468
+
+4 www.cdc.gov/vitalsigns/sepsis
+

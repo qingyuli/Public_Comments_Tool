@@ -1,0 +1,35 @@
+
+Established in 1943, the AAAAI is a professional organization with more than 7,000 members in the United States, Canada and 72 other countries. This membership includes allergist/immunologists (A/I), other medical specialists, allied health and related healthcare professionalsall with a special interest in the research and treatment of patients with allergic and immunologic diseases.
+
+We appreciate the opportunity to provide feedback on the draft list of episode groups and trigger codes, as well as your report, Episode-Based Cost Measure Development for the Quality Payment Program, to help inform the agencys ongoing efforts in developing cost measures.
+
+Episode-Based Cost Measure Development for the Quality Payment Program Episode Group Selection
+
+CMS considered Medicare expenditures, clinician coverage, and the opportunity for improvement in acute, chronic, and procedural care settings in selecting the episode groups to be considered for development. Therefore, it is no surprise that several conditions managed by allergy/immunology (A/I) professionals were targeted for episode development, including
+
+ Bronchitis and Asthma,
+
+ Chronic Obstructive Pulmonary Disease (COPD),
+
+ Respiratory Infections and Inflammations, and
+
+ Asthma/COPD.
+
+Episode Group Definition, Chronic Condition Episode Groups & Cost Measure Development
+
+As noted above, we understand why several A/I conditions have been targeted for episode group development and agree with the identified trigger codes CMS has included in each of the respective episodes.
+
+Beyond that, we are limited in our ability to provide meaningful comments because critical information about the episode groups are missing. That is, we do not have information about the parameters under which these episodes intend to be developed. For example, when do the episodes begin and end? What, if any, are the exclusion criteria for these episodes? How will risk factors, including socio-demographic, be accounted for in these episodes? How frequently will the episodes be updated to account for changes in clinical practice and changes in medical inflation?
+
+Moreover, how will A/I professionals and any other providers participating in the patients continuum of care be attributed costs during the episode? AAAAI continues to await information on patient relationship categories and codes, which will be key to this effort, but concerns remain about their effectiveness, feasibility and utility. We previously expressed concern that including a patient relationship code on every single claim would be an administrative burden, and that A/I practices may struggle with deciphering whether their care is continuous or episodic in some
+
+
+
+instances. We also suggested that CMS ensure that specialists, such as A/I professionals, would not be attributed patients with diagnoses that are outside the scope of their specialty, as was the case in the VM cost measures.
+
+We recognize CMS is planning to use clinical subcommittees to assist with the development of these episodes, and these episodes appear to be slated for consideration in Wave 3. As noted above, A/I professionals would much prefer to be held accountable for episodes where they have some opportunity to control resource use, versus the current measures that stem from the VM program, which have inappropriately attributed beneficiaries to A/I professionals when they may have only seen their A/I professional once for management of their allergy condition. We urge CMS to provide as much detail as possible so that AAAAI may provide important feedback to the agency prior to the implementation of these A/I-focused episode groups in the MIPS cost performance category.
+
+AAAAI looks forward to working with CMS and its contractor on further developing these episode groups into reasonable and appropriate cost measures for A/I professionals. A/I professionals greatly prefer being held accountable for resource use associated with conditions within their clinical scope of expertise rather than the crude cost measures that carried over from the Value-Based Payment Modifier (VM) program, specifically the Total Per Capita Costs and Medicare Spending Per Beneficiary (MSPB) cost measures.
+
+We appreciate the opportunity to offer these comments, and we look forward to providing additional input on accurate cost measurement. As the agency intends to increase the weight of the MIPS cost performance category to 10 percent for the CY 2018 reporting period, we encourage the agency to issue more detailed proposals for comment, as soon as possible.
+

@@ -1,0 +1,107 @@
+
+The American Society for Radiation Oncology (ASTRO) appreciates the opportunity to provide written comments on the CMS Episode-Based Cost Measure Development for the Quality Payment Program document issued on December 23, 2016. Care episode groups take into account the patients clinical indications at the time medical services are furnished during an episode of care and are used to define episode groups for procedures and acute inpatient medical conditions.
+
+ASTRO members are medical professionals practicing at hospitals and cancer treatment centers in the United States and around the globe. They make up the radiation treatment teams that are critical in the fight against cancer. These teams include radiation oncologists, medical physicists, medical dosimetrists, radiation therapists, oncology nurses, nutritionists and social workers. They treat more than one million cancer patients each year. We believe this multi -disciplinary membership makes us uniquely qualified to provide input on the inherently complex issues related to Medicare payment policy and coding for radiation oncology services.
+
+CMS Designated Episode Groups
+
+ASTRO appreciates CMS desire to use episode groups as a mechanism for resource use management as required by the Merit Based Incentive Payment System (MIPS). We applaud the implementation of a Clinical Committee to assist CMS with the development of episode groups. This transparent and collaborative approach is a positive step towards ensuring that the identified episodes adequately account for all of the services involved in the process of care. We urge CMS to continue this approach with the establishment of the Clinical Sub-Committees which are expected to include episodes of care that involve the treatment of cancer.
+
+
+
+Below are ASTROs responses to several of the questions posed for public comment:
+
+Episode Group Selection
+
+In selecting the episode groups to be considered for development, CMS used criteria including an episodes share of Medicare expenditures, clinician coverage, and the opportunity for improvement in acute, chronic, and procedural care settings. We welcome comment on these episode groups and potential additional episode groups that should be considered for development.
+
+The CMS designated episode groups include surgical care associated with mastectomy and prostatectomy. However, there are no episodes that involve cancer treatment associated with radiation oncology. As previously mentioned, ASTRO is pleased that CMS is interested in establishing Clinical Subcommittees to assist with the development of episode sub-groups, which in the future may include radiation therapy.
+
+In identifying the conditions and procedures which would be appropriate for episode groups or patient condition groups, CMS should consider those conditions or procedures for which there are established processes of care. ASTRO is currently working on a Radiation Oncology Alternative Payment Model (RO-APM) that features guideline adherence for episodes of care for seven disease sites. Existing ASTRO Clinical Practice Guidelines and Choosing Wisely recommendations are the basis for the ASTRO RO-APM. A similar approach should be taken in the development of episode groups for the MIPS episode-based cost measure.
+
+We urge CMS to work with stakeholders on the identification of episodes of care that can meet the requirements of both the APM and MIPS initiatives. This will be particularly important for physicians who start out in the MIPS program or in a MIPS APM, who seek the opportunity to transition into an Advanced APM.
+
+Episode Group Definition
+
+The episode groups that accompany this posting are defined by the listed trigger events and codes (CPT/HCPCS for procedural episode triggers, evaluation & management codes combined with ICD-10 diagnostic information for chronic episode triggers, etc.). CMS solicits comment on the inclusion or exclusion of specific service codes used to identify each episode group.
+
+ASTRO agrees with the concept of establishing appropriate trigger events and codes that define an episode group. In fact, the ASTRO RO-APM features a two-prong trigger that indicates the commencement of a radiation oncology episode of care. There are three radiation therapy treatment planning codes (77261, 77262, 77263). A treatment planning code is assigned to every patient receiving radiation therapy. Additionally, an ICD-10 diagnosis code is the second prong that triggers an episode of care for a particular disease site within the APM. We believe that the use of these code sets would also be appropriate for the identification of episode groups.
+
+Acute episodes of care might occur on either an inpatient or outpatient basis and may or may not include surgery. CMS is considering a single Acute Episode Group type that does not distinguish the place of service or the performance of a procedure and welcomes
+
+
+
+comment on this approach. If the Agency is to pursue a site neutral Acute Episode Group type, ASTRO recommends that CMS consider the various distinctions between sites of service, particularly the operational and fixed costs. The Agency must take great care to ensure that transition to a site neutral approach does not disadvantage one setting over another, potentially making the operation of sites financially unviable, resulting in an access to care issue.
+
+Chronic Condition Episode Groups
+
+CMS is aware of many challenges in constructing episode groups for chronic conditions. These include coding habits that may obscure some chronic conditions and over-emphasize others. In addition, it may be difficult to assign a given treatment to a single condition for patients with multiple comorbidities. For example, are the resources for treatment to reduce cholesterol for a patient with diabetes, hypertension, and coronary artery disease to be assigned to only one of those diagnoses, to all of them in proportion, or should we develop a chronic condition episode specific to the management of patients with diabetes, hypertension and coronary artery disease, i.e., a patient condition group to better compare cost to treat like patients? An extension of this approach might be a single episode group for outpatient chronic care with adjustment for comorbidities and demographics of the population served by the clinician. We welcome comment on these and any other options for constructing episode groups for chronic conditions.
+
+Flexibility should be given on the development of the appropriate clinical criteria and patient characteristics used to classify patients into care episodes. CMS should start with conditions and procedures for which there are clear evidence-based guidelines and then risk adjust the episode to account for variation in patient characteristics. In addition to risk adjusting for co-occurring clinical factors, CMS should establish a mechanism for excluding patients who present with too many concurrent conditions that may complicate treating the primary diagnosis. The agency should also establish a stop loss policy that would prevent harming the physician financially for taking on complex cases with multiple chronic conditions. As previously mentioned, it will be key for CMS to engage medical specialty stakeholders to develop appropriate criteria.
+
+Certain specific conditions, such as cancer, present other challenges. The costs of caring for patients at different stages of disease are likely to vary. For instance, a single episode for a type of cancer is likely to differ in a predictable manner depending on the stage of the cancer. Information on disease staging is not easily or predictably available from claims. CMS welcomes comment on methods to incorporate disease severity or staging information to improve meaningful comparison of cost and quality of care furnished to patients, both generally and for specific clinical conditions. For example, how could a disease staging code be reported on claims to facilitate comparison of episodes for patients at like stages of cancer?
+
+Episodes need to be clearly defined and recognize all the activities involved in the process of care. ASTRO agrees that key clinical information such as cancer stage may be critical in defining a cancer episode. However, cancer is a complex disease and the difficulties associated with a cancer diagnosis cannot be adequately attributed just to staging. Patient co-morbidities, age and other characteristics also play a role in determining treatment scenarios such as combined modality treatment which impact the potential cost of cancer care. While a disease stage code
+
+
+may assist in identifying specific cancer stages, it will not recognize the remaining complexities associated with treating cancer.
+
+Another significant challenge for episodes based on claims data is that they will not recognize the services physicians currently provide that are not payable by FFS, such as care coordination. CMS must recognize this deficit in the claims data and work with specialty groups to identify and value those services that improve the quality of patient care but are currently not paid for under the FFS system.
+
+Procedural Episode
+
+We solicit comment on the procedural episode groups that accompany this posting, including the service and diagnosis codes used to identify the existence of the procedural episode groups. We also welcome comment on additional procedural episode groups to consider for future development.
+
+The CMS designated episode groups include surgical care associated with mastectomy and prostatectomy. However, there are no episodes that involve cancer treatment associated with radiation oncology. At this time, ASTRO defers to other specialty groups on the content of the currently defined episode groups. We look forward to opportunities to engage with the Agency on the development of episodes specific to cancer care.
+
+Cost Measure Development
+
+Cost measures are being considered for development from episode groups after adding additional context, such as expenditure assignment, attribution, risk adjustment, and consideration of quality. We welcome comment on each of these elements and whether there are additional elements to consider in developing cost measures from episode groups.
+
+As previously stated, ASTRO urges CMS to focus on episodes for which there are known evidence-based guidelines. By starting with episodes that are easily defined by existing processes of care, CMS is more likely to achieve its intended goal of instituting a value based payment system. CMS should avoid episodes that involve conditions that may not include standards of care. These cases deserve more thought and consideration before resource use is measured, especially in situations where the resource use may vary significantly from patient to patient due to condition complexity.
+
+As described above, the degree of responsibility of attributed services might be considered separately. Those services furnished by the attributed clinician for the clinical purpose of the episode group might be differentiated from the services provided by others for the same clinical purpose. The services furnished by the attributed clinician might be considered directly attributable services. These could be correlated with the services delivered by others for the same clinical purpose, which might be considered indirectly attributed services. The consideration of both directly and indirectly attributed services might be weighed in reporting both the provision and the coordination of care within the episode group relative to each clinician contributing to the care. An alternative approach would be to obtain recommendations from multi -specialty panels about percentages of the resources for an episode that could be attributed to physicians serving in different roles. We welcome
+
+
+
+comment on these concepts of differential attribution or alternative methods to align attribution with the clinical activities of clinicians.
+
+ASTRO would support efforts that allow multi-specialty panels, with representatives from all relevant specialties, the opportunity to determine appropriate attribution. CMS should develop episode groups that clearly define and attribute responsibility for care to physicians that they can reasonably control. CMS should focus on those services for which there are well defined processes of care and clinical treatment guidelines that have been vetted and agreed upon. There are numerous services that fit into this category and they should be given immediate consideration.
+
+Those services that are more complex should be given further consideration and study. ASTRO supports the concept of engaging multi-specialty panels to determine appropriate attribution for medical services that involve multi-disciplinary care.
+
+The Medicare Advantage program uses the CMS-HCC Risk Adjustment Model to determine rates. We seek comment on the use of this model or an alternative for risk adjusting episode groups in the construction of cost measures. In addition, should concurrent or prospective risk adjustment be used, and should a full year of data or more targeted data from before the episode be used to adjust?
+
+ASTRO is concerned that CMS is still at the beginning stages of developing risk adjustment and attribution methodologies for the episode-based cost measures. We urge CMS to use concurrent rather than prospective risk adjustment. Without including current comorbidities and diagnoses, CMS cannot properly risk adjust patients.
+
+In addition, ASTRO urges CMS to consider risk adjustment beyond clinical adjustment. While it is obvious that factors such as patients functional status should be risk adjusted, it may be reasonable to include socioeconomic and demographic factors in any final risk adjustment methodology. For example, barriers to accessing healthcare services (such as living in a rural area) may appropriately be included in a risk adjustment calculation.
+
+ASTRO understands the complexity around developing appropriate and accurate risk adjustment and attribution methodologies. The agency will need detailed clinical input from across medical specialties to improve risk adjustment and attribution going forward, and we urge CMS to utilize its clinical committees to develop these methodologies. CMS will also need to consider a strategy that is not overly burdensome and dependent upon physicians collecting and documenting a significant amount of information and data.
+
+The draft list does not currently include specifications for episode sub-groups (a sub-group is intended to achieve greater clinical comparability and is a subdivision of an episode group that further refines the specifications of episode trigger codes and grouping rules to yield more clinically homogenous cohorts of patients with similar expected cost). An example is an episode group for spine surgery with sub-grouping for number of levels and anatomic location. CMS solicits public comment on these draft episode groups and potential sub-groups.
+
+
+
+
+ASTRO has noted that CMS intends to explore Oncologic Disease Management  Medical and Surgical as a future Clinical Subcommittee. The appropriate use of radiation is an essential component (along with surgery and systemic drug therapy) in the management of oncologic disease. It is appropriate that the proposed Clinical Subcommittee on Oncologic Disease Management include Medical, Surgical and Radiation Oncology in the charge and that physicians from each specialty be called upon to participate.
+
+The American Cancer Society estimates that there were 1.7 million new cancer cases in 20161. Of those cancer patients, 250,000 were diagnosed with breast cancer; 225,000 were diagnosed with lung cancer; 181,000 were diagnosed with prostate cancer; 95,000 were diagnosed with colorectal cancer; and 72,100 were diagnosed with head and neck cancer. Medicare SEER data analysis indicates that, of the Medicare patients receiving radiation therapy, 83 percent had one of five primary disease sites, which accounts for 93 percent of the total Medicare spend on radiation therapy services between 2007 and 20112.
+
+ASTRO looks forward to engaging with the agency on the development of episodes, particularly for the primary disease sites listed above, as we believe these sites cover the largest portion of the Medicare patient population fighting cancer.
+
+CMS is especially interested in comments regarding methods to align quality of care with cost measures and welcomes recommendations and suggestions. Considerations for aligning episode groups with quality measurement are described in this document, but are not intended to be an exhaustive list of options. We welcome comment on these methods, as well as any other strategies that could be used to align quality of care considerations with cost measures.
+
+ASTRO has given serious consideration to the intersection of cost and quality, specifically how adherence with clinical guidelines can improve quality of care and reduce unnecessary costs. ASTROs RO-APM is built around guidelines adherence as a proven methodology for improving care and reducing the cost of care. We believe a similar approach can be used in the development of episode groups. Quality measures can be derived from evidence-based guidelines that ensure that appropriate care is delivered and costs savings are achieved. By starting with episodes that are easily defined by existing processes of care and clinical guidelines, CMS is more likely to achieve its intended goal of instituting a value based payment system.
+
+CMS wishes to avoid any unintended consequences of using cost measures in MIPS, and seeks comment on issues of concern in this regard, such as taking steps to avoid disadvantaging clinicians who assume the care of complex patients such as by applying episodes for comparison of complex patients (i.e., comparison of like-patients of different clinicians).
+
+As previously mentioned, CMS should develop episode groups that clearly define and attribute responsibility for care to physicians that they can reasonably control. ASTRO also urges CMS to include risk adjustments that address multiple chronic conditions. The Agency should also establish a stop-loss policy that would prevent harming the physician financially for taking on complex cases with multiple chronic conditions. Lastly, it is critical that any future Oncologic Disease Management Clinical Subcommittee include radiation oncology.
+
+
+
+1 Cancer Facts & Figures 2016, American Cancer Society,
+
+https://old.cancer.org/acs/groups/content/@research/documents/document/acspc?047079.pdf
+
+2 Chen MD MPP, Aileen, et al., Medicare Spending in Cancer: A SEER?Medicare Analysis, Dana?Farber Cancer Institute, Boston, MA, 2016
+

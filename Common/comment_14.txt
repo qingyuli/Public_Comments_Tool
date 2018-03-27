@@ -1,0 +1,216 @@
+
+The American Society of Cataract and Refractive Surgery (ASCRS) is a medical specialty society representing nearly 9,000 ophthalmologists in the United States and abroad who share a particular interest in cataract and refractive surgical care.
+
+Thank you for the opportunity to provide comments on the Episode-Based Cost Measure Development for Quality Payment Program (QPP). We have provided comments on two previous requests for information related to episode-based measures and our members have participated in technical expert panels convened by CMS on this topic.
+
+We are pleased that many of the recommendations ASCRS has made are considered and reflected in this most recent document. CMS now seems to recognize that major changes are needed to the attribution and risk adjustment of the models to ensure they are reliable, credible, well understood by physicians, and do not pose any threats of adverse selection on patient care.
+
+Due to this identified need to test and improve these measures, our chief recommendation is that CMS significantly narrow the scope of the effort to develop new measures and limit an initial test phase to just a few conditions or procedures before expanding to the development of measures for all procedures and conditions identified in the most recent posting. There is significant work to be done to address the attribution and risk adjustment, and CMS still has not proposed how these measures will be factored into a physicians cost score. Furthermore, we encourage CMS to consider how the administrative efforts and the time spent to update clinical processes to adapt to these measures may contribute to practices already heavy regulatory burdens. Physicians and practices should not be required to make these adjustments until they are confident the cost measures are refined and will accurately measure the cost of care they provide. Until these issues can be addressed, CMS should only proceed with a limited test group of measures.
+
+Care and deliberation must be taken to ensure that the episode groups reflect the following:
+
+ The attribution methodology appropriately holds physicians responsible for the cost of care they themselves provide and control.
+
+ Episode-based measures must be adequately risk-adjusted to ensure the sickest patients do not lose access to care.
+
+
+ There must be an identified need to improve clinical practice and reduce disparities in the quality and cost of care to create an episode measure. For example, when controlling for major ocular co-morbidities there is very little cost variation in cataract surgery, other than the site of service.
+
+ The methodology for determining cost should be flexible to allow for choice of a treatment option that is best for the patient and will lead to a potentially better outcome, rather than determine a resource use score solely based on the cost of that care. In some cases, such as when treating glaucoma, a relatively higher one-time cost of selective laser trabeculoplasty (SLT), may result in better outcomes for the patient and ultimately save more to Part D for discontinuing the use of eye drops.
+
+ Recognize that existing co-morbidities, socioeconomic factors, health condition, patient compliance, and health disparitiesall outside the physicians controlcontribute to the type and cost of treatment patients receive, as well as their outcomes.
+
+ The measures must reflect the site of service for a procedure, since facility payments for cataract surgery performed in HOPDs are more than 40% higher than for those done in ASCs. In most instances, where the surgery is performed is out of the physicians control.
+ The measures must exclude the cost of Part B drugs administered in the office, since physicians cannot control the cost of the drugs.
+
+ CMS must demonstrate how or if these measures will be applied in conjunction with existing measures, such as Medicare Spending per Beneficiary and Total Cost per Capita.
+
+ Please find, below, general comments on the development of the episode groups and direct comments on each of the ophthalmology related proposals.
+
+ASCRS CONCERNS WITH TIMELINE, SCOPE, AND IMPACT OF EPISODE GROUPS
+
+As we noted above, we appreciate that this new proposal begins to take many of our previous comments into consideration and attempts to include in the methodology elements to improve attribution, episode construction, and risk adjustment. Even though CMS has recognized the breadth and diversity of the care Medicare beneficiaries receive, it seems like the work done on addressing these issues is superficial and not yet ready for implementation. This is particularly disturbing now that the list of episodes covers nearly every condition, procedure, and specialty numbers into the hundreds. We warn CMS that without proper testing before implementation, Medicare beneficiaries access to care could be put at severe risk.
+
+We also advise CMS not to disregard our concerns about adverse selection and the possible unintended consequences of a model that is too punitive and could limit access to care for the most complicated and sickest patients. If the resource measures are not properly risk-adjusted, physicians will be disincentivized from providing costlier and riskier care to patientswhich, in ophthalmology, may include efforts to keep a patient from going completely blindbecause they know they will be penalized. Physicians must not be forced to choose between upholding their ethical duty to provide care for their patients and the need to keep their practices financially sound.
+
+We propose that CMS and its contractors re-focus this project on a limited number of procedures or conditionsperhaps just one or two episodes from each category (inpatient, procedural, chronic)and ensure they are adequately tested and risk adjusted to demonstrate to the medical community that the measures are credible, will not result in loss of access to care, and can be scaled up to include a wider range of conditions and
+
+
+
+procedures. In addition, CMS must demonstrate how these measures will be benchmarked and eventually tie into a physicians MIPS score.
+
+Additional Development of Attribution and Risk Adjustment Models Necessary
+
+ As noted above, ASCRS appreciates that CMS has taken our concerns about risk adjustment, patient attribution, and possible adverse selection into consideration and included them in the request for information. In addition, we appreciate CMS efforts to make the process to develop these measures more transparent with the ongoing opportunities to provide input through technical expert panels and listening sessions. In earlier comments on episode proposals, we expressed concern that the medical communityand, in particular, the medical specialty communitywas not adequately involved in the development. By including us in the process and responding to our feedback, this most recent request for information begins to incorporate how these issues will be addressed in the episodes. However, this proposal includes very few details for how CMS and its contractor will work to overcome these impediments to fair and accurate measurement.
+
+ The request for comments notes that CMS is interested in receiving feedback on methods to attribute episodes to individual physicians and risk adjust the episodes. In our past comments, ASCRS has given many examples of how to fairly attribute costsso as not to hold physicians accountable for care they did not provide or could not influenceand noted that excluding patients with major ocular co-morbidities in a manner similar to existing quality measures would be a good starting point to ensure the sickest patients do not lose access to care. However, none of those suggestions are fleshed out in this request for information, and it is unclear how CMS plans to operationalize creating these methodologies. Simply acknowledging that a better attribution process and risk-adjustment method are needed is not sufficient for ASCRS or others to provide relevant feedback to ensure CMS and its contractor are on the right path.
+
+ We continue to urge that CMS re-focus its efforts on a much shorter list of episodes to ensure sufficient time and effort are devoted to addressing issues with attribution and risk adjustment. We recommend that CMS create a pilot program for these episodes using historical data from claims and clinical data registries to demonstrate clearly how episodes will be attributed to physicians, how high-risk patients with costlier treatments will be measured or excluded, and how the data will be used to score the physician before proceeding with developing episodes for all the conditions and procedures listed in the most recent document.
+
+ Given the extensive work yet to be done on these episodes, we also urge CMS to extend the current 0% weight of the Cost category of MIPS at least through the 2018 performance period/2020 payment year. Under the MACRA statute, CMS may re-weight the four categories of MIPS. Following our recommendations in comments on the MIPS and Advanced Alternative Payment Model (APM) proposed rule, CMS re-weighted the Cost category for the first year to zero, since the proposed measures relied on a flawed attribution methodology and episode-based measures were un-tested. The statute also gives CMS ability to consider the second year of the program a transitional year. Extending the 0% weight for the Cost category would give additional time to develop and test the new episode measures.
+
+ We urge CMS not to lose sight of ensuring the measures are valid, tested, and understood before continuing with the current implementation timeline. It is more
+
+
+important to ensure the measures are correct than implemented quickly. CMS has yet to propose how the measures will be scored, and until physicians have time to understand how the measures will impact their scores, they should not be included in the final MIPS score calculations.
+
+Education for Physicians and Practices
+
+ Not only do we believe the episode groups need extensive testing, far more outreach toand education forphysicians and practices on these groups is necessary. We realize that CMS has made supplemental quality and resource use reports (QRURs) available to physicians with a demonstration of how their practice would be attributed costs under the Method B cataract episode. However, the existence of the reports was not well publicized, and it is extremely difficult for practices to find online, as well as difficult for the average physician not familiar with this effort to interpret. We encourage CMS to calculate what percentage of physicians have downloaded these reports to determine to what extent physicians may be familiar with existing cost measures. Further, even our physician members who volunteer their time for ASCRS and medical community public policy effortsincluding the development of episode measuresand who have a greater knowledge of current health policy issues find these reports to be beyond their understanding. ASCRS recommends that CMS conduct extensive testing and training to ensure resource use reports are understandable, user friendly, and actionable before implementing these episode groups to ensure physicians understand how they will be used to measure resource use.
+
+ATTRIBUTION AND EPISODE CONSTRUCTION
+
+ASCRS has long opposed CMS existing policies for attributionfirst as part of the Value-Based Payment Modifier (VBPM) and then continued in the MIPS programbecause the measures are primary care-based and potentially hold certain physicians, particularly specialists such as ophthalmologists, responsible for care they did not provide. We continue to believe episode-based measures hold the promise of more fairly attributing the cost of specialty care, but maintain that only costs that are within the physicians control should be evaluated.
+
+ The episodes must be formulated to account for the total cost of care attributed to that condition for the patient and recognize that, particularly in specialized care such as ophthalmology, the type, length, and outcome of the treatments can vary widely. Some treatments may be more expensive than others, but they may be the correct treatment for that patient and lead to a better outcome. For example, a patient whose visual loss is no longer progressing will be able to live a happier and more independent life, with fewer costs to society. However, it is difficult to measure the satisfaction and savings of the individualized treatment plan for that patient in relation to a treatment for a different patient with different needs. Alternatively, the sickest patients with the most severe disease states often require the costliest treatments, and due to the severity of the disease, may have a higher likelihood of poorer visual outcomes. Physicians who are using their clinical judgement to provide a specialized course of treatment for a particular patientsuch as an ophthalmologist striving to prevent a patient from going totally blindshould not be penalized for working to find the right treatment for their patients. We are concerned that the current proposals would do just that.
+
+
+
+
+ CMS must clearly define how costs will be attributed to specific physicians based on these episode groups, and how they will be used to measure resource use. Ophthalmology is one of the few specialties that provide both ongoing medical care as well as episodic surgery, and as such, ophthalmologists have a variety of treatments to treat both chronic disease and acute episodes. Due to this range in the type of diseases and treatments offered, ophthalmologists might have a disincentive to offer only the least expensive form of treatment. For glaucoma patients, for example, some patients may be well managed using drops but would benefit from surgery. However, if cost is only measured in discreet time periods within the episode window, this creates an incentive to keep the patient on drops and not perform the surgery. While the surgery may increase the cost of the treatment in the immediate term, maintaining the patients regimen of drops for the chronic disease would be far costlier to Medicare in the long term. For example, a 2012 study found that the savings of performing laser trabeculoplasty (LTP) as opposed to continuing a course of generic topical prostaglandin analogs (PGAs) are realized in 13.1 months.1 Another 2012 study estimated that LTP provided a cost saving of $2,645 per quality adjusted life year compared to PGAs.2 The savings, not only to
+
+Medicare, but for the potential improved quality of life for the patient, are significant. However, if resource use measures are only based on the cost of one-time episodes, such as a surgical intervention, and do not take a holistic view, especially when considering the ongoing costs of caring for chronic disease over time, physicians could ultimately be penalized for providing care that may cost more in the immediate term, but have lasting savings over the long term.
+
+ We encourage CMS to incorporate the patient relationship modifiers into the development of the episodes to provide prospective attribution. The patient relationship modifiers ensure physicians know which patients cost of care they are responsible for, and can therefore develop courses of treatment and monitor patients in an appropriate way to impact cost scores. In the request for comments, CMS mentions that efforts to develop the patient relationship modifiers are underway and may be used in attribution for the episodes in the future. We urge CMS to combine efforts to develop the patient relationship codes and episodes at the same time, so that the modifiers can be incorporated into the attribution process for the episodes at the beginning, rather than having to further refine the episode measures later.
+
+ The site of servicewhich is not always in the physicians controlshould be accounted for in the attribution methodology. Physicians practicing in one type of facility should only be compared to other physicians practicing in the same type of facility. Ophthalmic surgery can be performed in either hospital outpatient departments (HOPDs) or ambulatory surgery centers (ASCs). The facility reimbursements for ASCs are well below HOPDs. Cataract surgery, for example, is reimbursed 45% less in the ASC than in the HOPD. While some ophthalmologists have the option of building and owning their own ASC, state certificate of public need laws prevent some physicians from opening new ASCs, so they may be forced to operate in HOPDs. In addition, some physicians, especially sole practitioners, may not have the resources to construct and manage their own ASC, and must operate in whatever facility, either ASC or HOPD, is available. In feedback provided as part of the clinical TEP process, we and other ophthalmic groups recommended that separate episodes be created for each site of service, so that cost comparisons are equitable; however, we do not see that recommendation reflected in the current request for information. Despite these limitations and given the choice, ophthalmic surgeons would likely prefer to operate in the lower
+
+
+
+cost ASC. ASCs are not subject to the same requirements as HOPDs, such as extensive pre-operative testing, that are not relevant to treating ophthalmic disease. In addition, patients may prefer to undergo surgery in ASCs, since they are easier to navigate. Ophthalmic surgeons want to make the cost-effective choice, but cannot always do so.
+Given that, the episodes must take site of service into account by only comparing the cost of episodes that were performed in the same type of facility, since the site of service is not always in the control of the physician.
+
+ ASCRS recommends that CMS exclude the cost of Part B drugs from episode measures. The price of certain drugs administered in the office is rarely in the physicians control, and other optionsespecially compounded or repackaged drugsmay not be available. Ophthalmologists, both in general practice and retina subspecialties, frequently use intravitreal injections to treat diabetic retinopathy and age-related macular degeneration (AMD). On-label use of bevacizumab packaged for ophthalmic use to treat AMD costs in the tens of thousands of dollars over the course of the treatment, and means high out-of-pocket costs for patients. Off-label use of repackaged bevacizumab is much less expensive. While recently updated draft guidance from the FDA would make the repackaging of bevacizumab more feasible, it is concerning that physicians could potentially be penalized for prescribing on-label drugs, and that CMS is thereby indirectly requiring the use of off-label drugs. Episode measures should not include Part B drugs to ensure patients receive the drugs they need, and so that physicians are not forced to use off-label drugs.
+
+ Throughout the request for comments, CMS notes its goal of developing measures that provide actionable information to physicians. ASCRS strongly supports the goal of actionable information. The current resource use measures may include the cost of care that the individual physician did not provide to the patient, and information related to a physicians cost calculationprovided in obtuse and not easily accessed reportsis not available until almost a year after the performance period ends, which all proves to be nearly useless to physicians and practices seeking to improve clinical care and administrative efficiencies. We are encouraged that CMS is seeking to make these measures more meaningful and actionable; however, if factors such as site of service and the cost of Part B drugs are included in the calculations, cost measure data will not be useful or actionable.
+
+ The framework for determining resource use should also account for the severity of the patients disease, which impacts the type and cost of care a physician may provide. As mentioned above, the sickest patients often need the most expensive treatments anddespite the concentrated effort of the physicianmay not have positive outcomes. If the resource use methodology penalizes physicians for providing costlier and riskier care, this may pose a threat to access to care for the sickest patients, since physicians would be disincentivized to provide the most specialized care.
+
+ Physicians should not be attributed the costs of care that they, or other physicians, are required to provide due to such issues as patient compliance or socioeconomic factors, which are beyond their control. For instance, patients with diabetic retinopathy can be treated with injections or laser treatments, but if the patient does not seek to control the progression of the underlying disease of diabetes, the diabetic retinopathy will continue to worsen. If the patient lives in an area without access to grocery stores with fresh fruits and vegetables, or cannot or will not exercise, his or her disease will continue
+
+
+
+to progress. Patient compliance can have an impact on the progression of the disease, and ultimately the cost of care. Similarly, patients suffering from other chronic eye disease, such as glaucoma, may have difficulty attending regular doctors appointments for pressure checks and may not always be able to follow the prescribed treatment of eye drops. The ophthalmologist treating this type of patient should not be penalized for providing the more expensive care when the patient could not comply with the original course of treatment.
+
+ There are also a variety of socioeconomic factors that impact overall care for certain patients. For example, lower income patients or patients in rural areas may have difficulty making regularly scheduled appointments if they do not have access to reliable transportation or must travel longer distances. In addition, older patients have mobility issues and rely on other caregivers to bring them to the physicians office. In general, ophthalmologists tend to treat older Medicare patients, who may not have the manual dexterity required to administer their medicated eye drops. Poor adherence to the course of treatment can lead to poor visual outcomes. All of these factors can impact their ability to receive regular care, as well as the ultimate cost of care, and should not be attributed to the physician.
+
+ Physicians also should not be attributed the extra costs for treatments required due to other care the patient is receiving from other physicians. For instance, if a cataract patient is prescribed Tamsulosin by a primary care physician, that patient will likely require the use of iris retractors during cataract surgery, leading to the use of the complex cataract surgery code 66982, reimbursed at a higher value than cataract surgery, 66984. It is not currently possible to determine how those costs would be attributed from the proposed episode groups.
+
+ The attribution model must account for co-management of post-surgical care by multiple physicians. Frequently in ophthalmology, an ophthalmologist may perform the surgery, but post-surgical care is provided by another ophthalmologist or an optometrist. This arrangement is at the request and consent of the patient, and is generally done so patients can maintain a relationship with an existing provider or because they may need to travel some distance for the surgery and may prefer not to travel for follow-up care. Billing for co-managed post-surgical care is done using the 54/55 modifiers and under current episode measures finalized in the MIPS rule, all costs are attributed to the surgeon. Episode-based measures must also attribute costs appropriately to all physicians providing care throughout the episode.
+
+RISK ADJUSTMENT
+
+ASCRS has significant concerns regarding risk adjustment and the method CMS will use for these episode groups. Throughout quality reporting and resource use programs, CMS has not determined how to adequately adjust for patients with certain co-morbidities and risk factors. In this most recent request for comments, CMS devotes only two paragraphs to discussing risk adjustment and seeks comments on developing a methodology. ASCRS and others in the ophthalmic community have always maintained, and we will reiterate below, that the methodology should be based on the exclusionary criteria from ophthalmic quality measures, which remove patients with relevant ocular co-morbidities from calculation. While these exclusions are necessary, additional work must be done to ensure that vulnerable patient populations, with factors outside the physicians control, do not lose access to care because of these measures. The lack of work done by CMS and its contractors in developing such a methodology is yet another reason why the entire episode
+
+
+
+measure project should be more narrowly focused at first, so that these issues can be addressed.
+
+ Without an accurate risk-adjustment methodology, CMS risks creating a system that encourages the care of less severe and uncomplicated patients and discourages the care of the sickest, most complex patients. This prioritization goes against our members ethics as physicians and must be prevented.
+
+ The patients ability to comply with the prescribed treatment, and socioeconomic factors, also affect the cost of care. We are not aware of any models that adequately adjust for risk factors outside of the physicians control. Episode measures must incorporate appropriate risk adjustment so physicians are not penalized for factors they do not control. As we have discussed above, patient compliance, health disparities, and socioeconomic factors may all have a significant impact on the cost of the care and the outcome. To ensure that the cost of care due to these factors beyond the control of the physician are not attributed when determining resource use, CMS must develop a transparent and robust risk adjustment model.
+
+ Without an appropriate risk adjustment model, the sickest patients, who may require more advanced courses of treatment, may have limited access to the care they require. Occasionally with cataract surgery, if a surgeon sees a patient whose case has a high likelihood of complication, the surgeon may send the patient to another cataract surgeon with more expertise in high-risk cases, or a cataract surgeon who also has a retinal surgeon in his or her office in case of complications. If risk adjustment is not done correctly, the providers accepting the high-risk cases will get penalized for consistently seeing more complicated cataract cases.
+
+ Ophthalmologists treat diverse patient populations nationwide. One physicians patient base in one area may be on average younger and more able to access care and comply with treatments, while another ophthalmologist in another area may have relatively older, less mobile patients who have difficulty attending regular appointments or lack manual dexterity to apply eye drops. Without acknowledgement of diverse patient populations, the sickest and most vulnerable patients, whose care is often the most complex and expensive, are at risk of losing access to care. Some cataract surgeons do enough procedures to avoid the problem of adverse risk selection, while others do not and may choose to see lower-risk cataract patients to avoid being penalized for the extra resources needed to treat high-risk cataract patients. Choosing a course of treatment for a patient so as not to adversely impact a resource use score becomes a difficult ethical dilemma for a physician who wants to uphold his or her sworn duties. However, if a physician does not keep these considerations in mind, it may impact the overall viability of his or her practice, and thereby the ability to care for other patients. Not only would this situation place physicians in an ethical quandary, the day-to-day task of monitoring the cost of care for each patient will add considerably to the already heavy regulatory burdens physicians face. If cost measures are not developed with appropriate risk adjustment, the physicians who care for the most complicated and sickest patients, who are most likely to have a poorer outcome, will be more likely to be penalized. If physicians know that treating certain high-risk patients may negatively impact their resource use scores, they may choose not to treat those patients. Further, all patients are at risk of limited care if, prior to treatment, a physician is forced to make individual cost calculations to estimate how the patient may affect his or her cost score.
+
+
+
+Include Quality Measure Exclusions
+
+ One way CMS should begin developing risk adjustment models is to account for co-morbidities identified as exclusionary criteria in the quality measures already in use in the QPP. For example, Measure 191, Cataracts: 20/40 or Better Visual Acuity within 90 Days Following Cataract Surgery, notes that patients with documentation of more than 50 different significant ocular conditions, reflected in hundreds of possible ICD-10 diagnosis codes, are excluded from the measure calculation. The exclusions include conditions such as diabetic retinopathy, macular degeneration, and glaucoma.
+
+ These types of ocular conditions can complicate cataract surgery and may require the use of more resources to treat adequately. For example, patients taking Tamsulosin or similar medications often have complications requiring further surgery, such as vitrectomy.
+Furthermore, those patients very frequently require the use of iris retractors, leading to the use of code 66982 instead of the usual 66984. Therefore, patients with these significant ocular conditions should be excluded from episode groups used to measure resource use. It would not be fair to compare cases with these significant ocular conditions to less complicated cataract surgeries.
+
+COST CATEGORY SCORE
+
+Not only has CMS not provided adequate details to evaluate the attribution and risk adjustment for these measures, there still has been no complete proposal to demonstrate how the cost data will be factored into a measure, and then calculated to determine the physicians score. Without a specific proposal, and credible results from pilot testing, it is impossible to evaluate the ultimate impact and fairness of these measures. We understand that CMS plans a phased approach to building procedural and conditions-based episodes, however the development of new episodes will begin before other episodes are complete and tested. We urge CMS to listen to our recommendation to narrow the scope of this project considerably and complete and test a small number of episodes before moving forward on such an extensive list of episodes.
+
+Relation to Current Cost Measures
+
+ As noted above, ASCRS has long opposed the current cost measures in MIPS Medicare Spending per Beneficiary and Total Cost per Capitathat were retained from the VBPM. The attribution methodology of these measures potentially holds physicians accountable for the cost of care they did not provide. There has been no clarification of whether these measures will still be used as part of physicians cost scores if they have one or more types of episode measures attributed to them, or if they will be used when no episodes are attributed. We continue to oppose the inclusion of these measures and urge that they not be used even if no other episode measures are attributed to the physician.
+
+Overlapping Episodes
+
+ The measure developers have noted that a key factor in accurately attributing the cost of care for a patient who may be suffering from several chronic conditions and/or has received several procedural treatments is to open several different overlapping episodes. While we support the effort to attribute the cost of, for example, an orthopedic procedure to an orthopedic surgeon during an unrelated open ophthalmic episode, it is unclear how these overlapping episodes will be weighted to determine cost.
+
+
+
+If an ophthalmologist is both treating a patient for diabetic retinopathy and performs cataract surgery, how will the existence of the two ophthalmic episodes factor into the ophthalmologists cost score? CMS must provide a comprehensive proposal for calculating and scoring costs, and allow for input from relevant stakeholders before moving forward with this effort.
+
+Ongoing Maintenance and Updates of Episode Measures
+
+ We urge CMS to develop a process that incorporates input from specialty societies to update and maintain episode measures to keep pace with new treatments, drugs, and devices. We urge CMS to recognize that new treatments and medical products have the potential to improve patient outcomes. However, if episode measures are not updated, or are too punitive, it could deter physicians from innovating and exploring new treatment options. Frequently, innovative procedures or medical products are more expensive than existing options, but they may offer better outcomes. If physicians know that the cost of the new treatment may adversely affect their cost scores, they will be less likely to seek out and use new techniques or products. Similarly, drug and device manufacturers will be less willing to seek approval for new products if they know physicians will be penalized for using them. Cost measures must be regularly updated with input from relevant specialists to reflect the cost of new treatment options and ensure they do not put a chilling effect on medical innovations.
+
+We reiterate our recommendation that the cost category of MIPS be weighted at 0% again for the 2018 performance period and 2020 payment year to give time to develop a more thorough proposal and allow for testing and medical community feedback.
+
+ROUTINE CATARACT REMOVAL WITH IOL IMPLANTATION EPISODE GROUP No Identified Gap in Cost or Quality of Cataract Surgery
+
+ASCRS continues to caution CMS that complications after cataract surgery are extremely rare. There is very little differentiation among cataract surgeons both for cost and in outcomes. Cataract surgery is reimbursed under Medicare Part B with a 90-day global period physician fee and a facility payment to either an ASC or HOPD. When complications, but also variations in outcome occur, it is often due to patient co-morbidities, such as diabetes, glaucoma, macular degeneration or retinal disorders, or other significant pre-existing health issues. There have not been demonstrated gaps in the quality, cost, or access to care. In the last 50 years, since the advent of phacoemulsification, ophthalmologists have made tremendous strides in improving cataract surgery so that complications are relatively rare. While still an intensive procedure requiring the special skill of ophthalmologists, the medical innovation of the last half-century means that patients will have a reliable assurance that the outcome of their surgery will contribute positively to their overall well -being. We contend that when episodes are properly risk-adjusted and patients with ocular co-morbidities are excluded, there will be very little variation in cost and quality to measure, and thereby evaluate, a physicians resource use.
+
+CMS lays out several criteria for selecting episode groups in the request for comments, including share of Medicare expenditures, opportunity for improvement, clinician coverage, and alignment with quality measures. As the number one Medicare-reimbursed procedure, cataract surgery represents a significant share of Medicare expenditures. The high incidence of cataracts in older adults has allowed ophthalmologists to hone surgical techniques and clinical processes to the extent that the procedure has a very low complication rate and very
+
+
+
+little cost differential. As mentioned above, complications are generally due to ocular co - morbidities, and site of service is generally the determining factor in the cost of cataract surgery. The facility fee for a hospital outpatient is significantly higher than for an ambulatory surgery center. Depending on the location, an ophthalmologist may not be able to choose where to perform the surgery. It is likely that when proper risk adjustment is applied, and different measures are used to compare surgeries performed in the two different facilities, there will not be a significant cost or quality differential. CMS must resolve these issues and develop a proposal for measuring cost that would meaningfully measure the cost of care.
+
+Trigger Codes Included in Cataract Surgery Episode Group
+
+ We support the use of CPT code 66984 as the only relevant code that should be used as a trigger for a cataract episode group. Including other codes, such as complex cataract surgery, 66982, will not yield comparable enough data to measure a physicians resource use accurately.
+
+ We reiterate our recommendation that CMS create two cataract episode groups one for procedures performed in ASCs and the other in HOPDsso that surgeons are only compared to others practicing in the same type of facility.
+
+Episode Window and Grouping of Services Unrelated to Cataract Surgery
+
+ ASCRS believes that the episode window should be aligned to the current global period of one day prior to surgery to 90 days post-op. We caution CMS that a longer episode window might include services unrelated to cataract surgery.
+
+ The ophthalmic community recommends that most preoperative testing, such as electrocardiograms or blood glucose tests, is only needed if there are signs indicating a need for it. However, many hospitals or surgical centers still require this preoperative testing. The additional testing costs should not be attributed to the cataract surgeon, since those are often requirements of the hospital or surgical center. Separate episode groups for HOPDs and ASCs would help resolve this issue so that physicians who have no choice but to practice in the HOPD would not be unfairly compared to surgeons practicing in ASCs, who may not require these tests.
+
+ In addition, CMS should ensure that laterality is considered. Cataract surgery is unique in that patients often require cataract surgery in both eyes within a short period. The second surgery is often performed within 30 days of the first, but since it is a separate surgery, performed on essentially a different organ, the costs for each individual surgery must be recognized. CMS should ensure that both eyes are accounted for as it moves forward with a cataract episode group.
+
+Costs Related to Cataract Surgery
+
+ There are some costs related to cataract surgery that would need to be accounted for in the episode groups. CMS should carefully determine whether each of these costs should be attributable to the cataract surgeon. These could include the preoperative testing addressed above, anesthesia charges, drug charges, and facility charges. Surgeons may choose to use different types or levels of anesthesia, or may be required to use a specific method due to the requirements of a facility where they operate. In addition, the cost of the intraocular lens is part of the facility fee and should not be included separately.
+
+Developing separate episodes for each type of facility where cataract surgery is performed will assist in assuring that physicians are not penalized for costs that are beyond their control.
+
+
+
+Related Quality Measures
+
+ As noted above, the episodes should align with the current quality measures related to cataract surgery. The exclusionary criteria in the measures is a first step in building a risk-adjustment methodology that will prevent physicians from being penalized for factors outside their control, such as co-morbidities.
+
+ We urge CMS to align the cost measures with the following cataract quality measures: o Measure 191: Cataracts: 20/40 or Better Visual Acuity within 90 Days Following
+Cataract Surgery
+o Measure 192: Cataracts: Complications within 30 Days Following Cataract Surgery Requiring Additional Surgical Procedures
+
+o Measure 303: Cataracts: Improvement in Patients Visual Function within 90 Days Following Cataract Surgery
+
+o Measure 304: Cataracts: Patient Satisfaction within 90 Days Following Cataract Surgery
+
+o Measure 388: Cataract Surgery with Intra-Operative Complications (Unplanned Rupture of Posterior Capsule Requiring Unplanned Vitrectomy)
+
+o  Measure 389: Cataract Surgery: Difference Between Planned and Final Refraction
+
+DIABETIC RETINOPATHY EPISODE GROUP
+
+ASCRS and other ophthalmic organizations who participated in the Fall 2016 Clinical TEP are disappointed that we were not given the opportunity to review this episode group, under the Diabetes episode group, as part of the TEP process. We were not given access to other specialties episodes and are concerned that this episode did not receive proper consideration from ophthalmic experts. We oppose the inclusion of this episode group until ophthalmologists are given the chance to review the trigger codes as part of a clinical TEP, and CMS completes the test phase on a limited number of episodes as we recommended previously.
+
+ We reiterate our recommendation to remove the cost of Part B drugs administered in office from cost scores. Current treatments for diabetic retinopathy rely heavily on intravitreal injections, specifically bevacizumab. We reiterate our concerns that without excluding Part B drugs, CMS is incentivizing the use of the cheaper, off-label repackaged preparation of the drug. Further, since physicians do not control the price of any Part B drug, they should not be included at all. If physicians are penalized for the cost of Part
+
+B drugs, it could lead to Medicare beneficiaries reduced access to these sight-saving drugs.
+
+CONCLUSION
+
+We appreciate the opportunity to provide comments on this request for information on episode groups. We believe that the input CMS receives from the medical community will ensure that the models accurately and fairly measure cost. While this request for information begins to identify the myriad issues related to attribution, risk adjustment, possible unintended consequences, and scoring, we still are not confident that CMS recognizes the enormity of the task ahead to deal with all these issues for such a broad and diverse set of procedures and conditions. We urge CMS to step back and refocus this effort to building and testing a limited number of episodes, with additional emphasis on addressing attribution and risk
+
+
+
+
+adjustment and developing a comprehensive proposal for how the measures will be scored before proceeding.
+
+1 Seider MI, Keenan JD, Han Y. Cost of Selective Laser Trabeculoplasty vs Topical Medications for Glaucoma.
+Arch Ophthalmol. 2012;130(4):529-530. doi:10.1001/archophthalmol.2012.355.
+2 Stein JD, Kim DD, Peck WW, et al. Cost-effectiveness of medications compared with laser trabeculoplasty in patients with newly diagnosed open-angle glaucoma. Arch Ophthalmol. 2012; 130:497-505.
+

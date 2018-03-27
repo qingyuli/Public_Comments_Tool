@@ -1,0 +1,194 @@
+
+On behalf of the American Gastroenterological Association (AGA), I am pleased to provide comments on the Centers for Medicare & Medicaid Services (CMS) Episode-Based Cost Measures for the Quality Payment Program report and draft list of episodes and associated trigger codes. AGA is the trusted voice of the gastroenterology community. Founded in 1897, AGA includes more than 16,000 members from around the globe who are involved in all aspects of the science, practice, and advancement of gastroenterology.
+
+The Medicare Access and CHIP Reauthorization Act of 2015 (MACRA) aims to reform how care is delivered and reimbursed under Medicare. AGA acknowledges that the Quality Payment Program (QPP) established under MACRA can benefit patients by improving care delivery and physicians by consolidating and streamlining existing programs, including the Physician Quality Reporting System (PQRS), the Value-Based Payment Modifier (VM) and the Electronic Health Records Incentive Program. In recent years, physicians nationwide have struggled to meet the
+
+
+
+requirements of these fragmented, highly technical and sometimes redundant programs, which, at times, has detracted from patient care. AGA encourages CMS to create the QPP in a way that enhances care, reduces costs and maximizes available resources. AGA shares your commitment to improving the value, quality, and delivery of health care for Medicare beneficiaries.
+
+To accomplish these goals, physician input is necessary. AGA members bring valuable perspectives to the implementation process by providing clinical expertise and real-world insights on ways to achieve higher levels of patient care. In March 2016, in response to an October 2015 request, we submitted comments on an initial set of episode-based cost measures. We appreciate CMSs continued efforts to seek input from stakeholders on the development of episode-based cost measures and look forward to your careful consideration of the comments herein.
+
+In the Episode-Based Cost Measures for the Quality Payment Program report, CMS reviews the cost measure development process and provides a draft list of episode groups and trigger codes that are intended to serve as a starting point for the future development of episode-based cost measures. CMS further indicates that the draft episode groups were identified using four criteria
+
+ (1) Medicare expenditure share; (2) opportunity for improvement; (3) clinician coverage; and
+
+(4) alignment with quality measures. Draft episode groups are categorized as either an acute inpatient medical condition, procedural, or chronic condition episodes.
+
+AGA's comments focus on six acute inpatient medical conditions, two procedural, and three chronic condition episodes (Table 1).
+
+Table 1. List of Episodes of Interest to AGA
+
+
+
+Acute Inpatient Medical Condition
+Cirrhosis & Alcoholic Hepatitis
+
+
+Acute Inpatient Medical Condition
+Disorders of the Biliary Tract
+
+
+Acute Inpatient Medical Condition
+Esophagitis, Gastroenteritis &
+
+Miscellaneous Digestive Disorders
+
+
+Acute Inpatient Medical Condition
+Gastrointestinal Hemorrhage
+
+
+Acute Inpatient Medical Condition
+Gastrointestinal Obstruction
+
+
+Acute Inpatient Medical Condition
+Major Gastrointestinal Disorders &
+
+Peritoneal Infections
+
+
+Procedural
+Diagnostic Colonoscopy
+
+
+Procedural
+Screening/Surveillance Colonoscopy
+
+
+Chronic Condition
+Chronic Liver Disease
+
+
+Chronic Condition
+Gastroesophageal Reflux Disease
+
+
+Chronic Condition
+Inflammatory Bowel Disease
+
+
+
+
+Acute Inpatient Medical Condition Episode Groups
+
+
+
+For each acute inpatient medical condition episode, CMS proposes that an episode would be triggered by Medicare-Severity Diagnosis Related Groups (MS-DRG). AGA has concerns with this approach. The MS-DRG is a statistical method used to classify hospital inpatient stays into groups for prospectively setting inpatient hospital payment rates. Although the MS-DRG framework requires patients within a DRG to be clinically coherent and to have similar resource intensity, variations and exceptions do exist within DRGs. Moreover, when establishing DRGs, clinical coherence and resource intensity are evaluated only in the context of an acute inpatient hospital stay. As such, patients assigned to the same DRG, although sufficiently similar for hospital payment purposes, may not be sufficiently similar either during the hospitalization or in the period after the inpatient hospital stay to be grouped in a single episode for cost measurement and comparison. Sub-groups will be required to improve the clinical homogeneity of patients within an episode and, thus, to improve the ability to make cost comparisons.
+
+The draft Cirrhosis & Alcoholic Hepatitis episode may be used to highlight clinical and resource heterogeneity within DRGs. Trigger codes for this draft episode are three MS-DRGs (432 Cirrhosis and Alcoholic Hepatitis with Major Complications or Comorbidities (MCC); 433 Cirrhosis and Alcoholic Hepatitis with CC; and 434 Cirrhosis and Alcoholic Hepatitis without MCC or CC). To be assigned to one of these three MS-DRGs, a patients inpatient hospital stay must be principally defined by one of 14 International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) diagnosis codes, most of which identify alcohol -related liver disease, including alcoholic hepatitis, fibrosis and sclerosis, cirrhosis, and hepatic failure. There are however, a few principal diagnoses for these MS-DRGs that do not result from alcohol use, such as primary biliary cirrhosis (K74.3)  destruction of the bile ducts of the liver usually due to an autoimmune disease  and secondary biliary cirrhosis (K74.4)  destruction of the bile ducts because of prolonged obstruction, narrowing or closure of the bile duct from a tumor or other causes. For hospital inpatient rate-setting purposes, primary and secondary biliary cirrhosis are similar enough to alcohol-related liver disease to be grouped together, but these conditions are not sufficiently similar clinically or with respect to costs to be grouped into a single episode for cost measurement and comparison. Moreover, because primary and secondary biliary cirrhosis have different etiologies, post-acute care for these two conditions also differ, suggesting that it may be inappropriate to group together patients with these conditions for cost comparisons.
+
+These concerns are not limited to the draft Cirrhosis & Alcoholic Hepatitis episode. Rather they apply to all the draft acute inpatient medical condition episodes of interest to AGA, including Disorders of The Biliary Tract, Esophagitis, Gastroenteritis & Miscellaneous Digestive Disorders, Gastrointestinal Hemorrhage, Gastrointestinal Obstruction, Major Gastrointestinal Disorders & Peritoneal Infections. In fact, this approach might be most problematic for the draft Esophagitis, Gastroenteritis & Miscellaneous Digestive Disorders episode, in which the proposed MS-DRG trigger codes (391 Esophagitis, Gastroenteritis and Miscellaneous Digestive Disorders with MCC and 392 Esophagitis, Gastroenteritis and Miscellaneous Digestive Disorders without MCC) have more than 200 principal diagnosis codes that capture a heterogeneous set of gastrointestinal conditions, such as infectious enteritis, gastroesophageal reflux disease, and diverticulitis. Using only MS-DRGs to define, measure, and compare costs is extremely problematic.
+
+
+
+As described, AGA is concerned that DRG triggered acute inpatient medical episodes are likely to result in heterogeneous clinical groups and inappropriate cost comparisons. This heterogeneity may be addressed by establishing clinical sub-groups and by ensuring measurement and comparison methods account for variability within the final episode groups. AGA urges CMS, its contractor, and the clinical subcommittees that will be tasked with developing cost measures to further evaluate whether DRGs are appropriate episode trigger codes and to examine how acute and post-acute care vary for conditions that share a DRG to understand if episode sub-groups are sufficient to address these concerns or whether a more granular approach to defining episodes may be needed.
+
+Procedural Episode Groups
+
+For each procedural episode group, CMS proposes that an episode would be triggered by one or more Current Procedural Terminology (CPT) or Healthcare Common Procedure Coding System (HCPCS) codes. AGA supports this approach and below provides detailed comments on two procedural episodes  diagnostic and screening/surveillance colonoscopy  and their associated draft trigger codes.
+
+Diagnostic and Screening/Surveillance Colonoscopy
+
+CMS has proposed two distinct procedural episodes for colonoscopy  diagnostic colonoscopy and screening/surveillance colonoscopy. However, information on how CMS defines and plans to distinguish between diagnostic and screening/surveillance colonoscopies is absent from the draft report and episode lists. AGA assumes that diagnostic colonoscopy is specific to colonoscopy performed because of an abnormal finding, sign or symptom (such as abdominal pain, bleeding, diarrhea, etc.) and that screening colonoscopy is specific to colonoscopy performed on an asymptomatic person for testing for the presence of colorectal cancer or colorectal polyps. We further assume that CMS intends to distinguish diagnostic colonoscopy episodes from screening colonoscopy episodes using diagnosis codes and or CPT or HCPCS modifiers. These assumptions influence the recommendations set forth below.
+
+Diagnostic Colonoscopy
+
+We recommend that CMS make several changes to the trigger codes for diagnostic colonoscopy:
+
+Exclude CPT code 45330 (Sigmoidoscopy, flexible; diagnostic, including collection of specimen(s) by brushing or washing, when performed (separate procedure)). Colonoscopy is defined as the examination of the entire colon, from the rectum to the cecum or colon-small intestine anastomosis, and, in certain circumstances, may include examination of the terminal ileum or small intestine proximal to an anastomosis. In contrast, sigmoidoscopy is defined as the examination of the rectum and sigmoid colon and, in certain circumstances, may include examination of a portion of the descending colon. Since, sigmoidoscopy is not colonoscopy, CPT code 45330 should not be included as a trigger code for diagnostic colonoscopy.
+
+Review inclusion of CPT code 45381 (Colonoscopy, flexible; with directed submucosal injection(s), any substance). This procedure is predominantly performed as a secondary procedure. Additionally, total 2015 Medicare volume was only 103,995. CMS, its contractor, and the Clinical Subcommittee should further examine the appropriateness of including CPT
+
+
+
+code 45381 as a trigger code for diagnostic colonoscopy by examining the frequency with which this procedure is billed as a standalone procedure.
+
+Exclude CPT code 45383 (Colonoscopy, flexible; with ablation of tumor(s), polyp(s), or other lesion(s) not amenable to removal by hot biopsy forceps, bipolar cautery or snare technique). CPT code 45383 has been deleted, is no longer valid for billing and payment purposes, and as such, should not be included as a diagnostic colonoscopy trigger code.
+
+Include CPT code 45388 (Colonoscopy, flexible; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre- and post -dilation and guide wire passage, when performed)). Procedures previously reported using CPT code 45383 are now reported using CPT Code 45388.
+
+In addition to these recommendations, CMS should include CPT codes that describe colonoscopy through a stoma, which is the examination of the colon from a colostomy stoma to the cecum or colon-small intestine anastomosis. The specific CPT are listed below.
+
+ 44388 (Colonoscopy through stoma; diagnostic, including collection of specimen(s) by brushing or washing, when performed (separate procedure))
+ 44389 (Colonoscopy through stoma; with biopsy, single or multiple)
+
+ 44391 (Colonoscopy through stoma; with control of bleeding, any method)
+
+ 44392 (Colonoscopy through stoma; with removal of tumor(s), polyp(s), or other lesion(s) by hot biopsy forceps)
+
+ 44394 (Colonoscopy through stoma; with removal of tumor(s), polyp(s), or other lesion(s) by snare)
+
+ 44401 (Colonoscopy through stoma; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre-and post-dilation and guide wire passage, when performed))
+
+Screening Colonoscopy
+
+We recommend that CMS make several changes to the trigger codes for screening colonoscopy:
+
+Exclude CPT code 45382 (Colonoscopy, flexible; with control of bleeding, any method). This procedure is predominantly performed as a therapeutic procedure and total Medicare volume is very low (26,596). There are circumstances under which this CPT code would be billed to describe an aspect of a screening colonoscopy, however, these situations are rare. Moreover, in these circumstances, the screening colonoscopy would be identified by another trigger code for screening colonoscopy.
+
+Exclude CPT code 45383 (Colonoscopy, flexible; with ablation of tumor(s), polyp(s), or other lesion(s) not amenable to removal by hot biopsy forceps, bipolar cautery or snare technique). CPT code 45383 has been deleted, is no longer valid for billing and payment purposes, and as such, should not be included as a diagnostic colonoscopy trigger code.
+
+Include CPT code 45388 (Colonoscopy, flexible; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre- and post -dilation and guide wire passage, when performed)). Procedures previously reported using CPT code 45383 are now reported using CPT Code 45388.
+
+
+
+Chronic Condition Episode Groups
+
+For each chronic condition episode group, CMS proposes that an episode would be triggered by one or more ICD-10-CM diagnosis codes. While AGA supports this approach, we urge caution in developing chronic condition episode groups. Measuring cost in chronic conditions without adequate risk adjustment and robust measures of quality and outcomes may generate imperfect information and worse yet, may create incentives to provide lower quality care.
+
+Below we provide detailed comments on three chronic condition episodes  chronic liver disease, gastroesophageal reflux disease (GERD), and inflammatory bowel disease (IBD)  and their associated draft trigger codes.
+
+Chronic Liver Disease
+
+We recommend that CMS make several changes to the trigger codes for chronic liver disease:
+
+Remove ICD-10-CM codes K70.3, K72.1, K73, K74, and K74.6. These ICD-10-CM codes are non-billable as they are non-specific codes.
+
+Additionally, AGA recommends establishing subgroups that distinguish between compensated and decompensated cirrhosis. Decompensated cirrhosis is identified by the presence of complications, which may be identified by the primary ICD-10-CM diagnosis code or secondary diagnosis codes.
+
+ I85.10 (Secondary esophageal varices without bleeding)
+
+ I85.11 (Secondary esophageal varices with bleeding)
+
+ K65.9*(Peritonitis, unspecified)
+
+ K70.31* (Alcoholic cirrhosis of liver with ascites)
+
+ K70.40* (Alcoholic hepatic failure without coma)
+
+ K71.10* (Toxic liver disease with hepatic necrosis, without coma)
+
+ K72.10* (Chronic hepatic failure without coma)
+
+ K72.90* (Hepatic failure, unspecified without coma)
+
+ K75.1 (Phlebitis of portal vein)
+
+ K76.6 (Portal hypertension)
+
+ K76.7 (Hepatorenal syndrome)
+
+In the list above, the asterisk identifies ICD-10-CM diagnosis codes that would both identify cirrhosis and the presence of complications. The other ICD-10-CM diagnosis codes would be secondary diagnosis codes.
+
+GERD
+
+We recommend that CMS make several changes to the trigger codes for GERD:
+
+Remove ICD-10-CM code K21. This ICD-10-CM code is non-billable as it is a non-specific code.
+
+IBD
+
+We recommend that CMS make several changes to the trigger codes for IBD:
+
+
+
+Remove ICD-10-CM codes K50, K50.0, K50.01, K50.1, K50.11, K50.8, K50.81, K50.9, K50.91, K51, K51.0, K51.01, K51.2, K51.21, K51.3, K51.31, K51.8, K51.81, K51.9, and
+
+K51.91. These ICD-10-CM codes are non-billable as they are non-specific codes.
+
+Additionally, AGA recommends establishing subgroups that distinguish between Crohns disease and ulcerative colitis. Additionally, ulcerative colitis should be further grouped to distinguish the extend of disease as pancolitis requires different management compared to proctitis and other types of ulcerative colitis.
+
+Thank you for providing us with the opportunity to submit feedback on the proposed episode groupers. We look forward to continuing our discussions with CMS as you continue to implement MACRA and MIPS.
+

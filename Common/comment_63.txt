@@ -1,0 +1,51 @@
+
+The Coalition of State Rheumatology Organizations, or CSRO, is a group of state or regional professional rheumatology societies formed in order to advocate for excellence in rheumatologic disease care and to ensure access to the highest quality care for the management of rheumatologic and musculoskeletal diseases. Our coalition serves the practicing rheumatologist.
+
+We are pleased to provide input that will inform the development of episode groups for use in the cost performance category of the Merit-based Incentive Payment System (MIPS).
+
+Episode-Based Cost Measure Development for the Quality Payment Program Episode Group Selection
+
+As outlined it the report accompanying the draft episode groups and trigger codes, CMS notes that it considered Medicare expenditures, clinician coverage, and the opportunity for improvement in acute, chronic, and procedural care settings in selecting the episode groups to be considered for development. Not surprisingly, rheumatoid arthritis (RA) and systemic lupus erythematosus have been identified by CMS for episode group development. CMS previously proposed resource use measures for RA and Osteoporosis  measures that CSRO opposed for inclusion in MIPS  which we assume will be replaced by these new episodes.
+
+
+
+Rheumatologists would prefer being held accountable for the cost of care for conditions within our scope of clinical practice and for patients we routinely manage, instead of a broad range of medical conditions and beneficiaries we seldom see, as is the case under the current cost measures  Total Per Capita Costs and Medicare Spending Per Beneficiary (MSPB)  which were retained from the Value-Based Payment Modifier program.
+
+Episode Group Definition, Chronic Condition Episode Groups & Cost Measure Development
+
+CSRO agrees with the list of ICD-10-CM diagnosis trigger codes identified for the lupus episode group, but has significant concerns about the ICD-10-CM diagnosis trigger codes for the RA episode group. This is because most of the ICD-10-CM diagnosis codes listed are inappropriate for reporting the vast majority of RA conditions and are seldom, if ever, used. RA is a systemic disease and is not localized to a single joint.
+
+CMS also notes its interest in public comment on where sub-groups could be created in the draft list of episode groups. CSRO believes the RA episode is prime for sub-groups parsed by disease progression and whether the pharmaceutical therapy chosen is covered under Part D or Part B.
+
+For example, Feltys Syndrome is difficult to treat and the standard of care is directed against underlying RA with an additional goal of treating neutropenia and recurrent infections. Also, depending on how drugs are incorporated into the RA episode group, it will be important to differentiate between whether Part D or Part B drugs are chosen (see below). Given the above, it is critical to further subdivide the RA episode group to yield a more clinically homogeneous cohort of patients with similar expected costs.
+
+To be able to provide more meaningful comment, we urge CMS to provide details about the parameters for these measures, including:
+
+ When the episode would begin and end
+
+ What the relevant ICD-10-CM codes for these episodes are
+
+ What CMS anticipates as exclusion criteria for these episodes
+
+ How the episode will be attributed to rheumatologists and providers participating in the patients care, such primary care providers
+
+ How risk adjustment, including social risk factors, will be accounted for
+
+ How frequently CMS anticipates these episodes would be updated to account for changes in clinical practice and medical inflation
+
+ How Part D drugs are accounted for
+
+To further elucidate on Part D drugs, CSRO has previously commented about this issue, urging the agency to appropriately and adequately account for pharmaceuticals in its resource use metrics in the Value-Based Payment Modifier (VM). When cost and resource use measures exclude Part D costs, it puts physicians who administer Part B drugs in their office at a significant disadvantage compared to those who order/prescribe drugs covered under Part D, since the former would appear to have higher Medicare expenditures than the latter. It may also disadvantage beneficiaries, as treatment options could become more limited when providers are inappropriately held accountable for costs beyond their control. CMS has previously noted that use of the Hierarchical Condition Categories (HCC) model may account for some conditions that require Part B drugs, however, it does not distinguish between the appropriateness of Part D
+
+
+
+drugs v. Part B drugs and unduly punishes physicians who ultimately determine that Part B drugs are most appropriate for their patient. We continue to believe the current methodology has the potential to influence treatment decisions as physicians are perversely incentivized to prescribe Part D drugs when Part B drugs may be more appropriate for the patient. This must be addressed as CMS develops episode-based cost measures for use in the MIPS cost performance category.
+
+Whether the solution is to remove Part B drug costs from resource use calculations or to incorporate Part D drug costs into these calculations, the most important thing is that cost-of-care measures not have an adverse impact on practice patterns and do not discourage treatments that best meet the needs of the patient. We emphatically request that CMS either remove Part B drug costs, or include Part D drug costs, as it evaluates resource use under the resource use performance category.
+
+Timing
+
+A review of CMS Measures Management System web page suggests that CMS is carrying out the development of episode groups in waves and that rheumatologic conditions are likely slated for wave 2. This is based on CMS plans to convene future MACRA Clinical Subcommittees that may include Rheumatologic Disease Management in the next wave (a call for technical experts for the first wave is underway).
+
+We are concerned that, with CY 2018 fast approaching and the weight of the cost performance category slated to increase, we will not have a fair opportunity to review the planned cost measures and provide feedback to the agency prior to the implementation of episode groups in the MIPS cost performance category. We are also concerned that the measures will not have enough time to be field tested prior to implementation, which is a critically important step prior to holding rheumatologists accountable. We ask that CMS provide more information about its plans for implementing the new episode-based measures in the MIPS cost performance category, as soon as possible.
+

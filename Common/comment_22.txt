@@ -1,0 +1,154 @@
+
+The American Society of Anesthesiologists (ASA), on behalf of our over 52,000 members, appreciates the opportunity to comment on the draft episode-based cost measure framework posted on the CMS website. The creation of Episode Groups for use in the Cost Performance Category was included in the Medicare Access and CHIP Reauthorization Act (MACRA) statute. Episode grouper software aggregates claims data into episodes to assess condition-specific or procedure-specific utilization and costs. It is anticipated that this data will help inform the Cost Performance Category, one of the four components of the Merit-based Incentive Payment System (MIPS).
+
+As reflected in many of our comments and interactions with the Agency, ASA has embraced the underlying goals of MACRA. ASA has invested heavily in initiatives aimed at improving the safety, quality and efficiency of care for the surgical patient. We have developed a clinical registry, operated by the Anesthesia Quality Institute (AQI) that contains detailed files on millions of anesthetic administrations by thousands of physician anesthesiologists in hundreds of care settings. Additionally, we have sponsored the Perioperative Surgical Home (PSH)
+
+
+
+Collaboratives in almost 60 large and small health care institutions. PSH is a patient -centered delivery system that aligns with the National Quality Strategy (NQS) to achieve the triple aim of improving health, improving the delivery of healthcare and reducing costs. These goals are met through patient-centered shared decision-making and seamless continuity of care for the surgical patient, from the moment the decision for surgery is made, during the acute episode, all the way through recovery, discharge and beyond.
+
+The development of cost measures is critical in the implementation of MIPS as well as the further advancement of value-based purchasing. It is also an area where CMS has limited experience. For these reasons, ASA urges CMS to consider the following factors which we believe impact the development and implementation of cost measures:
+
+ Methodological Issues: Methodological issues such as attribution and risk adjustment including a recognition that the development of cost measures is inherently iterative one cannot simply develop episode groups in a vacuum and then consider attribution and risk adjustment; these must be considered in an integrated fashion throughout the development of the cost measure component;
+
+ Collaborations with Private and Other Payors: Collaborations outside of Medicare that attribute cost to an individual or a team of physicians should be an inclusive process that includes all stakeholders impacted by the measure or methodology, including specialty societies, to allow sharing of experience and avoidance of duplication or incompatibility; and
+
+ Pilot Testing: A transition period for any new cost measures should be established to allow both CMS and physicians to better understand cost measures.
+
+Methodological Issues
+
+The methodological approach CMS will take in constructing episode groups will determine their robustness and the capacity of the agency to fulfill its mandate to measure the resource and costs of services and attribute them to Eligible Clinicians. Clear, precise and accepted standards and methods for measuring physician resource use do not exist. Nor does CMS have significant experience in this area. For these reasons, we urge CMS to take a transparent, iterative and careful approach in the development and implementation of episode groups.
+
+Attribution
+
+Attribution is a process that aims to clarify relationships and assign accountability for a patient's costs to a clinician, groups of clinicians, or a facility. They are an essential component of cost measure development, design and implementation. A core principle of attribution is that it should be shared and team-based.
+
+CMS should develop rules and policies around attribution in the cost measure environment that are clear and transparent. They should be consistently applied, tested and monitored. Attribution models should attribute costs only insofar as entities can influence the costs of care and outcomes.
+
+ASA supports the principles and approaches to attribution defined by the NQF in their report:
+
+Attribution: Principles and Approaches1 published in December 2016.
+
+
+
+ Attribution models should fairly and accurately assign accountability.
+
+ Attribution models are an essential part of measure development, implementation, and policy and program design.
+
+ Considered choices among available data are fundamental in the design of an attribution model.
+
+ Attribution models should be regularly reviewed and updated.
+
+ Attribution models should be transparent and consistently applied.
+
+ Attribution models should align with the stated goals and purpose of the program.
+
+ASA encourages CMS to adhere to these principles in their attribution methodology.
+
+ Unique Role of Physician Anesthesiologists as It Relates to Attribution of Costs
+
+Because of the unique role that physician anesthesiologists play when providing anesthesia services during surgical procedures, ASA wishes to explain the role physician anesthesiologists play in providing services to their patients and provide recommendations on how costs should be attributed to them.
+
+In the typical practice environment for physician anesthesiologists, purchasing and acquisition decisions and the availability of choices of equipment and supplies are most often not within the control or discretion of the anesthesiologist. As such, ASA believes it would be most appropriate that these resources and their accountability be shared with the surgeon and the facility.
+
+ASA recommends that these resources are proportionately attributed to all providers and facilities involved in rendering the service. We believe such a methodology is aligned with the concept of shared accountability.
+
+The spectrum of roles that physician anesthesiologists play in providing services to their patients is described below.
+
+ Providing anesthesiology during surgery
+o Traditional practice: This includes assessment of patients condition prior to anesthesia, preoperative management of chronic medications, review of diagnostic studies, determination of available anesthetic options, creating a plan with the patient and obtaining consent; intraoperative management of anesthesia,
+
+monitoring and maintenance of physiologic functions and immediate postoperative care.
+
+o Advanced, more comprehensive practice: This includes the above but with deeper engagement in preoperative preparation including optimization of medical conditions including nutrition, tobacco use, diabetes control  often weeks ahead of planned surgery; postoperative management of pain with interventional procedures or pharmacologic therapy during hospitalization and after hospital discharge, and fluid management. This is the model of practice promoted in the Perioperative Surgical Home (PSH) initiative described earlier.
+
+ Providing critical care
+o Critical care of patients with respiratory or surgical disease: Anesthesiologist intensivists function as consultants to admitting physicians or, in many facilities, as the admitting attending physician themselves.
+
+ Providing pain medicine services
+
+
+
+o Acute (post surgery): This includes multimodal pain management, prescribing oral or injected narcotic and nonnarcotic analgesics and/or by providing interventional pain management utilizing epidural or nerve block techniques. The goal is to minimize the use of opioids, alleviate patient discomfort and optimize
+recovery.
+o Chronic pain management: This includes care of patients with the full spectrum of painful disorders including musculoskeletal disease, malignancy or traumatic pain. Similarly, approaches include pharmacologic therapy, especially management and prevention of opioid dependency and interventional injection procedures.
+
+An individual physician anesthesiologist is often one member of a larger team of healthcare professionals providing services to a Medicare beneficiary. Depending on the needs of the patient and the other providers involved, the physician anesthesiologist may play a different role with different patients. These varying roles will impact the resources or costs that can be attributed to the Eligible Clinician. Any measure or method developed to estimate costs attributed to a provider should be nuanced enough to differentiate among the varying roles that a physician anesthesiologist may play as a member of a larger team. The use of Patient Relationship Categories of codes could help address these differences.
+
+ASA urges CMS to develop Patient Relationship Categories that will create a pathway for CMS to be better able to measure and more accurately attribute costs to physician anesthesiologists.
+
+Quality Resource Use Reports (QRURs) are feedback and benchmarking tools provided by CMS as part of the Physician Feedback Program. They offer information about the costs and quality of care provided by physicians or groups to certain Medicare patients. The Affordable Care Act also authorized CMS to use some of the information in the QRURs to calculate the Physician Value-Based Payment Modifier (VM), which is used to factor neutral, increased, or decreased payments. Risk adjustment is used for select measures in the (QRURs). The risk adjustment reflects the clinical complexity of the patient.
+
+ASA heard from members who had difficulties with the QRUR reports. Some members had difficulty accessing the reports, while other had difficulty understanding the reports once they had been accessed. Some members were concerned that they were not being appropriately evaluated.
+
+The QRURs are the most significant example of CMSs having attempted to attribute and measure costs to an individual physician. ASA recommends CMS closely evaluate this experience and apply lessons learned from it to the establishment and implementation of cost measures under MIPS.
+
+Risk Adjustment
+
+Risk adjustment can account for differences in beneficiary-level risk factors that can affect quality outcomes or medical costs, regardless of the care provided. CMS has limited experience with risk adjustment.
+
+In the Medicare Physician Fee Schedule, in the measures included in the QRURs and Value Modifier calculations, risk adjustment generally involves estimating a Tax ID Numbers (TINs)
+
+
+
+expected performance on a quality or cost measure based on the TINs beneficiary case mix and then comparing that estimate to the TINs actual performance.2
+
+The Medicare Advantage (MA) program utilizes the CMS-HCC risk adjustment model. One advantage of this model is that it calibrates for different populations (e.g. disabled, aged population). CMS uses a risk adjustment model for the Medicare Part D program which adjusts payments to reflect the health status of plan enrollees. Many State Medicaid programs utilize risk adjustment as well.
+
+The Affordable Care Act created a permanent risk adjustment program for the State-based Marketplaces and the Federally facilitated Marketplaces (the Marketplaces). The HHS risk adjustment model uses an individual's demographic data and diagnoses to determine a risk score, which is a relative measure of how costly that individual is anticipated to be to the plan (i.e., a relative measure of the individuals actuarial risk to the plan). Since this risk adjustment applies to the private insurance market it is unclear if this approach for risk adjustment would be appropriate for a Medicare population.3
+
+In applying the risk adjustment in the fee-for-service (FFS) environment, physicians might be at a disadvantage. A provider is incentivized to document all of the services provided (because this results in incrementally greater reimbursement) but not necessarily all of a patients diagnoses (which does not impact reimbursement in the current system). Recognition of this reality is reflected in the coding intensity adjustment applied to the MA environment. MA spending is aligned with FFS spending and to account for any up-coding that may occur in the MA environment a coding intensity score is applied. The specificity and intensity of coding may also vary by condition.
+
+ASA strongly believes that socioeconomic factors should be considered in risk adjustment because patient outcomes and compliance may be influenced by patient health status, clinical, and sociodemographic factors, in addition to the quality and effectiveness of healthcare services, treatments, and interventions.
+
+Risk adjustment methodologies are evolving and developing throughout the various Medicare and Medicaid payment systems, with other public payors, and in the private payor environment. No one methodology has emerged as best explaining variations in cost or quality outcomes related to patient factors. ASA recognizes that CMS may not be able to identify the perfect methodology that addresses all concerns and avoids potential pitfalls. ASA believes that the best way to move forward is to identify one that is tested and validated in a transparent and data-driven manner. The methodology should be clear and understandable to providers. Important criteria in the selection of a risk adjustment methodology should identify one that can be applied as consistently as possible across different payment systems. ASA believes strongly that the same risk adjustment methodology should be used for professional services throughout Medicare.
+
+Specifically, ASA recommends that:
+
+ CMS should conduct a thorough comparison of the various risk adjustment models used in Medicare, Medicaid and the private sector market. Models that best explain variations in costs and quality outcomes based upon medical, social, and demographic factors relevant in the Medicare population should be identified. This review should be conducted in a clear and transparent manner.
+
+
+
+ The limitations of the administrative data available in a FFS environment should be factored into any analysis.
+
+ Any methodology should be validated thorough and transparent testing prior to implementation.
+
+ Risk adjustment that is performed throughout the Medicare program should be consistent. Specifically, CMS should align risk adjustment methodologies for professional services throughout the Medicare program as practically as possible.
+
+Our recommendations for risk adjustment align well with the intent of the MACRA statute. MACRA was designed to bring alignment and agreement across Medicare physician payment, to reduce costs and administrative burden while enhancing quality of care and outcomes. The approach we are recommending hews to those same goals.
+
+Collaborations with Private and Other Payors
+
+The trend towards value-based healthcare purchasing and delivery is impacting all payors professionals and healthcare systems not just Medicare. Some highly-developed integrated delivery systems may be further down the road in cost measurement than Medicare.
+
+Standardizing cost measures (or at least approaches to cost measurement) across Medicare and private payors may also be valuable in making comparisons for research and analysis. CMS participated in the Core Quality Measure Collaborative which included public and private payors to develop a core set of quality measures. This initiative is designed to reduce the number of quality measures. The value of this approach in the quality arena may also be valuable in the cost measure environment. While this was a worthy effort, ASA believes that participation of all stakeholders, including specialty societies, impacted by the measures would have enhanced and improved the process. A core goal of these efforts should be to ensure that the methodologies used by CMS and various private payors are aligned. We believe it would be very burdensome on providers and would not support the most accurate method of cost measurement, if different methodologies for measuring costs were developed.
+
+Alignment among public and private payors takes on greater importance when considering the All-Payor Advanced Alternative Payment Model (APM) Combination option. Starting in 2021 (2019 payment year), some arrangements with non-Medicare payors can count towards becoming a qualifying APM participant. While this does not directly impact MIPS, it does reflect a potential future trend of greater alignment between Medicare and the private payor market.
+
+ASA urges CMS to consider and evaluate models outside of Medicare, and we urge the agency to be inclusive in this process and include all stakeholders, including specialty societies, impacted by the measure or methodology being developed and evaluated. A central goal of these efforts should be alignment of cost measure methodologies across payors.
+
+Pilot Testing Cost Measures and Episode Groups
+
+Given the complexity and detailed nature of the cost measures, ASA believes there are a number of benefits that can be obtained through pilot testing any episode groups and cost measures prior to implementation. Through pilot testing, CMS will be able to assess the appropriateness of the proposed measure, address logistical and other problems prior to implementation, and provide an opportunity for participating clinicians to better understand the intent of the initiative and understand how they are being measured. Similar to how CMS approached MACRA in 2017 with a pick your pace option, we suggest a similar roll out for cost measures and episode groups. Since CMS will be testing methodologies and it will be a learning period for both CMS
+
+
+as well as Eligible Clinicians, during this period Eligible Clinicians should not be at financial risk.
+
+In addition to pilot testing, once they are established, ASA urges CMS to review them on an annual basis. Episode groups are composed of diagnosis and procedure codes. Each year new codes are created and existing codes are revised or deleted. In order to ensure the ongoing robustness of the episode groups, they will need to be maintained to assure they comprise the most current diagnosis and procedure codes. This will require the episode groups to be reviewed on an annual basis to ensure the ongoing accuracy of the episode groups.
+
+Through pilot testing cost measures, CMS can ensure their feasibility, reliability and validity
+
+across specialties, practice setting and medical conditions. ASA offers its support in assisting
+
+CMS with pilot testing and conducting an annual review of episode groups and cost measures.
+
+ASA recommends CMS pilot test of the cost measures and episode groups prior to implementation and review them on an annual basis to ensure their ongoing accuracy. The pilot testing period should be non-punitive for Eligible Clinicians.
+
+1 National Quality Forum (2016). Attribution: Principles and Approaches. Retrieved from NQF on 4/18/2017:
+http://www.qualityforum.org/Publications/2016/12/Attribution_-_Principles_and_Approaches.aspx.
+2 Centers for Medicare and Medicaid Services (CMS). (2015). CMS Fact Sheet: Risk Adjustment. Retrieved from
+
+CMS on 4/18/2017: https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/PhysicianFeedbackProgram/Downloads/Risk-Adjustment-Fact-Sheet.pdf.
+
+3 Centers for Medicare and Medicaid Services (CMS). 2016. Discussion Paper: March 31, 2016 HHS-Operated Risk Adjustment Methodology Meeting. Retrieved from CMS on 4/18/17: https://www.cms.gov/CCIIO/Resources/Forms-Reports-and-Other-Resources/Downloads/RA-March-31-White-Paper-032416.pdf.
+

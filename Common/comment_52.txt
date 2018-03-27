@@ -1,0 +1,61 @@
+
+The Pharmaceutical Research and Manufacturers of America (PhRMA) is pleased to provide our perspective in response to the request for input on Episode Groups and Cost Measure development published by the Center for Medicare & Medicaid Services (CMS). PhRMA is a voluntary nonprofit organization representing the countrys leading research-based pharmaceutical and biotechnology companies, which are devoted to inventing medicines that allow patients to lead longer, healthier, and more productive lives.
+
+The Merit-Based Incentive Payment System (MIPS) established by the Medicare Access and CHIP Reauthorization Act (MACRA) creates new demand for robust measures of both quality and resource use. PhRMA is committed to advancing solutions that promote the transition to a value-driven and patient-centered health care system. Development of sound measures of resource use and appropriately linking them to relevant quality measures is particularly important in view of the ways that these measures shape incentives for care quality, treatment selection, and patient access to care.
+
+However, CMS continues to face a dearth of reliable, actionable, and consensus-based resource use measures for use in the MIPS program. While CMS has some experience with measures of resource use as part of its value-based modifier program, stakeholders have identified numerous methodological concerns with these measures, including that they are not meaningfully and actionably linked to relevant quality measures. Resolution of these challenges is imperative to ensure that the MIPS program is successful in driving towards high quality, patient-centered care.
+
+Accordingly, we appreciate CMS attention to the issue of meaningfully linking cost and quality through this comment solicitation. We agree that obtaining public input and feedback is of critical importance to these efforts. We respectfully offer the following comments for your consideration as you assess resource use measures for adoption in the MIPS program.
+
+1. Link resource use measures to relevant quality measures.
+
+As CMS implements the quality and resource use components of MIPS, it should ensure that when cost measures are used, they are appropriately balanced with robust measures of quality and patient outcomes. In particular, any cost measures used should be reported in the context of appropriate quality data as a means of providing a framework for interpretation so that the cost data are not misused or misunderstood. In such a framework, cost measures must be aligned with the reported quality data to make the comparison between quality of care provided at cost expended an apples-to-apples comparison. Application of raw cost measures in the absence of meaningfully linked quality data could result in reduced provision of needed care and decreased adoption of new medically beneficial treatments in an effort to stem costs, especially when applied in an incentive program.
+
+As a first step to meaningfully linking cost and quality measures, CMS should consider being more prescriptive in the type, number, and caliber of measures that providers report under MIPS. Currently, providers choose from among the full set of MIPS quality measures, which makes it very challenging to consistently link quality scores to resource use measures in a meaningful and
+
+
+
+actionable way. CMS also noted that another potential strategy for aligning cost measures with quality of care could pair episode group costs with quality measures sharing similar characteristics, and including indicators of patient outcomes, such as functional status, that are interpreted along with cost. We recommend that CMS conduct a crosswalk between the current landscape of quality measures with the three types of episode groups in order to determine measure gaps and identify priority areas for outcomes-based measure development.
+
+It will be particularly important for CMS to continue to assess the availability and caliber of quality measures addressing episode group conditions as it develops policy in this area. For example, CMS is considering episode measurement for rheumatoid arthritis patients, and a recent analysis found that of 52 quality measures identified for rheumatoid arthritis, 100 percent were process measures and did not address patient outcomes, and only 6 measures had received endorsement from the National Quality Forum (NQF).1
+
+2. Select resource use measures that have achieved consensus endorsement.
+
+In selecting resource use measures for MIPS, CMS should continue to rely on measures that are supported by multi-stakeholder consensus, such as those measures that have been endorsed by the NQF. Measures that have attained NQF endorsement have successfully undergone the rigor of careful testing, validation, and scrutiny to ensure that they provide accurate, reliable, and meaningful results; have been subjected to external review; and are published for public review and comment. Multi-stakeholder consensus endorsement processes, like NQFs, provide a validation of the rigor of the measure.
+
+By the same token, we note potential room for improvement in the measure endorsement and adoption process. In particular, several stakeholders have expressed concern that recommendations issued by NQF and its Measures Application Partnership are not always addressed by measure developers prior to endorsement or adoption in a CMS program. To address this issue in part, NQF is piloting a mechanism to gain more feedback on the implementation experience with these measures. We expect this process to yield valuable input that can inform measure maintenance and future CMS policy.
+
+In addition, PhRMA is cognizant that NQF -endorsed measures are not always available and that MACRA gives CMS significant flexibility to incorporate measures that are not NQF endorsed into the MIPS program. We also recognize and appreciate the promise of Qualified Clinical Data Registry (QCDR) measures as a new source of quality measures and data for the MIPS program and Alternative Payment Models (APMs). As more clinicians elect to use the QCDR reporting option, it will continue to be important to ensure that QCDR measures are methodologically rigorous and evidence-based. We remain concerned by the lack of opportunity for other stakeholders to provide input into the development of those measures. While we recognize that NQF endorsement is not a requirement for QCDR measures under MACRA, we encourage CMS to work with QCDRs to improve the transparency of the measure development and evaluation process for measures included in QCDRs.
+
+CMS must seek to balance the need for the rapid development and deployment of measures for MIPS and APMs with the imperative that measurement be valid and accurate. In instances where non-endorsed measures are used, we believe that they should go through a rigorous, transparent
+
+
+
+development and evaluation process like the one described above. Accordingly, we are pleased to see that CMS plans to provide several additional opportunities for public comment as its efforts to refine the episode groupers evolve.
+
+3. Gradually phase-in MIPS resource use measures.
+
+MACRA gives CMS the flexibility to adjust the quality and resource use weights to increase the quality weight and reduce the resource use weight in the first two years of MIPS. In year one, CMS must assign quality measures a weight between 50-60% of the MIPS composite score (with resource use weighted between 0-10%, such that the two weights total to 60%). In year two, CMS must assign quality measures a weight between 45-60% of the composite score (with resource use weighted between 0-15%, such that the 2 weights total to 60%). We recommend that CMS continue to exercise this flexibility to maximize the portion of the MIPS score derived from quality measures in the first two years of MIPS (60%). Doing so will give CMS the time it needs to develop a more sophisticated approach to resource use measurement with clear linkages to quality scores, and will help ensure that incentives based on these measures are well-aligned with high-quality, individualized care.
+
+While we support a continued gradual phase-in of cost measures, we also note that there are still underlying methodological issues related to resource use measures that may take more than 2 years to fully address. For example, a number of challenges remain with attributing patients to physician practices for reliable resource use measurement; one study found that relatively few primary care physician practices are large enough to reliably measure 10 percent relative differences in common measures of quality and cost performance among fee-for-service Medicare patients.2 In addition, we appreciate that providers would benefit from having some experience with reporting cost measures prior to CMS applying the full weighting of 30 percent. We encourage CMS to carefully consider these challenges and consider additional means of offering reporting flexibility for resource use measures as it continues implementation of the MIPS program.
+
+4. Recognize patient heterogeneity within episodes.
+
+PhRMA encourages CMS to carefully consider the level of complexity and patient heterogeneity prior to initiating development of new episodes. CMS should also ensure that episode-based resource use measures include mechanisms to account for patient heterogeneity, such as robust risk adjustment and adjustment for outlier cases. As CMS notes, Medicare beneficiaries often have multiple co-morbidities that complicate care episodes. Even within a single clinical area, it can be extremely difficult to define an episode of care and accurately attribute services to the episode. An analysis of commercial tools that created episodes for community-based diabetes and coronary artery disease care found significant differences between available tools, highlighting these challenges.3 The fact that care intensity for more complex conditions may be dependent on patient specific characteristics adds to the challenge of accurately defining episodes for many conditions.
+
+5. Promote balanced incentives for use of medicines while avoiding disruptions to the Part D benefit.
+
+
+
+
+
+Development of resource use measures for MIPS will require consideration of several complex issues, including how these measures reflect spending on medicines covered by Medicare Parts A and B, and potentially Part D. MACRA specifies that the resource use component of MIPS shall account for the cost of drugs in Part D, as feasible and applicable. As PhRMA has noted in previous comments, including spending for medications in resource use measures is challenging, particularly for medicines covered by the Part D outpatient prescription drug program. CMS must take care to avoid creating disincentives for patient access to medicines that are most appropriate for individual patients irrespective of whether those medicines are provided under Medicare Part A, B, or Part D, and also avoid creating uncertainties for Part D plans that would undermine the competitive bidding system. We urge CMS to work transparently and collaboratively with health care stakeholders as it wrestles with these difficult issues.
+
+PhRMA appreciates the opportunity to provide input into the CMS episode groups and considerations for measuring resource use. Please do not hesitate to reach out if we can answer any questions about our comments.
+
+1 Avalere Health, LLC. Quality Report for Rheumatoid Arthritis. August 2016. http://avalere.com/expertise/life-sciences/insights/quality-report-for-rheumatoid-arthritis
+
+2 David J. Nyweide, PhD, William B. Weeks, MD, MBA2, Daniel J. Gottlieb, MS, Lawrence P. Casalino, MD, PhD, and Elliott S. Fisher, MD, MPH. Relationship of Primary Care Physicians Patient Caseload With Measurement of Quality and Cost Performance. JAMA. 2009 December 9; 302(22): 24442450. doi:10.1001/jama.2009.1810.
+
+3 David J. Nyweide, PhD, William B. Weeks, MD, MBA2, Daniel J. Gottlieb, MS, Lawrence P. Casalino, MD, PhD, and Elliott S. Fisher, MD, MPH. Relationship of Primary Care Physicians Patient Caseload With Measurement of Quality and Cost Performance. JAMA. 2009 December 9; 302(22): 24442450. doi:10.1001/jama.2009.1810.
+

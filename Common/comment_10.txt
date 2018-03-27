@@ -1,0 +1,62 @@
+
+The Heart Rhythm Society (HRS) appreciates the opportunity to respond to CMS latest solicitation for feedback on its ongoing work related to episode-based cost measure development for the Quality Payment Program (QPP). Founded in 1979, HRS represents more than 5,100 specialists in cardiac pacing and electrophysiology, consisting of physicians, scientists and their support personnel. Electrophysiology is a distinct specialty of cardiology, and electrophysiologists are board certified in clinical cardiac electrophysiology through the American Board of Internal Medicine, as well as in cardiology. HRSs members perform electrophysiology studies and curative catheter ablations to diagnose, treat and prevent cardiac arrhythmias. Electrophysiologists also implant pacemakers, implantable cardioverter defibrillators (ICDs) and cardiac resynchronization devices in patients who are indicated for these life-saving devices.
+
+In general, HRS is supportive of efforts to improve the manner in which CMS measures and attributes costs among clinicians. While quality measurement has evolved substantially over the last five years, cost measurement has been more vexing and many gaps remain. As such, HRS
+
+
+
+appreciates CMS commitment to developing more specific episode-based cost measures and its ongoing effort to engage in outreach to promote awareness of this work and to ensure that relevant stakeholders have the opportunity to contribute to this work.
+
+The Society highly recommends that the Agency take all possible steps to avoid overlap or duplications of efforts as the episode groups are identified and defined. For example, HRS has nominated three physicians to serve on a Clinical Subcommittee specifically with Acumen in answering questions related to episode group and episode measure development. Below we offer more specific feedback on topics of interest to CMS.
+
+Episode Group Selection
+
+In selecting the episode groups to be considered for development, CMS used criteria including an episodes share of Medicare expenditures, clinician coverage, and the opportunity for improvement in acute, chronic, and procedural care settings. CMS welcomes comment on these episode groups and potential additional episode groups that should be considered for development.
+
+In general, HRS believes that the proposed episode groups relevant to our specialty are reasonable targets for this exercise. We appreciate CMS ongoing engagement of specialty societies in the selection of conditions and procedures and its commitment to developing clinically meaningful episode groups to inform cost measurement.
+
+Episode Group Definition
+
+The episode groups currently open for feedback are defined by proposed trigger events and codes (CPT/HCPCS for procedural episode triggers, evaluation and management codes combined with ICD-10 diagnostic information for chronic episode triggers, etc.). CMS solicits comment on the inclusion or exclusion of specific service codes used to identify each episode group.
+
+In general, HRS does not have any major concerns about the trigger events and codes listed. However, the Society does find it challenging to provide meaningful feedback on the list of trigger codes without any other contextual information. In the absence of other critical details about the episode-- such as the episode window, the rules governing which services will be assigned to the episode, and risk adjustersit is difficult to determine the appropriateness of the trigger codes.
+
+As mentioned above, the Clinical Subcommittees should have a role in determining episode group definitions. Atrial Fibrillation (AF) is an excellent example of the need for clinical discussion. Defining AFib as an episode will involve a variety of healthcare providers. AF can be broken down into sub-categories based on the type of AF. AF also can be addressed as an episode based on medication management, or procedural management such as transcatheter ablation. The Cardiovascular Clinical Subcommittees discussions should be driving factors in how AFib is addressed.
+
+Our only episode specific concern at this time has to do with one of the proposed trigger codes for the procedural episode Implantable Cardiac Defibrillator (ICD) Implantation. HRS is not
+
+
+
+
+clear what the following trigger code refers to: 0294T: Insertion of Left Upper Heart Monitor and Pacing Defibrillator Pulse Generator, with Radiological Supervision and Interpretation.
+
+Overall, HRS encourages CMS to continue to adhere to a transparent and clinically informed process when defining episode groups. It is equally important that CMS rely on episode grouping methodologies that can be expressed via a simple list of rules and that are easily understood by clinicians, rather than methods that impose complicated hierarchies in what is often inaccessible back-end software. Additionally, the episode trigger claims should be constructed in a way so that clinicians know whether an episode will be attributed to them at the time of service.
+
+Cost Measure Development
+
+Cost measures are being considered for development based on episode groups after adding additional context, such as expenditure assignment, attribution, risk adjustment, and consideration of quality. CMS welcomes comment on each of these elements and whether there are additional elements to consider in developing cost measures from episode groups. Specifically, CMS welcomes comment on the concepts of differential attribution or alternative methods to align attribution with the clinical activities of clinicians. For example, the consideration of both directly and indirectly attributed services might be weighed in reporting both the provision and the coordination of care within the episode group relative to each clinician contributing to the care. An alternative approach would be to obtain recommendations from multi-specialty panels about percentages of the resources for an episode that could be attributed to physicians serving in different roles.
+
+In general, it is important that clinicians understand and trust that the cost measure accurately reflects their performance and their unique role in treating the patient. We are supportive of CMS efforts to develop patient relationship categories and codes, which has the potential to better capture the varied roles of a physician in a specific episode of care and to result in more accurate attribution of resource use. However, we also believe that much work remains on this front.
+
+HRS reminds CMS of the challenges of assigning cost performance to an individual clinician. We request that CMS carefully consider whether individual accountability for cost measurement is even appropriate and urge the agency to alternatively consider ways of accounting for more team-based care and measuring cost at a more aggregate level.
+
+If CMS decides to move ahead with individual-level accountability, HRS supports it adopting an approach to episode-based cost measure construction, at least initially, which only assigns costs that are directly influenced by the care of the attributed clinician. Cost measurement, particularly at the individual-level, is complex and must be approached in a gradual manner. Attempting to evaluate indirectly attributed services or to assign percentage-based levels of attribution based on the varying roles of a physician is too complicated of a task to take on when first rolling out these measures. CMS should start with the least complicated targets by focusing only on those services/procedures for which costs can be clearly and directly attributable to a lead physician to whom it is appropriate to assign the total costs of the episode. This will not only ensure more equitable accountability, but that feedback produced by the measure is understood by the clinician (and patient) and actionable. If the episode creates any ambiguity related to attribution
+
+
+
+or is influenced substantially by indirect care decisions, then it should not be targeted for cost measurement at this early stage.
+
+Risk Adjustment
+
+The Medicare Advantage program uses the CMS-HCC Risk Adjustment Model to determine rates. CMS seeks comment on the use of this model or an alternative for risk adjusting episode groups in the construction of cost measures. In addition, should concurrent or prospective risk adjustment be used, and should a full year of data or more targeted data from before the episode be used to adjust?
+
+HRS appreciates that CMS aims to avoid any unintended consequences of using cost measures in MIPS. HRS strongly supports that CMS should take steps to avoid disadvantaging clinicians who assume the care of complex patients. While risk adjustment helps to mitigate some of these issues and is critical, the Society also asserts that performance benchmarks should only compare similar types of patients in similar settings.
+
+Aligning Quality and Cost
+
+CMS is especially interested in comments regarding methods to align quality of care with cost measures and welcomes suggestions on this topic.
+
+If cost measurement occurs in isolation it can create incentives for clinicians to skimp on appropriate care. As such, it is critical that CMS focus only on episode-based cost measures that can be paired with quality measures that share similar characteristics. By doing so, patients and clinicians can interpret patient outcomes, such as functional status and mortality, side-by-side with cost. CMS also must develop tools that help patients and clinicians understand what cost means relative to quality, how to interpret incremental shifts between the two, and more holistic and accurate ways to value health gains.
+
+Pairing cost with quality also will ensure that measurement is driven by value and not simply an effort to cut costs. This is especially critical when it comes to preserving incentives for innovation. CMS must not lose sight of the fact that while innovation and technology might drive health care spending, it also drives health improvement. By properly tying cost to quality and tracking data over the long-term, CMS will help to ensure that innovation is not stymied.
+

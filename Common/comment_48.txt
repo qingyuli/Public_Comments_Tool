@@ -1,0 +1,33 @@
+
+On behalf of the American Society of Nephrology (ASN), thank you for the opportunity to provide comments regarding the development of episode-based cost measures for the Quality Payment Program (QPP) created by the Medicare Access and CHIP Reauthorization Act of 2015 (MACRA). ASN represents nearly 17,000 physicians, scientists, nurses, and other health professionals dedicated to treating and studying kidney diseases to improve the lives of people with kidney diseases. ASN is a not-for-profit organization dedicated to promoting excellence in kidney care. Foremost among the societys concerns is the preservation of equitable patient access to optimal quality care in the treatment of kidney diseases and kidney failure and the integrity of the patient-physician relationship.
+
+ASN appreciates the Centers for Medicare and Medicaid Services (CMS) commitment to the successful creation and implementation of the new QPP. The creation of a transition year for 2017 within the QPP along with a corresponding approach to reporting and scoring during that year has given physicians and their practices an opportunity to better understand the new program as the components related to cost measures are in development. ASN also applauds the work CMS and its related Technical Expert Panel (TEP) have put into the development of episodes over the last two years.
+
+The society realizes that Congress passed MACRA with relatively proscriptive language on how the QPP should be structured, who should be included, what should be included in its components, how it should progress over time, and how the Secretary of Health and Human Services (HHS) should solicit and incorporate public input. Simultaneously, it is clear that much progress has been made to satisfy the statutory requirements of MACRA in general, and on episode-based cost measure development in particular, since the MACRA enactment in April 2015. Considering these observations, ASN respectfully offers comments for consideration as implementation of MACRA continues.
+
+The QPP is designed to re-align physician reimbursement with quality-driven, value-based health care. This goal inherently includes efforts to contain costs and incentivize savings. ASN understands and supports those goals but, considering concerns about how those goals may interface with the care of the complex, vulnerable population of kidney patients, offers thematic recommendations to bear in mind as episode groups are developed in the coming months and years.
+
+First, nephrology is heterogeneous by its very nature. Patients in need of nephrology care generally have very complex needs due to their high percentage of comorbidities. While kidney diseases can be the primary illness for some, for most patients their kidney disease accompanies, or is secondary to, coronary disease, hypertension, diabetes, obesity, etc. The scope of nephrology practice includes caring for complicated hospital inpatients; following a diverse
+
+
+
+outpatient population with chronic kidney diseases, hypertension, kidney stones and other kidney related conditions including kidney transplant recipients and donors; and managing a modest number of complex dialysis patients, often at multiple dialysis facilities.
+
+Second, due to their comorbidity burden, most kidney patients see a number of other physicians and specialists besides their nephrologists. These are necessary interactions for complex patients, but they inevitably create situations in which the nephrologist has little or no control over many of the factors that affect costs. Furthermore, it can be difficultand can vary by patientto discern when care is provided is pointedly related to a kidney condition (as opposed to a cardiovascular condition as opposed to a vascular condition, for example).
+
+At the same time, care for patients with kidney diseases, kidney failure, and comorbidities is expensive. Therefore, ASN requests those working on episode-based measure development to use great care when developing nephrology episodes that could have the unintended consequences of incentivizing underserving patients with kidney diseases.
+
+In support of that goal, ASN offers some high-level, thematic observations about the development of nephrology episodes.
+
+ Heterogeneity and prevalence of comorbidities in the kidney patient population is the Achilles heel of nephrology cost control. ASN recommends that episodes be distilled to the most homogenous patient population possible to ensure that the episode does indeed measure equivalent components.
+
+ Maintain a clear delineation of kidney diseases across nephrology episodes. There are many types of kidney diseases for which measures must be appropriately calibrated such as acute kidney injury (AKI), chronic kidney disease (CKD) with multiple stages, kidney failure, and transplantation. As above, the more homogenous the episodes are, the more accurate the episodes are likely to be when capturing and evaluating costs.
+
+ Attribution is the key. The functionality of the episodes for nephrology will significantly depend on how precise the episodes are at attribution. Multiple clinicians generally treat kidney patients along a continuum and at multiple locations. Capturing all those data points is essential.
+
+ Episodes do not function in a vacuum. CMS is aware that very few nephrology-specific quality measures currently exist in the QPP. To properly align episode-based cost measures with quality measures, there needs to be a critical mass of both to achieve synergy. ASN is aware that CMS cannot wait until the well of nephrology-specific quality measures is full, but the society does encourage CMS to find a balance of the two before fully weighting the cost section of the QPP for a full performance year.
+
+Again, thank you for the opportunity to comment on the development of episode-based cost measures for the QPP. ASN appreciates CMSs commitment to a robust, quality-driven physician reimbursement system and the Agencys efforts to engage the society and other stakeholders in the QPP implementation. The society looks forward to opportunities to work with CMS and its contractors in every possible capacity, and urges them to think of ASN as a resource.
+
+
+

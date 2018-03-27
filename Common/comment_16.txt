@@ -1,0 +1,103 @@
+
+On behalf of the American Academy of Family Physicians (AAFP), which represents 124,900 family physicians and medical students across the country, I write in response to the request for comments on the Episode-Based Cost Measure Development for the Quality Payment Program as published by the Centers for Medicare & Medicaid Services (CMS) on December 23, 2016.
+
+The AAFP appreciates the opportunity to work with CMS and its contractors to develop cost measures that are based on episode groups and we also appreciate that the agency seeks public input on the development of cost measures. We offer the following responses to the italicized questions asked in the request for comments.
+
+Episode Group Selection
+
+
+
+In selecting the episode groups to be considered for development, CMS used criteria including an episodes share of Medicare expenditures, clinician coverage, and the opportunity for improvement in acute, chronic, and procedural care settings. We welcome comment on these episode groups and potential additional episode groups that should be considered for development.
+
+The AAFP encourages CMS to initially develop episodes that encapsulate high-cost centers such as hospitals and surgical centers. In doing so, CMS would maximize their potential to acquire large cost savings and could use those episodes to learn the best methodology in which to apply episodes to physicians, and any unintended consequences that might occur. We also encourage CMS to focus on the implementation of the existing cost category episode groups called for in the 2017 MACRA final rule before any new episode groups are introduced.
+
+Even though services provided by family physicians are not high-cost when compared to sub-specialty services, family physicians have nevertheless been held responsible for total cost of care. CMS has the opportunity to rectify this imbalance as episode measures are selected that hold those truly responsible for high-cost care more accountable.
+
+We urge CMS to refine their attribution methodologies to determine whether or not patient relationship codes are useful. We also urge CMS to review and adhere to our April 12, 2016 and December 21, 2016 letters regarding patient relationship category and codes.
+
+Episode Group Definition
+
+The episode groups that accompany this posting are defined by the listed trigger events and codes (CPT/HCPCS for procedural episode triggers, evaluation & management codes combined with ICD-10 diagnostic information for chronic episode triggers, etc.). CMS solicits comment on the inclusion or exclusion of specific service codes used to identify each episode group.
+
+The AAFP reviewed the listed trigger events and codes. We are concerned that the trigger(s) for the acute inpatient medical condition episode groups appear to be DRG-related, whereas AAFP and our members are more familiar with CPT-related terminology and codes. Since our members may still be the primary physician responsible for the episode, instead of DRG-related terminology and codes, we ask CMS to use inpatient evaluation & management diagnostic codes to trigger inpatient medical condition episodes.
+
+Acute Inpatient Medical Condition Episode Groups
+
+The acute inpatient medical condition episode groups that accompany this posting include only inpatient events. CMS seeks comment on outpatient events that could be considered candidates for development as acute condition episode groups, which could include chronic condition exacerbations that require acute care but not inpatient hospitalization.
+
+Per our response to the episode group selection question, the AAFP urges CMS to start with inpatient episodes, given they are a high-cost place of service. We discourage CMS from prematurely examining outpatient episodes without first learning from inpatient episodes, since that is where the biggest cost savings will be.
+
+
+
+
+
+Acute episodes of care might occur on either an inpatient or outpatient basis and may or may not include surgery. CMS is considering a single Acute Episode Group type that does not distinguish the place of service or the performance of a procedure and welcomes comment on this approach.
+
+The AAFP believes acute episode groups could be an appropriate approach, as long as the site of service is initially an inpatient setting or an ambulatory surgical center per our earlier comments. Generally, acute episodes could include ambulatory surgery procedures.
+
+Chronic Condition Episode Groups
+
+CMS is aware of many challenges in constructing episode groups for chronic conditions. These include coding habits that may obscure some chronic conditions and overemphasize others. In addition, it may be difficult to assign a given treatment to a single condition for patients with multiple comorbidities. For example, are the resources for treatment to reduce cholesterol for a patient with diabetes, hypertension, and coronary artery disease to be assigned to only one of those diagnoses, to all of them in proportion, or should we develop a chronic condition episode specific to the management of patients with diabetes, hypertension and coronary artery disease, i.e., a patient condition group to better compare cost to treat like patients? An extension of this approach might be a single episode group for outpatient chronic care with adjustment for comorbidities and demographics of the population served by the clinician. We welcome comment on these and any other options for constructing episode groups for chronic conditions.
+
+By definition, a chronic condition is not an episodic illness. It is a continuous health problem that is identified at diagnosis and often lasts for the patients lifetime. Arbitrarily dividing that continuum into episodes is problematic and will likely misrepresent the cost of caring for those patients, especially for primary care physicians who provide ongoing care of those conditions.
+
+In addition to the complexity of trying to develop an episode using multiple chronic conditions, there is a challenge to develop an episode that encompasses multiple chronic condition specialists. Often, patients see multiple providers to manage different parts of their chronic disease. However, in family medicine, we treat most, if not all, of these conditions. How can an episode group be constructed fairly to assign cost to one physician caring for three to four chronic conditions vs. three to four physicians caring for the same type of patient? Family physicians should be rewarded for managing these patients, not held to a higher standard than colleagues who refer every patient to a specialist, thus over utilizing care and overburdening the system.
+
+Additionally, the AAFP recommends CMS factor in socioeconomics and social determinants of health into chronic condition episode groups since they can add significant cost variables that are difficult to quantify but clearly impact care.
+
+Finally, chronic condition episode groups may be too complicated to develop currently since CMS doesnt yet have data on how effective the ten episodes called for in the 2017 MACRA final rule were. We urge CMS to pause and make adjustments based on research in order to determine the most effective approach.
+
+Certain specific conditions, such as cancer, present other challenges. The costs of caring for patients at different stages of disease are likely to vary. For instance, a single episode for a type
+
+
+
+of cancer is likely to differ in a predictable manner depending on the stage of the cancer. Information on disease staging is not easily or predictably available from claims. CMS welcomes comment on methods to incorporate disease severity or staging information to improve meaningful comparison of cost and quality of care furnished to patients, both generally and for specific clinical conditions. For example, how could a disease staging code be reported on claims to facilitate comparison of episodes for patients at like stages of cancer?
+
+The AAFP disagrees strongly with the assertion made in the question. Cancer is not predictable and how it differs between patients in various stages is unique. We remind CMS that the Oncology Care Model is testing the effect of bundled payments around administration of chemotherapy and we therefore recommend that CMS assess the outcome of these bundles before developing other cancer-specific bundles.
+
+Procedural Episode Groups
+
+We solicit comment on the procedural episode groups that accompany this posting, including the service and diagnosis codes used to identify the existence of the procedural episode groups. We also welcome comment on additional procedural episode groups to consider for future development.
+
+The AAFP reviewed the 62 procedural episode groups with a total of 955 trigger codes, and none of them will be primarily claimed by family physicians. The AAFP strongly urges CMS to attribute the costs of the episode primarily (if not exclusively) to the physician who provided the trigger procedure.
+
+Cost Measure Development
+
+Cost measures are being considered for development from episode groups after adding additional context, such as expenditure assignment, attribution, risk adjustment, and consideration of quality.
+
+We welcome comment on each of these elements and whether there are additional elements to consider in developing cost measures from episode groups.
+
+The AAFP insists that cost attribution for patients within care episode groups should be to the physician with the highest Part B allowable charges, based on paid claims, rather than by which provider sees the patient the most. When a patient has multiple providers assigned to an episode, it is important to consider which provider is responsible for the cost. For example, a hospitalized patient might be seen more often by a primary care physician, but most of the cost may be accumulated by a specialist assigned to the case who performed a procedure (which may or may not lead to a complication). It is important to not attribute an episode strictly based on who sees the patient the most because the cost of each interaction can vary so widely. Ideally, episode groupers should be able to apportion costs of an episode among the providers (based on TIN, NPI, or both) involved. To the extent episodes support cost measures, expenditure assignment and attribution should be based on contributions to the cost of the episode (i.e. who billed the most expensive overall charges or got paid the most) rather than who saw the patient the most number of times. As stated previously, the AAFP strongly urges CMS to attribute the costs of
+
+
+
+procedural episodes primarily (if not exclusively) to the physician who requests payment for the most expensive trigger procedure.
+
+The AAFP supports risk adjustment in quality and cost measures. We applaud CMS for seeking input from clinical committees, which include expertise and input from practicing family physicians, on the proper methodology for risk adjusting. We urge CMS to continue soliciting, and more importantly, incorporating, such public and clinical input and to develop a robust education campaign for medical practices.
+
+As described above, the degree of responsibility of attributed services might be considered separately. Those services furnished by the attributed clinician for the clinical purpose of the episode group might be differentiated from the services provided by others for the same clinical purpose. The services furnished by the attributed clinician might be considered directly attributable services. These could be correlated with the services delivered by others for the same clinical purpose, which might be considered indirectly attributed services. The consideration of both directly and indirectly attributed services might be weighed in reporting both the provision and the coordination of care within the episode group relative to each clinician contributing to the care. An alternative approach would be to obtain recommendations from multi -specialty panels about percentages of the resources for an episode that could be attributed to physicians serving in different roles. We welcome comment on these concepts of differential attribution or alternative methods to align attribution with the clinical activities of clinicians.
+
+As described in previous answers, the AAFP strongly encourages CMS to monitor for unintended consequences as episodes are assigned. For example, if an episode is assigned based on percentages of total cost of care, CMS must determine if doing so led to withholding needed care or involving more specialists than needed in order to offset episode responsibility.
+
+The AAFP encourages CMS, if this alternative approach is utilized, to work with Congress to create a new Federal Advisory Committee Act (FACA) committee that includes stakeholder input from physicians, payers, economists, patient representatives, and other stakeholders for this purpose.
+
+The Medicare Advantage program uses the CMS-HCC Risk Adjustment Model to determine rates. We seek comment on the use of this model or an alternative for risk adjusting episode groups in the construction of cost measures.
+
+Adequate risk adjustment is essential to protect against cherry picking patients, inappropriate underutilization of services, and undue risk on practices. The AAFP supports using the CMS-HCC Risk Adjustment Model but we encourage the agency to transition to using the Minnesota Complexity Assessment Method tool once physician practices are able to collect and report on measures that assess patient complexity and identify areas of intervention. We believe the Minnesota Complexity Assessment Method tool represents the best approach to assess complexity that is not captured through a review of disease burden, and it can better direct care teams in patient management.
+
+
+
+
+
+Whichever risk adjustment methodology is selected, we strongly encourage CMS to provide enhanced educational opportunities for family physicians so they can understand how it will impact quality and cost comparisons, and ultimately, payment adjustments.
+
+CMS is especially interested in comments regarding methods to align quality of care with cost measures and welcomes recommendations and suggestions. Considerations for aligning episode groups with quality measurement are described in this document, but are not intended to be an exhaustive list of options. We welcome comment on these methods, as well as any other strategies that could be used to align quality of care considerations with cost measures.
+
+By statute, MIPS is constructed with four components (quality, cost, advancing care information, and improvement activities) therefore quality and cost are already taken into consideration. By performance year 2019 (payment year 2021) these two components will equal each other at 30%.
+
+We again urge CMS to beware of creating new measures that they hope will work before the agency has data on how well the existing ones are functioning. Additionally, CMS should analyze how improved quality affects cost.
+
+CMS wishes to avoid any unintended consequences of using cost measures in MIPS, and seeks comment on issues of concern in this regard, such as taking steps to avoid disadvantaging clinicians who assume the care of complex patients such as by applying episodes for comparison of complex patients (i.e., comparison of like-patients of different clinicians).
+
+Please refer to AAFP examples of unintended consequence found throughout this response.
+

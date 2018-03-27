@@ -1,0 +1,77 @@
+
+The American Academy of Neurology (AAN) is the premier national medical specialty society representing more than 32,000 neurologists and clinical neuroscience professionals and is dedicated to promoting the highest quality patient -centered neurologic care. A neurologist is a physician with specialized training in diagnosing, treating, and managing disorders of the brain and nervous system such as Alzheimers disease, stroke, epilepsy, Parkinsons disease, migraine, multiple sclerosis, and brain injury.
+
+The AAN thanks Acumen and the Centers for Medicare & Medicaid Services (CMS) for the opportunity to provide feedback on the episode groups recommended for cost and quality attribution in the MIPS Quality Payment Program (QPP).
+
+CMS proposes to define Episode Groups (EGs) to measure physician quality and cost. The AAN recommends that CMS adopt a long-term plan to make Alternative Payment Models (APMs) fill two roles. First, APMs should be the vehicle for physicians to bill CMS. Second, the AAN recommends that APMs, rather than EGs, act as the method for CMS to determine physician cost and quality.
+
+The AAN recommends that CMS develop APMs to assess physician costs and quality under the QPP, rather than using EGs. APMs with homogeneous patient populations and services are likely to be more useful than EGs.
+
+ It appears that EGs are being developed first by defining a list of episodes and procedures, and then by extracting relevant services from among many concurrent services provided to a patient during a specific time interval. On the other hand,
+
+
+
+APMs specifically define the patient population, the treatment period, and the services provided to those patients. The patient acuity, time period and services rendered can be prospectively and retrospectively verified both by CMS and by the provider.
+
+ EGs are useful only if patients and services are correctly attributed to physicians. Attribution methods are not now mature, as CMS is defining patient relationship categories. Costs are assigned to providers using arbitrary standards; for example, the provider with most visits, or higher charges within an episode, may be held as the responsible provider for an entire EG. When physician ratings are based on services they cannot control. the high-ranking physicians have little incentive to improve, while the low-ranking physicians have no real means to improve. On the other hand, APMs are services specifically billed by the providers performing the services, over which they have some degree of control. Apparent low-ranking providers should know exactly which service quality and cost improvements are within reach.
+
+ After the EG services are extracted from the total care package using proprietary algorithms, cost and quality adjustments must be made to account for factors including patient complexity. Although current HCC risk adjustment algorithms are effective to predict costs for large patient populations, they are not validated to be accurate to predict costs for specific specialties, subspecialties, or for each individual disease entity. CMS proposes a large number of EGs for diabetes, depression, and other chronic disorders, attempting to define more homogeneous patient groups. CMS proposes only one EG for Parkinsons disease, though the diagnosis encompasses patients with very different needs. On the other hand, APMs can be defined to include patients with relatively uniform diagnosis and concomitant risk factors, and APMs define the services provided, or specifically excluded, for each patient group.
+
+ Assuming that Medicare uses EGs to extract specific services, and then aggregates multiple EGs within a year to rate physician quality and cost, providers cannot use the resulting data to improve their performance. The services included in each EG may be different from patient to patient and from one disease entity to another; the provider cannot replicate the grouping methods based on clinical data, and the provider cannot identify areas for potential practice improvement. Physicians cannot control many of the EG costs, including hospital services. On the other hand, physicians know exactly what services are included in each APM. If we are compared to our peers based on APMs, we will know exactly what services we have used, and for which patients; we will have the opportunity to negotiate lower costs outpatient services, and to use higher qualitylower cost hospitals.
+
+ The proposed EGs are defined to include a high percentage of all services billed to CMS. There are very few relevant to neurologists. There are none relevant to neurologic subspecialists in epilepsy, multiple sclerosis, neuromuscular disease, and other areas. On the other hand, APMs can be developed relatively rapidly by the AAN or other groups, now that PTAC has specified its initial APM criteria. Specialty societies cannot develop EGs to extract services from the CMS database of all services, because the methods are proprietary and are opaque to the societies. The AAN believes that neurologists are more likely than primary care specialists to
+
+
+
+develop consensus standards to improve quality and cost for neurologic disorders, and the AAN can build APMs from best-practice standards of care. Using APMs for QPP will allow the AAN and other specialty societies to bring many more physicians into the QPP, more quickly.
+
+ EGs are to be extracted retrospectively from the pool of services provided to a patient over a time period. On the other hand, the services within an APM can be reported to CMS through a qualified clinical data registry (QCDR). QCDRs should be able to help providers to verify and understand their MIPS scores, develop specialty-specific analysis to enhance QPP ratings, and help specialists to adopt best practices based on APM, QPP, and other data.
+
+AAN Comments on Proposed Episode Groups.
+
+1. There are very few Acute Inpatient Medical Condition Episode Groups that are relevant for neurologists and our patients. The AAN is concerned that neurologist MIPS scores will be based on a very low number of episodes, too few to provide statistically reliable ranking.
+
+2. Acute Ischemic Stroke with Use of Thrombolytic Agent: This group is likely to capture the neurologist as the treating physician for many patients. Its practical usefulness will be limited by CMS ability to segregate services related to stroke, patient attribution, risk adjustment, and other factors. We are concerned that those stroke patients referred for neurologist care may be higher risk than those managed by primary care providers, and that risk adjustment methods may not capture this difference.
+
+3. Seizures and Transient Ischemia: For each of these disorders, there are few patients who require hospitalization. As with acute ischemic stroke, we are concerned that patients requiring an inpatient stay under a neurologists care may be higher risk than those managed by primary care providers, and that risk adjustment methods may not capture this difference.
+
+4. Poisoning & Toxic Effects of Drugs, Psychoses, Syncope & Collapse: These groups will rarely capture the neurologist as the treating physician.
+
+5. Procedural Episode Groups: No proposed procedural EGs are frequently performed by neurologists.
+
+6. Chronic Condition Episode Groups include 65 categories of migraine and 1 category for Parkinsons disease. The AAN expresses concern about the Migraine category:
+
+o If there are to be 65 EGs for migraine, then each category is likely to yield few EGs for each neurologist in MIPS, and the overall physician assessment may be flawed.
+
+o  If CMS plans to consolidate these categories, we recommend three:
+
+ Migraine, not complicated or intractable
+
+
+
+ Migraine, intractable but not complicated. Patients with intractable migraine likely have higher costs, including IV meds, ED or hospital visits, and medication adverse effects.
+
+ Migraine, complicated. This category would include hemiplegic, ophthalmoplegic, persistent aura, or migraine with cerebral infarction. Clinical presentations for these disorders require evaluations similar to stroke, TIA, and epilepsy. In addition, there is significant variation in presentation and risk within each group.
+
+To repeat another concern: Neurologists who do not treat migraine or Parkinsons disease will not be assessed within QPP.
+
+AAN Comments on Proposed Episode Group Methods
+
+The AAN is concerned that the current list of EGs is too small, and that many neurologists may be excluded from meaningful participation in QPP. Neurologists specializing in dementia, multiple sclerosis and epilepsy, among others, can help to minimize expensive patient admissions, but their work would not be reflected in their MIPS rankings under the proposed APMs.
+
+We are concerned that there is little evidence base to guide CMS as it defines the triggering clinical events, termination points, and patient populations for each EG; rather, expert opinion will guide that development. We are concerned that expert opinion will not be adequate to define EGs, and that negative rankings and serious financial penalties may accrue incorrectly to providers who actually have high quality patient care and modest resource use.
+
+Because of these and other concerns, we recommend that CMS minimize the impact of quality and cost rankings until the underlying assumptions are well validated, and until the methods can be reproduced and verified by each affected provider from our own patient data. The AAN strongly recommends CMS continue the Pick Your Pace process into 2018 as physicians learn more about the new quality programs.
+
+Conclusion
+
+The AAN appreciates that the list of proposed Episode Groups is a first step in a long process. We will better judge their potential utility for QPP only when their full definitions include triggering events and clinical endpoints, and when they can be used as accurate benchmarks for quality and cost. We are concerned EGs cannot be productive tools until there is extensive testing and validation of the underlying risk adjustment and episode grouping technology. Even when that work is complete, the episode group technology will always be opaque to physicians. Our members will not be able to audit or correct errors in patient attribution or in costs assigned to us, and we will never be sure that our rankings are reflect our performance. The AAN feels that EGs could never approach the accuracy, transparency, and utility of APMs to compare physicians under the QPP and to help physicians to make meaningful practice improvements based on those comparisons.
+
+ At present providers bill CMS using CPT codes. CMS and HHS can audit our performance and cost by matching CPT services with diagnostic codes, as modified by risk adjustment methods.
+
+
+
+We recommend that CPT use APMs in a similar role for the future. We recommend that CMS aid specialty societies to develop APMs that included relatively homogeneous patient populations and defined services, so that all specialist physicians will be able to participate in QPP with confidence that the benchmarks are accurate.
+
+We greatly appreciate this opportunity to share the views of the AAN in response to the questions raised by CMS.
+

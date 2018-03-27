@@ -1,0 +1,129 @@
+
+The American Speech-Language-Hearing Association (ASHA) is the national professional, scientific, and credentialing association for 191,500 members and affiliates who are audiologists; speech-language pathologists; speech, language, and hearing scientists; audiology and speech-language pathology support personnel; and students. ASHA has actively engaged in the process to develop and refine episode groups because we recognize that they have significant implications for our members in at least two areas: (1) the resource use category under the Merit-Based Incentive Payment System (MIPS) and (2) alternative payment models (APMs). As our members intend to be included in both MIPS and APMs, we have a strong interest in ensuring the episode groups are developed in a way that is inclusive and reflective of the scope of practice for our members. ASHAs comments focus on the following main concerns:
+
+ The need to ensure that as the episode groups evolve and are adopted, the role of nonphysician clinicians, such as audiologists and speech-language pathologists (SLPs), are considered.
+
+ The episode groups need to be specified to ensure that nonphysician clinicians, such as our members, are able to readily determine if they are part of one or more episode groups.
+
+ As currently drafted, ASHA is forced to make assumptions about the appropriate inclusion and exclusion of our members in the revised 117 episode categories.
+
+The role of nonphysician clinicians needs to be considered in the development of episode groups.
+
+ASHA understands that these episode groups are a critical element of the Medicare Access and CHIP Reauthorization Act (MACRA), as they could be used for a variety of purposes including the development of resource use measures for one of the four MIPS categories and in the development of APMs. Successful participation in MIPS and/or APMs will be critically important to ensure the long-term viability of our members in treating not only Medicare patients, but also patients covered by private insurance if and when private insurers adopt similar initiatives.
+
+As CMS is likely aware, audiologists and SLPs have a specific role in treating Medicare beneficiaries (and patients more generally) that does not often include primary care or care management. To date, many APMs and resource use measures focus on clinicians, such as primary care physicians, who serve a larger care coordination role. Therefore, it would be inappropriate to apply the same resource use measures to audiologists and SLPs as those that are applied to their physician colleagues. Instead, action should be taken to ensure that when the episode groups are defined, Current Procedural Terminology (CPT) codes and International Classification of Diseases (ICD) codes reflecting our members services are included. Further, the resource use should only be attributed to our members for the procedures and diagnoses within their scope of practicerather than the larger episodegiven their limited influence on the overall episode of care, such as the inability to refer for specialty services. In addition, ASHA recognizes that speech-language pathology services are typically included under the rehabilitation services category along with occupational and physical therapy. We request that, when allocating costs for rehabilitation services, CMS only attribute costs for speech-language pathology services under rehabilitation services to an SLP, and not count occupational or physical therapy costs to the SLP because each provides distinct services focused on different functional goals.
+
+
+
+Episode Groups Need to be Specified to Ensure Nonphysician Clinicians are Able to Easily Determine if They are Part of One or More Episode Groups
+
+In a previous iteration of the episode group concept, which was released for public comment in mid-2016, there were 57 episode groups that have now been refined and expanded to 117 episode groups. At that time, CMS released detailed lists of CPT and ICD codes, including sequela ICD codes, which indicated that we might be part of six of the 57 episode groups. However, we did not agree with our inclusion in the rheumatoid arthritis episode group. In our comments, we sought clarification as to when codes typically used by audiologists and SLPs would trigger the initiation of an episode group. Would only primary ICD codes, typically used by a physician, trigger the initiation of the episode? Or, could sequela diagnostic coding also trigger the episode? This level of clarity is extremely important for nonphysician clinicians, such as audiologists and SLPs, who typically list sequela ICD codes.
+
+It is our understanding that CMS has undertaken a fundamental reevaluation, which has led it to modify many of the episode group titles from the previous list of 57 to nearly double the number of episode groups under consideration. As part of this reevaluation, a significant level of detail associated with the 57 episode groups does not appear to be part of the new 117 episode groups. For example, it appears that only the CPT and ICD codes typically used by physicians are currently available. While CMS intends to issue a more detailed list, including sequela ICD codes, in the future, this lack of specificity has made it challenging to provide thorough and complete feedback.
+
+Based on the revised episode groups, ASHA is prepared to make suggestions about the inclusion of our members in several episode groups.
+
+Even though our procedural and diagnostic codes are not part of the current iteration of episode groups, we reviewed the revised list of 117 episode groups to make preliminary recommendations to CMS for potential inclusion in specific groups. The following table outlines our recommendations based on the current list; however, our recommendations may change as further details on these groups become available:
+
+Type of Episode Group
+Episode Group Name
+Acute Inpatient Medical Condition
+Acute Ischemic Stroke with Use of
+
+Thrombolytic Agent
+Acute Inpatient Medical Condition
+Acute Myocardial Infarction, Discharged
+
+Alive
+Acute Inpatient Medical Condition
+Fracture of Hip & Pelvis
+Acute Inpatient Medical Condition
+Gastrointestinal Hemorrhage
+Acute Inpatient Medical Condition
+Gastrointestinal Obstruction
+Acute Inpatient Medical Condition
+Heart Failure and Shock
+Acute Inpatient Medical Condition
+Intercranial Hemorrhage or Cerebral
+
+Infarction
+Acute Inpatient Medical Condition
+Major Gastrointestinal Disorders &
+
+Peritoneal Infections
+Acute Inpatient Medical Condition
+Peripheral Vascular Disorders
+Acute Inpatient Medical Condition
+Diabetes
+
+
+
+
+Type of Episode Group
+Episode Group Name
+
+Acute Inpatient Medical Condition
+Poisoning & Toxic Effects of Drugs
+
+Acute Inpatient Medical Condition
+Pulmonary Edema & Respiratory Failure
+
+Acute Inpatient Medical Condition
+Respiratory Infections & Inflammations
+
+Acute Inpatient Medical Condition
+Respiratory System Diagnosis with
+
+
+
+Ventilator Support <96 hours
+
+Acute Inpatient Medical Condition
+Respiratory System Diagnosis with
+
+
+
+Ventilator Support >96 hours
+
+Acute Inpatient Medical Condition
+Simple Pneumonia & Pleurisy
+
+Acute Inpatient Medical Condition
+Transient Ischemia
+
+Chronic Condition
+Asthma/Chronic Obstructive Pulmonary
+
+
+
+Disease (COPD)
+
+Chronic Condition
+Diabetes
+
+Chronic Condition
+Gastroesophageal Reflux Disease
+
+Chronic Condition
+Heart Failure
+
+Chronic Condition
+Major Depressive Disorder
+
+Chronic Condition
+Migraine
+
+Chronic Condition
+Parkinsons Disease
+
+Procedural
+Coronary Artery Bypass Graft (CABG)
+
+Procedural
+Laryngectomy
+
+Procedural
+Treatment of Spinal Fracture or Deformity
+
+Procedural
+Spinal Fusion

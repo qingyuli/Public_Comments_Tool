@@ -1,0 +1,105 @@
+
+The American Society for Gastrointestinal Endoscopy (ASGE), representing more than 14,000 members worldwide, appreciates the Centers for Medicare and Medicaid Services (CMS) solicitation of input from the physician stakeholder community on episode groups.
+
+ASGEs comment letter is divided into two sections: 1) responses to CMS questions; and 2) analysis of episode groups assigned to gastroenterology.
+
+We appreciate CMS demonstrated commitment to ensuring the input of physicians in the development of episode groups that are specific to their specialty. Specifically, through Acumens convening of a Clinical Committee to develop care episode and patient condition groups, and later this year through the creation of specialty specific clinical subcommittees.
+
+Episode Group Development Prioritization
+
+CMS asked whether the criteria proposed for prioritizing the development of episode groups (cost share, clinician coverage, opportunity for improvement and linkage to quality) are appropriate and how they should be ranked, and whether other criteria should be considered.
+
+Section 101(f) of the Medicare Access and CHIP Reauthorization Act (MACRA) requires CMS to establish care episode groups and patient condition groups, and related classification codes, to measure resource use for purposes including the Merit-Based Incentive Payment System (MIPS) and alternative payment models (APMs), and that these groups should account for a target of approximately 50 percent of expenditures under Parts A and B (with such target increasing over time, as appropriate). ASGE has previously encouraged CMS to take a gradual approach to reaching this 50 percent target, which would better allow for the prioritization of episode groups for which: reliable information is attainable; provider burden is minimal; and cost can be easily and accurately attributed to providers.
+
+CMS has determined that cost measure development will occur in waves based on clinical subcommittees for clinical areas. Included in wave one is gastrointestinal disease management. Within this clinical area, ASGE recommends the prioritization of colonoscopy screening and surveillance in the outpatient setting and non-variceal upper gastrointestinal (GI) bleeding (NVUGIB) in the inpatient setting.. Because this service and this condition, respectively, account for a high volume of patients cared for by gastrointestinal endoscopists, they can serve as a good starting point for a physicians overall quality and resource use as episode groups for other conditions and procedures are developed, including complex chronic conditions.
+
+In addition to expenditure share, clinician coverage, opportunity for improvement and linkage to quality, episode groups should be prioritized based on the ability to define appropriate trigger
+
+
+
+codes and to determine episode duration and the services and care that are appropriate to include in a typical case scenario for each condition. Reaching consensus and clinical stakeholder acceptance of these variables are critical and should drive prioritization of incorporation of episode groups as a cost measure within the Medicare Quality Payment Program.
+
+Episodes as Discrete Events or Clinical Conditions for which those Events Occur
+
+CMS is considering whether the focus of episode development be on comparing discrete events, such as acute hospitalizations or procedures. Or, alternatively, whether the focus should be on the clinical conditions for which those events occur.
+
+ASGE believes that whether an episode compares a discrete event or a clinical condition in which those events occur should be determined on an episode-by-episode basis. Initially, the complexity of episode groups should be minimized while attribution methods are tested.
+
+When focusing on clinical conditions, clinical and risk stratification criteria must be well defined. For example, in designing a colonoscopy group, a colonoscopy done for episodes of colon cancer screening and surveillance must be distinguished from those done for other clinical diagnostic or interventional situations such as GI bleeding, stenting for bowel obstruction, diagnosis of inflammatory bowel disease or ischemic colitis due to the large differences in incurred resource utilization for these procedures and complex care management by numerous providers.
+
+Certain condition-based episodes (for example, GERD) could become too complex based on certain factors, such as the duration of the episode, or the rules for when the episode is triggered. For example, is the episode based on a primary diagnosis or are there other triggering factors. Acute hospitalizations/procedures have a finite beginning and ending, making them more manageable starting points for measuring physician resource use.
+
+CMS has also asked how cost measure development can take into account multiple options that might be available in the care of a particular clinical condition. For example, cirrhosis could be looked at as a chronic disease management issue, or as an episode when there is a decompensation or hospitalization for complication. The possible scenarios are similar for inflammatory bowel disease.
+
+Direct and Indirect Service Assignment
+
+CMS states that it intends to provide information on the resource use of each member of a clinical team, enabling one clinicians directly-performed services to be considered as well as another clinicians indirect services when performed in the same clinical context. CMS is asking how this concept can be used to determine accountability for each member of the clinical team as an alternative to the entire episode being attributed to a single clinician.
+
+ASGE believes it will be important to test the submission of patient relationship categories, which will be used for assigning clinician responsibility to a patients care when multiple clinicians are involved. As CMS considers how it will apportion the cost of care among physicians when they are attributed to the same episode of care, ASGE suggests that the following potential pitfalls be considered:
+
+ Attribution by plurality of charges may inadvertently penalize physicians who engage in high-volume, low-intensity services that may attribute a higher percentage of total cost to them due to higher volume of services
+
+
+ Attribution by percentage of total charges may inadvertently penalize physicians who perform high-quality, high-intensity, low-volume services
+
+ A physician specialist may be participating in the care of a patient to remediate a complication caused by the care of another acute or chronic condition treated by the primary physician. The cost of caring for this complication may exceed the cost of all other care and should not be attributed to that specialist but rather the primary or other physician.
+
+ Physicians may try to minimize their attribution or potential "downside" by documenting a less intensive relationship if they believe the patient is likely going to be high risk/cost. This would suggest that the attribution assignment needs to somehow be automated and driven by claims and associated diagnoses/procedures.
+
+ There is also the more global problem of physicians avoiding predictably high cost cases or cases likely to have poor outcomes. Recent data on the experience of New York cardiac surgeons imply that no longer publishing individual outcomes data was associated with improved interventions and better outcomes. While CMS proposed programs arent identical to the New York program, physicians justly fear the directions of public outcomes data and outcomes linked to reimbursement when conditions or patient characteristics not in a physicians control may lead to adverse outcomes to the physician. There are also, unfortunately, situations in which high-quality physicians practice in a peer environment of lower quality care/or higher cost care provision, and can then get dragged down in performance ratings and reimbursement.
+
+Linking Cost and Quality
+
+We agree with CMS that considering the cost of clinical services needs to account for the effects of those services on the quality of care. ASGE suggests that it is important for CMS to look at what options are available now that enable consideration of quality, and what infrastructure improvements can be considered over time to improve the linkage between cost and quality.
+
+As ASGE has previously commented to CMS, we believe the most informative resource use measure is one that is aligned with a clinical quality measure. Ideally, the aligned resource use and quality measures would measure the same outcome as co -variables. This would require the identification of specific outcomes related to the condition or service being measured. We acknowledge, however, some of the challenges of aligning cost and quality measures under the Merit-Based Incentive Payment System (MIPS) due to discrete classification of cost and quality performance categories. Initially, focusing efforts on the collection of data from an electronic health record and clinical data registries will be essential to appropriately aligning resource use measures with clinical quality measures.
+
+Screening and surveillance colonoscopy is a good example of how resource use and quality can be more easily aligned because quality criteria are well-defined and evidence-based, and there are numerous, approved, and endorsed measures that track with outcomes, including adenoma detection rate (ADR) as related to colorectal cancer mortality. ASGE and ACGs GIQuIC Qualified Clinical Data Registry (QCDR) captures these metrics. GIQuIC has been adopted as a method to track outcomes related to benchmarking in state healthcare innovation initiatives. Costs of providing high quality screening and surveillance colonoscopy reflect best practices, including complete examination in a well-prepared colon, and avoidance of procedure-related complications. Similarly, desirable outcomes related to effective therapies of non-variceal upper GI bleeding, as we have proposed for a patient condition, also correlate with costs, including decreased length of stay and avoidance of surgery.
+
+
+
+Streamlining the communication and data reporting to CMS from QCDRs would constitute an important infrastructure improvement that will help to better align cost with quality. Positive benefits will include more efficient and effective feedback to clinicians resulting in more timely practice improvement.
+
+Risk Adjustment
+
+We believe one of the greatest challenges of cost measurement is how best to account for medical complexity and other risk factors. We suggest that CMS utilize the hierarchical condition category (HCC) coding as a tool for risk adjustment for cost measures under the Quality Payment Program. Should CMS chose another risk adjustment method, it is crucial that the methodology be transparent.
+
+As ASGE has previously commented, the method of data collection will be a critical factor when deciding if the clinical criteria and patient characteristics for risk adjustment can be accurately captured. The medical community and CMS experts, working together, should examine each potential episode condition and help define known predictors of outcome for risk adjustment, as well as disease severity criteria, supported by best evidence.
+
+Appropriate risk adjustment can be addressed, in part, by splitting episodes into more granular categories; however, this is complicated by the use of ICD-10 codes. We have recommended screening and surveillance colonoscopy as a more narrow episode group rather than any colonoscopy procedure as an episode group because of the complexity associated with colonoscopy done for other clinical diagnostic or interventional situations.
+
+We have also recommended non-variceal upper GI bleeding as a finer category than any upper GI hemorrhage or GI hemorrhage in general. Variceal and non-variceal upper gastrointestinal bleeding are very different in terms of diagnosis due to underlying conditions. Variceal bleeding would commonly occur in a context of decompensated cirrhosis, which is a complex, costly episode that overlaps with this and other complications. Non-variceal bleeding, occurring in a hospitalized patient, is often different in risk to the patient, potential outcome and associated comorbidities from cases that occur in the outpatient setting. Resource use is, therefore, vastly different in these two settings and this needs to be captured in the construction of this episode.
+
+GI Hemorrhage Acute Inpatient Medical Condition Episode Group
+
+We have reviewed DRG and ICD-10 codes for the GI Hemorrhage. CMS currently lists DRG 377, 378 and 379 for this episode for GI Hemorrhage Although, these three capture most of the GI bleeding ICD-10 codes, the following two ICD-10 codes are listed under DRGs 380, 381, 382, 383, and 384 related to Peptic Ulcer but not in 377,378,379:
+
+ K2211  Ulcer esophagus with bleeding
+
+ Q430  Meckels diverticulum (displaced) (Hypertrophic)
+
+We believe that esophageal ulcer bleeding is common enough that it should be included in the codes for the GI Hemorrhage Episode, via DRGs 380-384.
+
+The following three ICD-10 codes located in the DRGs (368, 369, 370) related to Major Esophageal Disorders should also be included in the GI Hemorrhage Episode.
+
+ I85.10  Esophageal varices with bleeding
+
+ I85.11  Secondary esophageal varices with bleeding
+
+
+
+ K226  Gastro-esophageal laceration-hemorrhage syndrome
+
+Again, bleeding from esophageal varices is a common condition and should be included in the GI Hemorrhage Episode, via DRGs 368-370.
+
+Outpatient events that could be considered candidates for development as acute condition episode groups (which include chronic condition exacerbations that require acute care but not inpatient hospitalization) include such conditions as chronic anemia from small bowel angioectasia bleeding (ICD-10 K31.811), Heydes syndrome, Gastric antral vascular ectasia (GAVE) syndrome (ICD-10 K31.819), Osler Weber Rendu Synrome (ICD-10 I78.0) to list a few.
+
+Colonoscopy Diagnostic Procedural Episode
+
+Overall, we believe that the Colonoscopy Diagnostic Episode has the appropriate range of CPT codes. However, we believe that the equivalent colonoscopy through stoma codes should also be included.
+
+
+Conclusion
+
+ASGE appreciates the opportunity to provide feedback on episode group measure development for the Quality Payment Program.
+

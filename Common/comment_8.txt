@@ -1,0 +1,123 @@
+
+This document is submitted in response to the request for comment on CMSs December 23, 2016 posting, Episode-Based Cost Measure Development for the Quality Payment Program. The comments below represent my personal perspective as an individual, though informed by my experience with cost measure development when I was previously a member of the CMS team working on this project.
+
+The comments are organized to respond specifically to each question or consideration that is posed in the December document, with the specific question or consideration cited in dark font and my comment or response in red.
+
+Page 9: CMS seeks comment on where sub-groups could be created in the draft list of episode groups referenced in this posting. This should be iterative, starting in the clinical subcommittees and informed by data analysis of proposed subgrouping to consider the tradeoff of clinical specificity/actionability/validity with statistical reliability. It is impossible to provide meaningful comment at this early stage of development and absent data analysis.
+
+Page 9: seek input from stakeholders, including specialty societies, clinicians, and other interested parties, regarding the development of episode groups that align with the work and responsibilities of clinicians and on their future use in the development of cost measures. To align with the work and responsibilities of physicians, attribution must focus on each clinicians billed services, as these completely align with the clinicians work. Aligning with responsibility requires the perspective of the patient relationship. If broad and continuous, the clinicians billing are their direct costs for the total care of those patients; thus we need episode groups that align with total cost per beneficiary (applicable only to those clinicians attributed continuous,
+
+
+
+broad patient responsibility). If the relationship is focused (either continuous or episodic), it is important to identify the clinical focus, the episode for which then becomes the unit of analysis to compare clinicians. If the relationship is episodic, it is essential to identify the limitations and boundaries of the episodic relationship. For example, the episodic relationship might be site-related (i.e., a hospitalization or a post-acute stay) or condition or procedure-specific. In sum, the alignment of cost measures with clinicians work and responsibility requires correlation with the clinicians relationship to the patient and the clinicians clinical focus. A given clinician may have multiple responsibilities, perhaps a continuous/broad relationship with some patients, continuous/focused with others and episodic/broad with yet others. In this scenario, the clinicians cost score would be the sum of the clinicians work as measured be consideration of each of these individual patient relationships.
+
+Page 10: soliciting expert clinical input from clinical committees regarding how to use information from claims to inform the attribution of services to clinicians, in addition to further public comment. Per the above comment, the patient relationship codes are essential information, though in order to become informative, they must be must become much more precise than the 4 rough categories that have been proposed. The clinical focus must be identified, either through correlation with billed diagnoses or through specific additional coding.
+
+Page 10: We are also considering additional information that could be used to clarify the relationship between the patient and the clinician. As above.
+
+Page 10: consider stakeholder perspectives throughout the development of the attribution method (in the context of patient responsibility categories and codes). As above.
+
+Page 11: CMS seeks comment on appropriate methods for risk adjustment, as noted in the Questions for Public Comment section of this posting. HCC risk adjustment is appropriate for episodes that encompass patients total costs of care for all conditions and all procedures, such as recommended episodes for the continuous-broad patient relationship. However, focused condition-specific, procedure-specific or site-specific episodes require categorical risk adjustment to consider primarily those risks shown to pertain to the limited focus, as HCC adjustment is intended for broad clinical circumstance.
+
+Page 12: CMS seeks public comment on strategies for aligning cost measures with quality. In the long run we need a strategy to align cost measures with objective patient outcomes. Until that occurs, best use should be made of indicators of quality identifiable in claims, such as hospitalizations, unplanned care, and indicators of overuse, underuse and misuse. The alignment of cost and quality is needed to avoid rewarding clinicians simply because their care is cheaper. Page 12: We have solicited public comment on the elements of an episode of care in these past
+
+postings. We value continued comment to ensure that we develop episode groups with robust stakeholder input. [in the context of the 5 components of cost measure development: 1) define episode group, 2) cost assignment, 3) attribution, 4) risk adjustment, and 5) align with quality] Chronic episode groups are not yet defined, and their evolution may require re-evaluation of these 5 components. A potential 6th component is scoring. CMS must avoid unintended consequences such as encouraging clinicians to treat less complex patients, rewarding failure to provide necessary services or penalizing clinicians who care for disadvantaged populations. Benchmarking the costs of care will require thoughtful consideration of multiple factors to yield
+
+
+
+meaningful judgments and avoid perverse incentives. Until this can be done reliably, scoring needs to be broad and forgiving (non-punitive) until and unless there is meaningful correlation of costs with quality patient outcomes.
+
+Page 14: We seek comment on the length of time for analysis of chronic conditions. At least 1 year (and longer than 1 year would be difficult due to changing clinician-patient relationships and other factors).
+
+Page 14: We welcome public comment on how to include Part D expenditures in future development. Recommend deferring until there is good grasp of the current challenges.
+
+Page 15-16: CMS welcomes comment on the episode groups and trigger codes that accompany this posting, as well as the process to be used to develop cost measures from the episode groups, as described in this document. See comment for the 1st question (page 9).
+
+QUESTIONS FOR PUBLIC COMMENT (pages 17-26)
+
+ seeks input on the accompanying episode groups recommended for development and their associated episode triggers
+
+ also request comment regarding the approach to developing cost measures that are based on episode groups.
+
+ CMS welcomes a wide range of public comments. These specific questions are included to highlight some of the pertinent issues and are not designed to restrict or limit commentary.
+
+Episode Group Selection
+
+ In selecting the episode groups to be considered for development, CMS used criteria including an episodes share of Medicare expenditures, clinician coverage, and the opportunity for improvement in acute, chronic, and procedural care settings. We welcome comment on these episode groups and potential additional episode groups that should be considered for development. Opportunity for improvement is difficult to understand. How is this determined? If it is judged by variation in spending per episode, that is not necessarily opportunity for improvement, as it depends on elements that determine specificity, such as trigger rules, subcategorization, attribution and risk adjustment (and probably additional factors). Recommend that Opportunity for Improvement not be considered a criterion unless/until it is defined in greater detail and appropriate benchmarking of performance is understood and accepted.
+
+Episode Group Definition
+
+ The episode groups that accompany this posting are defined by the listed trigger events and codes (CPT/HCPCS for procedural episode triggers, evaluation & management codes combined with ICD-10 diagnostic information for chronic episode triggers, etc.). CMS solicits comment on the inclusion or exclusion of specific service codes used to identify each episode group. This is work that starts with input of the clinical sub-committees. See comment to the 1st question above.
+
+Acute Inpatient Medical Condition Episode Groups
+
+
+
+ The acute inpatient medical condition episode groups that accompany this posting include only inpatient events. CMS seeks comment on outpatient events that could be considered candidates for development as acute condition episode groups, which could include chronic condition exacerbations that require acute care but not inpatient hospitalization. Cost measures need to develop in the context of total patient care, accounting for patient preference, clinical complexity and available treatment options and resources. The focus should not be on the performance of specific procedures, rather on the care delivered to accomplish a clinical outcome. An example (admittedly a clinically complex one) is the treatment of patients with community-acquired pneumonia, which does not always require hospitalization.
+
+ Acute episodes of care might occur on either an inpatient or outpatient basis and may or may not include surgery. CMS is considering a single Acute Episode Group type that does not distinguish the place of service or the performance of as procedure and welcomes comment on this approach. This approach is commendable. Clinical decisions to hospitalize, perform procedures or use resources must account for all options to meet the needs and preferences of whole patients, not merely the performance of specific procedures.
+
+Chronic Condition Episode Groups
+
+CMS is aware of many challenges in constructing episode groups for chronic conditions. These include coding habits that may obscure some chronic conditions and overemphasize others. In addition, it may be difficult to assign a given treatment to a single condition for patients with multiple comorbidities. For example, are the resources for treatment to reduce cholesterol for a patient with diabetes, hypertension, and coronary artery disease to be assigned to only one of those diagnoses, to all of them in proportion, or should we develop a chronic condition episode specific to the management of patients with diabetes, hypertension and coronary artery disease, i.e., a patient condition group to better compare cost to treat like patients? An extension of this approach might be a single episode group for outpatient chronic care with adjustment for comorbidities and demographics of the population served by the clinician. We welcome comment on these and any other options for constructing episode groups for chronic conditions. The measure Total per capita Medicare Part A and B costs/year, as currently reported by CMS, is the best initial metric for assessing the cost-effectiveness of primary care physicians, including patients with multiple chronic diseases (the continuous/broad patient relationship). An episode would be defined as the sum of Medicare A and B costs for the total care of the cohort of patients attributed to the clinician in a year. Steps will need to be taken to assure that patients are attributed to a single primary physician.
+
+This approach offers multiple advantages:
+
+ It is consistent with the whole patient orientation of primary care
+
+ It is a measure that, if adequately risk-adjusted, reflects the influence of the physicians effectiveness, both clinically and as steward of taxpayer dollars. It encourages more effective chronic care, care coordination, and prudent use of costly downstream resources.
+
+
+
+ It covers virtually the entirety of a physicians practice and generates the largest available sample size, reducing the small numbers problem.
+
+ It avoids entirely difficult issues of attribution of costs to individual disease-specific episode groups in patients with multiple chronic diseases.
+
+ It permits the application of the HCC risk adjustment system, which has proven and meaningful risk adjustment utility in Medicare Advantage and other CMS population-based payment environments.
+
+ Similar measures of primary care influence on cost have been used extensively by physician groups participating in Medicare Advantage, and enjoy widespread acceptance by physicians as meaningful measures of performance.
+
+Certain specific conditions, such as cancer, present other challenges. The costs of caring for
+patients at different stages of disease are likely to vary. For instance, a single episode for a type
+of cancer is likely to differ in a predictable manner depending on the stage of the cancer.
+Information on disease staging is not easily or predictably available from claims. CMS welcomes
+comment on methods to incorporate disease severity or staging information to improve
+meaningful comparison of cost and quality of care furnished to patients, both generally and for
+specific clinical conditions. For example, how could a disease staging code be reported on claims
+to facilitate comparison of episodes for patients at like stages of cancer? We look forward to the
+time when clinical data, such as that populated in clinical registries, will be linked to claims and
+provide the clinical information that is needed to inform on patient preference, disease staging
+and other important clinical perspectives that are not currently available yet are essential for
+understanding clinical decision-making.
+Procedural Episode Groups
+
+ We solicit comment on the procedural episode groups that accompany this posting, including the service and diagnosis codes used to identify the existence of the procedural episode groups. We also welcome comment on additional procedural episode groups to consider for future development. This seems the work of the clinical sub-committees and is difficult to conceptualize absent meaningful collegial interaction. See initial comment above.
+
+Cost Measure Development
+
+ Cost measures are being considered for development from episode groups after adding additional context, such as expenditure assignment, attribution, risk adjustment, and consideration of quality. We welcome comment on each of these elements and whether there are additional elements to consider in developing cost measures from episode groups. See above comments regarding attribution, patient relationship, clinical registries and scoring.
+
+ As described above, the degree of responsibility of attributed services might be considered separately. Those services furnished by the attributed clinician for the clinical purpose of the episode group might be differentiated from the services provided by others for the same clinical purpose. The services furnished by the attributed clinician might be considered directly attributable services. These could be correlated with the services delivered by others for the same clinical purpose, which might be considered indirectly attributed services. The consideration of both directly and indirectly attributed services
+
+
+
+might be weighed in reporting both the provision and the coordination of care within the episode group relative to each clinician contributing to the care. An alternative approach would be to obtain recommendations from multi-specialty panels about percentages of the resources for an episode that could be attributed to physicians serving in different roles. We welcome comment on these concepts of differential attribution or alternative methods to align attribution with the clinical activities of clinicians. Recommend using as the primary unit of analysis the total costs expended for the pertinent clinical care of the cohort of patients cared for by the clinician whose cost performance is being measured. The pertinent care should be defined relative to the patient relationship and the clinicians responsibility. In the context of a broad, continuous relationship the clinician should be responsible for the total costs of the cohort of patients with that relationship. For relationships that are focused, the clinician should be responsible for the total costs of the patients for the focused responsibility during the period of responsibility. For instance, if the focus of responsibility is restricted to a given site of service, the unit of analysis/comparison should be the total costs while the patient is in the site of service (plus pertinent consequences). If the focus of care is a specific clinical condition, the unit of analysis/comparison should be the total costs for the clinical condition (plus pertinent consequences) of the cohort of patients cared for by the clinician.
+
+ The Medicare Advantage program uses the CMS-HCC Risk Adjustment Model to determine rates. We seek comment on the use of this model or an alternative for risk adjusting episode groups in the construction of cost measures. In addition, should concurrent or prospective risk adjustment be used, and should a full year of data or more targeted data from before the episode be used to adjust? HCC risk adjustment is appropriate for long-term (1 year or longer) broad patient relationships, such as primary care. Limited or focused relationships require categorical risk adjustment that is specific to the focused area being considered.
+
+ The draft list does not currently include specifications for episode sub-groups (a subgroup is intended to achieve greater clinical comparability and is a subdivision of an episode group that further refines the specifications of episode trigger codes and grouping rules to yield more clinically homogenous cohorts of patients with similar expected cost). An example is an episode group for spine surgery with sub-grouping for number of levels and anatomic location. CMS solicits public comment on these draft episode groups and potential sub-groups. This should be considered in an iterative manner, starting in the clinical subcommittees and informed by data analysis of proposed subgrouping to consider the tradeoff of clinical specificity/actionability/validity with statistical reliability.
+
+ CMS is especially interested in comments regarding methods to align quality of care with cost measures and welcomes recommendations and suggestions. Considerations for aligning episode groups with quality measurement are described in this document, but are not intended to be an exhaustive list of options. We welcome comment on these methods, as well as any other strategies that could be used to align quality of care considerations with cost measures. See above comments regarding clinical registries.
+
+ CMS wishes to avoid any unintended consequences of using cost measures in MIPS, and seeks comment on issues of concern in this regard, such as taking steps to avoid disadvantaging clinicians who assume the care of complex patients such as by applying
+
+
+
+episodes for comparison of complex patients (i.e., comparison of like-patients of different clinicians). CMS must obtain
+
+ and utilize data in addition to those in claims to reach these important goals. Until such additional data is available, CMS should avoid making arbitrary decisions regarding the worth of resource use. There are many reasons to avoid the assumption that cheaper is better at this early stage of cost measure development.
+
+ CMS acknowledges that prescription drug costs are a large driver of the cost of medical care for Medicare beneficiaries. What would be the best way to incorporate Part D costs into the episode group development? Recommend deferring this issue until the more pressing issues above are addressed.
+
+Thank you for the opportunity to respond to these important considerations. I look forward to the successful completion of this important project.
+

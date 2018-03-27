@@ -1,0 +1,51 @@
+
+Moffitt Cancer Center appreciates the opportunity to submit comments in response to CMS development of episode cost measures that are part of the Merit based Incentive Payment System (MIPS).
+
+
+
+ Moffitt Cancer Center is the only National Cancer Institute-designated Comprehensive Cancer Center based in Florida, a state which ranks #2 in the nation for cancer incidence and mortality. Moffitt provides cancer care to residents of all 67 Florida counties and all 50 states, producing superior outcomes for survival, quality of life and patient satisfaction. We treat more than 50,000 individual patients each year, a large percentage of which are Medicare beneficiaries. We also maintain active collaborations with health care providers and research institutions across the U.S. so that we might help elevate the standard of care for all those diagnosed with cancer.
+
+ Below is specific feedback to several questions CMS raised in its recent "Episode-Based Cost Measure Development for the Quality Payment Program" posting.
+
+Risk-Adjusting Episode Groups
+
+ Moffitt agrees that it is critical for CMS to adjust for factors that can influence expenditures but are outside a clinician's control. For example, patients differ in their severity of illness, functional status, age, type and number of comorbidities and chronic conditions, etc. These patient -level risk factors must be taken into consideration in any risk adjustment methodology that is used. Additionally, accounting for patient complexity and health status, including chronic conditions, is critical to ensure that clinicians who treat particularly complex patients, such as cancer patients, are not penalized.
+
+ Although CMS uses the Hierarchical Condition Categories (HCCs) risk-adjustment methodology to adjust episode-based costs for its Medicare Advantage population, we agree with CMS' view stated in the document that an alternative approach to reduce heterogeneity within an episode may need to apply with respect to this episode work so that comparisons of like patients can be made. We believe this is particularly true for cancer patients and therefore urge CMS to implement its methodology in a way that ensures valid and reliable comparisons between providers based on "like" patients. Moffitt further believes that CMS should apply a specialized risk adjustment methodology to cancer, grouping "like" patients based on procedures and cancer site. We believe that comparisons between patients with and without a cancer diagnosis as well as comparisons among patients with different cancer diagnoses can lead to erroneous conclusions about resource utilization and costs.
+
+ Regarding the CMS-HCC Risk Adjustment, this model does not appear to adequately accurately capture and adjust for differences in patient acuity and complexity. This is especially true, when applied in the context of assessing the resource use of practitioners who are based at a tertiary cancer center with a highly complex patient population.
+
+ Equally concerning, is the failure of a prospective model to capture or adjust for the resources used by newly diagnosed cancer patients during the performance period. Patients with newly diagnosed cancer are all but guaranteed to significantly exceed the predicted costs assigned by prospective HCC risk adjustment.
+
+ Our review of the 2015 data for all Medicare beneficiaries attributed to Moffitt providers under the Value Modifier program (which employs prospective adjustment using the CMS-HCC methodology) demonstrate that the CMS-HCC model has very poor predictive value when applied to our patient population.
+
+
+
+ Given the poor ability of CMS-HCCs to explain variation in the total cost of care, Moffitt believe CMS must assess alternative risk adjustment methodologies - including but not limited to the 3M Clinical Risk Group (CRG) or HHS-HCC models- would present a more accurate and reliable solution. Both the CRG and HHS-HCC models offer greater specificity, i.e., more diagnoses and risk categories, than the CMSHCC model, which may allow for a more accurate comparison of like patients. Regardless of which methodology is employed, the use of concurrent data will help ensure the best possible level of accuracy.
+
+Attribution
+
+ As noted in CMS 's recent document, attribution of inpatient episodes to a single provider is extremely challenging; particularly when a primary care physician, specialist and hospitalist all may have been involved in the patients care.
+
+ We understand that MACRA requires new patient relationship categories and codes to be reported as of January 1, 2018. Since the information has not yet been released, we are unable to provide feedback to CMS on how the codes should best be incorporated into its attribution model but would be pleased to do so once CMS releases the information.
+
+Episode Definitions
+
+ Moffitt notes that CMS has focused the proposed episodes on acute hospitalizations that are short-term and chronic conditions that are long-term. However, cancer is more of an "episodic" illness, which may not last over 12 months like a chronic condition, but are not as short in duration as traditional acute care episodes. Cancer treatment is often characterized by diagnosis, acute treatment, and resolution or the progression to second- and third-line treatments and the potential development of additional cancers. We suggest that CMS create separate episode-based cost measures to best represent episodic treatments like cancer for comparison with "like" services.
+
+ We also request that CMS disclose how it plans to define and treat outliers. For example, will outliers be excluded from the cost calculation? We also question whether patients on clinical trials will be included, excluded, or treated as separate subgroups?
+
+ Finally, we are concerned that oncologists maybe held accountable for cost of cancer care for patients who are defined with another acute or chronic condition. This is not appropriate.
+
+ Moffitt is also concerned about how CMS proposes to define "complex cancer patients." These could be patients with multiple cancer diagnoses, with rare cancers, with a higher cancer stage, or a combination of these. It is difficult to assess these elements and to risk-adjust them appropriately at this time. Therefore, we recommend that CMS first implement systems to capture this information and test those systems using various risk-adjustment methodologies.
+
+Implementation Timing
+
+ Given the number and nature of the questions associated with the development and refinement of the MIPS cost measures, we recommend that CMS delay implementation. We suggest that the cost category not be factored into the final MIPS score until payment year 2021 or 2022. In other words, we encourage CMS to keep the cost category weighted at zero percent (0%) of the MIPS
+
+
+
+final score until it has better data to use. This would also give clinicians more time to understand the cost measures and attribution methodology.
+
+ The Moffitt Cancer Center appreciates the opportunity to provide input into the development of MIPS cost measures. We would be happy to answer any questions or provide additional details.
+

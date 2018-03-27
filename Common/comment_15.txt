@@ -1,0 +1,93 @@
+
+Memorial Hospital for Cancer and Allied Diseases (Memorial) appreciates the opportunity to offer feedback on the proposals outlined in Episode-Based Cost Measure Development for the Quality Payment Program, which will further implement the physician payment reforms authorized by the Medicare and CHIP Reauthorization Act (MACRA) of 2015. Memorial is the oldest hospital in the nation devoted solely to the research and treatment of cancer. Today, Memorial employs nearly 1,000 attending physicians, as well as many more non-physician practitioners. These providers include a high concentration of specialists  general medicine, medical oncologists, anesthesiologists, pathologists, radiologists, nuclear medicine specialists, etc.  who exclusively treat patients with cancer, giving Memorial a unique perspective on the implementation of the Quality Payment Program.
+
+As acknowledged by the Centers for Medicare and Medicaid Services (CMS) in its proposal, stakeholder feedback to date has identified some key areas for continuing focus. Among these issues are several that are of considerable importance to Memorial, including feedback that:
+
+ Cost measures should account for patient complexity and the challenge of addressing overlapping conditions, i.e., accurate risk adjustment is necessary.
+
+ Attribution of episode groups to clinicians should be clear and credible.
+
+ Patient outcomes should be at the center of cost measures.
+
+Our comments on the following pages will focus on these themes, with a particular emphasis on risk adjustment, both as it applies in the context of developing episodebased cost measures and in the Quality Payment Program more generally. Adequately addressing these issues holds immense importance for ensuring that the Quality Payment Program is designed to fairly and accurately assess resource use and outcomes, particularly for practitioners who exclusively treat patients with cancer.
+
+Accounting for patient complexity and overlapping conditions, i.e. risk-adjustment:
+
+In Episode-Based Cost Measure Development for the Quality Payment Program, CMS requests stakeholder feedback on the methodology that should be employed for risk adjustment. Specifically, the proposal seeks feedback on whether the CMS-HCC risk adjustment
+
+
+
+methodology or an alternative methodology should be used to risk adjust episode-based cost measures, as well as whether prospective or concurrent risk adjustment should be used.
+
+Memorial is pleased that CMS is actively reviewing the appropriateness of the CMS-HCC risk adjustment methodology and has proposed the possibility of pursuing alternative approaches. As Memorial and others have commented previously, the CMS-HCC Risk Adjustment model is inadequate for accurately capturing and adjusting for differences in patient acuity and complexity, particularly when applied in the context of assessing the resource use of practitioners who are based at a tertiary cancer center with a highly complex patient population. CMS could significantly improve its risk adjustment methodology  both for the episode-based cost measures under development and for the Quality Payment Program resource use measures more generally  by:
+
+ Using concurrent, rather than prospective, risk adjustment.
+
+ Exploring the use of alternative risk-adjustment methodologies.
+
+ Capturing additional relevant data, such as cancer stage, and incorporating this data into the assignment of a risk score.
+
+ Considering methods to ensure the comparison of like patients to like patients, including by creating episode subgroups.
+
+ Removing outliers from the episode-based and other cost measures.
+
+First, CMS should use concurrent risk adjustment with a full year of data. As we have noted in earlier comments, prospective risk adjustment as employed by the CMS-HCC methodology is highly ineffective in assessing resource use by practitioners treating a high concentration of complex patients. Of particular concern is the failure of a prospective model to capture or adjust for the resource use of patients who are newly diagnosed with cancer during the performance period. Patients with newly diagnosed cancer are all but guaranteed to significantly exceed the predicted costs assigned by prospective HCC risk adjustment, and Memorial and other tertiary cancer centers see a higher than average concentration of such patients. In 2015, approximately one-quarter of the patients seen by the Memorial Medical Consultation group were newly diagnosed, and more than half of these patients had had non-localized disease, including regional and distant metastases. Internal analyses of the 2015 data for all Medicare beneficiaries attributed to Memorial under the Value Modifier program (which employs prospective adjustment using the CMS-HCC methodology) demonstrate that the CMS-HCC model has very poor predictive value when applied to our patient population. In fact, the CMS - HCC methodology resulted in agreement between the quartiles for payment and the HCC risk score only 37 percent of the time. Perhaps more alarmingly, the more complex a patients diagnoses, the worse the CMS-HCC methodology performed. Among attributed beneficiaries at MSK with a stage IV cancer diagnosis recorded in the tumor registry, the CMS-HCC score predicted just one percent of the variation in payments. By contrast, for attributed beneficiaries with in situ cancer, it predicted 26 percent of the variation.
+
+Using concurrent, rather than prospective, data would improve the predictive value of the CMS-HCC methodology. As a proxy for using a concurrent rather than prospective risk adjustment model, Memorial performed an analysis of our attributed beneficiary data for only those patients who were seen in 2014 (and thus would have a cancer diagnosis reflected in their risk score),
+
+
+
+which improved the agreement between the payment and CMS-HCC risk score quartiles to 49 percent. While this is a significant marginal improvement, the CMS-HCC risk adjustment leaves a great deal of the variation in payment unexplained.
+
+Given the poor ability of CMS-HCCs to explain variation in the total cost of care for our complex patient population, Memorial urges CMS to assess whether alternative risk adjustment methodologies  such as the 3M Clinical Risk Group (CRG) or HHS-HCC models  would present a more accurate and reliable solution.
+
+Both the CRG and HHSHCC models offer greater specificity, i.e., more diagnoses and risk categories, than the CMS-HCC model, which may allow for a more accurate comparison of like patients with like patients. Regardless of which methodology is employed, the use of concurrent data will ensure the best possible level of accuracy.
+
+Capturing additional relevant data, such as cancer stage, and incorporating this data into the assignment of a risk score would also improve the predictive value of the chosen risk-adjustment methodology.
+
+As CMS notes in the proposal, the costs of caring for patients at different stages of disease are likely to vary. For instance, a single episode for a type of cancer is likely to vary in a predictable manner depending on the stage of cancer. In fact, treating advanced stage cancers has been demonstrated to be associated with significant incremental cost increases compared with treatment of early stage cancers. 1,2,3 For example, an analysis of breast cancer treatment costs by stage found that Stage I/II cancers averaged a per patient cost of $82,121 in the initial 12 months postdiagnosis, while stage III cancers averaged $129,387 per patient. Unfortunately, the CMSHCC model is only able to differentiate between metastatic and non-metastatic cancers, leaving important differences in cancer stage unaccounted for by its methodology. In response to CMSs request for information on how cancer staging information could be reported on claims in order to facilitate episode comparisons, the Alliance of Dedicated Cancer Centers (ADCC), of which Memorial is a member, is in the process of developing a proposal to allow for standardized reporting of cancer stage on the UB-04 (institutional) and 1500 (professional) claims. In brief, the ADCC believes that cancer stage or CS could be reporting using a code of CS -0 to CS-4, representing in-situ to stage IV cancer, in the form locator fields 39-41 on the UB-04 and in item number 19 representing additional claim information on the 1500. A more detailed proposal from the ADCC is under development and will be forthcoming.
+
+CMS should consider methods to ensure the comparison of like patients to like patients, including by creating episode-based cost measure subgroups.
+
+As acknowledged in the CMS proposal on episode-based cost measure development, specific conditions may confer higher or lower risk for certain episode groups. Particularly given the inadequacies of the CMS-HCC risk-adjustment methodology (as described above), Memorial is deeply concerned by the prospect of our providers being assessed by an episode-based cost measure for a procedure that may or may not be performed as a result of a known or suspected cancer diagnosis. For example, a patient might undergo a thyroidectomy or colon resection for a variety of reasons, which might or might not include an underlying cancer diagnosis. However, costs for the thyroidectomy or colon resection episode are highly likely to vary accordingly.
+
+
+
+Similarly, significant cost variations can be expected between diagnostic and preventative endoscopies. Therefore, Memorial strongly recommends that CMS consult with clinical experts to systematically identify episode-based cost measures for which cancer and non-cancer subgroups should be developed.
+
+Finally, Memorial urges CMS to consider removing outliers from the episode-based and other cost measure calculations. While CMS uses the HCC methodology to risk adjust payments made to Medicare Advantage and Exchange plans, it also administers supplemental programs designed to account for outliers, i.e., patients with extremely high-cost cases that are not well predicted by the HCC risk adjustment methodology, in order to protect plans from catastrophic costs. Memorial urges CMS to consider taking a similar approach in assessing resource use or cost under the Quality Payment Program by removing outliers from the calculations in the cost performance category.
+
+Attribution of episode groups to clinicians:
+
+If the assessment of cost or resource use by clinicians is to have its intended impact and effectively drive reductions in future resource use, physicians and non-physician practitioners should be reasonably able to predict which patients will be attributed to them under the Quality Payment Program. To date, the patient attribution criteria employed by CMS to assess physician resource use have not adequately met that bar. For example, under the patient attribution criteria used by the Value Modifier program for the Total Per Capita Costs measure, Memorial physician groups were attributed some patients whose encounter data make their attribution surprising, if not necessarily incorrect. For example:
+
+Twenty-two beneficiaries assigned to Memorial physician groups had standardized payments of
+
+less than $500 from Memorial evaluation and management (E&M) claims while having over
+
+$5,000 from E&M claims billed by other physicians. In the most extreme example, the
+
+Memorial physician group E&M payment was only $51 when other E&M payments totaled
+
+$15,736. It is difficult to imagine how this beneficiary was attributed to the Memorial physician
+
+group given these numbers.
+
+At present, it is unclear how the new patient relationship categories and codes that are expected to be released sometime this month will be operationalized. These codes may offer some improvement in the ability to reasonably predict patient attribution. However, given our concerns with the transparency of the existing attribution mechanisms and the lack of clarity around the upcoming patient relationship categories and codes, Memorial requests the opportunity to provide additional input once those categories and codes have been made available.
+
+In addition, as noted by the ADCC, we understand that CMS is likely to use new HCPCs modifiers to establish the patient-provider relationship. While the use of modifiers offers a familiar and relatively simple mechanism for providers to record this information, the list of required modifiers has been growing rapidly and it is unclear whether all reported modifiers are read. CMS should verify that all reported modifiers will be read by its pricer/editor systems, regardless of the number of modifiers and the order in which they are appended.
+
+Patient Outcomes Should Central to the Development of Cost Measures: At its core, the Quality Payment Program is designed to incentivize both efficient and high-quality health care
+
+
+delivery. However, not every health care episode, particularly those defined as a chronic condition episode group, will necessarily lend itself to an accurate evaluation of resource use or of quality/patient outcome on a one-year (or shorter) timeframe.
+
+The difficulty of assessing cost and quality for chronic care episodes on a one-year time frame is exemplified by data on Memorials patient outcomes and resource use. For example, a 2015 study in JAMA Oncology showed that patients treated at Memorial and other PPS -exempt cancer have better survival outcomes during the first year of treatment, and this survival advantage persisted over a five years. At the same time, our own analyses of Medicare claims for continuously enrolled beneficiaries newly treated for cancer at PPS-exempt cancer centers shows that our costs are somewhat higher in the first 24 months of treatment. Importantly, however, our costs are lower by the end of year three. Presently, however, survival rates are not assessed by the Quality Payment Program, and resource use is evaluated on a one-year or shorter basis. As such, Memorial could well offer a survival advantage at a marginally higher cost on a one-year timeframe  all while offering more efficient care over the entire episode of treatment  and still incur a penalty under the Quality Payment Program.
+
+CMS should explore avenues to address these flaws. For example, CMS might consider the addition of bonus points for measure that are especially important for assessing patient outcomes, i.e., survival rates for cancer and other life-threatening conditions.
+
+1 Blumen, H., Fitch, K., & Polkus, V. (2016). Comparison of Treatment Costs for Breast Cancer, by Tumor Stage and Type of Service. American Health & Drug Benefits, 9(1), 2332.
+
+2 Mittmann, N., Porter, J. M., Rangrej, J., Seung, S. J., Liu, N., Saskin, R., Earle, C. C. (2014). Health system costs for stage-specific breast cancer: a population-based approach. Current Oncology, 21(6), 281293.
+3 Luo, Z., Bradley, C. J., Dahman, B. A., & Gardiner, J. C. (2009). Colon Cancer Treatment Costs for Medicare and Dually Eligible Beneficiaries. Health Care Financing Review, 31(1), 3550. Luo, Z., Bradley, C. J., Dahman, B.A., & Gardiner, J. C. (2009). Colon Cancer Treatment Costs for Medicare and Dually Eligible Beneficiaries. Health Care Financing Review, 31(1), 3550.
+

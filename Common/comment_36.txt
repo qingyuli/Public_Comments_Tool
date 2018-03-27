@@ -1,0 +1,52 @@
+
+The Medical Group Management Association (MGMA) is pleased to submit the following comments in response to the Centers for Medicare & Medicaid Services (CMS) draft framework for development of episode-based cost measures for the Quality Payment Program, released Dec. 23, 2016. In addition to upholding the highest standards of valid measure development through a transparent and stakeholder-inclusive process, CMS should pilot test new episode-based cost measures through a voluntary program to demonstrate their intended effect and mitigate unintended consequences. To facilitate a voluntary pilot program, MGMA urges CMS to continue to zero out the cost component of MIPS.
+
+MGMA and its 50 state affiliates comprise more than 33,000 administrators and executives in 18,000 healthcare organizations in which 385,000 physicians practice. MGMA represents physician groups of all sizes, types, structures and specialties, and has members in every major healthcare system in the nation. As the leading association for practice administrators and executives for nearly 90 years, MGMA produces the most credible medical practice economic data in the industry and provides the education, advocacy, data and resources that healthcare organizations need to deliver the highest-quality patient care.
+
+Utilize a transparent methodology and integrate provider feedback
+
+MGMA recognizes the draft development process includes multiple levels of clinician feedback and stakeholder engagement, and we strongly urge CMS to fully incorporate the recommendations and concerns that result from the stakeholder engagement process. In addition, MGMA offers the following principles to guide the agency as it develops cost measures:
+
+
+
+ Measure specifications should be fully transparent and available for public review.
+ Measures should be evidence-based, broadly accepted, clinically relevant, actionable, continually updated and developed by practicing physicians.
+ Measures must never stifle or restrain clinical innovation.
+
+ Emphasis should be placed on statistically significant cases to minimize the margin of error. Insufficient sample size should be clearly noted in an unbiased manner.
+
+ Data should be risk-adjusted to consider variables that affect health outcomes, including patient demographics, severity of illness and comorbidities.
+
+Promote consistency across MIPS and APMs
+
+We urge CMS to harmonize its construction methodologies for episode groups, where appropriate, across the Merit-Based Incentive Payment System (MIPS) and alternative payment models (APMs). Several specialties have developed or are developing APMs that center on defined episodes of care. In designing these models, the relevant specialties typically will have already provided the clinical scrutiny and expertise needed to ensure that appropriate costs are included and inappropriate costs are not. In addition, the specialty will have focused on those conditions where there is agreement and opportunity to reduce costs.
+
+While episodes of care defined in APM proposals can serve as a starting point and should be consistent with episodes associated with the MIPS program, some variation between the two types of episodes may be needed. For example, for services such as care coordination, which are not fully covered by Medicare, an episode of care covered in an APM may include specific care coordination activities that are not payable in fee-for-service (FFS) medicine and therefore would not be part of an episode used to measure resource use in FFS Medicare. In addition, to allow for legitimate differences between episodes used in MIPS and APMs, CMS will need to exercise some flexibility in application of the measures, such as in cases where a physician involved in APMs did not meet the threshold to be exempt from MIPS. If episodes are built on claims data and services provided in an APM and not separately payable by FFS Medicare, they will be left out of the episode. For a stroke patient, for example, there may be claims from many different physicians and other professionals, but there will not be a claim for a team leader who is coordinating the overall care of the patient because Medicare does not pay for this service.
+
+Support the group practice team-based model of care
+
+MGMA urges CMS to ensure the episode-based cost measures reflect the group practice model of care where multiple practitioners utilize a team-based approach to treating patients. In fact, the fundamental advantage the group practice model offers is the coordination of a wide range of physician and related ancillary services in a manner that is seamless to patients. Physician practices have a goal of collectively improving care through coordination, efficient use of resources, investment in effective health information technology and employment of practice improvement initiatives. This holds true whether the group is single- or multi-specialty, physician-owned or non-profit practice, or part of an integrated health system. By establishing a group practice reporting and assessment option in MIPS, the agency recognized the value of analyzing quality and cost under the umbrella of a group practice and should do so going forward in developing the episode-based cost measures.
+
+
+
+Further, as physician practices transform in preparation for APMs and increased financial accountability, these organizations are adopting physician-led multidisciplinary teams that focus on coordination across the care continuum to guide patients through an acute episode of care or to provide care to patients with ongoing, complex care needs. For example, CMS new Comprehensive Primary Care Plus demonstration requires group practices to develop a personalized plan of care for high-risk patients and use team-based approaches like the integration of behavioral health services into practices to meet patient needs efficiently. MGMA strongly urges CMS to explore ways to account for a physician-led, multidisciplinary team approach to patient care. CMS should work closely with the developers of care episodes and physician specialty organizations to determine best practices for distributing the costs of care within episodes to ensure accurate attribution.
+
+Weight the cost component of the MIPS score at zero
+
+In the final rule with comment entitled, Medicare Program; Merit-Based Incentive Payment System (MIPS) and Alternative Payment Model (APM) Incentive Under the Physician Fee Schedule, and Criteria for Physician-Focused Payment Models, CMS weighted the cost component of MIPS to zero in the 2017 performance period, 10% in the 2018 performance period and 30% in 2019 and beyond. MGMA strongly urges CMS to use the Secretarys authority under section 1848(q)(5)(F) of MACRA to reweight the cost performance category to zero until the agency has extensively tested the new episode-based measures, reformed and fully tested the patient attribution methodology, and implemented key aspects of this category, including risk- and specialty-adjustment recommendations from the congressionally-mandated report by the ASPE.
+
+Further, it is critical that the agency provide timely and clinically-actionable information regarding these measures. On pages 5-6 of this posting, CMS itself states, [t]he cost category of MIPS provides an opportunity for informing clinicians on the costs for which they are directly responsible, as well as the total costs of their patients care. However, as currently implemented, physicians and groups will only receive feedback information six months after the conclusion of the performance period, which could be up to 18 months after the point of care. Because of this significant delay in feedback, group practices and physicians do not have an opportunity to adjust their work flows and spending patterns until partway through the following performance period. We urge CMS to consider delaying measurement of clinicians and groups on cost until it is operationally feasible to provide cost and attribution feedback on at least a quarterly basis.
+
+Create a voluntary pilot program to test new episode-based cost measures
+
+To demonstrate benefit in terms of cost-effectiveness, mitigate any unintended consequences of new episode-based cost measures and ensure their alignment with the new patient relationship codes, CMS should create a voluntary pilot program to test these new measures. In the pilot, CMS would provide feedback to physicians and practices who volunteered to test new measures that are based on episodes of care, adjust costs to reflect patient condition and use patient relationship categories to attribute cost within the episode. We do not believe it would be appropriate to score participants performance on cost measures during the pilot program, as it could deter participation and skew the sample. Optimally, a pilot should include practices of varying sizes, medical specialties and technical capabilities.
+
+A pilot program could provide an analysis of the implementation issues facing providers, including outreach and training, assignment of patient relationship codes, clinical-administrative
+
+
+system integration and required workflow and process modifications. Most importantly, a pilot could focus on the challenge of assigning costs within a group practice environment where multiple clinicians could be participating in the patients care delivery.
+
+Provide sufficient opportunity for review and appeal of final cost measures
+
+MGMA urges CMS to establish a robust and efficient review and appeals process that would allow providers and practice administrators to submit clinical or other relevant data to supplement and correct inaccurate data and cost attributions. To facilitate this process, CMS should provide detailed information about each attributed episode of care.
+

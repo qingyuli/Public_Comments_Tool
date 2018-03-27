@@ -1,0 +1,21 @@
+
+My understanding is that CMS plans to risk-adjust the episode-based costs using ICD-10-CM codes.
+
+This will cause considerable difficulty unless CMS uses its influence as a member of the ICD-10-CM/PCS Cooperating Parties to bring more sanity to the system. Options include:
+
+ Allowing inpatient physicians to report uncertain diagnoses on their 99238 or 99239 codes. At this time, inpatient hospitals can report uncertain diagnoses documented at the time of discharge but inpatient physicians cannot. It would make sense that the diagnosis codes on the physicians final bill match those of the hospital.
+
+ Allowing physicians and hospitals to use old records to update a patients diagnosis list for chronic conditions. At this time, if a patient has HIV disease (B20) but the doctor only documents +HIV (Z21), the ICD10-CM Cooperating Parties do not allow a coder to obtain the necessary specificity from an old record. The physician must redocument this again.
+
+ Allowing codes to be based on CMS definitions for conditions rather than just on provider documentation. For example, CMS can endorse a certain definition for conditions that impact risk adjustment, such as functional quadriplegia, sepsis (sepsis-2 or sepsis-3?) chemical dependency, presence of a cancer versus history of, malnutrition, and the like that can be clinically abstracted as to be coded rather than having the physician use the magic words that must be in the record as to assign the code. If you dont do this, physicians who play the game of using the magic words will have a better risk adjustment and tempt the physician or biller into upcoding. Google the term outpatient CDI to learn that these activities are already in place.
+
+
+
+ I am fearful of using the CMS-HCC methodology in that it is also prone to playing the game. HCCs were meant to fund the Medicare Advantage program for a calendar year; however they are now being used for multiple reasons. Physicians will now have to deal with Risk-Adjustment Data Validators and the OIG, something that they are not accustomed to.
+
+ Challenges with HCCs include that bacterial pneumonia are not a HCC; however, a specified bacterial pneumonia is. End-stage renal disease has the same risk-adjustment as chronic kidney disease, stage 4, even though ESRD requires chronic dialysis and stage 4 does not.
+
+ If you do use HCCs, then you should allow for any chronic condition reported during the encounter or within the previous 12 months (not just in the last calendar year) to count in the risk-adjustment and any acute condition within the previous 6 months to factor into these. Physicians should be given a list of ICD-10-CM codes that impact these risk adjustments which should be released when the annual proposed physician rule is released, just like when CMS releases the IPPS rule for hospitals. Same goes for any other methodology you may embrace (e.g. AHRQ CCS; Optums Episodic Treatment Groups).
+
+ There should be a easy resource for physicians to access that describes these codes and encourages physicians to adhere to the ICD-10-CM Official Guidelines. What physician looks in the Index and then the Table? Almost no one; most physicians pick a code from a list in their EHR. Since Coding Clinic for ICD-10-CM/PCS is not in the public domain, this publication must be made available to physicians in a cost efficient manner. A current electronic subscription is over $1000. Go to https://codingclinicadvisor.com/ to see for yourself.
+

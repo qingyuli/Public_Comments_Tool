@@ -1,0 +1,155 @@
+
+The American Academy of Home Academy appreciates the opportunity to comment on CMS development of episode groups and cost measures as required under MACRA. The Academy represents physicians, nurse practitioners, and physician assistants who provide house calls to some of Medicares sickest and most costly beneficiariesthose with multiple chronic conditions who are home-limited due to illness and disability.
+
+Our overall observations are that CMS should conduct additional analysis to improve episode groups and cost measure approach to MIPS by incorporating the following considerations that are discussed in greater detail in this letter:
+
+1. Use of place of service to enhance provider to provider comparison and assure like populations.
+
+2. Inclusion of a factor for functional status.
+
+3. Inclusion of a factor for the clinical instability of providers beneficiary population.
+
+4. Use of a risk-adjustment model that explicitly incorporates dementia.
+
+5. Take advantage of the discriminating ability of the clinical criteria for Independence at Home demonstration beneficiary eligibility in identifying more cost-homogeneous subgroups for chronic episode groups.
+
+We believe, based on significant analysis of the Medicare 5% file that we would be pleased to discuss with CMS staff involved on the development of this important Quality Payment Program work that the incorporation of the recommendations around these factors will greatly improve accuracy. Moreover, these factors will help to support the workforce required for the care of the sickest most vulnerable Medicare beneficiaries.
+
+Episode Groups
+
+Question 1. Requested comments re: inclusion or exclusion of specific service codes to identify each episode group.
+
+Response - We understand the use of specific services codes to identify each episode group. We have concerns discussed below regarding interaction of encounters and the chronic episode groups and how acute vs chronic categories will be established. We are also concerned about potential double counting of cost in cases of multiple chronic conditions if CMS suggests that total cost could be attributable to more than one chronic episode group. Such a policy of attributing full cost to more than one episode could harm this group of providers who treat beneficiaries with multiple chronic conditions as compared to Part B providers who render more acute and procedural based service.
+
+Establish a proxy for functional status, which is not currently reported in claims: in terms of the approach to obtain information from claims, it is important to note that functional status is not included on claims. There is sufficient and accepted analysis that functional status has a material impact on cost. CMS will have to establish methods to account/risk adjust episodes for this additional, predictable cost. One approach for CMS to consider would be use of a risk index that
+
+
+is predictive of functional impairments, such as the JEN Frailty Index (JFI). The JFI organizes claims to predict long term care expenditures (primarily long term institutionalization), which results in predicting functional impairments, due to the strong relationship between LTI and ADL impairments. The Veterans Health Administration uses the JFI currently for targeting some non-institutional care services, and is evaluating its use to refine funding allocation through VERA. An alternative approach to include functional status is that used by the IAH qualifying criteria, where discharge functional status is recorded on post-acute care reported assessments (OASIS, MDS, and FIM).
+
+Question 2. Outpatient events/exacerbations of chronic conditions that should be considered as candidates for acute conditional episode group.
+
+Response - We appreciate the CMS request for comment on this topic. However, we believe it requires additional analysis. We also believe it will be difficult to establish bright lines of what is an acute conditional episode group versus chronic episode group. For example, management of pneumonia is acute and, yet, may be difficult to distinguish from an exacerbation of COPD.
+
+Carving conditions which can be manifestations of exacerbations of chronic conditions out as acute conditions may disadvantage those who more effectively manage those chronic conditions, preventing exacerbations. This could serve to discourage those who are effectively managing such chronic conditions in the home and assisted living facilities. We are interested in working with you on this topic should CMS decide to proceed in this area.
+
+Question 3. Requested comments re: Should an Acute episode group be developed  that is site agnostic and that does recognize the performance of a procedure or not.
+
+Response - We would like to learn more this question and purpose and are interested in contributing after we gain more understanding.
+
+Question 4. Chronic Condition Episode Groups  whether and how to allocate treatment cost across multiple diagnostic conditions; whether to develop episode groups that captures multiple diagnoses, or develop a single episode group for outpatient chronic care with adjustment for comorbidities and demographics of the population served by the clinician.
+
+Response  We recommend additional analysis of the third option  that is, a single episode for chronic care with adjustment for co-morbidities and demographics of the population.
+
+We have learned through analysis of the 5% file that the HCC risk adjustment for the frail, disabled home limited population with multiple chronic conditions is inadequate to accurately predict future cost for those who meet IAH qualifying criteria. We have also identified approaches to better align current CMS risk adjustment with these high risk individuals. We believe that CMS should incorporate the following into its risk adjustment for co-morbidities and demographics:
+
+Functional status  as noted elsewhere is this letter CMS should incorporate functional status (using an index similar to the JFI, or an adapted version of the JFI) to factor in the currently unaccounted cost associated with deficits in activities of daily living.
+
+
+
+
+Clinical instability. - CMS should incorporate a factor to reflect the share of a providers practice that reflects clinical instability. We have found in analysis of the Medicare beneficiary population that meets Independence at Home criteria (IAH Q) that beneficiaries that enter into home care medicine practices during periods of clinical instability can reflect per beneficiary per month cost for a period of time that are 20% the cost of IAH Q beneficiaries who follow a more stable clinical trajectory.
+
+Home care medicine practices are often small in number with a limited population in the hundreds of beneficiaries. As small practices, home care medicine providers are more susceptible to the higher costs of clinically unstable patients, and might be more likely to be disadvantaged by groupings sensitive to those costs. However, what is driving this high cost is the percentage of clinically unstable beneficiaries in the practice as compared to stable beneficiaries.
+
+Home care medicine practices, caring for the home limited population, by definition will be treating some material number of clinically unstable beneficiaries (approximately one third of home care medicine practice on average). Therefore, CMS is encouraged to adjust for this clinical instability (clinical hysteresis), so as to not systemically disadvantage the providers who are treating the home limited population.
+
+CMS can make an adjustment in the singe chronic care episode group by incorporating a factor to reflect the percent of the providers clinical unstable population as compared to their total IAH Q beneficiary population.
+
+CMS can validate these findings by review of the IAH Demonstration population, comparing the cost of care for those beneficiaries with a hospitalization in the 4 months prior to enrollment compared to those whose qualifying hospitalization occurred earlier than the initial 4 months before enrollment.
+
+Additionally, we encourage CMS, to further improve the risk adjustment of the cost measures, could stratify the Medicare beneficiary population by IAH criteria and use this as another means to compare providers treating like population under the episode group approach to MIPS cost measure.
+
+Incorporation of dementia diagnosis -. The generally used HCC model (V22) risk adjustment model does not include dementia as a condition, which is problematic for high-need Medicare populations, which have prevalences of dementia 5-15x greater than the general Medicare population. While we encourage the use of a risk adjustment model that uses dementia such as the V21 model, but we think more simply to include the dementia HCCs (51, 52) in re-estimating the V22 models.
+
+Cost Measure
+
+Question 1- What other elements beyond expenditure assignment, attribution, risk adjustment, and consideration of quality should be considered?
+
+Response - This is an important question. Provider focus upon a distinct patient population and setting of care must be taken into consideration. We have experience with Part B analysis that providers who focus on the frail, disabled, multi-morbid population in the home setting are
+
+
+
+disadvantaged, (and considered outliers), in utilization and cost comparison where only same specialty is considered for comparison. Other factors must be incorporated to produce a reasonable (apples to apples), comparison.
+
+Accordingly, we recommend that CMS include:
+
+ Provider place of service. We have learned that specialty designation by itself is not reasonable for an apples to apples comparison. Moreover, CMSs own analysis has reflected that those who take care of the geriatric population are penalized more as a percent of specialty under the value based payment modifier that preceded this work. As a result, particularly for the field of housecalls where providers of various specialties render service, inclusion of place of service must be included so that providers who care for the high cost, frail, disabled home limited are not disadvantaged.
+
+ Dementia condition categories for scoring in the HCC model that is used.
+
+ Functional status  as previously mentioned functional status greatly influences cost of care and a means to incorporate functional status (such as the JEN Frailty Index) must be established.
+
+ Confirmation that CMS will use payment without geographic adjustment. We have learned and has been confirmed by MedPAC that the high cost, high risk population is more homogenous in terms of cost than mean county costs. As a result, CMS must take steps to not disadvantage providers rendering services to high cost patients in low cost counties.
+
+Question 2. How should the cost of attributable services for treatment of the same patient be allocated  weighted based on direct or indirect responsibility or percent determined in advance through work of multi-specialty panels?
+
+Response - Given that the episode groups and cost measures will be new and that CMS is not collecting the patient relationship categories until 2018 there may not be data on direct on direct and indirect responsibility. CMS may want to consider the use of representative multi-specialty panels to begin with a transition to results that are informed by the patient relationship categories.
+
+Alternative to cost allocation - CMS may also want to consider how much (after incorporating the risk adjustment improvements noted in this letter), the cost of a providers patients that are above the expected costs for that population of beneficiaries treated by the provider. With construction of a multi-morbidity chronic episode group, this would be a better fit with current risk adjustment models (total cost, across multiple conditions), yet would allow identification of providers whose attributed patients generate greater expenditures than expected. We feel it would be a challenging task to accurately, and convincingly, allocate costs within an episode group to particular providers, particularly for the multi-morbid. The share of an attributed group of patients with above or below expected costs would be a more believable measure of the cost performance of a provider, the goal of the cost component of MIPS. In comparing like patients CMS would look at the cost distribution of the provider as compared to what would have been expected for that provider.
+
+
+
+
+
+Question 3. Use of the CMS-HCC Risk Adjustment Model. Should this or an alternative for risk adjusting episode groups be used in the construction of cost measures? In addition, should concurrent or prospective risk adjustment be used, and should a full year of data or more targeted data from before the episode be used to adjust?
+
+Response- We have identified and CMS has agreed in review of the Independence at Home demonstration that the CMS-HCC risk adjustment model is inadequate to accurately and completely predict the future cost of care. This analysis is based on the Medicare 5% file from multiple years. There are fortunately, elements that can be applied to improve the accuracy of the CMS-HCC Risk Adjustment Model.
+
+We recommend that CMS review the Independence at Home criteria as it continues its work on episode groups. Analysis of this data has been developed and shared with CMS in different forum. As mentioned above CMS should incorporate the following.
+
+1. Factor for functional status  the JEN Frailty Index, as discussed above, has been validated for this purpose. CMS could use the JFI or other means to establish the factor for functional status on as accurate a basis as the JFI.
+
+2. Factor for clinical instability as discussed above in Episode Groups  Question 4.
+
+3. HCC model that incorporates dementia diagnosis in the HCC scoring. HCC models that do not incorporate dementia are inadequate to risk adjust for the frail elderly population.
+
+More generally, HCC risk adjustment is for total cost of care, not cost within an episode group; and by themselves would not necessarily account for costs across multiple episode groups (for example, CKD, CHF, COPD, and diabetes chronic episode groups).
+
+Concurrent vs prospective risk adjustment - We recommend that concurrent risk adjustment be used, as analysis supports that diseases and events in the current year drives futures cost. This is particularly the case for the acute episodes.
+
+The role of risk adjustment hereto be used for performance comparisonreduces some of the gaming incentives of concurrent models where risk adjustment is directly related to payment, such as Medicare Advantage.
+
+Amount of data  We recommend that two years of HCC data be used for chronic conditions, while for acute conditions 1 year (the concurrent year) is sufficient. Analysis has shown that 2 years of data improves the predictive power of the HCC model, particularly for well-managed patients with lower rates of hospitalization. This is because diagnostic coding is superior in hospitals than in outpatient practices, where its easier for chronic conditions (among patients with multiple conditions) to fall off, when a claim is limited to 4-8 diagnoses.
+
+Question 4. Request for comments re: considerations for aligning episode groups with quality measurement.
+
+Response - We support CMS work in this area. We believe it may be easier to align episode groups with quality measurement than to decompose costs between groups and among providers. This would be particularly beneficial in support of the move to outcomes measures. It would be
+
+
+
+beneficial to establish additional quality measures concurrent with the development of episode groups that are relevant for the treatment of frail, disabled beneficiaries with multiple chronic diseases.
+
+The existing inventory of MIPS quality measures does not provide sufficient and relevant opportunity to compare the services of providers for this patient population. Accordingly, we look forward to working with you to develop and align quality measures with the episode groups.
+
+Question 5. How to avoid unintended consequences of cost measures in MIPS; such as taking steps to avoid disadvantaging clinicians who assume the care of complex patients through the use of cost measure in MIPS such as by applying episodes for comparison of complex patients (i.e., comparison of like-patients of different clinicians).
+
+Response - Our comments to this question are the same as for Cost measure Question 1.
+
+Question 6. What would be the best way to incorporate Part D costs into the episode group development?
+
+Response - Incorporation of Part D costs would produce a more comprehensive view of cost and of care. However, Part D is a complex program and definitional work needs to occur. There have been developments in past few years such as availability and use of biologics that are driving changes in care in areas such as outpatient chemotherapy and rheumatoid arthritis. Other settings and specialties may reflect opportunity and success in mitigating drug utilization (for example, polypharmacy management by those treating beneficiaries with multiple chronic conditions). Additionally, review of Part D cost could support analysis of the tradeoffs of treatment options and utilization under Part D.
+
+This would produce additional support for the accurate and complete risk adjustment for episode groups and cost measures. Against this backdrop, the incorporation of Part D cost creates a number of foundational definitional issues that must be addressed.
+
+These include:
+
+ What cost will be considered Part D drug cost?
+
+ Is this the cost by Part D plan to the Medicare program?
+
+ Is this the cost of acquisition by Part D plan?
+
+ What is the role and consideration of pharmacy benefit managers, operations and formularies?
+
+ What roles does and should beneficiary co-insurance play in the determination and comparison of cost?
+
+Once the definitional work is completed, the share of cost represented by Part D for each of the episode groups could be established, and those groups for whom Part D costs are a significant driver (e.g., biologics in the Rheumatoid Arthritis chronic episode group) might have pharmaceuticals included. Such ranking by cost and percentage to total cost could provide opportunities for additional analysis and treatment options.
+
+
+
+
+
+Given the importance of this question and the foundational definition work that should first occur we recommend that CMS convene representatives of stakeholders to further develop this area of work.
+
+We appreciate this opportunity to comment on the episode groups and cost measures and we look forward to providing additional contribution to CMS work in these areas.
+

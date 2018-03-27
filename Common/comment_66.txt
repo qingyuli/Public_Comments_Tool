@@ -1,0 +1,25 @@
+
+Remedy Partners is an Awardee Convener in the Medicare Bundled Payments for Care Improvement initiative, acting on behalf of over 100 health care organizations initiating bundled payment episodes at 1,400 sites of care. We are also rolling-out bundled payment programs for managed care organizations, serving their employer, self-insured, Medicare Advantage and Medicaid programs. We offer these comments on the episode-based cost metrics from the perspective of coordinating tens of thousands of episodes daily.
+
+We appreciate the efforts by CMS and Acumen to propose a framework for holding providers accountable through episode-based cost metrics. In general, however, the framework and grouper proposed will increase the complexity of administering bundled payments and requires further refinement before being ready for use. Triggering logic, grouping logic, closing rules, an opaque comorbidity/risk adjustment schema, and nesting are all in need of further refinement. This is a good starting place for considering refinements, but the Episode Grouper for Medicare is far from ready for prime time.
+
+We believe that episode- based payment models can serve as powerful tools for organizing more efficient delivery of care and for improving patient outcomes. But we also agree with Mr. Harold
+
+
+
+Miller, who observed at the April PTAC meeting that a payment model should not merely describe care patterns; rather, the payment structure should follow from a defined care model that addresses specific deficits in care. As Dr. Marsha Gold cautioned nearly twenty years ago about physician-focused bundled payments, In developing a payment model, it is important to consider what one is trying to accomplish.1
+
+As the CMS designs its episode-based cost metrics for measuring performance under the Quality Payment Program, we encourage the members to recall the 2009 article written by former CMS Chief Scientist, Dr. Stephen Jencks2 . Much has been done by Medicare since then to improve readmission rates. But CMS should consider how to use the Episode Grouper for Medicare to increase the accountability of hospital-based physicians for patients experiencing transitions of care during acute events. As Dr. Jencks and colleagues remarked, [a]lthough the care that prevents rehospitalization occurs largely outside hospitals, it starts in hospitals.3
+
+For the episode-based cost metrics, we believe that CMS should focus on episodes that emphasize efficiency and patient outcomes during acute exacerbations of chronic conditions. This initial focus will allow the model to best meet the core assumption of the Episode Grouper for Medicare: coding completeness. Marsha Gold noted that [i]t can be difficult to construct an episode because of incomplete charting of diagnoses.4 (Gold M. Common Sense on Extending DRG Concepts to Pay for Ambulatory Care. Inquiry 1988;25:281-289.) Hospital-based practices are relatively better positioned than community-based providers to accurately and comprehensively code billings. We believe that episodes focused on inpatient settings are more likely to satisfy the coding requirements of the Episode Grouper for Medicare.
+
+Moreover, episode types that focus on transitions of care during acute medical events are frequent enough for Medicare to be able to draw statistically significant conclusions. All payment models experience trade-offs between the homogeneity of the care pathway and the statistical reliability of the model. Our hospital medicine and orthopedic partners have found nevertheless that episodes focusing on acute events are sufficiently frequent to draw actionable conclusions for quality improvement. We believe that CMS should focus use of the Episode Grouper for Medicare to analyze episodes covering acute exacerbations of chronic conditions.
+
+We strongly urge CMS to refrain from using this episode framework until further stakeholder input and analysis can be collected. To help with the process, we nominate Dr. Win Whitcomb to serve on the Episode-based Cost Metric Clinical Committee.
+
+Thank you for the opportunity to comment on the episode-based cost metrics.
+
+1 Gold M. Common Sense on Extending DRG Concepts to Pay for Ambulatory Care. Inquiry 1988;25:281-289. 2 Jencks SF, Williams MV, Coleman EA. Rehospitalizations among Patients in the Medicare Fee-for-Service Program. N Engl J Med 2009;360(14):1418-1428.
+
+3 Ibid.
+

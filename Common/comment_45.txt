@@ -1,0 +1,117 @@
+
+On behalf of the more than 80,000 members of the American College of Surgeons (ACS), we appreciate the opportunity to respond to the Centers for Medicare & Medicaid Services (CMS) document titled, Episode-Based Cost Measure Development for the Quality Payment Program. The ACS is a scientific and educational association of surgeons, founded in 1913, to improve the quality of care for the surgical patient by setting high standards for surgical education and practice. We first provide some overarching comments on the area of cost measurement within MIPS and as it relates to MACRA, followed by responses to the questions that CMS has set forth.
+
+Cost Measures and the Transition from MIPS to APMs
+
+ Cost measurement is an important element of the Merit-based Incentive Payment System (MIPS) and is also a crucial aspect of any Alternative Payment Model (APM). The Medicare Access and CHIP Reauthorization Act of 2015 (MACRA) seeks to establish value as a measure of care by combining quality and cost data into a picture of care represented through a composite score. The composite score also incorporates credit for improvement and use of certified electronic health record technology (CEHRT). The apparent goal of increasing transparency and
+
+
+
+awareness of the value of care provided is to provide incentives to optimize this value by improving quality and reducing waste and unwarranted variation.
+
+ It is also important to note that MACRA appears to be designed with a primary and secondary incentive structure. The first set of incentives rewards clinicians who, through moving toward higher value care, perform well in MIPS. The secondary incentives are more transformational, and are intended to transition physicians away from MIPS and traditional fee-for-service (FFS) care into APMs. Creating a pathway that allows for both of these aspects (MIPS performance and migration to APMs) calls for considering these two programs as part of a continuum that facilitates the movement to APMs. Use of a comprehensive cost measurement tool, capable of accurately accounting for every Medicare dollar spent and attributing this spending appropriately regardless of payment model will be key to streamlining this pathway.
+
+ Many believe that the FFS environment is highly siloed with no shared risk or accountability. However, APMs do share risk and accountability and are more closely aligned with the team-based nature of the practice of medicine. Care delivery today is more team-based, and efforts that seek to optimize value require patient centric information in quality and cost as much as is possible.
+
+ As noted in a recent CMS listening session on Episode Based Cost Measures, many stakeholder groups commented that cost measures should be limited only to those aspects of care with direct control by the individual provider. This would result in measures that are provider-centric and narrow. While we recognize the inclination to focus incentives on the costs most directly influenced by the provider, we fear that if focused too narrowly such measurement would fail to recognize the team-based nature of care delivery and would fail to achieve the buy-in and culture change necessary to drive meaningful improvement. Furthermore, to establish a truly clinician nonpatient centric cost profile would require clinical and socio-economic risk adjustment that limits the cost elements to only those costs plausibly due to immediate and direct actions of the provider in a manner that is not currently achievable. However, defining episode based cost measures that are broad enough to provide information to clinicians on all related services that are being provided to the patient in the course of care is currently achievable and would allow for optimization of warranted care and reduced unwarranted care.
+
+ A more patient-centric alternative to the narrow individual cost profiles requires grouping of claims in a manner that considers all costs associated with a patients episode of care and attributing a portion of those costs based upon a providers role in the specific episode for the specific patient. These episodes could consist of both Medicare Part A and Part B charges and could incorporate Part D spending if data become available. In such an all cost environment, clinicians would not wish to have all costs attributed to them that are not directly related to care provided for the specific condition being treated.
+
+ To account for this, each episode would require an episode-specific set of definitions for the series of relevant services plausibly associated with the given treatment or condition. This approach is ideal for episode-based APMs and is used in the ACS-Brandeis Advanced APM proposal which was recommended by the Physician-focused Payment Model Technical Advisory Committee (PTAC) at their April meeting.
+
+
+
+ To address the dual goals of MACRA (incentivizing value in the MIPS FFS arena as well as the transition to APMs) a cost measurement system that allows for a smooth transition from MIPS to APMs would be ideal. Instead of one program for MIPS and multiple programs for APMs, significant efficiencies and simplification could be achieved through a continuum with both programs nested within an overarching cost methodology.
+
+ Quality, Cost, Advancing Care Information (ACI), and Improvement Activities (IA) are the four pillars for the MIPS composites. Discernment in each of these categories is important, however, it is even more critical in the Quality and Cost categories, not only because they will account for the majority of the final MIPS score, but also due to the higher likelihood that scores in IA and ACI categories will tend to cluster at the extremes or eventually top out. The narrower the cost profiles, the more these will tend to cluster clinicians into tight profiles as well, leaving quality to be the lone discriminator. Yet, quality measurement is not at the point of serving as a discriminator. As such, a sound cost measurement system for both MIPS and APMs is essential.
+
+QUESTIONS FOR PUBLIC COMMENT
+
+Episode Group Selection
+
+ In selecting the episode groups to be considered for development, CMS used criteria including an episodes share of Medicare expenditures, clinician coverage, and the opportunity for improvement in acute, chronic, and procedural care settings. We welcome comment on these episode groups and potential additional episode groups that should be considered for development.
+
+ CMS current approach appears to use multiple different payment systems and incentives to migrate away from FFS. This could result, however, in several different competing payment systems that lead to confusion in the market. For example, surgeons are not typically engaged by ACOs despite the fact that ACOs are overall population based payment models, resulting in a lack of care transformation with respect to surgical patients.
+
+ Examining the total cost of care provided by FFS, ACOs, CPC + tracks, BPCI and new Advanced APMs creates overlapping complexities and accountability.
+
+ These fragmented payment models reveal gaps that can be closed as suggested in the question by share of Medicare expenditure; specialty coverage; and acute, chronic, or, procedural care.
+
+ An alternative course of action would be to develop APMs based on a cost methodology that incorporates the majority of patient care across all care settings, includes time windows of acute and chronic care, and is also inclusive of the multiple sites of service where care is delivered. We believe the CMS Episode Grouper for Medicare (EGM) can provide enormous range and flexibility to meet all these needs. A small percentage, 10-15 percent of all expenditures, would be excluded for their rare and esoteric nature. The remaining costs have various levels of accountability in the EGM and can be packaged with the sort of flexibility CMS requires to be as inclusive of the different payment environments it wishes. The ACS-Brandeis APM model is one small reflection currently dominated by procedural episodes. These can and should be extended to include condition episodes and rolled up into service line population health episodes or full ACOs or other total cost of care models.
+
+
+
+Episode Group Definition
+
+ The episode groups that accompany this posting are defined by the listed trigger events and codes (CPT/HCPCS for procedural episode triggers, evaluation & management codes combined with ICD-10 diagnostic information for chronic episode triggers, etc.). CMS solicits comment on the inclusion or exclusion of specific service codes used to identify each episode group.
+
+ In order to optimally define the costs of care in an episode, the creation of different levels of engagement of services for inclusion/exclusion could be required. The first level would include the costs attached to services that could plausibly be assigned to the trigger and that would directly be controlled by the provider being measured. It is important to draw a distinction between what are appropriate costs and what plausibly could be associated with the trigger.
+
+ Appropriate care as a measure will limit the scope of costs assigned to the trigger. While plausibly aligned with the trigger will define the services to consider for real costs. This entry level of services for inclusion which are directly and plausibly attached to a provider would potentially align more with part B for most providers.
+
+ The next level of inclusion relates less to what a provider controls in relation to the trigger, rather is more aligned with the patient and their total cost of care.
+
+ In this instance or episode, optimal cost tracking would include plausible costs from all aspects of care (Parts A, B, and D). We recognize that part D is not available for tables in an episode grouper but we could encourage efforts that seek to include these costs.
+
+Acute Inpatient Medical Condition Episode Groups
+
+ The acute inpatient medical condition episode groups that accompany this posting include only inpatient events. CMS seeks comment on outpatient events that could be considered candidates for development as acute condition episode groups, which could include chronic condition exacerbations that require acute care but not inpatient hospitalization.
+
+ Acute episodes of care might occur on either an inpatient or outpatient basis and may or may not include surgery. CMS is considering a single Acute Episode Group type that does not distinguish the place of service or the performance of as procedure and welcomes comment on this approach.
+
+ When considering costs, the patient related costs are more helpful than a foundation tied to site of service. Also, total costs should be accounted for and attributed only once. The rules logic to be developed for episodes will require the ability to attribute and split or share costs in order to assign costs to all the shared partners who care for the patient. As such, we support counting every dollar once and assigning those dollars by patients, not solely by site of service.
+
+ Site of service can, however, have drastic implications on the cost and quality of care and should be accounted for. It is imperative that the rules logic capture sequelae or possible complications associated with procedures to help ensure that care is being provided in the most appropriate setting. For example, if a cost measure were targeted too narrowly, providing care in the
+
+
+
+outpatient setting may appear to be cost effective, even if it resulted in complications, future hospital admissions or other costs that could have been avoided by performing the procedure in a different setting. Overall we support defining episodes beginning with procedures but believe this should be followed by episodes that are condition or disease based. Assuming appropriate rules logic is used and that risk adjustment that takes into account factors likely to influence the patients outcome is in place, tracking patients across site of service will eventually become less important.
+
+ Also, CMS may wish to consider a cost basis that has consistency when providers move from MIPS to MIPS-APMs to Advanced APMs. In this continuum, having episodes tied to patients, procedures, and conditions will facilitate models built on the patient rather than on the site of service. For example, a BPCI episode launches once a DRG is triggered, which incentivizes more DRGs. Instead, the episode should launch based on optimal care or what is best for the patient, which could result in less use of DRGs for a given condition.
+
+Chronic Condition Episode Groups
+
+ CMS is aware of many challenges in constructing episode groups for chronic conditions. These include coding habits that may obscure some chronic conditions and overemphasize others. In addition, it may be difficult to assign a given treatment to a single condition for patients with multiple comorbidities. For example, are the resources for treatment to reduce cholesterol for a patient with diabetes, hypertension, and coronary artery disease to be assigned to only one of those diagnoses, to all of them in proportion, or should we develop a chronic condition episode specific to the management of patients with diabetes, hypertension and coronary artery disease, i.e., a patient condition group to better compare cost to treat like patients? An extension of this approach might be a single episode group for outpatient chronic care with adjustment for comorbidities and demographics of the population served by the clinician. We welcome comment on these and any other options for constructing episode groups for chronic conditions.
+
+ We agree with CMS that chronic conditions present challenges in the development of episodes. Regarding chronic conditions, our thoughts are still being developed and require input outside the scope of surgical care (input from primary care physicians (PCPs) would be extremely important). Many more medical specialties and primary care physicians provide chronic care support. That said, the methodology we would recommend involves building a panel of patients with chronic diseases and clustering those diseases with risk adjustment, so that, for example, a PCP could see their patients and associated costs from several different perspectives.
+
+ First, a PCP may wish to see all costs for their patients individually with their diseases clustered together. Second, they should be able to see all conditions individually with lists of patients and their related costs. It is also feasible to cluster conditions in selective groups which are related to track their costs. For example, such a cost group could include DM, HTN, and CRF. Third, as chronic disease patients move into other acute-on chronic episodes, no PCP should be accountable for all costs for those other episodes. Shared attribution schedules should become the norm since physicians share responsibility of care. As such, attribution is crucial.
+
+
+
+ Certain specific conditions, such as cancer, present other challenges. The costs of caring for patients at different stages of disease are likely to vary. For instance, a single episode for a type of cancer is likely to differ in a predictable manner depending on the stage of the cancer. Information on disease staging is not easily or predictably available from claims. CMS welcomes comment on methods to incorporate disease severity or staging information to improve meaningful comparison of cost and quality of care furnished to patients, both generally and for specific clinical conditions. For example, how could a disease staging code be reported on claims to facilitate comparison of episodes for patients at like stages of cancer?
+
+ With respect to cancer, there are several aspects to the complexity of this disease. The stage, patient factors, multiple National Comprehensive Cancer Network (NCCN) acceptable treatment options, and patient preference will all influence the survival plan and the associated costs. We are currently working on a solution that would allow for establishing how various aspects of these factors can come together to establish a survival plan. Costs can then be based on phases of care for a given survival plan. For example, ACS is currently in the very early stages of efforts to use the triggering diagnosis to establish a stage and treatment plan that could exist within the CMS Episode Grouper for Medicare (EGM) cost tables. This would facilitate the development of a stage-specific and treatment plan-specific cost comparison. This effort is to provide a scalable solution for the CMS EGM to optimize tracking and resource use in cancer care, appropriate for stage and survival plan.
+
+Cost Measure Development
+
+ The Medicare Advantage program uses the CMS-HCC Risk Adjustment Model to determine rates. We seek comment on the use of this model or an alternative for risk adjusting episode groups in the construction of cost measures. In addition, should concurrent or prospective risk adjustment be used, and should a full year of data or more targeted data from before the episode be used to adjust?
+
+ We would seek clarity from CMS with respect to HCCs. We are unclear as to whether this question relates to setting an episode price and whether or not the cost data for setting expected prices come from national data, regional data, HCC data or some other source. The actual risk adjustments for the expected costs come from patient factors that influence the amount of services (and therefore costs) required to treat a condition.
+
+ The draft list does not currently include specifications for episode sub-groups (a subgroup is intended to achieve greater clinical comparability and is a subdivision of an episode group that further refines the specifications of episode trigger codes and grouping rules to yield more clinically homogenous cohorts of patients with similar expected cost). An example is an episode group for spine surgery with sub-grouping for number of levels and anatomic location. CMS solicits public comment on these draft episode groups and potential sub-groups.
+
+
+
+
+
+
+The inclusion of sub-categories or sub-groups is necessary to accurately assess whether the cost of care provided is greater than, less than, or equal to what might be expected for a given patient undergoing a given course of care. At the same time, subcategories could become a slippery slope back toward FFS. As a result, appropriateness of categories requires multi-stakeholder input to govern the degree of subcategorization.
+
+ CMS is especially interested in comments regarding methods to align quality of care with cost measures and welcomes recommendations and suggestions. Considerations for aligning episode groups with quality measurement are described in this document, but are not intended to be an exhaustive list of options. We welcome comment on these methods, as well as any other strategies that could be used to align quality of care considerations with cost measures.
+
+ In the ACS-Brandeis Advanced APM PTAC proposal we have developed an episode-based quality measure framework, which is tied to the specific episodes of care provided. That approach allows for shared accountability in team-based care, and for evaluating cost and quality simultaneously within the same clinical episode context. Please see the attached ACS-Brandeis A-APM submission that was recently recommended by the PTAC.
+
+ CMS wishes to avoid any unintended consequences of using cost measures in MIPS, and seeks comment on issues of concern in this regard, such as taking steps to avoid disadvantaging clinicians who assume the care of complex patients such as by applying episodes for comparison of complex patients (i.e., comparison of like patients of different clinicians).
+
+ Risk adjustment and subcategories are both key in assuring apples-to-apples comparisons of cost. This risk adjustment should ultimately be both socioeconomic and clinical. More research is needed in the evolution of these elements of risk adjustment. The current Medicare EGM uses claims data to risk adjust. We believe that clinical registries may enable risk adjustment tables that could validate or even directly improve on the risk adjustments used in the EGM. For example, EGM will identify patients with DM, HTN or AMI but cannot quantify or qualify the degree of control in the DM or HTN or the level of cardiac function after the AMI. If these clinical parameters influence overall risk adjustment in costs, we should build the clinical tables to support more accurate cost comparisons.
+
+ CMS acknowledges that prescription drug costs are a large driver of the cost of medical care for Medicare beneficiaries. What would be the best way to incorporate Part D costs into the episode group development?
+
+ Part D represents a significant part of overall expenditure and therefore a large opportunity to optimize care. Providing actual costs in the workflow of clinicians is an important next step which should be accomplished in the digital environment. In addition, providing comparative drug costs as a service line for prescribing physicians would be helpful for those who have met a minimum threshold of drug cost expenditures. Use of episodic cost measurement in private insurers who have available cost tables to enrich the measures as part of Medicare ACO work could be a place to begin research and understand the overall impact.
+
+
+
+
+ We appreciate the opportunity to provide comments as CMS develops episode-based cost measures for the QPP. The ACS looks forward to continuing dialogue with CMS on these important issues.
+

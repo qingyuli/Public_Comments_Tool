@@ -1,0 +1,225 @@
+
+The American Academy of Ophthalmology (the Academy) appreciates the opportunity to comment on the Centers for Medicare and Medicaid Services (CMS) Request for Information (RFI) on Episode-Based Cost Measure Development, Episode Groups. We offer our input on this RFI and we appreciate the detail that has been provided on the groups that CMS has developed for the new Quality Payment Program (QPP).
+
+The American Academy of Ophthalmology is the largest association of eye physicians and surgeons in the United States representing 93 percent of all ophthalmologists nationwide. A community of nearly 20,000 medical doctors, we protect sight and empower lives by setting the standards for ophthalmic education and advocating for our patients and the public. We innovate to advance our profession and to ensure the delivery of the highest-quality eye care. For more information, visit www.aao.org.
+
+The Academy encourages continued review by CMS/CMMI of the use of episode groups. Using such a tool to assess cost is an improvement over using such methods to determine payments overall. We appreciate the great difficulty in measuring cost and in developing methods to appropriately assign attribution and undertake risk adjustment. The Academy has not seen any risk adjustment or attribution methods from CMS or private payers that adequately account for the high level of health disparities and minority populations that impact the most chronic eye diseases such as glaucoma and diabetic retinopathy. Attribution methods such as who submits claims for the majority of a patients office visits are arbitrary and have no relevance to actual patient care.
+
+We would like to emphasize that the episode groupings will be difficult to successfully
+
+
+
+implement. Even with the limited number of patient relationships now envisioned, it will take a year or more of carefully coordinated efforts by CMS in conjunction with the specialty societies to educate physicians and their staff on how to use these codes correctly.
+
+Additionally, the use of such codes on claims will be difficult for claims processing. We believe there is a better way to do this that would simplify and streamline cost measurement and carefully align such efforts with quality improvement, a key goal CMS has emphasized (see section VI.).
+
+In light of the problems seen with the Value Based Modifier (VBM), CMS has acknowledged the need to rework cost measurements and has helped by assigning the Cost category zero weight under the first year of MIPS. These episode groups are not only new, but are also still under development. This report refers to the future development of episode groups to be considered as building blocks in developing the cost measures for potential future use in the QPP. We believe this underscores the need for CMS to provide more time to transition while the Cost category is under development. This time is provided under statute as the Secretary can assign the Cost category weight for both 2017 and 2018. We urge CMS to consider the implications of inaccurately classifying clinicians as high-cost providers based on flawed or untested measures.
+
+While we applaud the continuing efforts of CMS and its contractors toward developing a more reliable set of cost metrics through collaboration, we were concerned at the notion presented in this RFI that 80% of healthcare costs are under physician control. Studies published in peer-reviewed publications (JAMA, NEJM), articles in the Economist, and several books, have shown that this is not the case. While the physician may recommend the tests, procedures, consultations and hospitalizations, they do not control the actual cost or charge for those services. As the most regulated industry in America (per the Economist), physician practices already operate on small margins due to the cost of compliance and other administrative burdens. This is further compounded by the time required to achieve compliance (2/3 of physician time is spent on paperwork/computer work)1. We are concerned that the misconstrued notion that the onus for healthcare cost increases is on physicians will focus further healthcare regulation on providers, taking more time away from care and treatment of patients.
+
+Questions:
+
+I. Episode Group Selection
+
+1. In selecting the episode groups to be considered for development, CMS used criteria including an episodes share of Medicare expenditures, clinician coverage, and the opportunity for improvement in acute, chronic, and procedural care settings. We welcome comment on these episode groups and potential additional episode groups that should be considered for development.
+
+The Academy appreciates the additional clarification of the categories seen in this RFI, however, we remain concerned about clarity of episode groups when cases are not clearly acute vs chronic. For instance, it will be complicated to categorize episodes that are acute conditions complicating a chronic disease process or exacerbations. How will CMS ensure that the costs for care of an exacerbation is compared with other exacerbations, rather than with the cost of the chronic care
+
+
+
+problem?
+
+II. Episode Group Definition
+
+1. The episode groups that accompany this posting are defined by the listed trigger events and
+
+codes (CPT/HCPCS for procedural episode triggers, evaluation & management codes combined with ICD-10 diagnostic information for chronic episode triggers, etc.). CMS solicits comment on the inclusion or exclusion of specific service codes used to identify each episode group. The agency must keep foremost in its deliberations regarding surgical care that it not create incentives for physicians and payers to take shortcuts that would jeopardize high quality eye surgery. There are several modifiers currently utilized in conjunction with surgical procedures that signify needed but unplanned services that may be related or unrelated to the surgery being performed. The same would be true for unrelated evaluation and management services. While the patient condition and relationship codes seek to help with risk adjustment and attribution, it is important that the use of such modifiers are tracked and excluded from the surgical episode. Ophthalmologists must not be punished because of the complications and complex issues that arise because of the disease process especially advanced or complex diseases. Accountability for costs and quality that are within the physicians control is an important and achievable goal, but it cannot come at the expense of providing necessary, emergent or a different line of treatment when other options are failing. To this end, all complications that are excluded from quality reporting measures should also be excluded from episode group cost measurement, especially since CMS has not demonstrated a reliable means for risk adjustment of any episode group. Not doing so will create an incentive for physicians to refer more complex/sicker patients out of their practice. A list of those exclusions is included at Appendix A of these comments.
+
+Cataract Group The Academy applauds the removal of problematic trigger codes from the cataract group based on what we read in the latest report. Significant strides have been made toward transparency with the TEPs and the new Episode-Based Cost Measures Clinical Subcommittees, we would like to encourage further efforts toward transparency and collaboration throughout the cost measurement development process. Cataract surgery is one of the most common surgical procedures covered by Medicare. The care and costs associated with the surgery, while appearing relatively easy for CMS to identify, may be complicated by several issues. These components include preoperative testing (medical and surgical), IOL power determination and purchase, physician charges (surgeon and anesthesia), facility charges and drug charges.
+
+During the episode time period, costs for other ophthalmic procedures and treatments are likely to be wrongfully attributed to the original cataract surgery. Most patients require bilateral cataract surgery but, for safety reasons, they are typically done at least two weeks apart. This is well within the first episode period and would be wrongfully attributed to the original procedure. It is, thus, necessary to identify laterality for surgery, either by using CPT modifiers or collecting ICD-10 laterality data. To date, CMS has not utilized such data.
+
+Finally, based on data from IRIS, our clinical data registry, the Academy has found that 35 percent of ophthalmic patients have 3-5 ophthalmic conditions that require treatment, and others may develop acute conditions such as pink eye. This is important to note because CMS currently
+
+
+is unable to measure the modifiers that denote a visit as unrelated to a procedure (-24, -25). Such procedural code modifiers must be taken into account to avoid penalizing physicians caring for sicker patients.
+
+Diabetic Episode Groups with Ophthalmic Complications The Academy seeks further clarification on the intended application of these episode groups. Although the diabetes episodes were not considered to be ophthalmic measures in the clinical subcommittee call for nominations, diabetes with various ophthalmic complications are included as part of the chronic condition category list of episodes included in this RFI. We are concerned that our clinicians will trigger an episode or be attributed a patient that is seen for another reason, but carries a diagnosis code for diabetes in their medical record. Or, even more troubling, be attributed the cost of all of the patients diabetes care for appropriate office based monitoring of conditions like diabetic retinopathy. This is especially true given that Medicare Advantage plans are constantly pushing providers to be sure that they report diabetes diagnosis codes for each ophthalmic service a patient with diabetes has, regardless of whether or not the patient is being seen on that day for diabetes.
+
+III. Acute Inpatient Medical Condition Episode Groups
+
+1. The acute inpatient medical condition episode groups that accompany this posting include only inpatient events. CMS seeks comment on outpatient events that could be considered candidates for development as acute condition episode groups, which could include chronic condition exacerbations that require acute care but not inpatient hospitalization. We do not believe that episode groups for more complex chronic ophthalmic conditions should be developed until CMS has demonstrated success in reliably measuring costs in straightforward procedure groups, such as cataract.
+
+2. Acute episodes of care might occur on either an inpatient or outpatient basis and may or may not include surgery. CMS is considering a single Acute Episode Group type that does not distinguish the place of service or the performance of a procedure and welcomes comment on this approach. The number of procedures done on an inpatient basis in ophthalmology is very low, However, those that are done on an inpatient basis are most likely provided in that setting because of the severity of comorbid conditions such as ocular trauma or other non-ophthalmic systemic diseases. In such cases, the patient usually has other injuries and medical needs that require hospitalization. The Academy strongly believes that this would be inappropriate. Site of service has a significant impact on the cost of care that is outside of physician control. Likewise, procedures done in an ASC versus a hospital outpatient department are not under the control of the physician in many cases. There are areas around the country that have strict Certificate of Need (CON) requirements which limit the availability of ASCs and force surgeons to operate in the hospital outpatient department as opposed to an ASC. Even in areas without this requirement, it is important to remember that ophthalmic patients are visually impaired and have difficulty with transportation to ASCs that are 20+ miles away, forcing physicians and practices in such areas to perform procedures at nearby HOPD in order to provide adequate patient care. CMS
+
+
+
+
+
+
+
+should consider separate cost episode groups for HOPD and ASC cataract surgery. IV. Chronic Condition Episode Groups
+1. CMS is aware of many challenges in constructing episode groups for chronic conditions. These include coding habits that may obscure some chronic conditions and over-emphasize others. In addition, it may be difficult to assign a given treatment to a single condition for patients with multiple comorbidities. For example, are the resources for treatment to reduce cholesterol for a patient with diabetes, hypertension, and coronary artery disease to be assigned to only one of those diagnoses, to all of them in proportion, or should we develop a chronic condition episode specific to the management of patients with diabetes, hypertension and coronary artery disease, i.e., a patient condition group to better compare cost to treat like patients? An extension of this approach might be a single episode group for outpatient chronic care with adjustment for comorbidities and demographics of the population served by the clinician. We welcome comment on these and any other options for constructing episode groups for chronic conditions. We share the concern that the difficulty in analyzing the costs of treatment when multiple conditions are treated within the episode time frame may lead to care fragmentation and inappropriate cost attribution. It may be difficult to create enough patient condition groups to address this concern, so we suggest including comorbidities in risk stratification or simply eliminating patients with specific comorbid conditions from the cost analysis.
+
+2. Certain specific conditions, such as cancer, present other challenges. The costs of caring for patients at different stages of disease are likely to vary. For instance, a single episode for a type of cancer is likely to differ in a predictable manner depending on the stage of the cancer.
+
+Information on disease staging is not easily or predictably available from claims. CMS welcomes comment on methods to incorporate disease severity or staging information to improve meaningful comparison of cost and quality of care furnished to patients, both generally and for specific clinical conditions. For example, how could a disease staging code be reported on claims to facilitate comparison of episodes for patients at like stages of cancer?
+
+The Academy has taken the effort to allow clinicians to stage two chronic eye conditions, glaucoma and diabetic retinopathy, and created corresponding ICD-10 codes. This will allow far more precise estimates of expected costs for patients with these conditions. CMS should encourage and work with other societies to do the same thing. It requires significant collaboration and consensus but we have shown it is possible. Until such efforts are undertaken, it will be extremely difficult to incorporate staging into the episode group process.
+
+V. Procedural Episode Groups
+
+1. We solicit comment on the procedural episode groups that accompany this posting, including the service and diagnosis codes used to identify the existence of the procedural episode groups. We also welcome comment on additional procedural episode groups to consider for future development. Please see cataract episode comments above.
+
+VI. Cost Measure Development
+
+1. Cost measures are being considered for development from episode groups after adding
+
+
+
+additional context, such as expenditure assignment, attribution, risk adjustment, and consideration of quality. We welcome comment on each of these elements and whether there are additional elements to consider in developing cost measures from episode groups. The Academy applauds the effort to include crucial context in the development of these cost measures prior to their implementation. Further context must include the patients clinical history at the time of the visit. The clinical picture can include the stage or severity of illness, the rate of progression, current or recent exacerbations, and comorbidities, recent hospitalizations and/or surgeries. Through the Academys IRIS Registry, we are already beginning to get a better picture of the numbers and types of eye conditions faced by ophthalmology patients. Thirty-five percent of nearly 7 million patients whose data was reported in 2013 through 2014 had three to five eye conditions, and twelve percent had six or more such conditions. Additionally, of those reporting through IRIS Registry, 16.5 percent of their patients 65-74 years of age also had been diagnosed with diabetes. At a minimum patient condition codes must be able to accurately depict patients that face multiple conditions both systemic and of a specific nature for the physician providing the patient care. We are also skeptical that patient relationship and condition codes will be able to account for the impact that socioeconomic status and health literacy have on compliance and other patient actions that impact their healthcare. Cataract surgery is a prime example. There are important patient compliance issues with the medications used at the end of surgery. The antibiotic and anti -inflammatory drops required that prevent infection and promote healing have seen, like many other drugs, dramatic price increases. Many patients are faced with significant out of pocket expenses that they may not be able to afford. And other elderly patients may have difficulty instilling their medications properly. All of these can contribute to problems in post-operative care and higher cost, and there is not information provided on how patient condition codes can capture such impacts.
+
+CMS must determine how these and other factors should be accounted for in risk adjustment and then be certain a mechanism is available to capture such information. How is race determined for patients of mixed race/ethnicity? These questions must be looked at very carefully, and how they are used as a factor in physician payment must be studied more thoroughly. Furthermore, many patients do not want to or decline to share socioeconomic data, and if that is the case, they must not be included for accountability or attribution purposes.
+
+2. As described above, the degree of responsibility of attributed services might be considered separately. Those services furnished by the attributed clinician for the clinical purpose of the episode group might be differentiated from the services provided by others for the same clinical purpose. The services furnished by the attributed clinician might be considered directly attributable services. These could be correlated with the services delivered by others for the same clinical purpose, which might be considered indirectly attributed services. The consideration of both directly and indirectly attributed services might be weighed in reporting both the provision and the coordination of care within the episode group relative to each clinician contributing to the care. An alternative approach would be to obtain recommendations from multi-specialty panels about percentages of the resources for an episode that could be attributed to physicians serving in different roles. We welcome comment on these concepts of differential attribution or alternative methods to align attribution with the clinical activities of
+
+
+
+
+clinicians.
+
+Co-management is a practice seen frequently in the medical field, including in Ophthalmology. The attribution of post-op or post-procedural co- management costs to the surgeon has confounded cost measurement under VBM. The outdated percentages currently in use by CMS for physician payment purposes do not accurately reflect the actual share of the costs of the episode among co-managing providers. The Academy encourages CMS and Acumen to take steps to correctly measure and attribute co-management costs billed with the appropriate modifiers.
+
+3. The Medicare Advantage program uses the CMS-HCC Risk Adjustment Model to determine rates. We seek comment on the use of this model or an alternative for risk adjusting episode groups in the construction of cost measures. In addition, should concurrent or prospective risk adjustment be used, and should a full year of data or more targeted data from before the episode be used to adjust? We do not believe that the HCC model, which was developed for the Medicare Advantage program, adequately accounts for risk when analyzing physician cost. The HCC was designed to risk adjust large patient populations for insurance rate determination and was never designed for group or individual eligible clinician evaluation. For example, the HCC considers patient factors such as age, gender, prior year diagnoses, and Medicaid dual-eligible status. We do not believe that Medicaid dual-eligible status alone adequately captures differences in patient risk due to socioeconomic factors. Risk adjustment should be based on targeted data from before the episode to determine the patients true clinical and social picture at the time of presentation. As described above, the clinical picture should include the stage or severity of illness, the rate of progression, current or recent exacerbations, and comorbidities, recent hospitalizations and/or surgeries; all of which can be collected in the Academys IRIS Registry. But medical conditions, treatments, and procedures do not fully depict a patients risk status. Two leading indicators of a patients ability to adhere to treatment and avoid complications are the patients socioeconomic status and health literacy. Even with Medicare coverage, many patients cannot afford their medications, even those of lower cost, allowing conditions to progress and complications to arise. This is one of several factors that arise from lower socioeconomic status that is outside of physician control.
+
+4. The draft list does not currently include specifications for episode sub-groups (a sub-group is intended to achieve greater clinical comparability and is a subdivision of an episode group that further refines the specifications of episode trigger codes and grouping rules to yield more clinically homogenous cohorts of patients with similar expected cost). An example is an episode group for spine surgery with sub-grouping for number of levels and anatomic location. CMS solicits public comment on these draft episode groups and potential sub-groups. The Academy believes that the use of sub-groups could assist in more accurate cost comparisons and strongly encourages collaboration and transparency during the development of any sub-groups to ensure viability. For ophthalmology, the following sub-groups may be useful: bilateral vs unilateral procedures, hospital outpatient department vs ambulatory surgical center site of service, procedures that are performed in tandem, and severity of illness and other risk factors.
+
+5. CMS is especially interested in comments regarding methods to align quality of care with cost measures and welcomes recommendations and suggestions. Considerations for aligning episode
+
+
+
+groups with quality measurement are described in this document, but are not intended to be an exhaustive list of options. We welcome comment on these methods, as well as any other strategies that could be used to align quality of care considerations with cost measures.
+
+Cost Aligned with Quality is Possible
+
+The initial vision of AQA, SQA and NQF was to tie resource use to specific quality measures. Resource and quality must be linked in order to achieve value by improving health, increasing quality and lowering costs. For groups, there should be quality measures and process measures to ensure the ability to improve and quantify quality improvement within a group.
+
+Clinical data registries hold great potential to improve the accuracy of cost data. There are numerous specialty society clinical data registries including more than a dozen of the major specialties that share a common vendor, FIGMD. This new breed of registry is EHR agnostic and uses a systems integrator to pull outcomes and measure performances from the electronic record. The Academys registry, IRIS (Intelligent Research In Sight), is based on such an infrastructure and also has access to the practice's administrative database. We do believe common ophthalmological diseases and conditions could be appropriately measured for cost within registry reported data.
+
+Through the IRIS Registry, many practice expenses, visits, procedures, testing pre-operative evaluations, lab results, and returns to the operating room are captured. For resources accrued outside the registry and/or office administrative data base, there are facility costs that can be normalized to regional costs. All registries have the ability to calculate cost specific to an episode group. CMS must acknowledge the utility and use of this manner of cost measurement so that specialties can begin the process of analyzing the data and working with CMS to determine appropriate cost.
+
+Appendix A
+
+
+
+Significant ocular conditions that should
+Corresponding ICD-9-CM Codes
+be excluded from any cost measures and
+
+calculations. Significant Ocular Condition
+
+
+
+Acute and Subacute Iridocyclitis
+364.00, 364.01, 364.02, 364.03, 364.04,
+
+364.05
+
+
+Amblyopia
+368.01, 368.02, 368.03
+
+
+Burn Confined to Eye and Adnexa
+9340.0, 940.1, 940.2, 940.3, 940.4, 940.5,
+
+940.9
+
+
+Cataract Secondary to Ocular Disorders,
+366.32
+Central Corneal Ulcer
+366.33
+
+370.03
+
+
+Certain Types of Iridocyclitis
+364.21, 364.22, 364.23, 364.24, 364.3
+
+
+Choroidal Degenerations
+363.43
+
+
+
+
+
+Significant ocular conditions that should
+Corresponding ICD-9-CM Codes
+be excluded from any cost measures and
+
+calculations. Significant Ocular Condition
+
+
+
+Choroidal Detachment
+363.72
+
+
+Choroidal Hemorrhage and Rupture
+363.61, 363.62, 363.63
+
+
+Chorioretinal Scars
+363.30, 363.31, 363.32, 363.33, 363.35
+
+
+Chronic Iridocyclitis
+364.10, 364.11
+
+
+Cloudy Cornea
+371.01, 371.02, 371.03, 371.04
+
+
+Corneal Opacity and Other Disorders of
+371.00, 371.03, 371.04
+Cornea
+
+
+
+Corneal Edema
+371.20, 371.21, 371.22, 371.23, 371.43,
+
+371.44
+
+
+Degeneration of Macula and Posterior Pole
+362.50, 362.51, 362.52, 362.53, 362.54,
+
+362.55, 362.56, 362.57
+
+
+Degenerative Disorders of Globe
+360.20, 360.21, 360.23, 360.24, 360.29
+
+
+Diabetic Macular Edema
+362.07
+
+
+Diabetic Retinopathy
+362.01, 362.02, 362.03, 362.04, 362.05,
+
+362.06
+
+
+Disorders of Optic Chiasm
+377.51, 377.52, 377.53, 377.54
+
+
+
+
+1 Sinsky C, Colligan L, Li L, Prgomet M, Reynolds S, Goeders L, et al. Allocation of Physician Time in Ambulatory Practice: A Time and Motion Study in 4 Specialties. Ann Intern Med. 2016;165:753-760. doi: 10.7326/M16-0961
+

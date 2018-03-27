@@ -1,0 +1,41 @@
+
+The American Society of Plastic Surgeons (ASPS) is the world's largest association of plastic surgeons. Our over 7,000 members represent 94 percent of Board-Certified Plastic Surgeons in the United States. ASPS promotes not only the highest quality in patient care, but also in professional and ethical standards. Our members are highly skilled surgeons who improve both the functional capacity and quality of life for patients, including treatment of congenital deformities, burn injuries, traumatic injuries, hand conditions, and cancer reconstruction. We appreciate the opportunity to provide feedback on the draft list of episode groups and trigger codes, as well as your report, Episode-Based Cost Measure Development for the Quality Payment Program, to help inform the agencys ongoing efforts in developing cost measures.
+
+
+Episode-Based Cost Measure Development for the Quality Payment Program Episode Group Selection
+
+CMS considered Medicare expenditures, clinician coverage, and the opportunity for improvement in acute, chronic, and procedural care settings in selecting the episode groups to be considered for development. As a result, lumpectomy or partial mastectomy and simple or modified radical mastectomy continue to be targeted for episode group development. ASPS is eager to work with CMS and its contractor on further developing these episode groups into reasonable and appropriate cost measures, so that plastic surgeons can be held accountable for resource use that is within their control.
+
+Episode Group Definition, Procedural Episode Groups & Cost Measure Development
+
+As noted above, we understand how lumpectomy or partial mastectomy and simple or modified radical mastectomy have been targeted for episode group development and agree that the CPT codes identified as trigger codes represent those services. It would be helpful if CMS identified the ICD-10-PCS codes for these episode groups, cross-walked them to the CPT trigger codes, and made this information public and open for comment. That way, when episodes are being constructed in the real-time claims environment, stakeholders will have more confidence that the physician, hospital and/or ambulatory surgery center (ASC) claims are corresponding as they should.
+
+In addition, we would strongly support the development of episode sub-groups for mastectomy with or without breast reconstruction, which drastically alters resource use for these services and should be parsed out, accordingly.
+
+Unfortunately, we are limited in our ability to provide substantive comment outside of the above because key information about the episode groups are missing. Beyond the CPT trigger codes, what are the parameters under which these episodes intend to be developed? For example,
+
+ When do the episodes begin and end?
+
+ What are the associated ICD-10 diagnosis codes?
+
+ How will surgeons and other providers participating in the patients continuum of care be attributed costs during the episode? We continue to await information on patient relationship categories and codes, which will be key to this effort, but concerns remain about their effectiveness, feasibility and utility.
+ What, if any, are the exclusion criteria for these episodes?
+
+ How will risk factors, including socio-demographic, be accounted for in these episodes?
+
+ How will additional treatment modalities, such as chemotherapy (both neo-adjuvant and post-mastectomy) and radiation therapy, both known to increase risk of infection and healing complications, be accounted for in both length of episode and cost?
+
+ How are device costs accounted for? This could be particularly important as new, innovative products become available and show superiority (i.e., clinical, outcomes and quality of life) over less-expensive predecessor products. In addition, the variety and availability of reconstructive implants or other medical devices (e.g. skin substitutes and other tissue grafts) may not be within the surgeons control. We understand that some
+
+
+
+areas are appropriate for efficient resource use, however, CMSs cost measurement should not stifle or hinder advances in medicine and technological innovation.
+
+ How are indirect activities that impact overall costs accounted for? For example, a surgeon may own and operate an ASC that maintains accreditation and engages in infection control and antimicrobial stewardship activities which improves overall quality and cost. How might this be factored into cost measurement?
+
+ How frequently will the episodes be updated to account for changes in clinical practice? Changes in the medical inflation rate?
+
+ASPS recognizes that CMS is conducting this work in phases, but it is very challenging to evaluate the suitability of episode trigger codes without any other context regarding the parameters of the entire episode. We urge CMS to provide these critical details sooner rather than later, so that ASPS may provide important feedback to the agency prior to the implementation of episode groups in the MIPS cost performance category.
+
+We appreciate the opportunity to offer these comments, and we look forward to providing additional input on accurate cost measurement. Given CMS current plan to increase the weight of the MIPS cost performance category to 10 percent for the CY 2018 reporting period, we encourage the agency to issue more detailed proposals as soon as possible. Our members are committed to taking all appropriate steps to ensure patients receive care that results in the best outcomes and value.
+

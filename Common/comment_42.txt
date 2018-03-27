@@ -1,0 +1,93 @@
+
+Introduction
+
+The Alliance of Dedicated Cancer Centers (ADCC) appreciates that CMS has engaged the stakeholder community to develop and refine the Merit-based Incentive Payment System (MIPS) cost measures. As acknowledged by CMS in its proposal, stakeholder feedback to date has identified some key areas for continuing focus. We firmly agree that the following principles are critical to developing meaningful measures:
+
+ Patient outcomes should be at the center of cost measures.
+
+ Attribution of episode groups to clinicians should be clear and credible.
+
+ Cost measures should account for patient complexity and the challenge of addressing overlapping conditions, i.e., accurate risk adjustment is necessary.
+
+Effectively addressing these issues is essential to ensuring that the Quality Payment Program is designed to fairly and accurately assess resource use and outcomes, particularly for practitioners that tackle some of the most complex cancer patients in the country. Below, we provide specific feedback on several of the questions posed by CMS in its notice on Episode-Based Cost Measure Development for the Quality Payment Program. We hope that our comments will assist the agency as it works through this challenging topic.
+
+Risk-Adjusting Episode Groups
+
+The ADCC agrees that it is critical for CMS to adjust for factors that can influence expenditures but are outside a clinicians control. For example, patients differ in their severity of illness, functional status, age, type and number of comorbidities and chronic conditions, etc. These patient-level risk factors must be taken into consideration in any risk adjustment methodology that is used. Accounting for patient complexity and health status, including chronic conditions, is necessary to ensure that clinicians who treat particularly complex patients, such as cancer patients, are not penalized.
+
+CMS currently uses the Hierarchical Condition Categories (HCCs) risk adjustment methodology to adjust episode-based costs for its Medicare Advantage population. CMS states on page 12 of its request for comments that while HCCs may be appropriate for adjusting total expenditures for care for a population, specific conditions may confer higher or lower risk for certain episode groups. CMS then goes on to say that an alternative approach to reduce heterogeneity within an episode is to apply the episode to comparison of like patients, for example, diabetics with heart disease, with end stage renal disease, [or] with chronic obstructive pulmonary disorder, rather than to all diabetics.1
+
+
+
+
+We agree with this view and urge CMS to implement a different risk-adjustment methodology in a way that ensures valid and reliable comparisons between providers based on like patients. This is particularly important in cancer, given CMS proposal of a procedure-driven episode model. Several procedures in the proposed list, including colectomy, nephrectomy, cystectomy, mastectomy, and thyroidectomy, can be performed in patients with and without a cancer diagnosis and the costs can vary significantly. This is also true for the list of acute inpatient medical conditions and chronic conditions, which can occur in patients with and without a cancer diagnosis. To address these issues, CMS should apply a specialized risk adjustment methodology to cancer, grouping like patients based on procedure and cancer site. The term cancer represents multiple diseases, costs, outcomes, and comorbidity risks that inherently vary based on cancer site and type. Thus, we recommend that CMS create sub-groups or specialty groups to facilitate comparisons based on cancer site (e.g., comparing costs of patients with colon cancer as a distinct group). We believe that comparisons between patients with and without a cancer diagnosis as well as comparisons among patients with different cancer diagnoses can lead to erroneous conclusions about resource utilization and costs and are, therefore, inappropriate.
+
+As noted above, to be accurate, CMS risk-adjustment methodology should account for factors beyond the clinicians control, such as comorbidities, chronic conditions, severity of illness, function, and demographic factors, such as gender and age. The ADCC cancer hospitals are currently evaluating risk- adjustment methodologies that are more appropriate than HCCs for analyzing risk, including the 3M Health Information Systems Clinical Risk Groups (CRGs). We have found that CRGs, while imperfect, are a better risk adjustment methodology than HCCs for cancer. Therefore, we encourage the agency to consider utilizing CRGs when establishing a risk adjustment methodology. We continue to seek and refine other methods of accurately accounting for patient characteristics and will share our comments with the agency as our thoughts on this topic evolve.
+
+Importantly, regardless of the risk-adjustment tools utilized (HCCs or CRGs), risk adjustment tools work best when they are applied concurrently. Our analysis has shown that risk scores based on retrospective patient information do not produce meaningful data in cases where previously healthy patients are suddenly diagnosed with cancer. Concurrent risk-adjustment leads to a significantly more accurate representation of patient acuity as well as recognition of rapid treatment changes that can occur. Therefore, whatever risk adjustment methodology CMS ultimately uses should be applied concurrently.
+
+Finally, because risk adjustment is significant and a third of Medicare beneficiaries are covered by Medicare Advantage plans, knowing the risk adjustment score for each patient is an important factor. Therefore, the ADCC recommends that the HCC score assigned to each patient be retained in the Common Working File and released with each eligibility response (i.e., 271 transaction) to providers. This will enable providers to begin to understand HCCs and to compare CMS HCC score to the more current information held by the provider. CMS may wish to consider a form of an appeal or notification when a provider believes an HCC risk score is significantly different from what it should be based on more current data.
+
+
+
+
+Attribution
+
+We understand that MACRA requires new patient relationship categories and codes to be reported as of January 1, 2018. We further understand that CMS expects to release an operational list of these categories and codes for review in April 2017. Since the information has not yet been released, the ADCC is unable to provide meaningful feedback to CMS on how the codes should best be incorporated into its attribution model. We ask that CMS provide another comment period after it releases the patient relationship codes in order for stakeholders to provide meaningful input on use and attribution of the codes.
+
+Additionally, we understand that CMS is likely to use new HCPCS modifiers to establish the patient-provider relationship. While providers are familiar with the use of modifiers, which constitute a relatively simple mechanism for collecting this information, it is unclear whether they are all being read appropriately during claims processing. There has been a rapid increase in required modifiers over the last several years. We have raised concerns with CMS about whether all of the modifiers reported are read by CMS during claims processing and also whether the modifiers must be reported in a specific order (i.e., payment modifiers first and then informational modifiers). The ADCC requests that CMS verify that all reported modifiers will be read by all of its contractor and the pricer/editor systems being used, regardless of the number of modifiers and the order in which they are appended. If this does not occur, CMS risks not being able to access important information on patient-provider relationships, or truncating important claims data from the reimbursement and rate-setting process.
+
+Episode Definitions
+
+The ADCC notes that CMS has focused episodes on acute hospitalizations that are short-term and chronic conditions that are long-term. However, episodes of care within cancer can vary tremendously in duration, intensity of services, and number. For some patients, the episode of care is characterized by diagnosis, acute treatment with curative intent, and cancer remission. For other patients, the episode reflects progression to second- and third-line treatments and the potential development of additional cancers. Still other patients may receive treatment with palliative intent for weeks or years. Therefore, the ADCC recommends that CMS pay close attention in how it creates episode-based cost measures for cancer care and that these measures take into account the nature of episodic cancer treatments including the various interventions utilized. Finally, in building these episodes the ADCC suggests that CMS work with guidelines such as those from the National Cancer Care Network (NCCN) which are organized by cancer type and can help define more appropriate cancer episodes which can help ensure valid comparisons.
+
+We also request CMS disclose how it plans to define and treat outliers. For example, will outliers be excluded from the cost calculation? Will patients who die be included or excluded from episodes? Likewise, will patients who incur traumas or other accidents be excluded in the episode? Similarly, will patients on clinical trials be included, excluded, or treated as separate subgroups based on the presence of a National Clinical Trials (NCT) on the claim? Finally, will clinical trial patients be included in episodes, after a period of time after their participation in the trial ends? These are just some of the questions raised by cancer hospitals that indicate how critical it is for CMS to clearly define inclusion and exclusion
+
+
+criteria and outlier provisions. These decisions will make a difference in whether episodes reflect good clinician management of patient care or a one-size fits all approach that does not allow the agency to truly make that distinction.
+
+Collecting Staging and Patient Complexity Information
+
+Cancer staging is determined by clinicians that make medical determinations based upon a synthesis of information, including: pathology and other diagnostic tests; examination of the patient; and/or definitive surgical, medical, and radiation oncology treatments. Cancer stages may be reported on inpatient and outpatient institutional claims, as well as on professional claims.
+
+The ADCC agrees with CMS that certain conditions (including cancer) are likely to have significant variations in costs depending on the stage of the patients disease and that it is important to account for these variations. The ADCC further agrees with CMS that it is critical to track cancer stages in order to effectively and accurately attribute cancer patients cost of care. However, stage information is currently unavailable in claims data, hampering CMS ability to incorporate that information into cost analyses, and preventing the agency from making meaningful cost comparisons between different stages of similar sub-groups of cancer patients.
+
+We appreciate CMS interest in investigating the capture of staging information through claims data and have been analyzing potential processes among our member institutions. Below, we present one potential method for collecting cancer staging information on claims.
+
+As CMS is aware, claim form location definitions are the purview of specific standard-setting and operating rule organizations. For UB-04 or 837I institutional claims, that organization is the National Uniform Billing Committee (NUBC). For 1500 or 837P professional claims, the organization is the National Uniform Claims Committee (NUCC). These organizations must authorize any new claim codes to be reported, along with the associated definitions and instructions.
+
+The ADCC believes new value codes could be created to indicate cancer. For example, CMS could instruct providers to report CS, along with a numeric code (0 to 4) to reflect cancer stage and also to use CR to indicate a cancer recurrence, again along with stage information. For the NUBC, this information would be reported using form locator fields 39-41; for the NUCC, it would be reported on 1500 claims in item number 19 representing additional claim information. For facility and physician claims, the new CS or CR codes would need to be accompanied by a numeric value related to the cancer stage as shown below. Additionally, we believe a separate value code, for example, 00 could be used to report that cancer is present but the clinician is unable to make a stage determination at the time of claim submission. We believe this is a better option than leaving the field blank or taking the risk that providers assume they are required to select a value absent a stage determination, which would only corrupt the data.
+
+The ADCC is exploring the use of the TNM Classification of Malignant Tumors (TNM) staging system as described on the National Cancer Institutes website2 where numeric codes could be reported on claims corresponding to different stages of cancer:
+
+
+
+
+  Stage 0: Abnormal cells are present but have not spread to nearby tissue (carcinoma in situ); numeric code to report on claims = 0
+
+ Stage I: Cancer is present; numeric code to report on claims = 1
+
+ Stage II: Cancer is present; numeric code to report on claims = 2
+
+ Stage III: Cancer is present; numeric code to report on claims = 3
+
+ Stage IV: Cancer has spread to distant parts of the body; numeric code to report on claims = 4
+
+There are many additional considerations to explore and operational issues to vet, but we are pleased to share our initial thoughts with CMS on how disease staging information could be captured and hope these early ideas will facilitate the agencys own exploration of collecting staging information using claims. We also encourage CMS to vet these ideas and suggestions with stakeholders and should CMS proceed, it is vital that CMS provide clear instructions so that providers completely understand any future reporting request and the analytics to which it will apply. As with most claims reporting requests, it will take time for providers to begin reporting. However, we believe reporting practices will improve as they realize the importance of the data and how it is being used. Finally, regardless of the method used to collect staging information, the ADCC urges CMS to ensure that undue administrative burden on providers is minimized.
+
+QRUR Reports
+
+In response to CMS request for actionable ideas, the ADCC suggests specific changes be made to the QRUR reports. First, the reports must be provided to clinicians as close as possible to real time so that they are able to utilize the information to make actionable decisions that can meaningfully and quickly impact overall costs without compromising patient quality of care. Second, the ADCC believes the QRUR reports must clearly differentiate the various types of costs (i.e., inpatient, outpatient, drugs, post-acute care, etc.) being attributed to clinicians particularly since facility costs are being attributed to them and that these costs must reflect normalization as stated above. Third, our members are struggling to understand the QRUR reports and their current relationship to the value modifier. As we contemplate the implementation of MIPS, we believe more detailed QRUR reports from CMS are necessary. Reports must directly link the cost criterion being applied to physicians to their performance score in order to provide data that can truly lead to meaningful improvements in care.
+
+Implementation Timing
+
+Given the number and nature of the questions associated with the development and refinement of the MIPS cost measures, the ADCC recommends that CMS delay inclusion of these episode-based cost measures in the calculation of the cost performance category score until clinicians have more experience with these measures. Due to concerns about the adequacy of risk adjustment generally, we also recommend that the cost performance category score be weighted at zero in the final MIPS score until payment year 2021 or 2022. This will give clinicians more time to understand the cost measures and attribution methodology.
+
+
+
+
+The ADCC sincerely appreciates the opportunity to provide input into the development of MIPS cost measures. If you have any questions, please do not hesitate to contact us.
+
+1 Episode-Based Cost Measure Development for the Quality Payment Program; Centers for Medicare & Medicaid Services
+2 https://www.cancer.gov/about-cancer/diagnosis-staging/staging
+

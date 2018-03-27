@@ -1,0 +1,351 @@
+
+I am writing to express serious concerns regarding the proposed Patient Condition Groups and Care Episode Groups that were posted on the CMS website on December 23, 2016, to provide suggestions for improvements, and also to provide comments and respond to the questions in the document titled Episode-Based Cost Measure Development for the Quality Payment Program that was posted at the same time.
+
+The Urgent Need for Better Claims Data to Support Value-Based Payment
+
+As you know, all of the current value-based payment methodologies used by Medicare and other payers are based primarily on information derived from healthcare claims data. However, the information contained in claims data was not designed for this purpose. The limited information
+
+
+
+4 This commenter attached a copy of an earlier letter to CMS dated February 15, 2016.
+
+
+
+available in current claims data creates weaknesses in the payment models that are based on the data, which in turn creates serious problems for the healthcare providers paid under these models and for the patients who need care from those providers.
+
+In developing the Medicare Access and CHIP Reauthorization Act of 2015 (MACRA), Congress recognized that current healthcare claims data would not be adequate for either resource use measurement under the Merit-Based Incentive Payment System (MIPS) or for the development and implementation of Alternative Payment Models (APMs). To address this, Section 101(f) in Title I of MACRA added Section 1848(r) to the Social Security Act (42 U.S.C. 1395w-4(r)), which requires development of three new sets of information  Care Episode Groups, Patient Condition Groups, and Patient Relationship Categories  and corresponding codes to record this information on claims forms. Congress also recognized that obtaining better claims data was an urgent need, and so Section 1848(r) mandates a very detailed process and specific deadlines in order to ensure that better data can be recorded on claims forms beginning on January 1, 2018.
+
+The CMS Proposal Doesnt Address the Needs for Better Coding
+
+In light of the importance and urgency of this issue, we were extremely disappointed with the material that CMS posted for comment in December. The proposed Care Episode Groups and
+
+Patient Condition Groups fall far short of what could or should have been developed in response to Congresss mandate. Specifically:
+
+Care Episode Groups should be more than relabeled procedure and diagnosis codes.
+
+The Care Episode Groups and codes that MACRA requires in Section 1848(r) are needed in order to provide a better approach to defining and measuring episodes of care than the episode grouper approaches CMS and other payers have been using. Episode groupers are complex and highly error-prone because they try to determine the relationship between the services a patient receives long after those services have been delivered, using information on claims forms that was designed for billing purposes, not for defining clinical episodes. Although resource use measures calculated using these imperfect grouper methodologies may provide helpful information in some cases, they will never be sufficiently accurate or reliable to use for defining Alternative Payment Models or for holding physicians accountable for resource use under the Merit-Based Incentive Payment System (MIPS).
+
+By requiring the creation of Care Episode Groups and codes, Congress clearly signaled a desire to assure that episode definitions and measures would no longer be constrained by the limits of current procedural and diagnostic coding on claims forms. It also clearly wanted to enable physicians to indicate the nature of the care episode that was underway at the time care is delivered, rather than having CMS try to determine that retroactively.
+
+Yet the episode groups posted for comment in December are nothing more than retitled ICD-10 codes for chronic conditions, HCPCS codes for procedures, and DRG codes for acute inpatient medical conditions. Using the exact same codes that already appear on claims forms, as CMS has proposed, does nothing to provide the greater breadth and depth of information needed for both MIPS and APMs. Recommendations for a better approach are provided later in this letter.
+
+
+
+Patient Condition Groups shouldnt simply be another name for diagnosis codes.
+
+The resources required to care for an individual patient during a particular episode of care and the outcomes that can be achieved for that patient will depend heavily on the specific needs and characteristics of the patient and the physicians and patients ability to access and use different treatment options. Unless measures of resource use during episodes of care are appropriately adjusted for differences in these factors, one physician could be penalized for being high cost relative to other physicians when in reality, that physicians patients had greater needs than the patients treated by other physicians.
+
+Unfortunately, the risk adjustment systems currently being used by CMS and other payers do not identify or adjust for many of the most important differences in patient needs. Many of the characteristics that cause patients to legitimately require more services and resources or to have worse outcomes arent captured in current diagnosis codes, such as stage of cancer, severity of heart failure, functional status, etc.
+
+But rather than creating a mechanism through which physicians could identify the patients who have these characteristics, CMS has apparently decided to interpret the patient condition groups required in MACRA as a synonym for chronic condition episodes and to simply use existing ICD-10 codes to define them. Here again, CMSs proposal to use the exact same codes that already appear on claims forms does nothing to improve the accuracy or reliability of risk adjustment systems either for MIPS or APMs. Recommendations for a better approach are provided later in this letter.
+
+Failure to Consider the Needs of Alternative Payment Models
+
+We were also extremely disappointed that the document released with the proposed codes discusses episode groups and codes only in the context of the Resource Use measures required as part of MIPS, and there is no discussion in the document of the important role these codes can and should play in Alternative Payment Models. In the very first paragraph of Section 1848(r), Congress stated that the purpose of developing Care Episode Groups and Patient Condition Groups was for purposes of the Merit-based Incentive Payment Systemand alternative payment models [emphasis added]. Yet in the document Episode- Based Cost Measure Development for the Quality Payment Program that CMS released in December, alternative payment models are only mentioned briefly in the descriptions of MACRA at the beginning of the Executive Summary and in the Introduction section of the document, and nowhere else.
+
+We urge that CMS explicitly seek input from providers, medical specialty societies, and other stakeholders who are developing or implementing Alternative Payment Models in order to determine how Care Episode Groups and Patient Condition Groups can best support Alternative Payment Models.
+
+Lack of Collaboration and Transparency in Response to MACRAs Mandates
+
+Congress clearly wanted CMS to work collaboratively and interactively with stakeholders in developing the Care Episode Groups and Patient Condition Groups and associated codes. Indeed, Section 1848(r) is titled Collaborating with the Physician, Practitioner, and Other Stakeholder
+
+
+
+Communities to Improve Resource Use Measurement. Two separate rounds of input regarding the care episode and patient condition groups and codes are mandated by MACRA.
+
+To date, CMS has also not released any information on the comments and input that it has received nor has it explained whether and how it has used that input. Although notice and comment rulemaking clearly does not support the kind of collaborative approach Congress wanted to see, one advantage of notice and comment rulemaking is that all comments submitted are publicly available and CMS responds specifically to each comment submitted. In contrast, the public comments submitted to date on the care episode groups and patient condition groups do not appear to be accessible anywhere. The document posted in December states that CMS received comments, but the document does not describe what those comments were and it does not indicate whether and how the proposal responds to those comments.
+
+For example, CHQPR submitted detailed recommendations to CMS on how to define Care Episode Groups and Patient Condition Groups 14 months ago (a copy of our February 15, 2016 letter is attached). There is no indication in the material posted in December that CMS gave any consideration to these recommendations.
+
+The CMS website indicates that Acumen convened a Clinical Committee comprised of more than 70 clinical experts from over 50 professional societies from August  September 2016. This Committee provided input on identifying a candidate list of episode groups for development and in determining the billing codes that trigger each episode group. The clinical review and recommendations obtained from the Clinical Committee were used to inform the draft list of episode groups and trigger codes posted by CMS in December 2016 for public comment. However, no information has been made publicly available on what was recommended by the committees created by Acumen.
+
+We urge CMS to (1) publicly post all of the comments it has received, all materials that its contractor has developed, and summaries of the meetings that the contractor has held; and
+
+(2) explicitly respond to the comments it receives. Failure to Meet the Deadlines in MACRA
+
+Finally, we are very disappointed that CMS has failed to meet the statutory deadlines established in MACRA. Section 1848(r)(2)(E) required that a draft list of the care episode and patient condition codes  (and the criteria and characteristics assigned to such code) be posted no later than 270 days after the end of the previous comment period. The previous comment period ended on February 15, 2016; 270 days after that was November 11, 2016. However, the draft codes were not posted until six weeks later, on December 23, 2016.
+
+It is clear in reading Section 1848(r) that the specific deadlines Congress mandated for each step in the input process were designed to ensure that the new codes would be finalized and available for use on claims forms beginning on January 1, 2018. Under MACRA, there are four steps CMS is required to take in developing Care Episode Groups and Patient Condition Groups, and the times allowed for those steps are, respectively, 180 days, 120 days, 270 days, 120 days, and 270 days following the completion of the previous step, starting with the enactment of MACRA on April 16, 2015 and ending with CMS posting an operational list of care episode and patient condition codes (and the criteria and characteristics assigned to such code). The cumulative
+
+
+
+effect of those deadlines is that the operational list of codes would be posted before the end of 2017.
+
+However, due to the delay in posting the draft codes, the current comment deadline of April 24, 2017 is only 220 days before the end of 2017. If CMS takes the 270 days currently allowed under statute to finalize the codes, the codes would not be ready until February of 2018, after the codes are supposed to already be in use on claims forms.
+
+Of even greater concern, however, is that what was posted in December did not include the criteria and characteristics assigned to such code as required in MACRA. In fact, in the spreadsheet that contains the proposed groups and codes, CMS explicitly states the draft list does not currently include specifications for episode sub-groups. The spreadsheet states that future development of acute inpatient medical condition episodes will entail an evaluation  of whether patients who share a given DRG are sufficiently similar to patients assigned other DRGs to warrant lumping into a single episode group, or sufficiently different from one another to warrant splitting into two or more sub-groups, and it states that CMS is considering development of episode sub-groups for surgical and percutaneous approaches, by indication, for mastectomy with or without breast reconstruction, by location (i.e., cervical, thoracic, lumbar), and by etiology of fracture as well as number of levels treated. (These statements suggest that to date, CMS has primarily focused attention on inpatient and surgical procedure episodes rather than chronic conditions or acute medical conditions that do not require surgery.)
+
+Due to the superficial and incomplete nature of the current version of the proposed codes, it is clear that significant revisions will be needed before the groups and codes can be operationalized. It will be essential for stakeholders to have another opportunity to review and comment on a revised and more detailed version of the codes before they are finalized. We urge that CMS make a commitment to: (1) release a revised set of Care Episode Groups/codes and Patient Condition Groups/codes, with full definitions, no later than June 30, 2017; (2) allow stakeholders at least 60 days to comment on the revised groups/codes; and (3) incorporate the input received into the definitions and codes and release final versions no later than November 30, 2017. This will allow the new codes to be used on claims forms beginning on January 1, as Congress intended, and provide stakeholders with full information on the codes at least one month in advance. CMS commendably released a revised set of Patient Relationship Categories and codes for additional comment in advance of the statutory deadlines, and it should also release a revised set of Care Episode Groups, Patient Condition Groups, and associated codes as soon as possible this year to allow additional stakeholder input.
+
+How to Create Better Care Episode Groups and Patient Condition Groups
+
+A number of medical specialty societies are developing Alternative Payment Models (APMs) to support high-quality care for patients who have the acute and chronic conditions that physicians in those specialties treat. In many cases, these APMs include specific definitions and codes for two or more phases or episodes of care experienced by patients with those conditions, and the APMs also define categories of patients and associated codes based on patient characteristics that affect resource use and outcomes in a particular phase or episode of care.
+
+
+Since Section 1848(r)(1) explicitly states that the purpose of developing Care Episode Groups and Patient Condition Groups is to support alternative payment models as well as MIPS, it would be very unfortunate if CMS tries to develop Care Episode Groups and Patient Condition Groups and associated codes for MIPS in ways that conflict with the efforts of the specialty societies and others who have been working to develop APMs. Consequently, we urge that CMS contact medical specialty societies that are developing APMs and make every effort to either adopt or adapt the episode groupings and patient categories those societies have developed into the overall framework for care episode and patient condition groups that CMS develops in response to MACRA.
+
+Fortunately, despite being independently designed to support care for very different types of health conditions, the APMs that have been developed to date by several specialty societies have many common elements to their structures. These commonalities suggest a default structure for Care Episode Groups and Patient Condition Groups that CMS can use for most health conditions and combinations of conditions until specific Alternative Payment Models have been developed for those conditions or combinations of conditions.
+
+Defining Episodes in Terms of Phases of Care
+
+One common element in many of the APMs currently being developed is that separate payment amounts and quality measures are being defined for two or more phases of care that correspond to clinically distinct sets of services and outcomes for patients. For example, APMs being developed for several different types of chronic diseases have identified the following distinct phases of care:
+
+(1) the diagnostic phase, when a physician makes a determination as to whether a patient with symptoms has a particular disease or not;
+
+(2) the treatment planning phase, when treatment options are identified and discussed with a patient diagnosed with a disease;
+
+(3) initial treatment for a chronic disease, when the patient begins to receive the chosen treatment along with appropriate education and support, and when effectiveness and side effects are monitored in order to adjust treatment; and
+
+(4) maintenance of treatment for a chronic disease, when a patient continues to receive a treatment that is achieving its expected effect.
+
+A patient may cycle back and forth through one or more of these phases, e.g., because their condition worsens, because they develop other acute or chronic health problems that require adjustments in treatment, because new, more effective treatments become available, or because the patients poor response to treatment calls into question the accuracy of the diagnosis.
+
+Since different types and amounts of services, different types of outcomes, and in many cases different physicians will be associated with each of these phases of care, it makes sense to define each of them as a separate episode of care. Resource measures and payment models based on these four separate episodes will be far more clinically meaningful than lumping all patients who have been diagnosed with the chronic disease regardless of the phase of care into a single never-ending episode the way that most episode groupers do.
+
+
+For acute conditions, there is also a diagnostic phase and a treatment planning phase, but instead of an initial treatment phase and maintenance phase, one can define a different phase:
+
+(5) (time-limited) treatment for an acute condition, when the patient receives a treatment (e.g., medication) or a procedure (e.g., surgery) for the condition and also any follow-up care needed for recovery. This same category can be used for a procedure performed for diagnostic or screening purposes (e.g., a colonoscopy).
+A separate phase of care should also be defined for complications:
+
+(6) treatment of a complication, if a new acute condition has resulted from previous treatments for other conditions. This category could also be used for treatment of an acute exacerbation of a chronic condition.
+
+Finally, there is a different phase of care for patients who do not have an acute or chronic health problem that requires active treatment, but who need help in preventing problems from developing:
+
+(0) a preventive care phase, when patients without a health problem are monitored to ensure they receive evidence-based preventive services. (When a preventive service is actually delivered, the procedure would be treated as part of category 5.)
+
+Defining Groups of Patients with Similar Needs and Expected Outcomes
+
+Another key commonality among many APMs currently being developed is that 3-4 categories of patients are being defined within each phase of care. The patients in each category are similar to each other in terms of their needs for services and expected outcomes, but they differ from the patients in other categories based on objective characteristics that affect the amount of resources needed to treat the patients, the outcomes that can be achieved for the patients, or both. Different payment amounts can then be established for each category of patient in the same episode of care, reflecting the fact that the patients will need different types and amounts of services, and quality or outcome measures can be calculated separately for each category of patients to reflect the differences in expected outcomes.
+
+Instead of assuming that there is a linear relationship between patient characteristics and resource needs or outcomes that can be determined through a regression formula, as the CMS HCC system and many other risk adjustment systems do, categorical stratifications allow for non-linear relationships without requiring a complex coding system. Using 3-4 different severity/risk categories for each type of condition rather than continuous risk adjustment is very similar to the structure used in the MS- DRG system for hospitals and it is similar to a structure that CMS is using to stratify the Care Management Fees in its Comprehensive Primary Care Plus demonstration.
+
+The patient characteristics that have the biggest effect on resource use and outcomes during an episode of care will differ depending on the specific type of condition that is being treated during the episode. For example, if a patient is being treated for cancer, the stage of cancer has a very large impact on the cost of treatment and the likelihood of survival, far more than whether the patient has a comorbidity such as knee osteoarthritis. On the other hand, for a cancer-free patient who is being treated for knee osteoarthritis, stage of cancer is meaningless, but the severity of
+
+
+
+their arthritis is very important to understand in determining what will be needed to treat their knee problem and the ability of alternative treatments to improve their mobility. There are no ICD-10 codes for either stage of cancer or severity of knee arthritis, so this information cannot be obtained from claims forms today. The only way to obtain the information is to ask physicians to record it for the patients for whom it is relevant.
+
+In addition to the stage and severity of disease, the following patient characteristics that are not adequately reflected in ICD-10 codes will likely affect resource use for many types of patients:
+
+ Patient Functional Limitations. A patients functional limitations (e.g., inability to walk) can have an equal or greater effect on costs and outcomes as do their medical conditions. Patients who are unable to walk or drive or are unable to carry out activities of daily living will have greater difficulty caring for themselves and greater difficulty obtaining traditional office-based ambulatory care services, which can lead to increased use of more expensive healthcare services. For example, one analysis found that there were hospital admissions for 34% of Medicare beneficiaries who had functional limitations as well as chronic diseases, but there were admissions for only 20% of the Medicare beneficiaries who had 3 or more chronic conditions but no functional limitations. The researchers also found that the majority of the beneficiaries on whom Medicare spent the most had both chronic conditions and functional limitations.
+
+ Barriers in Accessing Healthcare Services. Having health insurance does not automatically assure that a patient can access the care they need. High deductibles or high cost-sharing levels may discourage individuals from seeking needed care or taking prescribed medications, which can result in avoidable complications and higher overall expenses that are outside the control of their physicians and other healthcare providers. Living in rural areas where long distances are required to travel to provider locations and where there is a lack of public transportation can also make it difficult for patients to obtain needed care regardless of the benefit design in their health insurance plan.
+
+Suggested Care Episode Groups, Patient Condition Groups, and Codes
+
+In order to define Care Episode Groups and Patient Condition Groups consistent with the above concepts, we recommend that CMS establish the following new HCPCS codes to indicate the following phases of care and categories of patients:
+
+G9900: Preventive care
+
+G991x: Diagnosis of a new symptom
+
+G9911: Level 1  Low Need Patients
+
+G9912: Level 2  Moderate Need Patient
+
+G9913: Level 3  High Need Patients
+
+G9914: Level 4  Very High Need Patients
+
+G992x: Treatment planning for a new diagnosis
+
+
+
+G9921: Level 1  Low Need Patients
+
+G9922: Level 2  Moderate Need Patient
+
+G9923: Level 3  High Need Patients
+
+G9924: Level 4  Very High Need Patients
+
+G993x: Initial new or revised treatment for a newly diagnosed or significantly worsened chronic condition
+
+G9931: Level 1  Low Need Patients
+
+G9932: Level 2  Moderate Need Patient
+
+G9933: Level 3  High Need Patients
+
+G9934: Level 4  Very High Need Patients
+
+G994x: Continued treatment for a chronic condition
+
+G9941: Level 1  Low Need Patients
+
+G9942: Level 2  Moderate Need Patient
+
+G9943: Level 3  High Need Patients
+
+G9944: Level 4  Very High Need Patients
+
+G995x: Treatment for an acute condition, treatment for an exacerbation of a chronic condition, or delivery of a diagnostic procedure
+
+G9951: Level 1  Low Need Patients
+
+G9952: Level 2  Moderate Need Patient
+
+G9953: Level 3  High Need Patients
+
+G9954: Level 4  Very High Need Patients
+
+G996x: Treatment for a complication resulting from a treatment or procedure
+
+G9961: Level 1  Low Need Patients
+
+G9962: Level 2  Moderate Need Patient
+
+G9963: Level 3  High Need Patients
+
+G9964: Level 4  Very High Need Patients
+
+These generic episode codes would be converted to a specific condition-based episode using the relevant ICD-10 code that the provider reports along with the episode code. For example, if a provider submitted the G9942 Care Episode Code along with an ICD-10 code for heart failure, it would indicate that a patient was receiving continued treatment for their heart failure and that the patient had other characteristics (such as moderate severity of their heart failure and some
+
+
+
+difficulty accessing outpatient services) that indicated they needed a moderate level of services. (All of the Care Episodes should be tied to the underlying condition being treated, not to a procedure, so that there is no financial incentive to deliver one procedure over another in achieving the best outcomes for the patient.)
+
+The generic Care Episode codes described above would only be used for a particular health condition until more specific codes were developed for that condition by the relevant medical specialty society. As condition-specific Care Episode Groups and Patient Condition Categories are developed by specialty societies, either for MIPS or APMs, these codes could be reviewed and approved by the CPT Editorial Panel just as procedural service codes are today. This would ensure consistency of definitions. (There would likely need to be a new category of CPT codes established for Care Episode Groups since they do not represent discrete services as existing Category I and III CPT codes do.)
+
+Associating Individual Services with Episodes
+
+For each combination of Care Episode code and ICD-10 code, the services that would be included or excluded from the episode would need to be identified in order to measure resource use within that episode and to avoid double payment under an APM. Rather than having CMS use episode grouper software to guess at how to assign services to episodes, providers should be given a way to explicitly indicate the type of episode to which a service should be assigned. To accomplish this, 7 modifiers (Y0, Y1, Y2, Y3, Y4, Y5, Y6) should be created for use with existing CPT/HCPCS codes to enable the provider of a discrete service to indicate which type of episode that service was associated with. For example, if an office visit for an established patient was part of the initial treatment for a newly diagnosed chronic disease, the provider could report 99213-Y4, indicating that a Level 3 office visit was provided in conjunction with initial treatment of the chronic disease.
+
+Definitions of which services should be assigned to particular episodes will still be needed, but these can be used by physicians and other providers to ensure accurate coding of episodes (just as they currently use CPT definitions to ensure accurate coding). CMS should defer to the definitions medical specialty societies are developing as part of APMs wherever possible rather than creating conflicting definitions for MIPS.
+
+Patient Characteristics Used to Define Levels of Need
+
+New Patient Condition Codes should be defined to supplement existing ICD-10 codes in order to objectively assign patients to the different need levels in the HCPCS codes above based on important characteristics that are not captured in ICD-10. The criteria for assigning these to patients would differ depending on what the relevant condition or episode is. For example, the same severity of condition codes could be used for both COPD and heart failure but the criteria for assigning high severity to a patient with COPD would differ from the criteria for assigning that same category to a patient with heart failure. In cases where stage or severity levels are captured by ICD-10 codes, those codes would be used instead of the generic Patient Condition Codes.
+
+ZZ1.xx Stage/Severity of condition
+
+
+
+ZZ1.1 Early Stage/Mild Severity
+
+ZZ1.2 Intermediate Stage/Moderate Severity
+
+ZZ1.3 Advanced Stage/High Severity
+
+ZZ2.xx Patient Functional Status
+
+ZZ2.1 High Functional Status
+
+ZZ2.2 Moderate Functional Status
+
+ZZ2.3 Low Functional Status
+
+ZZ2.4 Very Low Functional Status
+
+ZZ3.xx Access to Healthcare Services Needed for Treatment
+
+ZZ3.1 Little Difficulty Accessing Necessary Healthcare Services
+
+ZZ3.2 Moderate Difficulty Accessing Necessary Healthcare Services
+
+ZZ3.3 Significant Difficulty Accessing Necessary Healthcare Services
+
+Use of Patient Relationship Categories and Codes
+
+The Patient Relationship Categories that MACRA requires could be identified by attaching modifiers to both the Care Episode codes and the CPT HCPCS codes for the discrete services. As was described in our January 6 letter commenting on CMSs revised proposal for patient relationship categories and codes (a copy of which is attached), we recommend modifiers be created for the following six Patient Relationship categories.
+
+Z1. Continuing Comprehensive Care and Coordination. A clinician who is taking responsibility for coordination of all or most of the patients care, with no planned endpoint. The clinician may deliver all, some, or none of the actual treatment or preventive care services that the patient receives for their health problems or risk factors, but the clinician does accept responsibility for assuring the appropriateness and quality of care the patient receives from other clinicians.
+
+Z2. Continuing Condition-Focused Care and Coordination. A clinician who is taking responsibility for coordination of all or most of the patients care for one or more specific conditions, with no planned endpoint. The clinician may deliver all, some, or none of the actual treatment services that the patient receives for these conditions, but the clinician does accept responsibility for assuring the appropriateness and quality of care delivered by other clinicians for the condition(s) on which the clinician is focused.
+
+Z3. Time Limited Comprehensive Care or Coordination. A clinician who is taking responsibility for coordination of all or most of the patients care for one or more specific conditions during a time-limited period, including any services needed from other clinicians for those conditions.
+
+
+
+
+Z4. Time-Limited Focused Services. A clinician who orders or delivers one or more specific services to a patient for a specific health condition or other issue, but who does not take responsibility for coordinating services delivered by any other clinicians.
+
+Z5. Delivery of Specific Services Ordered by Other Clinicians. A clinician who delivers one or more specific services to a patient in response to an order from another physician.
+
+Z6. Diagnosis of Symptoms. A clinician whose role is limited to determining a diagnosis for a patients symptoms, for verifying the accuracy of an existing diagnosis, or for ruling out a diagnosis for those symptoms.
+
+For example, if a physician reported a G9942- Z2 Care Episode Code and Patient Relationship Modifier along with an ICD-10 code for heart failure, it would indicate that the physician was taking responsibility for continuing care and coordination for the patients heart failure. If a provider reported G9942-Z5, it would indicate that the provider was delivering a specific service ordered by another clinician as part of the ongoing management and treatment of the patients heart failure.
+
+The Advantages of Coded Categories for Payment and Performance Measurement
+
+Using new CPT/HCPCS codes for the Care Episode Groups and Patient Condition Groups enables the codes to be used both for MIPS and different types of APMs, as Congress intended:
+
+ If the provider is participating in an APM in which payment will be made prospectively for an entire episode, then the provider could bill and be paid for the Care Episode code for that episode, and no separate payment would be made for services delivered as part of that episode of care.
+
+ If the provider is participating in an APM in which payments are made for individual services but total spending is reconciled against an episode budget, then the provider would continue to bill and be paid for individual services described by CPT/HCPCS codes, but the provider would also submit the Care Episode Group code to indicate that the patient was part of a particular type of episode for which a payment budget had been defined.
+
+ If the provider is participating in MIPS, the provider would continue to bill and be paid for individual services described by CPT/HCPCS codes, but the provider could also submit one or more Care Episode Group codes to indicate the context in which the services were being delivered so that resource use and quality measures could be calculated and compared to other similar patients.
+
+ Moreover, creating HCPCS codes that define episodes and patient need categories enables an Alternative Payment Model to be implemented by both providers and payers using their existing billing and claims payment systems, rather than forcing providers to wait to find out what they will be paid until after payers have made risk adjustment calculations and forcing payers to create a new step in the process of determining the providers payment.
+
+
+
+
+
+
+
+Implementing the Codes on the CMS 1500 Form
+
+The codes and modifiers described above could be used with the current CMS 1500 Billing Form through the following process:
+
+ Reporting of all of the codes should be voluntary. Physicians and other providers who do not want to participate in an APM or to better control how resource use is measured for the care they deliver can continue to code and bill exactly as they do today.
+
+ The ICD-10 codes and any Patient Condition Codes for additional patient characteristics relevant to an episode of care should be reported on line 21 of the CMS 1500 form, the same line where all ICD-10 codes are already being reported. The new Patient Condition Codes described above would only be reported on a CMS 1500 form when the form is being used to report a G99xxx Care Episode Code.
+
+ The ICD-10 code for the primary condition associated with the episode should be reported in field 21-A, which is already used for the primary diagnosis associated with individual procedures.
+
+ The G99xxx Care Episode Code(s) should be reported on line 24, the same line where all HCPCS codes are already being reported. The Diagnosis Pointer in field 24-E should refer to the diagnosis code that defines the episode.
+
+ In field 24-E, the provider reporting the episode should include a modifier indicating the appropriate Patient Relationship Category defining the providers role in the episode.
+
+ Any discrete service associated with a particular episode should be reported using the appropriate CPT/HCPCS code along with (1) a modifier indicating the type of Care Episode Group and (2) a modifier indicating the providers Patient Relationship Category.
+
+This process is intended to allow the new codes to be used on the existing CMS 1500 Billing Form in a way that will limit the need for changes in current billing and claims payment systems. However, no matter what process is used, it will be difficult to implement Alternative
+
+Payment Models successfully using a billing form that was designed for the traditional fee-for-service payment system. We urge that CMS begin immediately to develop a new billing form that is specifically designed to report Care Episode Groups, Patient Condition Groups, and Patient Relationship Categories as well as discrete services and diagnoses.
+
+Comments and Responses to Questions on the Document Posted in December
+
+In addition to the above recommendations, we offer the following comments on the information and questions in the document Episode-Based Cost Measure Development for the Quality Payment Program.
+
+ The document purports to describe issues associated with cost measures, but the issues discussed all relate to measures of CMS spending, not actual provider costs. For example, on page 7, the document states a cost measure represents the Medicare paymentsfor the items and services furnished to a patient during an episode of care The amount that CMS pays for a service may have little or no relationship to the actual costs of
+
+
+
+delivering that service, and there are many high-value services that healthcare providers deliver for which there is no payment at all. Under Alternative Payment Models, the cost to CMS (i.e., its payments) for a patients services and the actual costs providers incur to deliver those services may differ in new ways. Consequently, the proposed measures should not be referred to as cost measures unless CMS intends to actually try to measure providers costs for delivering services. MACRA uses the term resource use measures, and CMS should use that statutory term for measures of spending, while reserving the term cost measures for measures designed to truly measure the actual cost providers incur in delivering care.
+
+ On page 8, the document states that episode groups focus on clinical conditions requiring treatment. This is an inappropriately narrow definition. There are patients with clinical conditions that require active monitoring but not necessarily treatment, and many patients at end-of-life require palliative care or other types of support but not treatment.
+
+ On page 8, the document states that a chronic condition episode should be triggered using codes for evaluation & management combined with ICD-10 diagnostic information on claims. If this were desirable, there would have been no need for Congress to include a section in MACRA requiring the development of care episode groups and codes. A patient with a chronic disease could receive the assistance they need through services that are not currently described by evaluation & management codes, so trying to define episodes solely with E/M codes is inappropriate.
+
+ On page 9, the document states that the goal of dividing episodes into sub-groups is to offer a meaningful clinical comparison, but then says this must be balanced against the need to have an adequate number of cases that can be attributed to a given clinician. If a clinician only treats a small number of cases of a particular type, that may be a reality of the care delivery process (e.g., reflecting the fact that there are relatively few patients with the condition being treated in any particular community) and statistical manipulations cannot overcome this. Combining dissimilar patients into a single group for measurement purposes may increase the number of cases but also increase the uncontrollable variance and thereby reduce the reliability of the measure.
+
+ On page 10, the document states that Acumen, LLC is soliciting expert clinical input  regarding how to use information from claims to inform the attribution of services to clinicians. The purpose of the Patient Relationship Categories and codes required by MACRA is to avoid the need for retrospective attribution systems. CMS has already released two versions of the Patient Relationship Categories and is required to finalize the
+
+ categories and codes this month (April 2017). These should be used as the mechanism for attributing episodes and services to clinicians.
+
+ On page 13, the document states that episodes are initiated by a trigger event which is identified by certain procedure or diagnosis codes, and then the grouping algorithms identify and aggregate the related services. As noted above, MACRA requires the creation of Care Episode Groups and codes in order to provide a way for clinicians to indicate whether an episode has been initiated and what services are associated with it, reducing or eliminating the need for grouping algorithms that rely solely on procedure and diagnosis codes.
+
+
+
+ On page 14, the document indicates that episode groups may only be developed for conditions where there are opportunities for improvement. Although it is likely that there are opportunities for improvement in all aspects of healthcare, it is inappropriate to ignore patient conditions and procedures where quality is currently high and spending is low, since healthcare payment systems need to support continuation of good care, not just improvement where there are currently problems.
+
+ On page 17, the document indicates that CMS is considering defining acute episodes in a way that does not distinguish the place of service or the performance of a procedure. We support this approach. The generic episode groups that we recommended earlier are all based on the patients underlying conditions and needs, not on the specific procedures or treatments delivered or the locations where the services were delivered.
+
+ On page 18, the document indicates that CMS is considering a single episode group for outpatient chronic care with adjustment for comorbidities and demographics. Patients with different types of chronic diseases need very different kinds of services, and patients who have a particular chronic disease need different kinds of services at different stages of their care. Consequently, it would be completely inappropriate to try and group them all into a single episode group.
+
+ On page 18, the document asks for comments on how to obtain information on disease severity and staging. As we recommended earlier, new Patient Characteristic codes should be created for important patient characteristics that are not currently captured in ICD-10 codes, and these should be used to assign patients to different Patient Condition Groups (need levels) within individual Care Episode Groups.
+
+ On page 19, the document again discusses attributing services to clinicians and suggests that this might be done using percentages of the resources for an episode that could be attributed to physicians serving in different roles. As noted several times above, the purpose of the Patient Relationship Categories and codes required by MACRA is to avoid the need for retrospective attribution systems. Moreover, in addition to Care Episode Groups, Patient Condition Groups, and Patient Relationship Categories, a fourth piece of information is essential to effective resource use measurement  identifying the physician who ordered a service, not just the physician who delivered the service. The current measures of resource use that are used by CMS are seriously flawed because they may assign accountability for a service to a physician who delivered the service even if the physician did not order it, and the resource use measures may fail to assign accountability for a service to the physician who ordered the service if it was delivered by a different physician or provider. Congress recognized the importance of solving this problem, and so in addition to the requirements in Section 1848(r)(4)(A) that claims forms include codes for Care Episode Groups, Patient Condition Groups, and Patient Relationship Categories, Section 1848(r)(4)(B) requires that the National Provider Identifier of the ordering physician or practitioner be included on the claims form if the service was ordered by a different physician or practitioner than the individual who delivered the service. Although Medicare regulations already require this information, the statutory requirement in MACRA will ensure that this information is consistently available. We recommend that measures of resource use within Care Episode
+
+Groups utilize information on whether a provider ordered a service or made a
+
+
+
+referral for services in addition to the information provided by the codes for Care Episode Groups, Patient Condition Groups, and Patient Relationship Categories. (Detailed suggestions on how to do this were contained in our February 15, 2016 letter, a copy of which is attached.)
+
+ On page 20, CMS asks how to incorporate Part D spending into episode group development. Medications are a major mechanism of treatment and prevention. In some cases, use of medications is a more cost-effective way to treat or prevent a condition and in other cases, other types of care are more cost-effective. Failing to include spending on medications in measures of resource use or in alternative payment models creates an inappropriate financial incentive to use medications instead of other types of treatment or care. Since the majority of medications received by Medicare beneficiaries are paid for through Part D, it is clearly essential that Part D spending be included in episode spending measures. Moreover, including spending on Part B medications but excluding spending on Part D medications would create an inappropriate incentive for physicians to prescribe Part D medications even when Part B medications would be more cost-effective. It is certainty possible that a shift in treatment from Part D medications to Part B medications or other services paid for under Part A or Part B would increase Medicare spending even though total spending would decrease (because the Part D plans would receive the savings), but this is an artifact of the way Medicare pays for services. Providers should not be penalized for delivering the most cost-effective care to patients simply because of differences in the categories under which Medicare pays for particular services.
+
+By enacting Section 1848(r) as part of MACRA, Congress created a unique opportunity to address long-standing weaknesses in the information collected on claims forms and to solve serious problems with the design of current pay-for-performance systems and alternative payment models that derive from those weaknesses. Rapidly implementing these provisions of MACRA in the most effective and innovative way possible needs to be a high priority for CMS. We would be happy to provide any assistance that would be helpful to you in this process.
+

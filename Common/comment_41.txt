@@ -1,0 +1,72 @@
+
+The American Geriatrics Society (AGS) greatly appreciates the opportunity to provide feedback to Acumen, LLC on the development of episode?based cost measures for the Quality Payment Program (QPP) as defined by the Medicare Access and CHIP Reauthorization Act (MACRA). The AGS is a not?for profit organization comprised of nearly 6,000 physician and non?physician practitioners (NPPs) who are devoted to improving the health, independence, and quality of life of all older adults. The AGS provides leadership to healthcare professionals, policy makers, and the public by implementing and advocating for programs in patient care, research, professional and public education, and public policy.
+
+ Our mission is to advance efforts that promote high quality of care, quality improvement, and increased payment accuracy for providers (physicians and other professionals) paid under Medicare.
+
+ Most geriatrics clinicians identify themselves as primary care providers. We provide primary care to the sickest and most complex Medicare beneficiaries, a population characterized by the presence of multiple, co?existing chronic conditions and a high prevalence of frailty. Patients with multiple chronic diseases cannot be treated as though these conditions exist independently of one another.
+
+ A whole patient orientation is a core principle of geriatric primary care, indeed of all primary care. We treat patients, not diseases. It is our job to provide and/or coordinate substantially all the medical care our patients need. We aspire to deliver person?centered care1. By understanding the full picture, patient's values and preferences, we strive to balance the benefit and burden of recommendations across the whole of an older person's well?being. Ultimately this supports patients and their families and caregivers in making informed medical decisions that are consistent with their health and life goals.
+
+ The nature of our work corresponds to the continuous/broad patient relationship category that CMS has proposed. An approach to evaluating cost performance that looks at the cost of treating patients, rather than diseases, will align better with the mission and goals of geriatric care.
+
+ What is the scope of accountability relevant to primary care and how should Medicare determine costs attributable to primary care providers? Payments to primary care providers account for only about 5% of the Medicare dollar, making these payments an unlikely source of significant savings. But primary care providers have an outsize influence on overall costs through the downstream impact of their decisions.
+
+
+
+ Incentives that promote reduction in payments to primary care would result in less primary care engagement with patients and higher overall costs, and would be inconsistent with the expectations and roles of primary care in health reform. Incentives that reward good stewardship of system resources, efforts to avoid unnecessary high cost and/or low value services, and more effective chronic disease care and management would address the sphere of influence of primary care on cost. Although primary care providers do not control downstream costs like hospitalization, imaging, and procedures, there can be no doubt that they exert substantial influence on utilization.
+
+ As Upton Sinclair noted: It is difficult to get a man to understand something when his salary depends on his not understanding it. Similarly, cost?containment efforts which focus exclusively on reducing costs (i.e., payments) for services furnished directly by a provider are unlikely to generate enthusiasm or engagement. When feasible, episodes should incorporate services influenced by the providers decisions and orders for further care. In this way, effective clinical care and prudent stewardship of resources each offer pathways to high performance.
+
+Chronic Care Episode Groups
+
+ The diagnosis and procedure?focused model of defining episodes described is relatively well? suited to the procedural and acute medical episode types that have been the focus of the cost measure development work thus far. We believe that extending this concept to chronic disease care will be exceptionally challenging.
+
+ As described above, primary care providers play a central role in chronic disease care, and meaningful assessment of their cost performance in that role is important. However, very few chronic episode groups are likely to include a sufficient number of patients of a primary care provider to allow for valid conclusions. With small sample sizes, case?mix differences may make it impossible to obtain valid comparative data on per capita cost. Risk adjustment approaches such as the Hierarchical Condition Category (HCC) system used in Medicare Advantage lose their predictive value when applied to a population defined by diagnosis to measure costs attributable specifically to that diagnosis. Subdividing episode groups (categorical risk adjustment) to reduce variability will produce yet smaller groups that may not provide valid data. Therefore, it may not be possible to define more than a very few episode groups which include primary care providers that are of sufficient size and reasonable homogeneity (or adequately risk?adjusted) to produce valid comparative cost data. Differences in cost attributed to providers based on such episode groups may reflect heterogeneity of small populations rather than differences in appropriate utilization and cost performance.
+
+ Furthermore, as a separate matter, due to the prevalence of multiple comorbid conditions, it will be very difficult to define a diagnosis?based episode for patients with chronic diseases. For example, in a patient with diabetes, hypertension, arthritis, and cognitive dysfunction, how would CMS determine which diagnosis?based episode to assign the patient? Or would the patient be assigned to multiple episode groups thereby creating the possibly for double counting cost?
+
+ In other words, attribution of costs to a particular disease? or condition?based chronic episode group will be problematic when, like most beneficiaries, the patient has multiple chronic diseases. Geriatrics clinicians usually address multiple diseases and conditions during a single
+
+
+
+encounter. Diagnostic tests provide information relevant to multiple conditions in the same patient. Medications are prescribed for more than one condition; e.g., lisinopril may be prescribed for some combination of hypertension, heart failure, renal failure, and/or diabetes. Even in the treatment of an apparently unrelated condition, the care delivered must consider both how that care affects each comorbidity and how the treatments of the comorbidities influence the options available to treat a new condition.
+
+ The triggering event in a procedural or acute medical group will function as a kind of risk adjustment, creating a more homogenous sample than will be possible for chronic disease episodes, which lack this stratification mechanism. Patients are given a diagnosis of chronic disease at all stages of disease progression. One patient will have mild Chronic Obstructive Pulmonary Disease (COPD) when an episode is triggered by an ICD?10 code, while another has advanced disease when this event occurs. These patients will have very different clinical trajectories. In the absence of good risk adjustment, this will create opportunities for gaming, by, for example, aggressive diagnosis of patients with mild disease.
+
+ The AGS supports the continued development of chronic episode groups as long as they have the proper length, contain large populations of patients, and are properly risk?adjusted. However, we are concerned that these difficulties may limit the applicability of this approach.
+
+Assessing Cost Performance Now
+
+ The AGS believes that the measure Total per capita Medicare Part A and B costs/year, which CMS has already finalized as a cost measure for the MIPS cost performance category, is the best initial metric for assessing the cost?effectiveness of primary care providers, including their care for patients with multiple chronic diseases. We believe this measure is the most accurate way to fulfill MACRAs mandate to evaluate a primary care providers cost performance. This approach offers multiple advantages:
+
+ It is consistent with the whole patient orientation of primary care.
+
+  It is a measure that, if adequately risk?adjusted, reflects the influence of both the providers clinical effectiveness and his or her stewardship of taxpayer dollars. It encourages more effective chronic care, care coordination, and prudent use of costly downstream resources.
+
+  It covers virtually the entirety of a providers practice and generates the largest available sample size, ameliorating to a degree the small numbers problem.
+
+  It avoids entirely difficult issues of attribution of costs to individual disease?specific episode groups in patients with multiple chronic diseases. It permits the application of the HCC risk adjustment system, which has proven utility in Medicare Advantage and in CMS population based payment environments, and proven capability to provide meaningful risk adjustment.
+
+  Similar measures of primary care cost influence have been used extensively by provider groups participating in Medicare Advantage, and enjoy widespread acceptance by providers as useful measures of performance.
+
+ With the advent of patient relationship codes, however, we recommend that the existing two? step attribution process for this measure be replaced. Specifically, a patient and his associated
+
+
+
+Part A and Part B costs should be attributed to a provider who attests to having a continuous/broad relationship through claims data. This methodology will more accurately attribute patient costs to the provider usually a primary care providerthat has a real, ongoing relationship with a patient rather than to the provider that merely has the largest share of allowed charges for primary care services. Primary care providers that have a continuous/broad relationship to their patients are much more likely to be able to influence those patients quality of care and the prudent stewardship of associated resources. Therefore, it is both fairer and more effective as a cost?containment approach to attribute a patients total Part A and Part B costs to those physicians.
+
+ However, in order to obtain comparative data, CMS must assure that providers across all specialties use the patient relationship codes consistently and accurately. If providers do not use these codes consistently and accurately then CMS will not be able to use the data to accurately compare utilization and cost among providers of the same specialtylet alone different specialties.
+
+ By itself, the total per capita costs measure does not provide actionable information to practitioners. Therefore, it is important to provide clinicians with additional information that can direct attention to areas of potential focus, such as the rate of hospital admissions and re? admission, ER use, per?capita use of imaging and diagnostic modalities, and costs related to particular specialties and services. We hope that episode group analysis will also contribute to a deeper understanding of care patterns and enable improvement in the quality and cost effectiveness of care.
+
+ For all of the reasons discussed above, however, we believe that chronic episode?based cost measures defined by disease category will present too many concerns regarding their applicability and possible unintended consequences for AGS to recommend their use as modifiers of physician payment unless and until they are much more thoroughly understood and tested. As Acumen works with CMS to develop chronic episode?based measures, we strongly urge that these measures be reported for multiple years without counting toward the MIPS cost category so that CMS and Acumen can test and adjust the measures as necessary and clinicians can have time to become familiar with them. This is the reasoned and thoughtful approach CMS has taken for the current finalized cost measures for Year 1 of MIPS and we believe it should be the approach taken for new cost measures going forward, especially in the new frontier of chronic episode?based cost measures.
+
+ We thank Acumen, LLC for the opportunity to comment and expect to continue our engagement with the technical advisory panels and clinical committees that will assist in this work.
+
+1 Person?centered care means that individuals values and preferences are elicited and, once expressed, guide all aspects of their health care, supporting their realistic health and life goals. Person?centered care is achieved through a dynamic relationship among individuals, others who are important to them, and all relevant providers. This collaboration informs decision?making to the extent that the individual desires. The American Geriatrics Society Expert Panel on Person?Centered Care. Person?Centered Care: A Definition and Essential Elements. J Am Geriatr Soc 2016;64:15?18.
+
+
+
+
+
+

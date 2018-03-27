@@ -1,0 +1,68 @@
+
+On behalf of the 13,500 U.S.-based members of the American Academy of Dermatology Association (AADA), I am writing to provide comments to the Centers for Medicare & Medicaid Services (CMS) about the Episode-Based Cost Measures that are intended to be used to improve cost measurement under the Medicare Access and CHIP Reauthorization Act of 2015 (MACRA). We appreciate the opportunity to provide comments on the proposed cost measures and hope that CMS will take these recommendations and concerns into consideration when finalizing the measures.
+
+The AADA is committed to excellence in the medical and surgical treatment of skin disease; advocating high standards in clinical practice, education, and research in dermatology and dermatopathology; and supporting and enhancing patient care to reduce the burden of disease. The AADA appreciates CMSs efforts to create Episode-Based cost measures under MIPS to more accurately measure medical resource utilization. Since these episode groups will be an important part of the MIPS score and consequently of physician reimbursement, it is very
+
+
+
+important to create episode groups that accurately capture all clinically-vetted relevant services associated with the treatment of the given disease processes.
+
+General Comments Related to CMS Development of Episode-Based Cost Measures Grouping Services
+
+After reviewing the proposed episode groups, we have identified significant flaws in many of them. For example, the Asthma episode is grouped with Chronic Obstructive Pulmonary Disease, which conflates a disease that primarily diagnosed in children (potentially a lifelong disease) with a disease primarily diagnosed in older patients (potentially near end of life disease).
+
+For this reason, we urge CMS to work closely with the medical specialty societies to refine each episode group.
+
+Episode Trigger Codes
+
+Episode groups should have clinically relevant and easily understood triggers. CPT codes by themselves may not be sufficient to define the episode because of use of medical services to treat more than one disease process. ICD-10 codes also lack specificity in certain areas to appropriately capture a triggering event. This lack of specificity may lead to over- or under-inclusion of services within the episode. CMS should define the triggering rule clearly and ensure its sensitivity and specificity. If CMS depends on the chronological order of the services to determine the episodes, then CMS needs to clarify which triggering codes would apply for patients with multiple triggering services.
+
+Attributing Episode Groups to Clinicians
+
+Attribution of episode groups should be clear to all the physicians that are involved in the care of patients with the episode-defined disease process. CMS has not yet explained how it intends to address the attribution problem when multiple providers are involved in the care of the patient. However, providers should only be responsible for the cost of the service that is directly under their control. For instance, dermatologists frequently refer skin cancer patients to oncologists for further evaluation after surgical care, and they do not have control over the costs of tests that are ordered by the other specialists. We remain concerned that this is going to be a big challenge, especially for dermatologists who take care of patients with many chronic diseases.
+
+We strongly urge CMS to address the attribution issue before moving forward with implementing the cost category under the Merit-based Incentive Payment System (MIPS) for 2018 and beyond. Assuring correct attribution is critically important for numerous alternative payment models as well. An episode group should allow for treatments requiring significant coordination among providers to include bundled payments that work across multiple clinicians and provider types. Therefore, we ask CMS to map out the process that it uses to identify the provider who is the responsible for the cost.
+
+Risk Adjusting Episode Groups
+
+The AADA is concerned with the lack of severity scales and risk adjustment tools that can be used for the proposed episode groups. Episodes of care need to be risk adjusted to be more
+
+
+
+homogeneous as appropriate for the intended purposes. The episodes must be appropriately risk-adjusted to facilitate comparisons across providers by accounting for factors that are outside the influence or control of the providers. The episode grouper should not punish providers due to severity of the patients they treat.
+
+Episode Definition
+
+We encourage CMS to more clearly define what services are included in an episode. Clarity is needed as to whether the services provided due to complications that occur right after the episode period is over are considered as part of the episode. Furthermore, the episode group needs to be flexible to accommodate the patients needs. We recommend for CMS to create model episodes that allow the physician to be able to provide both anticipated and unanticipated services based on the patients needs.
+
+Comments Related to Melanoma Destruction/Excision Episode Group
+
+ We recommend CMS consider changing the name of the episode group by removing the word Destruction, since destruction of melanoma is clinically contraindicated and it is not standard of care for modern melanoma treatment. We propose, Excisional Treatment of Melanoma" to be an acceptable name for this episode group.
+
+ The listed episode trigger code for the Melanoma Episode group is also used in the treatment of other skin cancers, so just using this set of CPT codes as a trigger will result in capturing costs unrelated to melanoma treatment. Linkage of the trigger codes to melanoma specific ICD-10 codes will be critical for the specificity and sensitivity of the episode. CMS has yet to provide the relevant ICD-10 codes. The AADA recommends the CPT codes 17312 and 17314 be deleted because they are add-on codes. The AADA recommends that the following additional procedure/codes to be used as trigger codes for the melanoma episode group: 17311 and 17313, as well as CPT codes 14000, 14001, 14001, 14020, 14021, 14040, 14041, 14060, and 14061 because the excision codes are bundled into the skin flap codes.
+
+Many patients who have melanoma also have synchronous and metachronous non-melanoma skin cancers. Non-melanoma skin cancer treatment employs many of the same procedure codes as melanoma treatment but is unrelated. Careful and sophisticated cost inclusion logic will be required to exclude the cost of non-melanoma skin cancer treatment in this episode.
+
+ It is also not clear if the cost of drugs is part of the overall cost which physicians would be responsible for, as drugs are an integral part of the treatments such as melanoma. However, due to the unpredictable nature of drug prices, it would be unreasonable to penalize the physician for something which they do not have control over.
+
+ We recommend CMS consider splitting the melanoma episode into subgroups based on staging and body site to create a more homogenous model. The most important pathologic risk factor for poor patient outcome for cutaneous melanoma is histologic (Breslow) depth. However, thin and thick melanomas are coded with the same ICD-10 code with huge resulting variation in resource utilization and cost for the same diagnosis code. Body location of the melanoma (head and neck versus other sites) also portends significant differences in intensity of treatment. Using subgroups based on body site and
+
+
+
+whether lymph node sampling is performed will allow for much more homogeneous groupers and consistent comparison of cost.
+
+o MIPS 224/NQF 0562 - Melanoma: Overutilization of Imaging Studies in Melanoma
+
+o MIPS 138 - Melanoma: Coordination of Care
+o MIPS 137/NQF 0650 - Melanoma: Continuity of Care  Recall System
+
+We recommend for CMS to consider linking these three quality measures to the melanoma episode group. These measures are designed to reduce waste and increase coordination.
+
+Conclusion
+
+The AADA appreciates the opportunity to provide comments on the proposed episode groups. We encourage CMS to continue to work with the medical societies and other stake holders in a transparent manner during the development and implementation phases of the cost measures.
+
+CMS needs to continue to refine the episodes further as it is critical for future payment models that these episodes are correct, have clear rules delineating what is included and what is excluded, and are clinically appropriate. We urge CMS to test the episode groups prior to implementation, to ensure they are viable and appropriate.
+
+We also request CMS develop a process that allows CMS to provide a timely performance feedback to the providers. This would give providers the opportunity to avoid penalties from lack of understanding CMS expectations.
+

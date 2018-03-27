@@ -1,0 +1,91 @@
+
+The AMA appreciates CMS recent efforts to engage with the AMA and medical specialty societies to garner further input from the physician community on the episode measures and to move toward a system that holds physicians accountable only for costs and outcomes that they can truly control or influence. The AMA and medical specialty societies have worked hard to
+
+
+
+enlist practicing physicians to donate their time to helping develop the episode measures. CMS cannot design appropriate episode measures without significant clinical input from all specialties involved in a particular episode, so improving the communication between CMS, its contractors, and the physician community is vital.
+
+While the AMA appreciates the recent efforts on behalf of CMS to better engage physicians in the episode-based cost measure development process, we still have significant concerns with the process, timeline, and implementation of the episode-based cost measures. We recognize the challenges put on CMS by the MACRA statute; however, developing the majority of episode-based cost measures by 2019 is unrealistic. In addition, CMS and its contractor (Acumen, LLC, LLC) must incorporate and respond to clinical feedback provided by physicians and specialty societies. Other areas of substantial concern include the approaches being discussed to align quality and cost measures, the lack of progress in the development of an appropriate risk adjustment methodology, and limited information on how CMS will use the episode-based measures to attribute cost to physicians. These issues must be addressed before any episode-based cost measures can be tested.
+
+Previous programs, such as the Value-Based Payment Modifier program, that have attempted to attribute cost to physicians have major flaws and a new method to evaluate cost must be developed. Therefore, while significant work is needed to improve the cost measures and the measure development process, we continue to believe the construction and refinement of appropriate episode measures could offer an improved way to measure physician costs. We provide further details below on what is necessary for CMS to improve the episode-based cost measure development process in order for it to be successful.
+
+Incorporate Feedback
+
+The AMA and other medical specialty societies have repeatedly provided comments on the episode measures and patient relationship codes, yet the comments have not been adequately reflected in later versions of the measure development documents. In order to ensure all stakeholders views are adequately considered and addressed, CMS and/or Acumen, LLC should respond specifically to previous comments submitted by stakeholders. In addition, all public comments that have been submitted to date on episode-based cost measures and patient relationship codes should be publically accessible on CMS website.
+
+Furthermore, the AMA has heard significant concerns from medical specialty societies that the clinical input their members have provided is not reflected in the latest version of the episodes. The physicians who reviewed the draft cost episodes reported that there were numerous mistakes and logical inconsistencies within the draft episode-based cost measures. In addition, physicians reported that many of the trigger codes they were asked to review had Current Procedural Terminology (CPT) Process descriptions that were incorrect, which could lead to misclassification or inclusion of costs that should not be part of the episode. These mistakes illustrate the need for physicians to be intimately involved with the development of the episodes. The physicians who are working with Acumen, LLC to develop these measures understand the importance of that work and want to continue providing their clinical input. The work is resource intensive, takes time away from patient care, and typically involves reimbursement only for expenses. CMS and Acumen, LLC must make improvements based on the clinical input they receive from these physicians if they expect physicians to be willing to continue to volunteer their time and clinical guidance in the future.
+
+
+
+Improve Timeline Issues
+
+The AMA recognizes the statutory deadlines and resource limitations that CMS faces in developing the episode-based cost measures, and we appreciate the steps CMS has taken to incorporate stakeholder feedback into its episode-based cost measure development process. For example, as noted earlier, we strongly support CMS efforts to identify which specific costs within an episode of care are attributable to a particular physician rather than attributing all direct and indirect costs from an episode of care to a single physician. However, we still have significant concerns regarding the time it will take to perfect the episode measures and the scope of the measures that are moving forward.
+
+It has taken over a year for CMS and physicians to produce the published list of 119 potential episodes and initially identify codes that may trigger each episode. We anticipate that specialties will suggest additional modifications to episode trigger codes. Additional work will also be required to determine which services should be included in the episodes and whether episodes should be split into narrower subgroups. The episode developers will also face methodological challenges as they address issues, such as, risk adjustment, attribution, and alignment of quality measures.
+
+Therefore, a timeline that envisions finalizing a majority of the proposed episodes for use by 2019 is unrealistic. Instead, the AMA urges CMS to focus on a very limited number of episodes initially. Acumen, LLC should work with the medical specialties that treat patients accounting for a large share of Medicare spending to determine which episodes they believe should be developed and tested first within that specialty. These may be episodes already being developed by CMS or they may need to develop new episodes depending on feedback from the relevant specialties. We understand that CMS and Acumen, LLC intend to create seven clinical panels that will each identify one episode to be refined and put through a dry run that could help inform work on later measures. We agree that a dry run on a limited number of episodes would be useful. A number of participants in earlier clinical panels recommend that initially work should focus just on procedural episodes where it should be easier to define the episode, identify the trigger code, and determine which physician is responsible for costs within the episode.
+
+In addition, CMS must more narrowly define the episode-based cost measures. For example, the COPD and Asthma episode measure incorporates two different conditions with dimorphic patient populations. While we appreciate and support CMS discussion of the future development of subgroups, we believe that these two conditions are so different that they should simply be separated into two episodes from the beginning rather than combined and later divided into subgroups. We also recommend that episodes requiring subgroups be developed in a later wave. Instead, the initial measures should be defined narrowly and should use exclusions for any conditions or patients that would complicate the episode.
+
+Once a few episodes are developed, tested, and refined, CMS should work with additional medical specialties to develop further episode-based cost measures, and refine the existing measures to create subgroups out of some of the conditions that were previously excluded. While this may delay the ability for all physicians to have relevant cost measures, the AMA believes it is more important to have accurate episode-based measures than to have inaccurate measures covering a larger number of physicians.
+
+
+
+
+
+Develop a Pilot Program
+
+As discussed above, the cost measures used in the Value-Based Payment Modifier program are highly flawed but the episodes posted for public comment to date are not ready for widespread use. Therefore, the AMA again urges CMS to postpone the adoption of any cost measures other than as a voluntary pilot program at this time. As we have stated previously, we believe CMS should continue to assign a zero score for the cost portion of MIPS and allow volunteer physicians to pilot test episodes and be rewarded for their participation with bonus points for the next few years of the Quality Payment Program.
+
+Physicians will be significantly more likely to accept cost measure reporting if they know the measures have been tested and proven to successfully and accurately attribute cost to physicians. In addition, we have repeatedly emphasized the need for episode-based cost measures to be tested for use in physician settings, not hospitals and other settings. Otherwise, CMS runs the risk of losing physician buy-in, as occurred with the Value-Based Payment Modifier program.
+
+Possible Process Improvements
+
+As illustrated by our comments above, the episode-based cost measure development process needs significant improvement. While we appreciate CMS recent efforts in this regard, it seems clear that more clinical input is needed from the outset of any effort to construct an episode. The AMA believes the best way to get that input and to instill physician confidence in the process and the episodes is to work from the beginning with the all relevant medical specialties and sub-specialties.
+
+One way CMS could consider getting adequate engagement and input from physicians and specialty societies is to create a process similar to the AMA/Specialty Society Relative Value Scale Update Committee (RUC) or CPT. The RUC and CPT processes have been refined over many years, and already have buy-in from all physician specialties. This approach would also provide more continuity and consistency among episode measure development than the clinical panels CMS is creating. In the future, it might also provide an avenue for updating and refining episodes. The AMA would be happy to assist CMS in pursuing the development of a RUC-or-CPT-like process to develop the episode-based cost measures.
+
+Quality Alignment
+
+The AMA reviewed the proposal presented at the Technical Expert Panel (TEP) March 2017 meeting, and we have concerns how the proposal would align quality and cost measures. First, the proposal implies that there is a correlation between lower cost and higher quality. There is no data to support this assumption, and results would likely vary based on the type of care being provided, patient and payer mix, and availability of applicable quality measures. Significantly, no practice received a score of both high quality and low cost in the Value-Based Payment Modifier program within the results reported to date.
+
+Furthermore, we are concerned with the potential of requiring physicians to report on a random number of quality measures that are prioritized by domains. Prioritizing selection by domain is counter to the direction of the MIPS program and may prohibit physicians from reporting on measures that are most relevant to their practice. We are also concerned with the implication that physicians must be continuously improving the quality of care they provide. Many physicians already deliver extremely high quality care and have very little room for improvement.
+
+
+
+Yales proposed methodology of mapping quality measures to episode groups includes many quality measures that are not applicable to the episode and many episode-based cost measures that do not have relevant quality measures. For example, the Coronary Artery Bypass Graft episode measure includes ambulatory care measures and the heart failure episode measure includes diabetes A1C control and breast cancer screening measures. It is imperative that specialty societies are able to provide extensive input and review alignment of quality and cost measures. Otherwise, a CMS contractor will be determining which measures physicians are expected to report on based on groupings and trigger codes that are not always the most appropriate, much like what has occurred with CMS Measure Applicability Validity process.
+
+A better approach to consider is reinstating the concept of measures groups that was part of the Physician Quality Reporting System (PQRS) program. Measures groups have the ability to better asses a physicians quality tied to a specific episode since they follow a continuum of care, as opposed to Yales proposal, which randomly maps quality measures to an episode and prioritizes quality measures by domains. Yales current approach does not provide a full picture of measuring quality and efficiency of care for a particular condition or procedure. As we have stated in earlier MACRA-related comments, some episode-based cost measures have relevant quality measures, while others may require the development of new quality measures that appropriately correspond with an episode.
+
+Finally, there are additional issues CMS must consider and questions CMS must answer related to how they would implement Yales proposal, as well as any new proposal to align quality and cost measures. These issues include:
+
+ Attribution: The current proposal does not appear to have considered attribution.
+
+ Quality measure selection: Unless the intent is for the quality measures mapped to episodes to stay static, CMS will need to implement a process for reviewing quality measures similar to our proposed episode review process to ensure the best possible measures are being used.
+
+ Quality measure trigger codes: How will a mapped quality measure to an episode be triggered? Is it by billing and being captured by an episode or by reporting on a quality measure? For purposes of scoring a quality measure under MIPS, a physician must have a minimum of 20 cases. Therefore, what happens if a physician reports on a quality measure but does not have enough cases to the relevant mapped episode?
+
+ Patient population: Episode and cost measures are based on Medicare Part B patients only; however, quality measures are reported on all patients, regardless of payer (with the exception of claims-based reporting). Therefore, the cost and quality measurement would not be assessing the same patient population. CMS must develop a more robust risk-adjustment methodology to account for different patient populations or only measure quality in conjunction with cost for Medicare Part B patients. We highly recommend that CMS test both recommendations in a transparent manner and allow the TEPs to evaluate and provide input, as well as the public through comment period before finalizing a policy.
+
+ Qualified Clinical Data Registries (QCDRs): How will the proposal impact QCDRs? Will QCDRs be forced to adopt traditional PQRS measures? We would not support any proposal that would force QCDRs to adopt traditional PQRS measures, as Congress intended to incorporate flexibility for QCDRs in MACRA.
+
+
+
+ Group reporting: How would the proposal work for group reporting options such as Group Practice Reporting Option (GPRO) web-interface? For example, a specialist may be part of a multi-specialty group practice that reports as a group through the web-interface. The specialists that are part of the group may have an applicable cost episode, however the practice may not be reporting on the associated mapped quality measure. The same issues may occur with physicians who are reporting as a group through one of the other reporting options (electronic health record, registry, QCDR).
+
+ Reduce regulatory burden: The AMA urges CMS to implement a proposal that would not increase physicians regulatory burden. Specifically, we have concerns with some items that were mentioned in Yales proposal such as reinstating the National Quality Strategy domains. CMS should work to simplify the Quality Payment Program instead of increasing complexity.
+
+Improve Risk Adjustment and Attribution Methodologies
+
+The AMA is concerned that CMS is still at the beginning stages of developing risk adjustment and attribution methodologies for the episode-based cost measures. The AMA urges CMS to use concurrent rather than prospective risk adjustment. Without including current comorbidities and diagnoses, CMS cannot properly risk adjust patients.
+
+In addition, the AMA continues to urge CMS to risk adjust beyond clinical adjustment. As the AMA has stated previously, we believe it is very important to include socioeconomic and demographic factors in any final risk adjustment methodology. In addition, factors such as a patients functional status and barriers to accessing health care services (such as living in a rural area) should be included in a risk adjustment calculation.
+
+The AMA understands the complexity around developing appropriate and accurate risk adjustment and attribution methodologies. The agency will need detailed clinical input from across medical specialties to improve risk adjustment and attribution going forward, and we urge CMS to utilize its clinical committees to develop these methodologies. CMS will also need to consider a strategy that is not overly burdensome and dependent upon physicians collecting and documenting a significant amount of information and data.
+
+Exclude Medicare Part B and Part D Drug Costs
+
+The AMA strongly urges CMS not to include Medicare Part B or Part D drug costs in the episode-based cost measures. There are factors outside of a physicians control that affect the cost of drugs that they provide to patients. For example, a physician may not have access to cheaper compounded drugs, depending on their state. A physician in a state that does not allow compounding and requires physicians to use a more expensive alternative should not be penalized.
+
+Finally, the AMA believes that stakeholders must be provided another opportunity to review and comment on a revised version of all episode-based cost measures, including the first ten developed, prior to their use in the Quality Payment Program.
+

@@ -1,0 +1,15 @@
+
+Thank you for the opportunity to provide feedback is it relates to the process of cost measure development. I will try to limit my comments to the development process at this point, rather than on the specific episode/procedure groups. Two major issues regarding the process require mention at this point.
+
+1) Re: Responsibility Attribution
+Two specialties are in a particularly challenging situation as it relates to cost attribution. Those are radiology and pathology. In many/most instances, these physicians have little to no control over what studies are ordered by other physicians. However, once ordered, their expertise is required to interpret images/pathology specimens. Certainly, there are instances where radiologists are the CAUSE of additional imaging, either b/c of a recommendation, or b/c the wrong test was performed in the first place. This conundrum re-emphasizes the importance of clinical-decision support software, that can hopefully curb unnecessary utilization of medical imaging. However, these specialties may require difference consideration/weighting for this MIPS component (cost) unless stronger mandates regarding CDS software are implemented.
+
+2) Re: Risk adjustment
+Additional risk adjustment is required than the CMS-HCC Risk Adjustment Model. Although this model is well-tested  it does not take into account the most up-to-date patient health status. Both one-year prior and concurrent risk adjustment is necessary. This is particularly important for the acute episode groups and procedure groups. This of course seems obvious, but needs to be accounted for. It may be most appropriate if some of the procedural episode groups that deal with very hyperacute diseases (ie. AAA repair, thoracic aortic aneurysm repair, coronary thrombectomy, stroke/arterial thrombectomy) be eliminated  as the severity of illness in these settings can vary tremendously, be very different from what data is available prospectively, and be un-measurable using claims data.
+
+Lastly  a few notes regarding procedural episode groups: 1) Vertebroplasty should include kyphoplasty as well; 2) Upper and lower diagnostic endoscopy should be included. (Screening colonoscopy is the only enteric endoscopy included now)
+
+
+
+
+

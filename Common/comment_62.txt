@@ -1,0 +1,86 @@
+
+The American Society of Clinical Oncology (ASCO) is pleased to submit comments on the Centers for Medicare & Medicaid Services (CMS) document soliciting comments on Episode-Based Cost Measure Development for the Quality Payment Program (QPP).
+
+ASCO is the national organization representing more than 42,000 physicians and other healthcare professionals specializing in cancer treatment, diagnosis and prevention. ASCO members are also dedicated to conducting research that leads to improved patient outcomes and are committed to ensuring that evidence-based practices for the prevention, diagnosis and treatment of cancer are available to all Americans, including Medicare beneficiaries.
+
+This notice provides an important opportunity for public comment on how to measure and compare oncologists and other health care providers on the basis of cost under the Merit-Based Incentive Payment System (MIPS). Although ASCO appreciates the Agencys efforts to seek feedback on episode groups for analyzing the cost of cancer care, there are foundational concerns that should be addressed prior to creating any oncology episode group. Until CMS has developed methodologies for collecting and analyzing data on cancer type, stage, genetic mutation and patient comorbidities, the Agency should use an alternative approach based on adherence to high-quality clinical pathways as a means to consider the value and cost of care provided by oncologists.
+
+Proceeding without an adequate cost measurement methodology for cancer care would create perverse incentives and impose counterproductive penalties on providers serving Medicare beneficiaries with cancer. CMS should exempt cancer care from the cost performance category of MIPS until CMS produces a methodology that fairly and accurately assesses oncology resource use.
+
+
+
+
+
+In the QPP final rule, CMS announced a policy to delay the application of cost measurement for all MIPS eligible clinicians until the 2018 performance period. This policy decision was critically important for cancer care providers because there is no existing cost measurement methodology that can be fairly or accurately applied to cancer care.
+
+Cancer is not a single disease. Rather, the word cancer refers to many different diseases that are often complex to treat, requiring highly individualized treatments that are selected based on a patients cancer type, stage, genetic mutation and comorbidities. The variation in conditions and disease states creates tremendous difficulties in designing episodes of care that will fairly and accurately attribute costs to oncologists for cancer care. For example, individual physicians or oncology practices may specialize in treating patients with particular oncology diseases comprised of cancer types, stages, genetic mutations, and comorbiditiesthat are especially complex and expensive to treat. Additionally, based on the subspecialty, the resulting expense may be different for similar levels of complexity depending on the specific disease treated. To protect the Medicare population, CMS must ensure that any cost methodology accounts for these considerations.
+
+Clearly, no clinician should be penalized for giving the right treatment to the right patient at the right time. The cost measurement in MIPS must be refined to avoid violating this important principle in the area of medical oncology.
+
+There are three primary considerations to establish a fair and accurate assessment of cancer costs for use under MIPS.
+
+ First, data on the cancer type, stage, genetic mutation(s), and patient comorbidities must be used to create adequate risk-adjustment methodologies;
+
+ Second, it is fundamentally unfair and counterproductive to include unadjusted Part B and Part
+
+D drug costs when analyzing the costs of cancer care (see discussion in next section below); and
+
+ Third, CMS should directly take into account the added costs and vulnerabilities associated with disparities in the health care system that are associated with low-income and underserved populations.
+
+Each of these elements are being studied in greater detail in the Center for Medicare and Medicaid Innovations Oncology Care Model (OCM), where early data demonstrate that substantial portions of OCM costs are related to the utilization of drug therapies. These costs are outside the control of oncology professionals and should be excluded from any analysis of the cost of cancer care.
+
+Cancer episodes should be designed to assess oncologists on the use of the health care resources that are under their direct control instead of aggregate and unadjusted costs. We caution CMS from rushing to create episodes that are likely to result in diminished resources for providers who are willing and able to treat cancer patients who require particularly complex or expensive treatments, as well as those providers who are dedicated to treating individuals with cancer from rural and low-income communities.
+
+
+
+
+
+We appreciate the Agencys request for feedback on the appropriate design of episodes for chronic cancer care and the recognition that this notice lacks episode groups capable of capturing and assessing the nature and cost of oncology care. At present, we urge CMS to continue to refrain from calculating a cost measurement for medical oncologists in 2018. There are only two proposed episodes that may or may not involve patients receiving medical oncology services (the mastectomy episode and the prostate cancer treatment episode), and these episodes are unlikely to provide an accurate evaluation of the value provided by medical oncologists. These two episodes are related to surgical procedures rather than management of active and ongoing cancer treatment by a medical oncologist.
+
+ASCO is available to assist the Agency in crafting episode-based methodologies, which must be refined to include the following:
+
+ Appropriate triggering events not necessarily limited to drug initiation based on the relevant clinical factors for the specific condition and stage of cancer;
+
+ Fair and transparent attribution methodologies that hold medical oncologists accountable only for the costs of care that are directly under their control;
+
+ Recognition that significant variations in drug costs exist on the basis of the type, stage, and genetic mutations of an individuals cancer and the patients personal preferences; and
+
+ Account for the unique challenges in oncology treating populations in low income and rural areas in a manner that does not create disparities or exacerbate existing disparities.
+
+CMS should promote the appropriate use of health care resources in oncology care by permitting oncologists to adhere to clinical pathways that meet ASCOs Criteria for High-Quality Clinical Pathways in Oncology as a means to evaluate the value and cost of oncology services and drugs provided under MIPS. Pathways are evidence-based treatment protocols for specific conditions that focus on promoting value and eliminating unnecessary variations in care.
+
+CMS should engage ASCO and other stakeholders in focusing on the use of high-quality clinical pathways as a means to assess and promote value and cost-savings through the appropriate use of drug therapies in cancer and by reducing variations in care that are not supported by the clinical evidence.
+
+Oncology clinical pathways are gaining broad acceptance in the payer and oncology communities as tools to assess whether clinical resources are being appropriately used in the practice of cancer careboth oncology services and drugs. Oncology clinical pathways are detailed, evidence-based treatment protocols for delivering quality cancer care for specific patient presentations, including the type and stage of disease.i The increasing use of oncology clinical pathways by payers signals an approach to resource management in cancer care that focuses on reducing treatment variance for specific conditions instead of financially penalizing oncologists for providing the clinically appropriate care.
+
+ASCO has partnered with a wide range of oncology stakeholders to include clinical pathways in the next iteration of the Patient Centered Oncology Payment (PCOP) model, which is ASCOs
+
+
+
+proposed Advanced Alternative Payment Model (APM) for cancer care. Integrating clinical high-quality pathways into MIPS scoring and assessment will facilitate smooth transitions for oncologists into Advanced APMs.
+
+ASCO recently released a document entitled Criteria for High-Quality Clinical Pathways in Oncology that details the elements of well -designed pathways, which can be an important tool for improving adherence to evidence-based medicine and reducing unwarranted variation in cancer care.ii These standards promote the development, use, and analysis of clinical pathways to assure the pathway is evidence-based and promotes high-value care for all cancer patients being treated on the pathway.
+
+Pathways are often based on the type, stage and molecular subtype of the cancer involved, making pathways clinically appropriate tools for determining whether a provider adhered to a clinically appropriate course of care and eliminating incentives to use suboptimal treatments. By focusing on appropriate use of drug therapies and other health care services, pathways help address a key inequity in the measurement of oncology costs.
+
+Measuring the cost of cancer care by directly calculating unadjusted drug costs is inappropriate and counterproductive. Oncologists have little or no control over the drug prices charged by manufacturers and distributors. In many instances, the best interests of an individual cancer patient are served by using specific drugs within their anticancer regimen because a single molecular entity provides a clear clinical advantage for a particular patient without another drug providing a clinically equivalent substitute. As a result, medical oncologists often are left with little flexibility to reduce overall costs by selecting less costly drugs.
+
+The aggregate costs of drugs prescribed by many medical oncologists are often quite significant compared to other costs associated with other specialties. Within the specialty, the aggregate costs of cancer drugs prescribed by individual oncologists can vary significantly based on the sub-specialization of a particular oncologists and whether new, expensive drugs play a prominent role in the appropriate treatment of their patient population. Additionally, there are oncology disease states in which no drug use is either indicated or clinically appropriate. A cost model, which fairly compares all of these clinical realities, would thus need to exclude drug costs.
+
+ASCO would welcome the opportunity to work with CMS to continue to explore how pathways may be used as episodes for assessing value and cost for oncology services and drugs under the MIPS cost performance category.
+
+Reporting cancer type, stage and genetic mutation is critical to creating episodes of care that can be risk adjusted to ensure fair and accurate measurement of cancer resource use. CMS may wish to draw upon past efforts, explore existing data sources and work with ASCO to establish appropriate reporting mechanisms that are not overly burdensome to oncology providers.
+
+We appreciate the Agencys recognition that it is imperative to collect accurate and verifiable data on the type and stage of cancer to create appropriate cost measures under MIPS. Cost of care varies significantly on account of these factors. Leveraging existing resources beyond billing data may help avoid creating unnecessary administrative burdens and educate providers on new reporting obligations.
+
+
+Fair and accurate cost comparisons in cancer care depend on collecting data that reflects cancer type, stage and molecular mutation that are granular enough to yield clinically appropriate comparisons. In 2006, CMS conducted a demonstration program that encouraged oncologists and hematologists to report clinical information on disease states by using G-codes. The Agency created eighty-one new G-codes that tracked care based on disease states, reason for visit, and adherence to clinical guidelines.iii Creating new codes or modifiers in collaboration with ASCO could offer an appropriate means for data collection. However, these efforts will only be successful if reporting this data minimizes the burden on the practice and the provider.
+
+In addition to focusing on how CMS may collect stage and disease state data through the Medicare billing system, CMS may also wish to explore mechanisms used in real-world big data applications such as ASCOs CancerLinQ program. ASCO remains willing and able to assist the Agency in creating mechanisms to collect this data as it is imperative to the development of episodes of care that fairly and accurately assess the cost of cancer care under MIPS.
+
+i Zon, RT, Frame, JN, Neuss, MN, Page, RD, Wollins, D, Stranne S, Bosserman, LD: American Society of Clinical Oncology Policy Statement on Clinical Pathways in Oncology. J. Oncol Pract 12:261-266, 2016
+
+ii American Society of Clinical Oncology Criteria for High-Quality Clinical Pathways in Oncology, http://www.asco.org/sites/new-www.asco.org/files/content-files/blog-release/documents/2016-ASCO-Criteria-High-Quality-Pathways.pdf
+
+iii Doherty, J, Tanamor, M, and Goldber-Dey, J.: Oncologists Experience in Reporting Cancer Staging and Guideline Adherence: Lessons from the 2006 Medicare Oncology Demonstration. J Oncol Pract. 6:56-59, 2010.
+

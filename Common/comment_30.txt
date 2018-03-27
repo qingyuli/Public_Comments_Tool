@@ -1,0 +1,38 @@
+
+The American Society of Nuclear Cardiology (ASNC) appreciates the opportunity to respond to the Centers for Medicare and Medicaid Services (CMS) solicitation for comment on Episode-Based Cost Measure Development for the Quality Payment Program. ASNC is pleased to provide comment on the role of episode groups in the Quality Payment Program and hopes to work with CMS to ensure accurate, robust episode groups are implemented.
+
+ASNC is a 4,500 member professional medical society, which provides a variety of continuing medical education programs related to nuclear cardiology and cardiovascular computed tomography, develops standards and guidelines for training and practice, promotes accreditation and certification within the nuclear cardiology field, and advocates for furthering research and excellence in nuclear cardiology and cardiovascular computed tomography.
+
+As CMS continues to develop episode groups we hope that they will continue to consult with all relevant stakeholders. We are pleased to learn that CMS, in collaboration with Acumen, developed an online tool that will enable physicians to provide feedback on specific episodes that are pertinent to their specialty. ASNC hopes to have a number of members provide feedback using the online tool and appreciates the continuing commitment to the importance of incorporating specialty expertise in the episode-based cost measures.
+
+Clinical Committee on the Development of Episode-Based Cost Measures
+
+ASNC is encouraged that CMS is continuing its work with focused clinical committees and technical expert panels to develop episode-based cost measures in the Quality Payment Program. ASNC leaders have taken part in the clinical committees and hope to continue their work as the development of episode-based cost measures moves forward. We look forward to staying engaged on this initiative and are pleased that CMS is developing an extensive network of physicians to construct episode-based cost measures.
+
+Episode Group Priority
+
+The Medicare Access and CHIP Reauthorization Act (MACRA) requires CMS to establish episode groups and patient condition groups to measure cost for inclusion in the Merit-Based Incentive Payment System (MIPS). In particular, the CMS seeks feedback on cost measures based on Episode Groups. CMS describes cost measures as having five essential components: (i) defining an episode group; (ii) assigning costs to the episode group (iii) attributing the episode group, in whole or in part, to the responsible clinician(s); (iv) risk adjusting episode group costs,
+
+and (5) aligning episode group costs with quality. We strongly encourage CMS to prioritize procedural or acute episode groups in the initial phase of the program leaving the more
+
+
+
+complex chronic care episodes to be implemented when difficulties with risk adjustment and attribution can be better understood.
+
+For example, developing procedural episodes for cardiac conditions such as Coronary Artery Bypass Graft (CABG) and Percutaneous Coronary Intervention (PCI) are less challenging given that they allow for more straightforward attribution methodologies. Quality metrics and methodologies are well established and there is existing procedural data which should provide more confidence in accounting for patient level demographics in the episode and subsequently choosing the appropriate methodology for risk adjustment. Moreover, chronic cardiovascular conditions or those that are heavily symptom-driven, including chest pain, arrhythmia, and syncopy, are more complicated given the complexity associated with properly accounting for medical co-morbidities and demographics that contribute to the costs of an episode. Symptom-driven episodes also tend to have a vast array of resource inputs depending on the severity of the patients co-morbidities. Accuracy in calculating benchmarks for these episodes is a complex task and should be implemented when clinicians have more experience with episode groups generally rather than at the initial stage. ASNC urges CMS to begin cost measures based on episode groups using procedural or acute episodes rather than chronic or symptom-driven episodes.
+
+Attribution
+
+ASNC supports the use of expert clinical committees to address many of the challenges presented by proper attribution. ASNC looks forward to examining the list of patient relationship categories and codes in April 2017 that will contribute to how CMS plans to develop methodologies to handle attribution. As nuclear cardiologists we have particular concerns regarding how a patient who receives an item or service only as ordered by another physician will have patients attributed. It is essential that the clinical judgment of physicians is paramount in deciding what modality is needed in a particular patient and that the modality with the lowest cost does not become the default diagnostic test.
+
+Another challenge of particular concern is accounting for an item or service when episodes run concurrently. For example, a patient who receives a coronary artery bypass graft (CABG) might subsequently experience post-operative acute atrial fibrillation. It is important to be sure that the Single-Photon Emission Tomography (SPECT) scan that patient receives is only included in one of the two concurrently running episodes of care.
+
+Risk Adjustment
+
+Proper risk adjustment is essential to include in cardiac care episodes given that cardiovascular comorbidities such as age, diabetes, chronic kidney disease, hypertension, hyperlipidemia, etc., can have a significant effect on costs. If episode groups do not properly account for comorbidities and other patient characteristics, physicians will have a disincentive to care for the sickest patients, as they will become de facto insurers of the risk of complications in complex patients. ASNC is pleased to see that CMS recognizes that Hierarchical Condition Categories (HCCs) might be more appropriate for adjusting total expenditures for care for a population but not appropriate for more specific condition based episode groups.
+
+
+
+
+In the event that CMS moves forward with episode groups for chronic conditions the risk adjustment for those episodes will be particularly important given that the cost of providing care for a chronic condition in a given period may vary widely from patient to patient.
+

@@ -1,0 +1,41 @@
+
+The American College of Mohs Surgery (Mohs College) represents more than 1,400 Mohs micrographic surgeons who have successfully completed extensive fellowship-training in Mohs micrographic surgery following their dermatology residency training. Mohs micrographic surgery is the most effective and efficient treatment for advanced or difficult to treat skin cancers. In line with its mission, the Mohs College sets and promotes the highest standards of patient care relating to Mohs micrographic surgery. We appreciate the opportunity to provide feedback on the draft list of episode groups and trigger codes, as well as your report, Episode-
+
+Based Cost Measure Development for the Quality Payment Program, to help inform the agencys ongoing efforts in developing cost measures.
+
+Episode-Based Cost Measure Development for the Quality Payment Program Episode Group Selection: Melanoma Episode
+
+CMS explains that it considered Medicare expenditures, clinician coverage, and the opportunity for improvement in acute, chronic, and procedural care settings in selecting the episode groups to be considered for development. This resulted in the identification of melanoma treatment services for episode group development. Specifically, CMS has included Melanoma Destruction/Excision on its draft list of MACRA Episode Groups. We note that CMS terminology is not clinically relevant because destruction of melanoma is clinically contraindicated and not standard of care. CMS should revise the name of this episode group to Melanoma - Excisional Treatment.
+
+Episode Group Definition, Procedural Episode Groups & Cost Measure Development
+
+CMS identified several CPT trigger codes as representing services associated with the melanoma episode group. We generally agree with the list of trigger codes; however, we believe the codes 17312 and 17314 should be replaced because these are add on codes for Mohs surgery services and dont define the primary procedure. In their place, the Mohs surgery codes 17311 and 17313 should be used. We also believe the following CPT codes should be included as trigger codes: 14000, 14001, 14001, 14020, 14021, 14040, 14041, 14060, and 14061 because the excision codes are bundled within them. However, it is important to note that the listed episode trigger codes for the melanoma episode group are also used in the treatment of other skin cancers (e.g., non-melanoma), which means the episode group will capture costs unrelated to melanoma treatment. To address this, linkage of the CPT trigger codes to correct melanoma specific ICD-10-CM diagnosis codes will be critical for the specificity and sensitivity of the episode. Because CMS has yet to provide the relevant ICD-10-CM diagnosis codes associated with the melanoma episode, it has inadequately defined the triggering rules to produce a homogeneous disease model or a clinically relevant episode.
+
+In addition, we recommend that CMS consider splitting the melanoma episode into subgroups based on staging and body site to create a more homogeneous model. The most important clinical risk factor for poor patient outcome for cutaneous melanoma is histologic depth. However, thin and thick melanomas are coded with the same ICD-10-CM diagnosis code with huge resulting variation in resource utilization and cost for the same diagnosis code. Body location of the melanoma (head and neck versus other sites) also portends significant differences
+
+
+
+in intensity of treatment and patient outcome. Using subgroups based on body site and whether lymph node sampling is performed will allow for much more homogeneous groups and consistent comparison of cost.
+
+Attributing Episode Group Cost to Clinicians
+
+Attribution of costs should be clear to all physicians involved in an episode of care. CMS previously proposed patient relationship categories and codes that are continuous, episodic and only as ordered by another clinician, in an effort to capture the role of a physician in an episode thus allowing more precise analysis of attribution. Section 101(f) of MACRA requires that CMS post the operational list of patient relationship categories and codes by April 2017, however, this has not been posted.
+
+Mohs surgeons need a clear understanding of the attribution process, given their role in skin cancer care and treatment. While Mohs surgeons often lead the care and management for the vast majority of their skin cancer patients, they often refer their melanoma patients to oncologists for further evaluation after surgical care. However, the Mohs surgeon does not have control over the costs of tests that are ordered by those specialists. For Mohs surgeons who take care of melanoma patients that require multispecialty management, attribution of costs could be a significant challenge. Mohs surgeons should only be held accountable for costs that are directly within their control.
+
+Other Issues
+
+ACMS would appreciate the opportunity to provide more meaningful and substantive comments, however, key information about the episode group is missing, including:
+
+ When the episode would begin and end;
+
+ What the exclusion criteria will be;
+
+ How risk adjustment, including social risk factors, will be accounted for; and
+
+ How CMS will set benchmarks for subspecialty providers, such as Mohs surgeons, to ensure they are not inappropriately compared to other providers that may be providing the services under this episode.
+
+With CY 2018 fast approaching and the weight of the cost performance category slated to increase, we urge CMS to provide answers to our aforementioned questions as soon as possible, which will afford us a fair opportunity to review the planned cost measures and provide feedback to the agency prior to the implementation of episode groups in the MIPS cost performance category.
+
+We appreciate the opportunity provide feedback and look forward to providing additional input on cost measurement for skin cancer care and treatment. ACMS is eager to work with CMS and its contractor on further developing this episode group into reasonable and appropriate cost measures of resource use by Mohs surgeons that is within their control.
+

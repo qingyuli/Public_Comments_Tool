@@ -1,0 +1,83 @@
+
+I am writing as a private citizen on these issues. As background, I recently have served as member of RVU Update Committee (RUC) on rotating internal medicine seat, was RUC representative to CPT Editorial Panel, chair healthcare finance committee for Oregon Medical Association, Council of Medical Directors of National Marrow Donor Program and am currently serving as president of Oregon Society of Medical Oncology. Recently I served on the initial Acumen working committee to develop episodes of care and attended as a participant the Physician Focused Payment Model Technical Advisory Committee (PTAC)
+
+
+
+
+
+
+ I appreciate the opportunity to comment on Episode-Based Cost Measure Development as part of the Quality Payment Program. I commend the efforts by CMS to make the methodology of this important new policy transparent to all parties.
+
+ My clinical experience is as practitioner of hematopoietic cellular transplantation (HCT). I have published on providing intensive, high-resource utilization care to individuals with very high risk hematologic malignancies, and the interactions with the costs of this care. HCT are usually paid for within case rates or other payments that shift financial risk to the provider. ln2015, on behalf of the American Society for Blood and Marrow Transplantation, I authored a request to have HCT providers to be were given separate specialty designation by CMS to distinguish our clinicians from hematology and oncology because our practices were very different in resource consumption. This request was granted November 2016.
+
+Concerns with Episode-Based Cost Measure Methodology
+
+ I have several general concerns, as well as several concerns specific to the cost measure categories currently proposed.
+
+ Episode Groupers: I am concerned where episode groupers are kept broad and are not acuity risk-adjusted due to concerns over inadequate numbers. It is rare that one individual provider will see a volume of cases sufficient enough to establish a bell-shaped curve to be used for fair comparisons. Any episode grouper that cannot be adjusted to reflect acuity and clinically needed resource consumption and outcomes measures should not be used. While it would be ideal that episode groupers also link to outcomes measures, we worry that such linkage for every grouper will promote processes and episode grouper selection that increase risk of being very selective in one's patient population, potentially creating beneficiary problems with provider access.
+
+ Episode triggers: and the appropriate codes to reflect them, will be important. For chronic and acute diseases, the ideal trigger is a clear diagnosis established pathologically or radiologically. For pathological-confirmed diagnoses, the trigger date cannot be the date when pathological samples were obtained but rather must be the date when results are available to confirm the diagnosis, and as such, that clinicians are comfortable engaging in clinical interventions. I recognize that certain diagnoses are clinical diagnoses; these will be problematic to set up a trigger mechanism and will rely on a relevant clinical note stating sufficient grounds for moving forward with a diagnosis-based treatment plan. That will require a clinician initiating an episode of care measurement. I do not see another way than physician self reporting. To date no one has determined who will identify episode triggers and who will attribute physician role to an individual provider. This determination needs separate public comment.
+
+ Adjustment for Clinical Acuity and Patient Socio-Economic Status: The development and implementation of episode groupers will be important in preventing decreased access to care for those beneficiaries with advanced disease, patients with complex psychosocial situations, and patients with multiple comorbidities, especially those in which treatment for one disease adversely affects outcomes for other diseases-such as treatment of cancer with steroids in a patient with diabetes mellitus where steroids will make diabetes worse.
+
+
+
+
+ Providers need to be encouraged to document diagnoses coding in detail, particularly while in the learning phase of a new compensation system. Proper documentation and coding of these details takes time and will likely be without additional compensation. All factors affecting outcomes must be documented both in physician notes and in problem lists that are then translated into claims data. Many things that in the past have not been in progress notes, problem lists and claims data must be recorded for risk adjustment, such as family concerns, lack of transportation and other significant SES indicators.
+
+ At the recent PTAC meeting, I commented for proper acuity adjustment in the COPD alternative payment model, C02 retention or mixed acid base disorder with hypercapnia need to be listed in both the physician notes and the problem list, yet this would not be common physician practice. The HCC coding adjustments are not as risk adjusted as needed for this to be success. For COPD and asthma, C02 retention and respiratory acidosis secondary to hypercapnia do not instigate HCC adjustment but these factors reflect the most severe COPD with the highest mortality risk. Greater specialty input into risk adjustment must happen to ensure the sickest beneficiaries have access to care as this example with COPD and mixed acid base disorder with hypercapnia illustrates a shortcoming of HCC adjustment for this diagnosis.
+
+ Providers have historically not documented or coded noncompliance with therapy or factors leading to noncompliance, like family dynamic problems, marital stress, mental health issues especially those with personality disorders, cognitive decline, early signs or suggestion of dementia, inability to afford medications, opioid abuse even in those patients with clear sources of pain, and/or inability to get to therapy due to distances or mobility issues. For risk adjustment to be effectively done, these factors need to be coded and be part of the episode risk adjusters, yet they can jeopardize the physician/patient relationship when they appear in the patient's electronic medical record. There may need to be restricted sections of patient chart for providers to document such health care problems; if these concerns are not address this, patients with these added afflictions may not find providers willing to care for them and the result will be limited access to care.
+
+ Providers caring for the sickest most complicated patients are already documenting with the highest level of inpatient and outpatient evaluation and management codes; they need to be compensated for the additional time for doing the additional documentation time for comprehensive coding. There may need to be modification of the prolonged service non-face-to-face CPT codes (99358 and 99359) to accommodate this need.
+
+ Attribution: HCT providers like me utilize team-based care and a patient may have 2-3 different inpatient attending physicians during his or her month-long transplantation hospital stay. Attributing a clinician for purposes of these efforts will be problematic due to the structures of providing intensive care over a prolonged period of time. This may be easier to deal with for surgical and radiological proceduralists, but for our member physicians, attribution of costs of care can only be team based. Acuity and resource consumption are determined by where the patient is in the clinical course of disease, so assignment of a provider other than by team is meaningless. MACRA legislation encourages practices to have a team of physicians and advance practice professionals.
+
+
+
+The advance practice professionals will sometimes see a patient independently, but while seeking advice of a physician and using a split/shared visit. Current payment-claims databases also do not segregate advanced practice professionals by specialty; those treating complex patients in a team based environment may be severely disadvantaged. Team based reporting measures must be included. The common tax 10 may work, but warrants a trial period. Our providers problems with single physician attribution vs. team attribution are mirrored by many internal medicine specialty groups managing severe chronic diseases like congestive heart failure, chronic liver disease with ascites etc. where multiple physicians monitor these patient in outpatient and inpatient venues due to the high acuity of care.
+
+Concerns on Specific Grouper Proposals
+
+ None of the diseases identified for the first rounds of measures are the principle focus of HCT physicians, but HCT physicians often provide on- going care for the entire patient for 1 to 2 years post-HCT. Thus, the proposed measures do occur during the times HCT providers are responsible for care.
+
+Acute Care Episodes:
+
+  Acute Myocardial Infarction: The presence or absence of heart failure determines resource consumption and length of stay. The location of myocardial infarction determines both resource consumption and length of stay, with an inferior wall Ml requiring less monitoring than an anterior wall MI . Patients on coronary angiography having left main disease or severe triple vessel disease will likely have an emergency CABG surgery, providers who diagnose this severity early should not be penalized for high resource consumption.
+
+  Bronchitis and Asthma: Patients with C02 retention and on chronic steroids will not do as well as others, so there needs to be acuity adjustment. Specialists are likely to see more advanced disease. Pediatric patients with poor home situations are also likely to have more prolonged course.
+
+  COPD: Patients with carbon dioxide retention, on chronic steroids, and/or on continuous oxygen will do worse so there needs to be acuity adjustment. Patients with FEV1 less than 1 liter will also do worse than relatively uncomplicated patients. Specialists are likely to see more advanced disease. Failure to segregate these high risk patients will cause access to care issues.
+
+  Diabetes: This needs to be risk adjusted for patients with Type 1 or Type 2 diabetes, diabetes secondary to steroid usage, and "brittle" diabetics. Patient with diabetic complications like renal disease, vascular disease, neuropathy will do worse. Patients with long term diabetes and cerebral vascular disease will likely have cognitive impairment that will create compliance issues. Patients with a noncompliant with diet will have longer stays. Again acuity adjustment is needed here to ensure beneficiaries with advance disease have no access to care issues
+
+  Gastrointestinal Hemorrhage: Site of gastrointestinal hemorrhage, presence of thrombocytopenia or other coagulopathy will determine outcomes and resource consumption.
+
+
+
+
+
+  Renal Failure: Stage of renal failure, underlying etiology and need for dialysis as well presence of heart failure will drive resource consumption.
+
+Chronic Care Episodes:
+
+  Asthma/COPD: These two entities should be separated. Asthma is often a younger population than the COPD population. Asthma is often triggered and exacerbated by environmental allergens. COPD typically occurs in older patients and often secondary to smoking. Older patients with a history of smoking may have ischemic heart disease or vascular disease, both peripheral and cerebral, complicating care. Some of the medications for heart disease, such as beta blockers, will worsen COPD. Children with asthma both have exacerbations with environmental stimuli and psychological or family stress, but rarely have comorbidities as extensive as older adults with COPD.
+
+  CAD: Coronary artery disease has different resource consumption based on severity of disease or vessel involvement, proximal vs. diffuse distal disease, presence of heart failure, and presence of diabetes. The latter patients often do not have chest pain or angina as warning of impending decompensation. CAD must have acuity adjustment
+
+ Lupus: Lupus is a clinical diagnosis without a defined pathologic biopsy or radiologic diagnostic criteria. It is very hard to diagnose so identifying the correct way to trigger an episode will be problematic. This disease has heterogeneity of complications and morbidity, with those having CNS lupus or severe joint disease having more resource consumption and often requiring different monoclonal antibody or immune modification therapy.
+
+Procedural Grouper Proposals:
+
+  Melanoma Destruction/Excision: Proper therapy of a new melanoma or recurrent melanoma lesion is always excision and never destruction. Destruction would make staging of melanoma and confirmation of total removal impossible. Destruction of melanoma must be taken out of episode grouper definition. Patients presenting with metastatic melanoma have different procedure and resource consumption than those with simple skin lesion.
+
+  Prostate Cancer Treatment: There are many patient specific factors governing therapy options for prostate therapy including patient choice and local availability of some therapy. Local disease stage, Gleason score, presence of metastases and comorbidities play a role in determining therapy and treatment. Different providers will advise and complete varying types of therapy, with urologists performing surgery, radiation oncologists providing radiation therapy and medical oncologists treating mostly metastatic disease. For initial therapy, I cannot emphasize enough, how much patient choice plays a role. We cannot penalize providers for allowing patient choice.
+
+  Simple and Modified Radical Mastectomy: Simple mastectomies are often done for prophylaxis or where there is only Stage 1 disease, whereas modified radical mastectomies are done where local disease is more extensive. Complications and postoperative pain, and corresponding treatment, are different for both procedures.
+
+
+
+
+
+ Thank you very much for reviewing my comments as a private citizen. I am happy to continue the dialogue.
+

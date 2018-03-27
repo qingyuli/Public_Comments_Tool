@@ -1,0 +1,72 @@
+
+The Trauma Center Association of America (TCAA) is a non-profit, 501(c)(6) association representing trauma centers and systems across the country. TCAA is committed to ensuring access to life-saving trauma services, and it is out of that commitment that we submit these comments for your consideration.
+
+TCAA in collaboration with the American Trauma Society (ATS) and the Eastern Association for the Surgery of Trauma (EAST) appreciates CMS engagement of the stakeholder community in its development and refinement of Merit-based Incentive Payment System (MIPS) cost measures. We agree with stakeholder feedback to-date that has emphasized the importance of having patient outcomes at the center of these cost measures. We also agree that it is critical to apply a clear and transparent attribution methodology to ensure the appropriate assignment of episode groups to clinicians. Finally, we support the development of cost measures that both account for patient complexity and appropriately address traumatic injury.
+
+Below we provide our specific feedback to several of the questions outlined on pages 17-20 of CMS posting titled, Episode-Based Cost Measure Development for the Quality Payment Program. We hope our feedback will facilitate the further refinement of these cost measure development process.
+
+Risk-Adjusting Episode Groups
+
+The TCAA agrees that it is critical for CMS to adjust for factors that can influence expenditures but are outside a clinicians control. For example, patients differ in their se-verity of illness, function, age, type and number of comorbidities and chronic conditions, etc. must be taken into consideration in any risk adjustment methodology that is used. Additionally, accounting for patient complexity and health status, including traumatic injuries and chronic conditions, is critical to ensure that clinicians who treat particularly unhealthy or complex patients, such as trauma patients, are not penalized.
+
+At a minimum, once a patient suffers a traumatic injury, we believe these patients be excluded from the cost measure. Traumatic injuries should be defined by any institutional claim with admission type 5 for trauma and/or any primary ICD-10 diagnosis codes:
+
+S00-S99 with 7th character modifiers of A, B, or C ONLY. (Injuries to specific body parts  initial encounter) T07 (unspecified multiple injuries) T14 (injury of unspecified body region)T20-T28 with 7th character modifier of A ONLY (burns by specific body parts  initial
+
+
+
+encounter) T30-T32 (burn by TBSA percentages) T79.A1-T79.A9 with 7th character modifier of A ONLY (Traumatic Compartment Syndrome  initial encounter).
+
+Excluding the following isolated injuries which may be a primary diagnosis:
+
+S00 (Superficial injuries of the head)
+
+S10 (Superficial injuries of the neck)
+
+S20 (Superficial injuries of the thorax)
+
+S30 (Superficial injuries of the abdomen, pelvis, lower back and external genitals)
+
+S40 (Superficial injuries of shoulder and upper arm)
+
+S50 (Superficial injuries of elbow and forearm) S60 (Superficial injuries of wrist, hand and fingers) S70 (Superficial injuries of hip and thigh)
+
+S80 (Superficial injuries of knee and lower leg)
+
+S90 (Superficial injuries of ankle, foot and toes)
+
+Late effect codes, which are represented using the same range of injury diagnosis codes but with the 7th digit modifier code of D through S, are also excluded.
+
+The TCAA believes that trauma patients should be excluded altogether because trauma care itself and the patients are ill suited to the objective of episodes, attribution and cost control. Trauma care is team-based care that includes numerous specialties, both within the same group practice and across group practices. Patient out-come is a function of team-based care and difficult to attribute to any single clinician. Trauma patients do not lend themselves to benchmarking or care pathways because few trauma patients are similar in the mechanism of injury and the number and types of injuries. For these significant reasons, we believe trauma patients should be excluded from cost-based episodes entirely.
+
+Should CMS proceed with inclusion of trauma patients, the TCAA asks whether CMS has conducted any studies on the ability of HCCs to account for the expense of patients suffering a traumatic injury. The retrospective or prospective nature of HCCs as they are currently deployed will not explain current year expenditures for an unexpected traumatic injury. The TCAA strongly believes any risk adjustment for trauma patients should be concurrent.
+
+Furthermore, because HCC risk adjustment scores impact Part C payment for a third of Medicare beneficiaries, it is important for all clinicians and provides to know the risk adjustment score for each patient. For improved transparency with the provider community, the TCAA recommends that the HCC score assigned to each patient be included as a data element in the Common Working File and released with each eligibility response (i.e., 271 transaction) to providers. This will enable providers to begin to understand HCCs. CMS should con-sider an appeal process provider believes the HCC risk score is significantly different from what it should be based on more current data, including recent traumatic injuries.
+
+
+
+
+
+Attribution and Episode Definitions
+
+The TCAA understands that MACRA requires new patient relationship categories and codes to be reported on claims as of January 1, 2018. We further understand that CMS expects to release an operational list of these categories and codes for review in April 2017. Since the information has not yet been released, the TCAA is unable to provide meaningful feedback to CMS on how the codes should best be incorporated into its attribution model, particularly for trauma patients. We ask CMS to provide another comment period after the patient relationship codes are released to provide meaningful input on use of the relationship codes and attribution methodologies.
+
+We also believe CMS needs to be very thoughtful in attribution of trauma patients because as noted above attribution to any one clinician is nigh to impossible. We note that hospital claims only have fields to report one attending physician and one primary surgeon. The lack of specific physicians on hospital claims makes attribution very difficult. For acute episodes how will the trigger event be attributed to a clinician? What if the trigger event, such as a nephrectomy is due to a trauma. Will the attribution be based on the hospital claim data or the professional claim data or will they be matched? What happens if the claims do not match.
+
+As previously mentioned, trauma patients often have numerous specialty physicians involved in their care as well as several physicians within the same group practice due to the extended time of trauma episodes. Will every hospital claim for a trauma be attributed to every physician involved in the patients care? What hap-pens to a patient with a chronic episode and then a trauma claim occurs? How are ambulance costs attributed? Including these claims is likely to create an outlier situation for the clinician to whom the hospitalization and ambulance is attributed.
+
+Because the trauma is outside the control of the clinician who is managing chronic or other acute conditions, we believe it is inappropriate to attribute any trauma claims to clinicians and believe they should be excluded.
+
+We request CMS disclose how it plans to treat outliers. How will outliers be defined? Will outliers be excluded from the cost calculation or not? Will patients who die be included in episodes or excluded? We request CMS define inclusion and exclusion criteria and outlier provisions that will help shape episodes that reflect clinician management of patient care rather than serendipitous events that may also occur and significantly impact beneficiary cost of care.
+
+Implementation Timing
+
+Given the number and nature of the questions associated with the development and refinement of the MIPS cost measures, the TCAA recommends that CMS delay implementation. We suggest that the cost category not be factored into the final MIPS score until payment year 2021 or 2022 at the earliest. In other words, we encourage CMS to keep the cost category weighted at zero percent (0%) of the MIPS final score until it has better data to use and the risk adjustments and episode definitions have been fully defined with stakeholder input. This would also give clinicians more time to understand the relationship codes, cost measures and attribution methodologies.
+
+
+
+
+Should CMS wish to continue to include trauma patients, the TCAA along with other trauma stakeholder groups and professional associations would like to be included in future discussions with CMS to determine whether cost episodes for trauma patients can be fairly defined and attributed to clinicians.
+
+The TCAA, ATS and EAST sincerely appreciate the opportunity to provide input into the development of MIPS cost measures. If you have any questions, please do not hesitate to contact us.
+

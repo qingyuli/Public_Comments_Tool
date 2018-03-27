@@ -1,0 +1,315 @@
+
+The American College of Cardiology (ACC) is providing the following comments to the Centers for Medicare and Medicaid Services (CMS) and its contractors on the draft list of episode groups as required under Section 101(f) of the Medicare Access and CHIP Reauthorization Act of 2015 (MACRA) and the approach to develop cost measures detailed in the Episode-Based Cost Measure Framework document.
+
+The ACC is a 52,000-member medical society that is the professional home for the entire cardiovascular care team. The mission of the College is to transform cardiovascular care and to improve heart health. The ACC leads in the formation of health policy, standards and guidelines. The College operates national registries to measure and improve care, provides professional medical education, disseminates cardiovascular research and bestows credentials upon cardiovascular specialists who meet stringent qualifications. The ACC also produces the Journal of the American College of Cardiology, ranked number one among cardiovascular journals worldwide for its scientific impact.
+
+The ACC recognizes the value of developing episode groups to measure cost yet understands this is a challenging endeavor. Therefore, the ACC strongly urges the Agency to proceed thoughtfully and cautiously, taking time to gather input from all relevant stakeholders, including the medical specialty societies when ultimately creating new groups, refining existing groups and seamlessly implementing them into the Merit- Based Incentive Payment System (MIPS) and other payment programs. Such engagement should occur through transparent dialogue. The College has submitted comments throughout the episode group development process and has engaged in the clinical subgroups convened by Acumen; however, we remain unaware of how our prior recommendations have been considered or incorporated into the development of episode groups. Any episodes developed should be tested or phased into the Quality Payment Program (QPP) prior to being used to calculate a clinicians MIPS score. Therefore, the College is uniquely positioned to provide valuable input from the perspective of practicing clinicians and cardiovascular administrators. This perspective is crucial to the development of realistic and accurate episode groups as the needs and characteristics of the patients who will be attributed to these groups may vary widely. Consequently, the Colleges comments focus on the clinical
+
+
+
+7 The commenter submitted a comment after the close of the public comment period on April 24, 2017. The comment has been included in this report for completeness.
+
+
+appropriateness of the cardiovascular episode groups. This refers to capturing a clinically comparable set of beneficiaries to allow for an accurate understanding of cost and quality as well as subsequent reasonable and appropriate care redesign.
+
+The following comments focus on recommendations to specific cardiovascular episode groups from the draft list provided and the framework for developing cost measures as released in the Episode-Based Cost Measure Development for the Quality Payment Program document on December 23, 2016. The comments are organized into the following sections: general comments on episode groups in cardiology, selecting episode groups for development and implementation, comments on the draft list of episode groups, and comments on the overall cost measurement development framework.
+
+General Comments on Episode Groups in Cardiology Procedural vs. Acute and Chronic Condition Episode Groups
+
+The ACC recommends prioritizing the refinement and implementation of procedural episodes over acute and chronic condition episode groups until improved methodologies can be developed. As conveyed in prior comments, procedural episode groups are the least difficult type of episode group to develop and implement due to the ease of defining episode elements and relative clinical homogeneity of the patient population when compared to acute and chronic condition groups. Procedural episodes, by definition, involve clear identifiable triggers and typically have well-defined expected outcomes in addition to a predictable window of time in which possible complications can occur. Some acute medical condition episode groups are similar to procedural episode groups in that they often have identifiable triggers. However, in contrast to procedural episode groups, patient heterogeneity makes the ability to predict outcomes and timeframes for defining an episode much less clear.
+
+The ACC remains concerned about the development and implementation of chronic cardiovascular condition episode groups. The College strongly recommends that CMS proceed with caution in this area. Due to the clinical heterogeneity of the population for such chronic conditions, appropriate treatment pathways, costs, and outcomes may vary significantly. Patients with chronic conditions will likely present with a number of acute exacerbations and concomitant co-morbidities over the course of their lifetimes; these factors will contribute to the individual clinical treatment needs of each patient. In addition, it is difficult to create a time-limited episode for a chronic condition. CMS proposes that chronic episodes would last a calendar year. Most patients who have chronic conditions have them for many years. Their treatment and costs may vary greatly depending on the stage of their condition. For example, a patient newly diagnosed with heart failure will have much different needs from a patient who has advanced heart failure. Moreover, patients with heart failure who have preserved as opposed to reduced ejection fraction have fundamentally different conditions and treatment needs. However, based on the current methodology, all of these patients could be attributed to the Heart Failure chronic condition episode group. For these reasons, CMS should continue to evaluate whether it is appropriate to measure cost based on chronic condition episodes.
+
+The ACC recommends that CMS and its contractors address how cases of overlapping episodes will be handled. CMS should minimize the occurrence of overlapping episodes as
+
+
+
+it carries the unintended risk of artificially inflating or double-counting the costs attributed to a clinician. The College is concerned that a single patient attributed to a chronic condition group with simultaneous multiple co-morbidities will be attributed to additional condition or procedural episodes. CMS should provide clear instruction on the relationship of multiple episodes such as when new episodes are triggered or if certain conditions or procedures that occur become nested within an existing episode.
+
+Piloting Episode Groups
+
+The ACC recommends that CMS pilot a limited set of episode groups prior to wider implementation. Focusing on a smaller set of initial episode groups will allow CMS to analyze collected data and refine these episodes for long-term use. Prior to using any episode groups in the calculation of a clinicians MIPS score, CMS should conduct a minimum of one full year of data collection similar to that which is currently done prior to introduction of new quality measures. CMS should use this data to refine any episode groups or to eliminate any episode groups where it is difficult to create a benchmark cost.
+
+Each episode must be anticipated to have sufficiently high patient volume to ensure statistically valid measurements and comparisons. The importance of sufficient patient volume for each episode selected cannot be overstated; the higher the patient volume for an episode, the greater likelihood that the data will be accurate, valid and generalizable. A large patient population will also support efforts for risk adjustment that is essential to the validity of the episode payment initiatives.
+
+Site of Service
+
+The ACC recommends at a minimum, factoring site of service when applying risk adjustment methodology to episode groups. While CMS is taking steps to neutralize payment rates across the Medicare Physician Fee Schedule and hospital and facility prospective payment systems, costs for services may still vary depending on the setting of care. A clinician should not be penalized as "high cost" for taking care of a high-risk patient who presents at a particular setting.
+
+ICD-10 Coding Updates to Episodes
+
+As CMS and its contractors update and develop episode groups based on ICD-10 coding, the ACC recommends vetting all ICD-10 codes so that they are not grouped together in a way that implies they are equivalent if that is not the intent. The learning curve for accurate coding to the specificity needed is still in evolution. There are a large number of ICD-10 codes in comparison to DRGs. The nuances of these codes may lead to vast differences in cost of care. In some cases, multiple ICD-10 codes seem to be duplicative when in actuality, they mean something quite different.
+
+Administrative Burden and Overlap with other Medicare Programs
+
+The ACC urges the Agency and its contractors to limit administrative burden to the extent possible when developing and implementing episode groups. Clinicians and administrators will need to understand how their current documentation, coding, and billing procedures are
+
+
+
+impacted by these episode groups. In addition, EHRs may need to be equipped to collect the data necessary for triggering the appropriate episodes and attributing patients to the corresponding clinicians. CMS also has yet to release more information about the patient relationship codes and modifiers that will be used to attribute episodes to clinicians.
+
+The ACC also recommends accounting for overlap between these episode groups, the Bundled Payments for Care Improvement program (BPCI), Episode Payment Models (EPMs) and other payment models such as Accountable Care Organizations (ACOs).
+Episode definitions used across these programs must be consistent to prevent confusion. CMS must be attentive to issues of overlap including resulting attribution, otherwise there is great potential for unintended consequences. For example, such consequences may include double counting Part B service costs for clinicians who may be participating in MIPS as well as one of these episode-based payment models.
+
+Selecting Episode Groups for Development and Implementation
+
+The ACC recognizes the task of selecting episode groups for valid cost measurement is difficult. To assist CMS and its contractors, the College makes the following recommendations for inclusion in episode group selection criteria:
+
+ Sufficient clinical homogeneity of the patient population associated with the episode group for comparison purposes
+
+ Anticipation of a high patient volume to ensure statistical validity
+
+ Feasibility of defining elements of an episode and accurately attributing costs and providers to the episode group for operational success
+
+While this may not have been the intent, the selection criteria specified in the document do not directly capture the importance of a sufficiently clinically homogeneous patient population. This, however, is a fundamental requirement for an episode group. Sufficient clinical homogeneity of a patient population within an episode group forms the basis for clinical comparability between patients. Without it, the episode group lacks any real value from a clinical perspective. Joint replacement episode groups work well because the respective patients have sufficiently similar clinical characteristics allowing for clinical comparability. In terms of cardiovascular episode groups, elective PCI allows for a sufficiently clinically homogenous population and by extension could be a good candidate for an episode group pilot.
+
+As mentioned above, clinical homogeneity is not the only requirement for an episode group as episode groups will not be practical without a sufficiently high volume of patients. Emphasis should be on anticipation of significant numbers of patients per clinician for comparisons among physicians. An episode group anticipated to consist of a low volume of patients will result in low statistical power rendering comparisons invalid.
+
+Determining the feasibility of defining the elements of an episode and attributing cost and clinicians to the episode is critical. This will facilitate the process of constructing the episode in a clear and practical manner.
+
+Comments on the Draft List of Episode Groups
+
+
+
+
+Taking into account the above criteria as well as what included in the CMS document, the
+
+ACC is recommending changes to or elimination of the following episode groups:
+
+Procedural
+Acute Medical Condition
+Chronic Condition
+
+
+
+Percutaneous Coronary
+Cardiac Arrhythmia &
+Coronary Artery Disease
+Intervention (PCI)
+Conduction Disorders
+
+
+
+
+Mitral Valve Procedure
+Heart Failure and Shock
+Heart Failure
+
+
+
+Implantable Cardiac
+Acute Myocardial Infarction,
+
+Defibrillator (ICD)
+Discharged Alive
+
+Implantation
+
+
+
+
+
+Right Heart Catheterization
+Acute Myocardial Infarction,
+
+
+Expired
+
+
+
+
+Left Heart Catheterization
+Chest Pain
+
+
+
+
+Pacemaker Implantation
+Syncope and Collapse
+
+
+
+
+Ventricular Tachycardia
+Peripheral Vascular Disorders
+
+Ablation
+
+
+
+
+
+Coronary Thrombectomy
+No data
+
+
+
+
+
+
+The College provides rationale for each of these recommendations in the following sections of this comment letter. As stated earlier, triggers for procedural episodes are fairly straightforward. However, this is not the case for condition episodes. Some condition-based episodes can have multiple, even hundreds of trigger codes. Some of these trigger codes have very different cost implications. For example, the costs associated with heart failure presenting as pulmonary edema requiring intubation and mechanical ventilation in an intensive care unit are very different from heart failure presenting in the ambulatory setting as exertional dyspnea.
+
+Procedural
+
+Percutaneous Coronary Intervention (PCI)
+
+The College recommends piloting the PCI episode group with changes. Within the PCI patient population, several subgroups exist which could create challenges within an episode. For this reason, it is important to exclude acute coronary syndrome patients since the urgency of intervention and the fact that myocardial damage is the default rather than a complication of the clinical condition creates a scenario that is quite different from that of a patient who is not suffering from a partial or full acute coronary occlusion, STEMI and NSTEMI patients, respectively; elective PCI patients are a much more homogenous group.
+
+The following procedures consist of very heterogeneous patient populations, which may result in variable outcomes and, by extension, variances in costs that are heavily dependent on specific pathophysiology present and stage of underlying disease prompting the procedure. As such, the College recommends eliminating these episodes or refining them to
+
+
+
+a degree that meets the criteria referenced above  homogeneity, volume and feasibility of defining episode elements and attribution.
+
+Mitral Valve Procedure
+
+The ACC recommends removing mitral valve procedure from the list in the absence of major refinement of the episode. Mitral Valve Procedure is an episode group that would consist of a clinically heterogeneous population as mitral valve dysfunction arises from multiple disease processes. For example, there are important clinical differences between primary and secondary mitral regurgitation as recognized in the current ACC/AHA Guidelines for Valvular Heart Disease. Among those with primary mitral regurgitation, there is heterogeneity in patients undergoing mitral valve procedures. Those with mitral regurgitation due to infection carry very different prognoses compared to those who have myxomatous degenerative changes. The ACC shares concern expressed in prior comments from the Society for Thoracic Surgeons (STS) that there is significant risk including an episode group such as these with multiple disease processes leading to the same procedure.
+
+Implantable Cardiac Defibrillator (ICD) Implantation and Pacemaker Implantation
+
+The ACC recommends removing Implantable Cardiac Defibrillator (ICD) Implantation and Pacemaker Implantation from the list. This is a very heterogeneous group. The approach to and costs of caring for patients with ICD implantation is largely driven by the underlying condition for which the ICD is implanted. For example, ICDs are indicated for patients with advanced heart failure that have reduced ejection fraction as well as for young patients with no heart disease other than a genetic predilection for malignant arrhythmias. The management plans for these groups differ widely. Equally wide disparities can be found in those undergoing pacemaker implantation which may be indicated as treatment for an otherwise healthy patient with congenital heart block or a patient with advanced heart failure having reduced ejection fraction for whom the driver is the need for ventricular resynchronization.
+
+Right Heart and Left Heart Catheterization
+
+The ACC recommends removing right and left heart catheterization from the list. Right
+
+heart catheterization and left heart catheterization are procedures that serve primarily as diagnostic tools and as a result are not intrinsically therapeutic. These episode group costs are dependent on the underlying medical conditions which may either be acute or chronic. For example, atrial septal defect, acute congestive heart failure (CHF), advanced diagnosis of shortness of breath, valve disease or pulmonary arterial hypertension could each lead to right heart catheterization. Each of these underlying diagnoses would likely be associated with highly variable outcomes and costs of care. It is the condition and underlying disease processes that will drive the costs of these episode groups not the procedure involved.
+
+Ventricular Tachycardia (VT) Ablation and Coronary Thrombectomy
+
+The ACC recommends removing ventricular tachycardia (VT) ablation and coronary thrombectomy from the list. There is no clear cost driver for VT ablation. Instead, co-existing heart disease will drive the costs and outcomes for this episode group. Coronary thrombectomy is not considered to be a separate procedure in Medicare coding and reimbursement policies and
+
+
+
+is almost always performed as a component of PCI. Consequently, it does not define a unique group of patients.
+
+Acute Medical Conditions
+
+Cardiac Arrhythmia & Conduction Disorders
+
+While some episode groups under this category may be appropriate, some are too broad, encompassing multiple conditions with marked variability in disease types and severity reflecting a wide range of costs within the group. The appropriate variance of costs within this episode group will make it extremely challenging to construct a baseline cost for it. The cardiac arrhythmia and conduction disorders episode group encompasses patient populations who may present with any of six different conditions
+
+ Atrial fibrillation
+
+ Atrial flutter and atrial tachycardia
+
+ Bradyarrythmia and conduction disturbance
+
+ Supraventricular tachycardia
+
+ Ventricular fibrillation and cardiac arrest
+
+ Ventricular Tachycardia
+
+Heart Failure and Shock
+
+The ACC suggests that CMS consider separating heart failure and shock into two distinct episode groups as there are many cases in which heart failure is not associated with shock. It should be noted that there are multiple causes of shock and non-cardiogenic shock can exist in patients with widely differing comorbidities. Additionally, there are also coding issues inherent with this patient population, making it difficult to ensure that valid data is available to identify the appropriate services and associated conditions that would be included in an episode.
+
+Acute Myocardial Infarction, Discharged Alive
+
+The ACC recommends separating the AMI, Discharged Alive episode group into two separate groups defined as (1) Acute ST Elevation Myocardial Infarction (STEMI) with a type I classification and (2) Non-ST Elevation Myocardial Infarction (NSTEMI) with a type 1 classification. STEMI and NSTEMI patient populations are clinically distinct from each other and are treated differently. Replacing this heterogeneous episode group, AMI, with these groups representing more closely defined populations will reflect this clinical distinction. AMI is not a single defined entity. Substantial work over the past few decades has been done to achieve more clarity surrounding the most current (third) universal definition for AMI. In prior comments on the proposed rule, ACC explained this definition in detail.
+
+Current hospital codes differentiate between STEMI and NSTEMI patients, yet do not necessarily capture the full distinction between MI types nor do they ensure that patients meet all elements of the AMI definition. Consequently, what is coded as AMI often only meets the definition in part and may be limited to abnormal biomarkers that can be detected without an acute occlusion of a coronary artery. A relatively typical example is interpreting changes in troponin levels as an AMI without considering other clinical indicators. This example was so commonplace that it drove the need for ACCF Expert Consensus Document on Practical Clinical
+
+
+
+Considerations in the Interpretation of Troponin Elevations authored by experts representing the ACC and cardiovascular subspecialty societies. As a result, aligning coding with clinical reality will be necessary for establishing clinical homogeneity in the AMI model. This concern has been widely cited in the literature. The ACC supports the proposal put forth in the March ICD-10
+Coordination and Maintenance Committee Meeting for revisions of current codes and development of new codes for the classification of types of MI. These codes are expected to be released in October 2017. The proposal includes a new subcategory code, 121.A1, referring to Type 2 MI due to demand ischemia or secondary to ischemic balance. Additionally, the proposal includes creating a new code for type 3, 4 and 5 AMIs, 121.9, which restores a WHO code that had previously been removed. These new ICD-10 codes for the classification of types of MI better capture the nuances, reflecting specificity for distinguishing between type 1 and other types of MI.
+
+Acute Myocardial Infarction, Expired
+
+The ACC recommends removing the Acute Myocardial Infarction, Expired from the list of episode groups. While there may be opportunity for savings, in practice, this episode group may be complicated to implement due to varying times of death during the patients course and factors outside of the clinicians control such as the desires of patients and their families. CMS excludes this under the Advancing Care Coordination for Episode Payment Models, recognizing that there is a limited ability for hospitals and clinicians to seek cost efficiencies for a patient whose outcome is death from AMI. Moving forward, CMS should ensure alignment of the AMI episode group (which ACC is recommending splitting into STEMI and NSTEMI as stated above) with the episode payment model for AMI to minimize burden on clinicians.
+
+Chest Pain
+
+The ACC recommends removing the Chest Pain episode group. Chest pain is a symptom, yet is reflected as an episode group. There are widely varying etiologies of and underlying conditions associated with this symptom. For example, coronary artery disease may manifest as multiple symptoms including but not limited to chest pain while aortic dissection and pulmonary embolus, two very different conditions, may also present with chest pain. There are well known coding challenges with the MS-DRGs associated with chest pain (311 and 312) because it may be linked to multiple etiologies, with appropriately varying work-ups and costs ranging from those that are brief and inexpensive to those that are more lengthy and costly. In circumstances where a clear etiology can be identified, patients with chest pain would ultimately fall in an underlying condition-based episode group such as STEMI, pulmonary embolus, pericardial effusion, esophageal spasm etc. or a procedure-based episode. If, however, a clear etiology cannot be determined, this will present significant challenges in creating an episode group for this symptom.
+
+Syncope & Collapse
+
+For similar reasons to those stated above for chest pain, the ACC recommends removal of the Syncope & Collapse episode. Underlying causes range from benign vaso-vagal syncope to that associated with hypertrophic cardiomyopathy or valvular aortic stenosis. In circumstances
+
+
+
+where a clear etiology can be identified, patients with syncope and collapse would ultimately fall in an underlying condition-based episode group.
+
+Peripheral Vascular Disorders
+
+The ACC recommends removal of the Peripheral Vascular Disorders episode group. This episode group will be challenging to implement because of the heterogeneity of patient presentation and the large number of appropriate diagnostic and therapeutic approaches that can be taken by clinicians. Additionally, outcomes and costs are frequently significantly affected by common comorbidities such as diabetes and coronary artery disease.
+
+Request for Clarification
+
+Atrial Fibrillation/Flutter (Acute) is not presented as an episode group for public comment. The ACC recognizes that there is an existing acute exacerbation episode identified in CMS Supplemental CMS Episode Groups Posting released in 2016. The ACC seeks clarification from CMS and its contractors as to whether this this episode is open for comment, not open for comment, or is not intended for implementation under the QPP.
+
+Chronic Conditions
+
+Coronary Artery Disease
+
+CMS should not implement this episode until further development. Coronary Artery Disease is too broad a diagnosis at least until more experience is gained with episode groups. Patient groups should at least initially be narrowed to those with an acute event such as STEMI or a procedure, such as PCI. Moreover, there is potential to game the system.
+
+Heart Failure
+
+Heart failure will be challenging to implement due to the heterogeneity of the patient population. Causes of chronic heart failure vary widely ranging from those associated with severely reduced ejection fraction due to multiple myocardial infarctions to those with preserved ejection fraction and/or restrictive or hypertrophic cardiomyopathies. The ACC recommends CMS and its contractors work through the details and refinement of this episode group with the Heart Rhythm Society and the Heart Failure Society of America. Additionally, we would note that few heart failure bundled payments for care improvement (BPCI) programs managed to earn savings.
+
+Additional Considerations for Chronic Condition Episode Groups
+
+In response to CMS requesting comment on methods to incorporate disease severity or staging information to improve meaningful comparison of cost and quality of care furnished to patients, ACC recommends considering using functional class and/or disease severity. For example, NYHA functional class can be used for heart failure and disease severity (mild, moderate and severe) can be used for valve disease. Standardized definitions for these classifications are widely used and addressed in the ACC/AHA guidelines.
+
+In response to CMS requesting comment on options for constructing episode groups for chronic conditions, the ACC recommends grouping chronic conditions by disease etiology
+
+
+and type rather than treatment. There is often overlap of treatment methods such as medications for different conditions. For example, beta blockers are used for both for heart failure and atrial fibrillation. However, each condition does have specific performance measures to evaluate quality and it is of utmost importance to ensure those measures are reasonable for the condition. Adjusting for comorbidities will be critical.
+
+Comments on Cost Measurement Development Framework
+
+The College supports the six key aspects of cost measurement as identified via stakeholder feedback mentioned in the document provided. They are the basis for the comments which address each of the components of the cost measurement development framework.
+
+Defining an Episode Group
+
+As illustrated in the comments above, the ACC agrees that there must be a balance between clinical similarity in complexity, cost, and patient outcomes, and the ability to collect a sufficient number of cases in order to achieve statistically valid measurement for cardiovascular episode groups.
+
+Assigning Items, Services and Their Respective Expenditures to Episode Groups
+
+In terms of the second component, assigning items, services and their respective expenditures to episode groups, Medicares definition of unrelated services is relatively untested. Practical approaches must be taken to ensure appropriate assignment of items and services including. CMS and its contractors must monitor for unintended consequences such as possible overlapping of episode groups as stated earlier.
+
+Attributing Groups to Clinicians
+
+In terms of the third component, attributing groups to clinicians, the ACC continues to support team-based care. For episode groups occurring in the inpatient care setting, it will be particularly difficult to attribute care to a single clinician; rather it may be more appropriate to attribute care to the entire care team. The ACC and cardiovascular subspecialty societies have worked hard to foster a team approach in cardiology as all members on the team involved in patient care have a role to play. Attribution of categories to the whole team should help raise the bar for the whole group. If the categories are attributed to an individual team member, the concern for unintended consequences, such as patient selection resulting in higher risk patients losing out, cannot be overstated. In addition, this may foster competition among group members, rather than promoting the team effort. Peer pressure to improve performance of individual members can be highly effective, if under-performers want to continue to be part of the care team. Roles of individual team members in contributing to overall patient care must be clear and may differ depending on the patients situation or circumstance. For example, the primary care physicians role would differ from that of cardiologists. The role of general cardiologists would differ from interventional cardiologist and electrophysiologists. Ultimately, these roles would differ from that of ancillary physicians involved. For patients with advanced heart failure, the cardiologists may provide the patients medical home whereas for milder forms of heart failure, that role might remain with the primary care physician. There are multiple levels of attribution that must be worked through.
+
+
+
+Attribution is likely to be one of the most challenging components of this framework and CMS and its contractors must spend time working with stakeholders to understand and communicate the details of how attribution will be handled. Historically, the attribution used in QRUR has been fraught with issues. Subgroups and the forthcoming patient encounter codes and modifiers may assist with narrowing down which members of the care team are most directly associated with each patient.
+
+Risk Adjusting Groups
+
+In terms of the fourth component, risk adjusting groups, the College strongly supports risk stratification based on social determinants of health including socioeconomic and educational status in addition to risk adjusting for patient co-morbidities. The ACC recommends deferring to the work done by the National Quality Forum in socioeconomic status risk adjustment. In response to CMS requesting comment on possible unintended consequences of using cost measures in MIPS and steps to avoid disadvantaging clinicians who assume the care of complex patients such as by applying episodes for comparison of complex patients, unintended consequences could include selection of less complex patients to artificially lower costs or reducing access to patients who may be at higher risk to reduced medical adherence due to lower socioeconomic status or education level. Acknowledging and accounting for the socioeconomic status of patients is critical to minimizing unintended consequences. Additionally, keeping the coding and documentation elements as simple as possible will be helpful. Ensuring that physicians can code out co-morbidities and account for the severity of their patients illness needs to be simplified.
+
+Aligning Cost with Quality
+
+In terms of the fifth component, aligning cost with quality, while the ACC recognizes that CMS and its contractors plan to provide further guidance in the near future on aligning cost with quality, the document provided does not include sufficient detail as to how quality will be incorporated. This is a priority for the College. The ACC recommends aligning episode group cost with quality measures in a manner that is transparent and clearly evident to providers and the public. One of the most critical components of the framework is appropriately aligning cost with quality. Appropriate performance measures represent a clear way to track certain aspects of episode groups that are clinically meaningful. In addition, CMS should support specialty societies in the development of patient outcome measures and appropriate use measures to ensure that no patient is harmed by the underutilization of services in an attempt to control costs. Aligning quality measures ensures that the quality of care does not diminish as clinicians seek ways to find efficiencies in cost.
+
+CMS should work with specialty societies to identify quality measures that best align with each episode group. Measures selected must be meaningful yet not administratively burdensome and consistent with ACCs principles of public reporting of physician quality data including attribution to the accountable entity and scientific validity. At a minimum, CMS should use those measures approved for MIPS quality reporting, including non-MIPS quality measures reported through qualified clinical data registries (QCDRs). This will reduce the administrative burden of requiring clinicians to select from a new list of measures. In response to CMS requesting comment on methods to align quality of care considerations with cost measures, ACC recommends using performance measures developed by the ACC,
+
+
+American Heart Association and the cardiovascular subspecialty societies to align quality of care with cost. Adherence to measures in a cost-conscious manner should also concomitantly improve quality and patient outcomes. As stated above, CMS should also consider how the data contained in clinical data registries can be used to align quality, cost, and outcomes measurement. This would require partnership between CMS and specialty societies to match claims data to the valuable longitudinal clinical data in these registries.1
+
+Quality measures associated with episode groups should be released at the same time and integrated seamlessly within MIPS. Implementation of quality measures in episode groups that
+
+are in any way different from measures used elsewhere in federal programs would add unneeded complexity to the system and would be counterproductive in terms of supporting meaningful comparisons among providers participating in the various programs.
+
+MIPS participants must be given clear direction as to whether certain quality measures would be mandatory to report if they are attributed to a particular episode. CMS could consider an approach where rather than apply every cost episode group to a clinician or group, the clinician/group selects a limited number of the most relevant episodes based on patient population and then reports those quality measures aligned with those cost measures. This could avoid a problem where clinicians are measured on cost episodes but are reporting no relevant quality measures. There are no shortcuts when it comes to measuring quality and an approach that is based on starting simple and strengthening measures later cannot be supported since the cost measures have the potential for placing patients at risk and need to be appropriately balanced with performance measures from the outset.
+
+In response to CMS requesting comment on each elements of the cost measurement development framework and whether there are additional elements to consider in developing cost measures from episode groups. Quality can be measured by utilizing up to date performance measures that are already available to us and for which we have performance data. For example, measures for atrial fibrillation were recently updated to extend beyond anticoagulation. It would be appropriate, when indicated to begin measuring quality of care provided to patients with atrial fibrillation by first assessing patient adherence to anticoagulation, particularly since data demonstrate a wide gap in this area and that have a clear impact on patient outcomes. This is an example of a circumstance in which the accountability with respect to the outcome is shared by clinician and patient2.
+
+Closing Remarks
+
+The accurate and appropriate measurement of cost for physician performance continues to be an ongoing challenge. The ACC welcomes the opportunity to continue working with CMS and its contractors on the development of episode groups and cost measures for use under the QPP. The College has many practicing cardiologists and cardiovascular practice administrators willing to dedicate time to this effort. Incorporating their perspectives throughout the development and implementation of episode groups will help CMS to ensure that these measures work under a real-world application and do not unintentionally penalize clinicians or more importantly, do not affect patients access to care.
+
+The College respectfully requests that as we continue to provide CMS and its contractors with insight, that communication remains open and transparent. In order for our members to provide
+
+
+
+the most informed comments, and aid the development of these episode groups in a timely manner, the College must understand how CMS and its contractors are applying our comments to ongoing work.
+
+1 J Am Coll Cardiol 2008; 51:1993-2001
+2 J Am Coll Cardiol 2014;64:2133-45
+

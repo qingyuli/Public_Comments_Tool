@@ -1,0 +1,33 @@
+
+On behalf of the 18,000 board-certified orthopaedic surgeons who comprise the membership of the American Association of Orthopaedic Surgeons (AAOS), we are pleased to provide comments on the Centers for Medicare and Medicaid Services (CMS) Request for Comments on the Episode-based Cost Measures for the Quality Payment Program (QPP).
+
+The AAOS thanks CMS, in advance, for its solicitation and consideration of the following comments and concerns. We are generally supportive of CMS efforts to improve patient care and efficiency through quality measurement and payment evaluation.
+
+Streamline the QPP RFI process
+
+We are appreciative of CMS efforts to engage the patient and provider communities while developing these important metrics as mandated by the Medicare Access and CHIP Reauthorization Act (MACRA, 2015) and are keen to participate in the process. We also understand that this is an iterative process involving clinicians and various other stakeholders involved in transforming the health care delivery system in this country. However, we note that several requests for information and subsequent iterations of the proposed design elements are difficult to pursue for full-time clinicians heavily engaged in patient care. Hence, we request that the QPP-related RFIs and rules be more streamlined such that all stakeholders can keep track of the multiple requests and also respond to these important queries from CMS.
+
+
+
+In the past, CMS has indicated that there will be yearly rulemaking in the QPP program as the implementation is gradually scaled up. We recommend that an annual request for comments such as the annual Medicare Physician Fee Schedule or the Inpatient Prospective Payment System proposals be instituted for MACRA/QPP related rules.
+
+Clarify the Type of Episode Groups and Episode Group Selection
+
+CMS needs to further clarify the criteria used to determine the type of episode groups and subsequently group the episodes. The CMS White Paper explains that the acute inpatient episodes focus on disease exacerbations, injuries or illnesses and are expected to be resolved within the pre-defined episode period. The procedural episodes, on the other hand, are related to medical and surgical procedures. We noted that hip and femur fractures are included under both Acute Inpatient Medical Condition Episode Groups as well as under Procedural Episode Group. Moreover, there was no mention of other inpatient fractures such as, femoral shaft; periprosthetic; tibial plateau, tibial shaft (open or closed fracture); pilon fracture, supracondylar femur fracture, etc. under Acute Episode Inpatient Episode Groups. Thus, CMS needs to clearly define the type of episode group that different kinds of lower extremity fracture treatments will be included in.
+
+There is also a need for greater clarity on how two types of episode groups occurring concurrently be handled. Examples for this could be a syncopal episode (or an acute MI or stroke) resulting in a fall and a major injury (fracture of hip or pelvis) or if while driving, a motor vehicle collision and consequent multiple injuries. Another example might be cancer with metastasis to bone requiring treatment (with or without fracture).
+
+Appropriate Episode Trigger
+
+The AAOS disagrees with several of the enlisted episode triggers for orthopaedic procedures. For example, revision hip (listed on one of the hip arthroplasty triggers) and revision knee (listed on several of the total knee triggers) should not be triggers for episode based cost measures. Though it may be reasonable to try to define costs for primary hip and knee arthroplasty if the measures are thoughtfully risk adjusted, we do not think that revision arthroplasty can be neatly placed into an episode for cost measures. These are highly variable procedures. The current reimbursement system treats all these procedures uniformly and has resulted in cherry picking of patients in some facilities and towards some procedures. Further tying these procedures into cost measures is certain to exacerbate these problems and will negatively impact access to care for high-risk Medicare beneficiaries.
+
+Need for Risk Stratification
+
+While we acknowledge that primary hip and knee arthroplasty are high cost and high volume procedures, it will be difficult to correctly measure resource use in episodes triggered by these procedures. We need to have more reliable and appropriate risk stratification strategies. The consequence of improperly developed cost measures in this arena will be to limit care to perceived higher risk patients in the Medicare program. The AAOS strongly believes that any application of cost measures should not be endorsed until evidence-based risk stratification is available and applied to the measure.
+
+
+
+
+
+
+

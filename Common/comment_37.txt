@@ -1,0 +1,15 @@
+
+The American Urological Association (AUA), representing nearly 15,000 members in the United States, is a leading advocate for the specialty of urology, providing invaluable support to the urologic community as it pursues its mission of fostering the highest standards of urologic care through education, research and the formulation of health policy.
+
+ The AUA commends the Centers for Medicare & Medicaid Services (CMS) on its efforts to seek stakeholder input on development of resource use (i.e., cost) measures for implementation in the Merit-Based Incentive Payment System (MIPS) of the Quality Payment Program. We are closely reviewing the proposed criteria for the three general types of episode groups to determine whether the components identified for development of cost measures would accurately distinguish resources used in furnishing specific urological services during an acute, chronic and procedural episode of care. We will provide detailed comments at a later date on attribution, risk adjustment and alignment with quality measures for accurate cost assignment across all three sites of service.
+
+In the interim, we would like to offer general comments on the draft list of episode groups and their corresponding episode trigger codes for potential development of urological cost measures. As a starting point, to ensure the respective items and services for the Procedural Episode Groups are correct, we recommend appropriately cross-walking and matching each code with the descriptors in the Curren.t Procedural Terminology (CPT) code book, the standard procedure coding system maintained by the American Medical Association.
+
+For example, in the Prostate Cancer Treatment (680) section, CPT code 55866 (Laparoscopy, surgical prostatectomy, retropubic radical, including nerve sparing, includes robotic assistance, when performed) incorrectly shows "endoscope" in the descriptor. This procedure is performed with a ~~laparoscope" as specified in the CPT code book. In addition, HCPCS codes C9739 (Cystourethroscopy, with insertion of transprostatic implants; 1 to 3 implants) and C9740 (Cystourethroscopy, with insertion of transprostatic implants; 4 or more implants) are incorrectly mapped to the section for Prostate Cancer Treatment (681 and 682). HCPCS codes (9739 and
+
+
+
+C9740 are for treatment of benign prostatic hyperplasia (BPH) and should be cross-walked to the section for Procedure for Benign Prostatic Hyperplasia (658-668) to ensure accurate ambulatory patient classification (APC) resource use.
+
+As previously mentioned, additional comments will be provided at a later date. Thank you for the opportunity to comment on the development of episode-based cost measures and for the opportunity to participate in future efforts that focus on urologic disease management.
+
