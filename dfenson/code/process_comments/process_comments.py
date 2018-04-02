@@ -2,6 +2,7 @@
 # Import general modules
 import sys,os,pandas as pd,math
 
+TEXT_TO_REMOVE=["MACRA Episode-Based Cost Measures Public Comment Summary Report: Verbatim Comments"]
 
 def process_comments(inpath, infile, outpath):
 	fullfile=os.path.join(inpath,infile)
@@ -23,33 +24,39 @@ def process_comments(inpath, infile, outpath):
 				if (c < n_comments and "COMMENT %s OF %s" % (str(c+1), n_comments) in comment) or (c==n_comments and comment==""):
 						break
 				else:
-					if not "MACRA Episode-Based Cost Measures Public Comment Summary Report: Verbatim Comments" in comment:
+					if sum([text in comment for text in TEXT_TO_REMOVE])==0:
 						cout.write(comment)
 			cout.close()
 
-def eg_comment_xwalk(inpath, infile, outpath):
+def process_eg_labels(inpath, infile, outpath):
 	fullfile=os.path.join(inpath, efile)
 	df=pd.read_csv(fullfile)
-	df=df.loc[:,["EG_DEC", "Comment_No"]]
-	df.sort_values("Comment_No", inplace=True)
-	egs=pd.DataFrame({'EG_DEC':df.EG_DEC.unique()})
-	egs.index.name="eg_id"
-	egs["eg_id"]=egs.index
-	df=df.merge(egs,'left',on='EG_DEC')
-	df.drop('EG_DEC',axis=1, inplace=True)
-	result=df.groupby(["Comment_No", "eg_id"]).agg({'eg_id':'first'})
-	result=result.unstack()
-	result.columns=["eg_%s" % i for i in egs.index]
-	result=result.applymap(lambda x: 0 if math.isnan(x) else 1)
-	result.to_csv(os.path.join(outpath,"comment_eg_xwalk.csv"))
-	egs.drop('eg_id',axis=1,inplace=True)
-	egs.to_csv(os.path.join(outpath,"eg.csv"))
+	df=df.loc[df.Comment_Period=="2016_12_macra_posting",["EG_DEC", "Comment_No", "Component_Description","Episode_Theme_Description"]]
+	df.rename(columns={'EG_DEC':"episode_group",
+				'Component_Description':'component',
+				'Comment_No':'comment_id',
+				'Episode_Theme_Description':'theme'}, inplace=True)
+	df.sort_values("comment_id", inplace=True)
+	df['value']=1
+	# Create ids for each potential label, and output description csv files for each
+	for col in ["episode_group", "component", "theme"]:
+		df["%s_id" % col]=df.groupby(col).grouper.group_info[0]
+		result=df.loc[:,[col,"%s_id" % col]].drop_duplicates(col)
+		result.set_index("%s_id" % col, inplace=True)
+		result.sort_index(inplace=True)
+		result.to_csv(os.path.join(outpath,"%s.csv" % col))
+		df.drop(col, axis=1, inplace=True)
+		result=df.drop_duplicates(["comment_id", "%s_id" % col]).pivot(index='comment_id',columns="%s_id" % col, values='value')
+		result=result.applymap(lambda x: 0 if math.isnan(x) else 1)
+		result.columns=["{0}_{1}".format(col, c) for c in result.columns]
+		result.to_csv(os.path.join(outpath,"%s_labels.csv" % col))
 
 
 if __name__=="__main__":
 	inpath="/Users/derek/public_comments/Public_Comments_Tool/Common"
 	cfile="verbatim-comments-report.txt"
 	efile="comment_excerpts.csv"
-	outpath="/Users/derek/public_comments/Public_Comments_Tool/Common"
+	outpath="/Users/derek/public_comments/Public_Comments_Tool/Common/data"	
 	process_comments(inpath, cfile, outpath)
-	eg_comment_xwalk(inpath, efile, outpath)
+	process_eg_labels(inpath, efile, outpath)
+

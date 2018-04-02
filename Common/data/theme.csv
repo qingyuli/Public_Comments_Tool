@@ -1,0 +1,12 @@
+theme_id,theme
+0,Addition of assigned services
+1,Addition of trigger codes
+2,Additional clinical input needed
+3,Considerations relevant for particular patient populations
+4,Considerations relevant for particular types of clinicians and clinical decision-making
+5,Justification for/against creating the episode group
+6,Other
+7,Provider education
+8,Removal of assigned services
+9,Removal of trigger codes
+10,"Splitting episode groups (e.g., sub-groups)"
