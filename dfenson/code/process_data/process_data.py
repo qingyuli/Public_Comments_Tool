@@ -12,6 +12,7 @@ import os
 import re
 from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer,\
     VectorizerMixin
+from pathlib import Path 
 #import stop_words
 from sklearn.decomposition import PCA, TruncatedSVD
 from collections import OrderedDict
@@ -20,20 +21,15 @@ from sklearn.decomposition.incremental_pca import IncrementalPCA
 from nltk.stem.porter import PorterStemmer
 from nltk.stem.lancaster import LancasterStemmer
 from nltk.stem import SnowballStemmer
-
-RELATIVE_DATA_PATH = os.path.relpath(os.path.join("Common", "data"))
-
-# Read SAS training dataset, return pandas df
-def training_data(fullDataPath):
-    return pd.read_sas(fullDataPath)
+from stop_words import STOP_WORDS
 
 # Word Feature Matrix processing.
 def featurize_exerpts(excerpts):
     vectorizer = CountVectorizer(decode_error='replace',
                                  input='content',
-                                 stop_words=stop_words.STOP_WORDS,
-                                 min_df=.05,
-                                 max_df=.95,
+                                 stop_words=STOP_WORDS,
+                                 min_df=0,
+                                 max_df=1,
                                  tokenizer=Tokenizer())
     X = vectorizer.fit_transform(excerpts)
     words = vectorizer.get_feature_names()
@@ -142,8 +138,17 @@ def write_to_csv(filename, X, header):
 
 class Tokenizer:
     def __call__(self, doc):
-        doc = self.strip_gutenberg_header_footer(doc)
         return [self.strip(t) for t in word_tokenize(doc) if len(self.strip(t)) >= 2]
 
     def strip(self, word):
         return re.sub('[\W_]+', '', word)
+
+if __name__=="__main__":
+    fullTrainPath="/Users/derek/public_comments/Public_Comments_Tool/Common/excerpt_data/excerpts_training_data.sas7bdat"
+    df=pd.read_sas(fullTrainPath, encoding="ISO-8859-1")
+    excerpts=list(df.Comment_Excerpt)
+    X, words, vect=featurize_exerpts(excerpts)
+
+
+
+
