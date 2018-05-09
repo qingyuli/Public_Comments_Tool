@@ -128,8 +128,7 @@ def stem_design_matrix(X, words, type='snowball'):
 
 # Assume that X is our numpy array design matrix, header is a list of our features
 def write_to_csv(filename, X, header):
-    s = filename + ".csv"
-    np.savetxt(s,
+    np.savetxt(filename,
                X,
                fmt="%d",
                delimiter=",",
@@ -144,10 +143,14 @@ class Tokenizer:
         return re.sub('[\W_]+', '', word)
 
 if __name__=="__main__":
-    fullTrainPath="/Users/derek/public_comments/Public_Comments_Tool/Common/excerpt_data/excerpts_training_data.sas7bdat"
+    dataPath="/Users/derek/public_comments/Public_Comments_Tool/Common/excerpt_data/"
+    fullTrainPath="%s/excerpts_training_data.sas7bdat" % dataPath
+    fullMatrixPath="%s"
     df=pd.read_sas(fullTrainPath, encoding="ISO-8859-1")
     excerpts=list(df.Comment_Excerpt)
     X, words, vect=featurize_exerpts(excerpts)
+    X, words = lemmatize_design_matrix(X, words)
+    write_to_csv()
 
 
 
