@@ -1,5 +1,4 @@
 import random
-from stop_words import STOP_WORDS
 from nltk import word_tokenize
 from nltk.stem import WordNetLemmatizer
 import numpy as np
@@ -21,7 +20,7 @@ from sklearn.decomposition.incremental_pca import IncrementalPCA
 from nltk.stem.porter import PorterStemmer
 from nltk.stem.lancaster import LancasterStemmer
 from nltk.stem import SnowballStemmer
-from stop_words import STOP_WORDS
+#from stop_words import STOP_WORDS
 
 # Word Feature Matrix processing.
 def featurize_exerpts(excerpts):
@@ -69,45 +68,6 @@ def numeral_feature(X, words):
             numerals = np.add(X[:, i], numerals)
     return numerals
 
-# Convert nltk tags to wordnet tags
-def get_wordnet_pos(treebank_tag):
-
-    if treebank_tag.startswith('J'):
-        return wordnet.ADJ
-    elif treebank_tag.startswith('V'):
-        return wordnet.VERB
-    elif treebank_tag.startswith('R'):
-        return wordnet.ADV
-    else:
-        return wordnet.NOUN
-
-
-# text is a list that contains all text from a single document. Assume no non alpha-numeric text.
-def tag_words(words):
-    tags = pos_tag(words)
-    tags = [(word, get_wordnet_pos(tag)) for (word, tag) in tags]
-    return tags
-
-def get_word_count_dictionary(X, words):
-    return {words[i]: sum(X[:, i]) for i in range(X.shape[1])}
-
-
-# Assume X is our design matrix, words is a list of our features.
-def lemmatize_design_matrix(X, words, only_nouns=False):
-    wnl = WordNetLemmatizer()
-    if only_nouns:
-        words = [wnl.lemmatize(w) for w in words]
-    else:
-        words = tag_words(words)
-        words = [wnl.lemmatize(w, t) for w,t in words]
-    merged_columns = OrderedDict()
-    for i in range(len(words)):
-        if words[i] not in merged_columns:
-            merged_columns[words[i]] = X[:, i]
-        else:
-            merged_columns[words[i]] += X[:, i]
-    return np.array(merged_columns.values()).T, merged_columns.keys()
-
 # Stemming
 def stem_design_matrix(X, words, type='snowball'):
     if type == 'snowball':
@@ -136,21 +96,57 @@ def write_to_csv(filename, X, header):
                comments="")
 
 class Tokenizer:
-    def __call__(self, doc):
+
+    PART = {
+        'N':'n',
+        'V':'v',
+        'J':'a',
+        'S':'s',
+        'R':'r'
+    }
+
+    def __call__(self, doc, lemmatize=True):
+        words=self.tokenize(doc)
+        if lemmatize:
+            return self.lemmatize(words)
+        else:
+            return words
+
+    def tokenize(self, doc):
         return [self.strip(t) for t in word_tokenize(doc) if len(self.strip(t)) >= 2]
 
     def strip(self, word):
         return re.sub('[\W_]+', '', word)
 
+    def lemmatize(self, words, only_nouns=False):
+        wnl = WordNetLemmatizer()
+        if only_nouns:
+            return wnl.lemmatize(words)
+        else:
+            words = self.tag_words(words)
+            words = [wnl.lemmatize(w, t) for w,t in words]
+            return list(set(words))
+
+    # text is a list that contains all text from a single document. Assume no non alpha-numeric text.
+    def tag_words(self,words):
+        tags = pos_tag(words)
+        tags = [(word, self.convert_tags(tag)) for (word, tag) in tags]
+        return tags
+
+    def convert_tags(self,tag):
+        if tag[0] in self.PART:
+            return self.PART[tag[0]]
+        else:
+            return 'n'
+
 if __name__=="__main__":
-    dataPath="/Users/derek/public_comments/Public_Comments_Tool/Common/excerpt_data/"
+    dataPath="/Users/derek/public_comments/Public_Comments_Tool/Common/excerpt_data"
     fullTrainPath="%s/excerpts_training_data.sas7bdat" % dataPath
-    fullMatrixPath="%s"
+    fullMatrixPath="%s/word_count_matrix.csv" % dataPath
     df=pd.read_sas(fullTrainPath, encoding="ISO-8859-1")
     excerpts=list(df.Comment_Excerpt)
     X, words, vect=featurize_exerpts(excerpts)
-    X, words = lemmatize_design_matrix(X, words)
-    write_to_csv()
+    write_to_csv(fullMatrixPath, X, words)
 
 
 
