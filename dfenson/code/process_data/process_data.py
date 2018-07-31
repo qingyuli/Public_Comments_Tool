@@ -1,4 +1,5 @@
 import random
+from functools import partial
 from nltk import word_tokenize
 from nltk.stem import WordNetLemmatizer
 import numpy as np
@@ -20,16 +21,16 @@ from sklearn.decomposition.incremental_pca import IncrementalPCA
 from nltk.stem.porter import PorterStemmer
 from nltk.stem.lancaster import LancasterStemmer
 from nltk.stem import SnowballStemmer
-#from stop_words import STOP_WORDS
+from nltk.corpus import stopwords
 
 # Word Feature Matrix processing.
-def featurize_exerpts(excerpts):
+def featurize_exerpts(excerpts, lemmatize=False, stem=True):
     vectorizer = CountVectorizer(decode_error='replace',
                                  input='content',
-                                 stop_words=STOP_WORDS,
-                                 min_df=0,
-                                 max_df=1,
-                                 tokenizer=Tokenizer())
+                                 stop_words=stopwords.words("english"),
+                                 min_df=1,
+                                 max_df=1.0,
+                                 tokenizer=partial(Tokenizer(), lemmatize=lemmatize, stem=stem))
     X = vectorizer.fit_transform(excerpts)
     words = vectorizer.get_feature_names()
     return X, words, vectorizer
@@ -105,10 +106,12 @@ class Tokenizer:
         'R':'r'
     }
 
-    def __call__(self, doc, lemmatize=True):
+    def __call__(self, doc, lemmatize=False, stem=True):
         words=self.tokenize(doc)
         if lemmatize:
             return self.lemmatize(words)
+        elif stem:
+            return self.stem(words)
         else:
             return words
 
@@ -116,7 +119,7 @@ class Tokenizer:
         return [self.strip(t) for t in word_tokenize(doc) if len(self.strip(t)) >= 2]
 
     def strip(self, word):
-        return re.sub('[\W_]+', '', word)
+        return re.sub('([^\s\w]|_)+', '', word)
 
     def lemmatize(self, words, only_nouns=False):
         wnl = WordNetLemmatizer()
@@ -125,7 +128,10 @@ class Tokenizer:
         else:
             words = self.tag_words(words)
             words = [wnl.lemmatize(w, t) for w,t in words]
-            return list(set(words))
+            return words
+
+    def stem(self, words, stemmer=SnowballStemmer("english")):
+        return [stemmer.stem(w) for w in words]
 
     # text is a list that contains all text from a single document. Assume no non alpha-numeric text.
     def tag_words(self,words):
@@ -146,7 +152,8 @@ if __name__=="__main__":
     df=pd.read_sas(fullTrainPath, encoding="ISO-8859-1")
     excerpts=list(df.Comment_Excerpt)
     X, words, vect=featurize_exerpts(excerpts)
-    write_to_csv(fullMatrixPath, X, words)
+    write_to_csv(fullMatrixPath, X.toarray(), words)
+
 
 
 
